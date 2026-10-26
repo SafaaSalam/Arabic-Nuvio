@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "5tv_series__%d8%a7%d9%84%d9%83%d8%b0%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%d8%a9-the-perfect-lie",
+      "type": "series",
+      "name": "الكذبة المثالية The Perfect Lie",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/hglYTJIswg5p3YA3V85B2dhvnNj-768x432.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/hglYTJIswg5p3YA3V85B2dhvnNj-768x432.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/hglYTJIswg5p3YA3V85B2dhvnNj-768x432.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "الكذبة المثالية The Perfect Lie — 5TV Featured Series & Movies"
+    },
+    {
       "id": "5tv_series__la-casa-de-papel",
       "type": "series",
       "name": "La casa de papel",
@@ -120,17 +131,6 @@
       "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ubqZEVCDp86myrZwJpyNwocLrce-768x432.jpg",
       "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
       "description": "9-1-1: Nashville — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_series__%d8%a7%d9%84%d9%85%d8%b2%d8%a7%d8%b1%d8%b9-%d8%a7%d9%84%d8%b9%d8%b5%d8%b1%d9%8a-modern-farmer",
-      "type": "series",
-      "name": "المزارع العصري Modern Farmer",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/nqM1kx1n8pY5cHXLN2X0V2pYDA8-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/nqM1kx1n8pY5cHXLN2X0V2pYDA8-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/nqM1kx1n8pY5cHXLN2X0V2pYDA8-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "المزارع العصري Modern Farmer — 5TV Featured Series & Movies"
     },
     {
       "id": "5tv_movie__kingdom-ashin-of-the-north-2021",

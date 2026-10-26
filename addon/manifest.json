@@ -163,7 +163,7 @@
       "type": "series",
       "id": "cinemana_group_4",
       "name": "Latest Series",
-      "pageSize": 15,
+      "pageSize": 12,
       "showInHome": true
     },
     {
@@ -423,5 +423,5 @@
     "configurable": false,
     "configurationRequired": false
   },
-  "_timestamp": 1793010727482
+  "_timestamp": 1793011241485
 }

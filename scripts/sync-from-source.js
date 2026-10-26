@@ -117,33 +117,13 @@ function extractMalId(str) {
   return m ? m[1] : null;
 }
 
-function cleanBilingualTitle(str) {
-  if (!str || typeof str !== "string") return str || "";
-  const s = str.trim();
-  if (s.includes(" | ")) {
-    const parts = s.split(" | ").map(p => p.trim());
-    const latin = parts.find(p => /[A-Za-z]/.test(p));
-    if (latin) return latin;
-  }
-  if (s.includes(" / ")) {
-    const parts = s.split(" / ").map(p => p.trim());
-    const latin = parts.find(p => /[A-Za-z]/.test(p));
-    if (latin) return latin;
-  }
-  return s;
-}
-
 function formatItemTitle(item) {
   const ar = item.ar_title ? String(item.ar_title).trim() : "";
   const en = item.en_title ? String(item.en_title).trim() : "";
-  // If English exists, use English only and delete Arabic!
-  if (en && /[A-Za-z]/.test(en)) {
-    return cleanBilingualTitle(en);
+  if (ar && en && ar.toLowerCase() !== en.toLowerCase()) {
+    return `${ar} | ${en}`;
   }
-  if (ar && /[A-Za-z]/.test(ar)) {
-    return cleanBilingualTitle(ar);
-  }
-  return en || ar || "Untitled";
+  return ar || en || "بدون عنوان | Untitled";
 }
 
 function formatItemDescription(item) {
@@ -728,7 +708,7 @@ async function main() {
       const metaObj = {
         id: m.id,
         type: m.type,
-        name: cleanBilingualTitle(m.name),
+        name: m.name,
         poster: m.poster,
         posterShape: "poster",
         background: m.background || m.poster,

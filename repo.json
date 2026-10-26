@@ -1,0 +1,9 @@
+{
+  "name": "Arabic Nuvio | الإضافات العربية الشاملة",
+  "description": "Comprehensive Arabic Nuvio Providers & Collections — Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Sources",
+  "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/plugins.json"
+  ]
+}

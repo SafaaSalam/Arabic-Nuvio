@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "#Zombie Sagashitemasu S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/95C006D4-9442-98DF-939C-780D0747FE72_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481262&Signature=V8emzEl9OykIGZLugMAtk9%2ByB8E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144293-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=BvZ1xa7BsDkNdaQAtgrXefYP7YE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=6z1uCcsICVJ2fkg6pK75bb%2Fd0%2FY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/97F8BF9B-01DF-FADD-C6FD-E6BED5BF8C55_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=7N5LbhBm6EcZOO%2BTe88gxaoQp7A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "#Zombie Sagashitemasu S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/120BEF24-0B66-AD5F-F842-8D06D74772AA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481262&Signature=jvkcS8r6Ua3NEds1AskP%2BLB9iZY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144293-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=BvZ1xa7BsDkNdaQAtgrXefYP7YE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=6z1uCcsICVJ2fkg6pK75bb%2Fd0%2FY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/97F8BF9B-01DF-FADD-C6FD-E6BED5BF8C55_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=7N5LbhBm6EcZOO%2BTe88gxaoQp7A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "#Zombie Sagashitemasu S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1CD149D1-4B79-C08E-3A8B-3848AC78471A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481262&Signature=m7fbjvgecr5ef0LuTpSY0AY%2FjYo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144293-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=BvZ1xa7BsDkNdaQAtgrXefYP7YE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=6z1uCcsICVJ2fkg6pK75bb%2Fd0%2FY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/97F8BF9B-01DF-FADD-C6FD-E6BED5BF8C55_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=7N5LbhBm6EcZOO%2BTe88gxaoQp7A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "#Zombie Sagashitemasu S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4FC56166-E50B-E893-085F-829C7F811F4A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481262&Signature=HP6v0N75DKUJ7Bv%2Fw4k5NSQ9A3c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144293-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=BvZ1xa7BsDkNdaQAtgrXefYP7YE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=6z1uCcsICVJ2fkg6pK75bb%2Fd0%2FY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/97F8BF9B-01DF-FADD-C6FD-E6BED5BF8C55_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=7N5LbhBm6EcZOO%2BTe88gxaoQp7A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "#Zombie Sagashitemasu S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/980D7EFC-265F-E7FD-9FBE-BAA52B32AAA4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481262&Signature=A4FV9IWbifPjMFoa5nk%2FXpyQWIM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144293-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=BvZ1xa7BsDkNdaQAtgrXefYP7YE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7F8A7D62-B158-70A2-58DA-042D7CAB9684_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=6z1uCcsICVJ2fkg6pK75bb%2Fd0%2FY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144293-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/97F8BF9B-01DF-FADD-C6FD-E6BED5BF8C55_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579276&Signature=7N5LbhBm6EcZOO%2BTe88gxaoQp7A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

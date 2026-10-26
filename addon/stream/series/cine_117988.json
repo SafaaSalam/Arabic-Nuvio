@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الحفرة | Çukur S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/F14F812C-01A4-F086-B1B8-CB5DA75F3DCC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221795&Signature=ldSbU4%2FEiQHQz13os5qvbdDzcq0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-117988-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=HNL%2BBEnYNw1dpfuIjJm%2FfMckWhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-117988-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=hkACb3Bqd9cipLq5Sj7DJ57Jkx8%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الحفرة | Çukur S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/55941796-6A80-766F-EEF7-D3F4ACCC76C7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221795&Signature=R%2FQj9FDnmgtvjAyvWQ0rV2H2%2Byo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-117988-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=HNL%2BBEnYNw1dpfuIjJm%2FfMckWhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-117988-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=hkACb3Bqd9cipLq5Sj7DJ57Jkx8%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الحفرة | Çukur S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/9D30D226-902B-ABC7-9C62-D0798C39F7FD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048589&Signature=FuTJzC0SaWmZ6cCCIkmK9RPbf10%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-117988-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=HNL%2BBEnYNw1dpfuIjJm%2FfMckWhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-117988-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=hkACb3Bqd9cipLq5Sj7DJ57Jkx8%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الحفرة | Çukur S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/21761877-2AC9-F39E-ECF2-2CB2B4C09708_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567384&Signature=nbk56rJ10bUwOVRjjhmOLd7K%2F6Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-117988-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=HNL%2BBEnYNw1dpfuIjJm%2FfMckWhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-117988-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=hkACb3Bqd9cipLq5Sj7DJ57Jkx8%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الحفرة | Çukur S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/19B9B431-CF4A-C12B-317C-328C9C1B96E3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567384&Signature=itIJ6x54DbNCRZBnKm6mSqa9WtM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-117988-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=HNL%2BBEnYNw1dpfuIjJm%2FfMckWhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-117988-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AFDDF6D3-D2F7-8F87-4A78-AE43DFD22AD5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795595350&Signature=hkACb3Bqd9cipLq5Sj7DJ57Jkx8%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

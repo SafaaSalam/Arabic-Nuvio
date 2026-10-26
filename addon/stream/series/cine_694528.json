@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Aoashi | Ao Ashi S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6F8DB0D2-F322-83B4-C1A4-D3A9CFF3E1DF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221417&Signature=gy5tFQCPf4YXTxFMo%2BrYgikmIW8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694528-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=4toe6Mfmc5kEUnCRzSkn9VMpxHs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=7PL%2BVKgAeSwNRLdsKFC7MTmf9Ek%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88510D2D-D8E1-32BA-621E-E508109FCC80_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=0dh491S1Y6%2FoUBfkxfAX%2BYZrgss%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Aoashi | Ao Ashi S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/27A948CC-7F3D-BD8D-9CA9-BD77584ED1F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221417&Signature=C62Y9KlgLqsHVUiy%2BGmCzMTEeIw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694528-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=4toe6Mfmc5kEUnCRzSkn9VMpxHs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=7PL%2BVKgAeSwNRLdsKFC7MTmf9Ek%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88510D2D-D8E1-32BA-621E-E508109FCC80_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=0dh491S1Y6%2FoUBfkxfAX%2BYZrgss%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Aoashi | Ao Ashi S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4A039BED-7EDE-3947-E1B0-0C0D37D0807E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048656&Signature=7J8NRQfvB5jJFWeRR3WUERQ%2Fwj0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694528-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=4toe6Mfmc5kEUnCRzSkn9VMpxHs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=7PL%2BVKgAeSwNRLdsKFC7MTmf9Ek%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88510D2D-D8E1-32BA-621E-E508109FCC80_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=0dh491S1Y6%2FoUBfkxfAX%2BYZrgss%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Aoashi | Ao Ashi S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/AD984BC2-5989-11B9-FBB9-481FAE7052F9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566946&Signature=lNCceWDFQ9wLBTfYpVSTuwiOYC8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694528-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=4toe6Mfmc5kEUnCRzSkn9VMpxHs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=7PL%2BVKgAeSwNRLdsKFC7MTmf9Ek%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88510D2D-D8E1-32BA-621E-E508109FCC80_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=0dh491S1Y6%2FoUBfkxfAX%2BYZrgss%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Aoashi | Ao Ashi S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/E10FFEDF-ED42-E067-CAD6-3746C27A4841_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566946&Signature=8%2BLTHGpGKsqmGHho844qgV4lc8w%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694528-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=4toe6Mfmc5kEUnCRzSkn9VMpxHs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEBA819-A8FB-A702-6988-4FAA1E960364_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=7PL%2BVKgAeSwNRLdsKFC7MTmf9Ek%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694528-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88510D2D-D8E1-32BA-621E-E508109FCC80_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596639&Signature=0dh491S1Y6%2FoUBfkxfAX%2BYZrgss%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

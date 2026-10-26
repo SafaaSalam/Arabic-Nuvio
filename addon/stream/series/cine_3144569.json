@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Magical Explorer S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2E70559A-9E39-0518-3B0E-8FD3AF0CF105_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394006&Signature=kIzaJaEwdrApE2MMb8v1eL2mAOg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=qWWtP4URBZtkiYQDq3FJ4T6nQwY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=AjYwtLOIsM%2BkEfJ89dlmjbLD6ig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4F8828F-E3E6-204D-7819-256DFAA78E6A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=vvC5%2FDXoAWdzx%2FQcrctRh2lNwe4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Magical Explorer S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/48C0932B-BB7F-A241-278A-2FB675C8DDD6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394006&Signature=Sw7J%2BnVfn729C%2F4s7rIyQrEvXq0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=qWWtP4URBZtkiYQDq3FJ4T6nQwY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=AjYwtLOIsM%2BkEfJ89dlmjbLD6ig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4F8828F-E3E6-204D-7819-256DFAA78E6A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=vvC5%2FDXoAWdzx%2FQcrctRh2lNwe4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Magical Explorer S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B828D169-F373-7C49-0F82-AB1952745A2B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394006&Signature=KIVev5nOYyIP0TpM%2FPySqJq97wo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=qWWtP4URBZtkiYQDq3FJ4T6nQwY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=AjYwtLOIsM%2BkEfJ89dlmjbLD6ig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4F8828F-E3E6-204D-7819-256DFAA78E6A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=vvC5%2FDXoAWdzx%2FQcrctRh2lNwe4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Magical Explorer S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1B4B8EB2-C5C6-038F-C66B-B92B10E8FD09_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394006&Signature=uNzqaRJfjSP%2B9W71p2sjpVXIPdk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=qWWtP4URBZtkiYQDq3FJ4T6nQwY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=AjYwtLOIsM%2BkEfJ89dlmjbLD6ig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4F8828F-E3E6-204D-7819-256DFAA78E6A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=vvC5%2FDXoAWdzx%2FQcrctRh2lNwe4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Magical Explorer S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B6E3EB9D-4CDB-2804-CD4C-F73AA0DE9825_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394006&Signature=N%2FF%2FKzMtsZDrsCVXXUhebQm1ktg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=qWWtP4URBZtkiYQDq3FJ4T6nQwY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9D8F20EA-1F0D-8CCB-37A5-8D260D7160AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=AjYwtLOIsM%2BkEfJ89dlmjbLD6ig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4F8828F-E3E6-204D-7819-256DFAA78E6A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589865&Signature=vvC5%2FDXoAWdzx%2FQcrctRh2lNwe4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

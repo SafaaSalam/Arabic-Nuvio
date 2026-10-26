@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "cee_384781",
+    "type": "series",
+    "name": "BTS In The SOOP",
+    "poster": "https://cnth2.cee.buzz/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.cee.buzz/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+    "landscapePoster": "https://cnth2.cee.buzz/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+    "description": "برنامج ترفيهي يعرض لنا استرخاء اعضاء بانقتان في الطبيعة ويركز على حياتهم اليومية بشكل اوسع.",
+    "releaseInfo": "2020",
+    "imdbRating": "9.6",
+    "videos": [
+      {
+        "id": "cee_384781:1:1",
+        "title": "Episode 1 | الحلقة 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.cee.buzz/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg"
+      }
+    ]
+  }
+}

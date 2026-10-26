@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Aligned Reverence S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F36233CD-6D93-4E41-6B56-665FC22B9F79_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395221&Signature=SM3S4QIFWHGb0SrUJunpEpWKwSE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349612-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=M6y9v9mj1St65VcGye88XSLKlbA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=YbnrNgT9OWBHHhpW37k1LlPsvfE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=X60jwzivtbBdLLcjLbnUX95bEWI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349612-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=qxseDeaTrDikgQfRn7ZJy0dLmeA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Aligned Reverence S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/250C8C58-86EC-9226-C59B-F01A554A0553_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395221&Signature=lWocvXO76zqcf9eZRHZPDrxsbF4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349612-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=M6y9v9mj1St65VcGye88XSLKlbA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=YbnrNgT9OWBHHhpW37k1LlPsvfE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=X60jwzivtbBdLLcjLbnUX95bEWI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349612-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=qxseDeaTrDikgQfRn7ZJy0dLmeA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Aligned Reverence S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E789F862-E6DA-E9AC-A179-FEAB65290914_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395221&Signature=YbalJtgm%2BN2BYC%2BZ6mElmop3zyY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349612-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=M6y9v9mj1St65VcGye88XSLKlbA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=YbnrNgT9OWBHHhpW37k1LlPsvfE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=X60jwzivtbBdLLcjLbnUX95bEWI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349612-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=qxseDeaTrDikgQfRn7ZJy0dLmeA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Aligned Reverence S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0A1FC819-ED25-CF26-3CAE-CFDDA6FD259C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395221&Signature=RZnm%2FFws7GiJaWeXStwYwHZ%2B%2BtA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349612-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=M6y9v9mj1St65VcGye88XSLKlbA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=YbnrNgT9OWBHHhpW37k1LlPsvfE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=X60jwzivtbBdLLcjLbnUX95bEWI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349612-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=qxseDeaTrDikgQfRn7ZJy0dLmeA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Aligned Reverence S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E16137BF-E75A-1554-ED0C-72D75019759F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395221&Signature=RqdaHykfCXikM8NBH8rfCM4xATI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349612-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=M6y9v9mj1St65VcGye88XSLKlbA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2B23D44-F721-7D76-75A5-241393899DF7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=YbnrNgT9OWBHHhpW37k1LlPsvfE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349612-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=X60jwzivtbBdLLcjLbnUX95bEWI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349612-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F4905499-A53C-C07D-2BB1-0883310B5E41_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597405&Signature=qxseDeaTrDikgQfRn7ZJy0dLmeA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_animes__toaru-anbu-no-item",
+    "type": "series",
+    "name": "Toaru Anbu no Item",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/10/h5IN8zBryhPu36ZZHlm7rA8zwhr.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/10/h5IN8zBryhPu36ZZHlm7rA8zwhr.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/10/h5IN8zBryhPu36ZZHlm7rA8zwhr.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Toaru Anbu no Item — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_animes__toaru-anbu-no-item:1:1",
+        "title": "Episode 1 | الحلقة 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/10/h5IN8zBryhPu36ZZHlm7rA8zwhr.jpg"
+      }
+    ]
+  }
+}

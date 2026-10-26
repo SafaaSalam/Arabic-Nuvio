@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_animes__black_clover-1",
+    "type": "series",
+    "name": "Black Clover",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Black Clover — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_animes__black_clover-1:1:1",
+        "title": "Episode 1 | الحلقة 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
+      }
+    ]
+  }
+}

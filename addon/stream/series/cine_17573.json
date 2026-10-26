@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "طوق البنات S01E15 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/D7880369-4B44-4CB2-FE3C-F96B262133FA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793310535&Signature=mq1zMgHkmYnOdtTREZPCs1KfyxM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "طوق البنات S01E15 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/C991311D-6671-9D40-7DBB-4892745D5903_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793485360&Signature=Oh7IXWKMIPGTK%2FIxhgRtsTAfptg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "طوق البنات S01E15 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/EE67D2AD-F245-4D72-5A03-C942BFC34946_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140009&Signature=1BRzp06g50iCnwkwaxEdAWy9uw0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "طوق البنات S01E15 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/1285EAAB-F08D-CC0D-89AA-EAE034469427_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140009&Signature=RnEg3Le%2F3JVos8woHSgPxwu9URw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "طوق البنات S01E15 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/82F29CF6-FB2D-561C-2C81-E7701177114A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140009&Signature=c5CuZxVEK5wKiP4TtYay8%2BGjhbM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

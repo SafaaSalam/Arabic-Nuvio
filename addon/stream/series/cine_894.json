@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "حلاوة الروح S01E20 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/96F6E007-A2E5-F85A-EAE5-72F93148E906_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793143140&Signature=tVM1z9S7Z1V3ngcm%2B%2FbxYbbTFQg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "حلاوة الروح S01E20 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/A686A59D-E598-8F01-8662-EBEBBA3DF921_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793143140&Signature=vUh66TRgser8XwmHbXnKkkqrfug%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "حلاوة الروح S01E20 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/8C046CF0-9AFE-820C-0F4C-6151AB9A5227_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793143140&Signature=PQzZWTyMniwoqUo8zRSvumsKuR0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "حلاوة الروح S01E20 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/AB41FBE4-F319-032B-864C-2E81005EB06C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793143140&Signature=RU0466IE9BzwQTZNgvuqvAbqMW0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "حلاوة الروح S01E20 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/22B14270-DC66-6783-161C-FC962A3DB8EF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793143140&Signature=SQLPVYdO5K6QvxcT%2BPPGWkF32Yc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

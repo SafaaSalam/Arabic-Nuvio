@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Diamond no Ace S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/E6E92CF4-12C6-04AB-09FD-909C0C42E2F6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050130&Signature=N20qu862KfC6c08VBnp4O8AAYRk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70866-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=YLPjwhch7FPV4np%2Fi755z%2FeHmXU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=I%2B%2Bm4PQCUC5qhjmCoGbjLZqYLm4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8A53F79-04D4-A33C-9C25-8968C12A55A4_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=zf2U2l6Azjhh5caAVM4l3GaaQnk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Diamond no Ace S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/64A07972-9762-EEBE-6AA5-6411DAF9B3B6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050130&Signature=sZCDSrsCJtz45osy5OpYIP4U5io%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70866-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=YLPjwhch7FPV4np%2Fi755z%2FeHmXU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=I%2B%2Bm4PQCUC5qhjmCoGbjLZqYLm4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8A53F79-04D4-A33C-9C25-8968C12A55A4_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=zf2U2l6Azjhh5caAVM4l3GaaQnk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Diamond no Ace S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/47CAE5A6-1944-86ED-3EE7-E873030C4D1A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050130&Signature=eibzbHVBWVdVTknUAVdMlCyWPBU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70866-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=YLPjwhch7FPV4np%2Fi755z%2FeHmXU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=I%2B%2Bm4PQCUC5qhjmCoGbjLZqYLm4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8A53F79-04D4-A33C-9C25-8968C12A55A4_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=zf2U2l6Azjhh5caAVM4l3GaaQnk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Diamond no Ace S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/385F5CE0-FAB4-5F28-4026-971AFF71AF5B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050130&Signature=4mV9dbPiJTqfMr6rjTA9nliavcg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70866-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=YLPjwhch7FPV4np%2Fi755z%2FeHmXU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=I%2B%2Bm4PQCUC5qhjmCoGbjLZqYLm4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8A53F79-04D4-A33C-9C25-8968C12A55A4_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=zf2U2l6Azjhh5caAVM4l3GaaQnk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Diamond no Ace S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/2A2740F7-9979-E90D-2B2A-A7D59A2506F6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050130&Signature=qRKWXfT6SmZOg2Vl3PadlVP7nro%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70866-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=YLPjwhch7FPV4np%2Fi755z%2FeHmXU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D6754FC1-276E-0AC4-CED5-EAF6889F8F22_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=I%2B%2Bm4PQCUC5qhjmCoGbjLZqYLm4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70866-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8A53F79-04D4-A33C-9C25-8968C12A55A4_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594894&Signature=zf2U2l6Azjhh5caAVM4l3GaaQnk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

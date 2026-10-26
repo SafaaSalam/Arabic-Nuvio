@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "طيبة S01E16 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/2CFD4913-F576-B029-49F3-9067D0A3B387_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048428&Signature=xojrDn5xNe2kbTlKwHOLyo81qUs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "طيبة S01E16 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/BC54B405-6F37-779E-063F-2C165C8AFCC6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481304&Signature=oXDcp3Od6uV0EhNj63INZDwRuyU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "طيبة S01E16 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/49667146-DD90-493E-F26F-44B0CE2AA287_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048428&Signature=5Mo%2BtN75FxYKtHaYiECpSOAjwl8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "طيبة S01E16 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/10A66BEB-675D-61D5-4FF2-936B651C972B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567599&Signature=kv5l4uBTPjEHLqYs1AFQf9VDSxI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "طيبة S01E16 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/97BAC303-5BF4-AE77-EB4C-450D3736FAE0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567599&Signature=Kz8D2yEtGmFK%2FvPm%2Fa0unf%2FJRo8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

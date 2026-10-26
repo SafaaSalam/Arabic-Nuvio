@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الأرض • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/2315255E-B7EB-4510-ED65-82178388932E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051701&Signature=nfrJz9pD%2Bp%2FwEsptrtizSvGQCrU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الأرض • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/287ED8C4-1BDE-F2BD-B86F-DA32C5A6453F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793223527&Signature=jBFnhM7K8BTS4OrM%2BmJHzrYSUNU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الأرض • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/8CEB1E3B-6A01-533B-E88D-69609868409E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051701&Signature=3IuL4EQ73JWdDoOUeBEd4oPNPz4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الأرض • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/17811C5E-1EC5-5939-406A-3E5241954E9A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573294&Signature=iVupLkUiSHEhrs%2BQex0nVUDAuJc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الأرض • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/C897616E-33F3-92DD-5400-D713B3DB47CB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573294&Signature=On96JUIb%2BkNUq3WGjrULi6wnmZY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

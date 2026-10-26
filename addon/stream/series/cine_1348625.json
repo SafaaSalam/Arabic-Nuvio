@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Gorgeous Dream S01E12 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9FF844CF-0500-A9DF-3209-688A44B85D8D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793054437&Signature=2WeEGpByMBy117CzgocxgVVtNsU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348625-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=nMmt5A6rrJNdXwm8TBfy4kdO2xk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=h39gA507kqqfRTexw1g4aJXa2AE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=jE0LSisA0oYYB8hkvANxBGZ290s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348625-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=2gMQ5qAMynzvvKpLHgLyeo8cvQs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Gorgeous Dream S01E12 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F0129A6E-F87E-1507-7BC6-23421EDFCCFF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793054437&Signature=cMzh%2FimOaRjO7vLAOZ1wdrQNtlc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348625-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=nMmt5A6rrJNdXwm8TBfy4kdO2xk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=h39gA507kqqfRTexw1g4aJXa2AE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=jE0LSisA0oYYB8hkvANxBGZ290s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348625-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=2gMQ5qAMynzvvKpLHgLyeo8cvQs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Gorgeous Dream S01E12 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0DF7E590-97E0-5340-9D24-ED7416FCB739_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793054437&Signature=w41e%2FXi6fsFGN29gYP2BBExuUMc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348625-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=nMmt5A6rrJNdXwm8TBfy4kdO2xk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=h39gA507kqqfRTexw1g4aJXa2AE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=jE0LSisA0oYYB8hkvANxBGZ290s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348625-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=2gMQ5qAMynzvvKpLHgLyeo8cvQs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Gorgeous Dream S01E12 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B807CB5E-EE44-C830-9131-016E17A0AE1E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793054437&Signature=CAGzPE5vAffXyJR%2FvT6raAupfb4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348625-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=nMmt5A6rrJNdXwm8TBfy4kdO2xk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=h39gA507kqqfRTexw1g4aJXa2AE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=jE0LSisA0oYYB8hkvANxBGZ290s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348625-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=2gMQ5qAMynzvvKpLHgLyeo8cvQs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Gorgeous Dream S01E12 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/27C574C3-A343-E57D-9D62-068D33D147EF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793054437&Signature=1Fvwi3XtnFW6kpCYwY2yYd0smkM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348625-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=nMmt5A6rrJNdXwm8TBfy4kdO2xk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8A5DADDB-2969-29E4-04DB-225BF5782B1E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=h39gA507kqqfRTexw1g4aJXa2AE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348625-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=jE0LSisA0oYYB8hkvANxBGZ290s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348625-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/55E9ACAD-E9CE-82E9-4086-9D11ECA58028_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597890&Signature=2gMQ5qAMynzvvKpLHgLyeo8cvQs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

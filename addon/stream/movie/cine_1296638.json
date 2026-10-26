@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Treasure Hunter • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D60280F0-1538-5F64-CA09-28A66A03BC77_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384381&Signature=DNCIIqjoPPmv4oMOwqoLksfuHQE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296638-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=mvmiGgOWP2yeipaPOtPESXSReEU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=RYBjZOElGyUretws%2B3LPZNpfBK8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=HC%2F6QwUEEQu23ZS1%2FBiYcTnQyK4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296638-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=PdMKNIzsmCxqexzlOBx%2BXos2nCw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Treasure Hunter • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8B7151A5-29A7-DC1C-F239-0CC6BD081236_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384381&Signature=CpduUdpeikvichUKboul57OKE3E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296638-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=mvmiGgOWP2yeipaPOtPESXSReEU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=RYBjZOElGyUretws%2B3LPZNpfBK8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=HC%2F6QwUEEQu23ZS1%2FBiYcTnQyK4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296638-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=PdMKNIzsmCxqexzlOBx%2BXos2nCw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Treasure Hunter • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3B43DE23-066E-7303-780B-3C056BB8F0E5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384381&Signature=OOcvxWIv92O8Y%2FwiN8T8KodFQ68%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296638-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=mvmiGgOWP2yeipaPOtPESXSReEU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=RYBjZOElGyUretws%2B3LPZNpfBK8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=HC%2F6QwUEEQu23ZS1%2FBiYcTnQyK4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296638-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=PdMKNIzsmCxqexzlOBx%2BXos2nCw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Treasure Hunter • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7C435367-937A-24B2-BB8E-5729256CFC17_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384381&Signature=lXubhv6q4Bpps8%2FliolViyWZzXo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296638-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=mvmiGgOWP2yeipaPOtPESXSReEU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=RYBjZOElGyUretws%2B3LPZNpfBK8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=HC%2F6QwUEEQu23ZS1%2FBiYcTnQyK4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296638-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=PdMKNIzsmCxqexzlOBx%2BXos2nCw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Treasure Hunter • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B0273F83-52B7-4D02-4D4D-A7B0AF36C311_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384381&Signature=8O6hwoLmPduj8RBAeQRhh5u3SMA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296638-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=mvmiGgOWP2yeipaPOtPESXSReEU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/11EE6C97-6E02-C890-50A1-65E24FB470CF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=RYBjZOElGyUretws%2B3LPZNpfBK8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296638-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=HC%2F6QwUEEQu23ZS1%2FBiYcTnQyK4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296638-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59FC9DDA-A2BA-5EF7-97A3-3F8D678A6E6E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597456&Signature=PdMKNIzsmCxqexzlOBx%2BXos2nCw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

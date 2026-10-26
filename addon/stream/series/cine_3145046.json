@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Yowaki Max S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6CBD6C4C-4B1D-8D65-765B-5695C6C6CD93_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793600993&Signature=Dn8vNyEl8%2FMe%2Bxp70u4pO7Avg90%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145046-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=G9g821m1nA0skeNe4zSiV3Us2qE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=%2BFeWEiO6z0qSYTGc6Lbh0XJI%2Bo8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60B9F5AD-3C53-365C-C597-5D1817578E26_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=1TDpdmsWjDSmgUQhvtVUxaB8qVE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Yowaki Max S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3B0156B3-2178-6B48-4F15-5952FACAF989_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793600993&Signature=WpZ37Zbf6%2BGZtAEoqEFFyMEAwk0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145046-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=G9g821m1nA0skeNe4zSiV3Us2qE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=%2BFeWEiO6z0qSYTGc6Lbh0XJI%2Bo8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60B9F5AD-3C53-365C-C597-5D1817578E26_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=1TDpdmsWjDSmgUQhvtVUxaB8qVE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Yowaki Max S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/12671FBE-5349-00E1-869C-FC8B246DA473_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793600993&Signature=B%2FcYpt0sA2qxBiYK0T8sVNw5laI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145046-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=G9g821m1nA0skeNe4zSiV3Us2qE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=%2BFeWEiO6z0qSYTGc6Lbh0XJI%2Bo8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60B9F5AD-3C53-365C-C597-5D1817578E26_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=1TDpdmsWjDSmgUQhvtVUxaB8qVE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Yowaki Max S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9F6DD65F-ED71-E236-87C2-61F44A6A3E6A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793600993&Signature=7ChVNx9DDD1HG6FUSoCB%2BxCiGhY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145046-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=G9g821m1nA0skeNe4zSiV3Us2qE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=%2BFeWEiO6z0qSYTGc6Lbh0XJI%2Bo8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60B9F5AD-3C53-365C-C597-5D1817578E26_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=1TDpdmsWjDSmgUQhvtVUxaB8qVE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Yowaki Max S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6593BE92-52E1-2F39-ED7F-AB8BCB0EAAB2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793600993&Signature=cUk5Q%2Fa7SPpCGT%2Bu2mDHb9nyk5w%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145046-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=G9g821m1nA0skeNe4zSiV3Us2qE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/616BF1D8-82B6-030A-AF9E-11906F4255EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=%2BFeWEiO6z0qSYTGc6Lbh0XJI%2Bo8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145046-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60B9F5AD-3C53-365C-C597-5D1817578E26_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596212&Signature=1TDpdmsWjDSmgUQhvtVUxaB8qVE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

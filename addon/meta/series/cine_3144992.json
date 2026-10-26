@@ -1,0 +1,573 @@
+{
+  "meta": {
+    "id": "cine_3144992",
+    "type": "series",
+    "name": "Ojikawa",
+    "mal_id": "62907",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/69A95566-CF81-4C0B-5C9C-281446BC7FA6_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/69A95566-CF81-4C0B-5C9C-281446BC7FA6_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/69A95566-CF81-4C0B-5C9C-281446BC7FA6_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "رجل في منتصف العمر يبدو صارماً، لكنه يعشق الأشياء اللطيفة، وخاصةً قطته المحبوبة\n\nA serious middle-aged man secretly loves cute things, especially his beloved cat, despite his tough appearance.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy"
+    ],
+    "cast": [
+      "Eguchi Takuya",
+      "Izumi Fuuka",
+      "Kaji Yuuki",
+      "Murase Ayumu",
+      "Okitsu Kazuyuki",
+      "Tomita Miyu"
+    ],
+    "director": [
+      "Makino Tomoe"
+    ],
+    "videos": [
+      {
+        "id": "cine_3144992",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/69A95566-CF81-4C0B-5C9C-281446BC7FA6_poster.png",
+        "overview": "رجل في منتصف العمر يبدو صارماً، لكنه يعشق الأشياء اللطيفة، وخاصةً قطته المحبوبة\n\nA serious middle-aged man secretly loves cute things, especially his beloved cat, despite his tough appearance.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Ojikawa S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/96E1CDDF-B7D0-6CF8-868B-F6BA381E5278_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567289&Signature=VqyXGi9%2FcyKgMpTxnOFGJEtKFYU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144992-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=Icc3frPRmBBnnj36HunFv3b3d4o%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=RKCk3kjYHXNJJuq7q5LNkpbaws0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/46905718-825F-82AC-9CD8-148891F666FC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=0umKlJxZGC%2BaNHB5UsHn5l8If0Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Ojikawa S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4ABED4FE-1953-FDE2-6F4C-855BCAB1C08B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567289&Signature=iLyvtNSP9J8qZhawkwAQGaDAdwQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144992-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=Icc3frPRmBBnnj36HunFv3b3d4o%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=RKCk3kjYHXNJJuq7q5LNkpbaws0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/46905718-825F-82AC-9CD8-148891F666FC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=0umKlJxZGC%2BaNHB5UsHn5l8If0Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Ojikawa S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C39A5489-BF29-7643-BC21-902941394590_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567289&Signature=McJiUFHJPOohrDBPFmRJfPMa6Zc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144992-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=Icc3frPRmBBnnj36HunFv3b3d4o%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=RKCk3kjYHXNJJuq7q5LNkpbaws0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/46905718-825F-82AC-9CD8-148891F666FC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=0umKlJxZGC%2BaNHB5UsHn5l8If0Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Ojikawa S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/55824F96-507F-D95C-5CF4-8AA3588FDEB2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567289&Signature=rRjR7XY05EdRcY6Qwxegr3Tvk%2Fk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144992-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=Icc3frPRmBBnnj36HunFv3b3d4o%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=RKCk3kjYHXNJJuq7q5LNkpbaws0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/46905718-825F-82AC-9CD8-148891F666FC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=0umKlJxZGC%2BaNHB5UsHn5l8If0Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Ojikawa S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/29C7C650-0937-E936-1D19-389C0C17014D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567289&Signature=eK2AZpADKWBOCmkdxz1aohhbCVo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144992-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=Icc3frPRmBBnnj36HunFv3b3d4o%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/336FD30C-358B-92DF-A5E1-50BF7ECD4B99_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=RKCk3kjYHXNJJuq7q5LNkpbaws0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144992-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/46905718-825F-82AC-9CD8-148891F666FC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596758&Signature=0umKlJxZGC%2BaNHB5UsHn5l8If0Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144995",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6E9B887A-D083-BB26-889D-49D2A90F4265_poster.png",
+        "overview": "رجل في منتصف العمر يبدو صارماً، لكنه يعشق الأشياء اللطيفة، وخاصةً قطته المحبوبة\n\nA serious middle-aged man secretly loves cute things, especially his beloved cat, despite his tough appearance.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Ojikawa S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1A77FD6D-7AC3-4130-F2E4-2020176309E8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569249&Signature=d1dfQsl9hsesXkJwVj9N2s1nXzo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144995-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=RC%2BFYNc01j0Koh5fheIEoUsoytA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=ceMjCuVrfyvKKbqWO8X%2B7d09NBE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F13E051-4381-4E58-9712-28AD77E2FD2D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=h38XnUxv6kkKqr9jG2RKPvSLn6I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Ojikawa S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/2AEA5F40-393A-07EE-5A19-EC4EE5E278CD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569249&Signature=FuGZ26OL6YFv6SDWdgjlqcHu73U%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144995-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=RC%2BFYNc01j0Koh5fheIEoUsoytA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=ceMjCuVrfyvKKbqWO8X%2B7d09NBE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F13E051-4381-4E58-9712-28AD77E2FD2D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=h38XnUxv6kkKqr9jG2RKPvSLn6I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Ojikawa S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/FE2E98A7-8248-4A5F-6B35-C63D868963A0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569249&Signature=lHTEVxYPta%2FZemMbC%2B%2FoYjuLI2Y%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144995-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=RC%2BFYNc01j0Koh5fheIEoUsoytA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=ceMjCuVrfyvKKbqWO8X%2B7d09NBE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F13E051-4381-4E58-9712-28AD77E2FD2D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=h38XnUxv6kkKqr9jG2RKPvSLn6I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Ojikawa S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/CF69C550-2D7F-0898-7C24-AA58338BBE5C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569249&Signature=ko%2BtYM9W9bxFwwu9e6qHn5SwG58%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144995-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=RC%2BFYNc01j0Koh5fheIEoUsoytA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=ceMjCuVrfyvKKbqWO8X%2B7d09NBE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F13E051-4381-4E58-9712-28AD77E2FD2D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=h38XnUxv6kkKqr9jG2RKPvSLn6I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Ojikawa S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8FC49FD1-FBB1-57DA-DC2F-3070D9A953E1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569249&Signature=e1y18WTo%2BRvar2jJZeKQZEKZy1w%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144995-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=RC%2BFYNc01j0Koh5fheIEoUsoytA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77DFCC6D-5B8B-6AF4-5B6C-06113D2ECE16_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=ceMjCuVrfyvKKbqWO8X%2B7d09NBE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144995-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F13E051-4381-4E58-9712-28AD77E2FD2D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597937&Signature=h38XnUxv6kkKqr9jG2RKPvSLn6I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144998",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6E9B887A-D083-BB26-889D-49D2A90F4265_poster.png",
+        "overview": "رجل في منتصف العمر يبدو صارماً، لكنه يعشق الأشياء اللطيفة، وخاصةً قطته المحبوبة\n\nA serious middle-aged man secretly loves cute things, especially his beloved cat, despite his tough appearance.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Ojikawa S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/314DC58A-BFCF-829E-DC36-2F2DBBF7D54B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567637&Signature=zt%2FiaIYAyEpICgzF7VNrVj8GeF0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144998-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=77Hd2s3GVKBrECOyISIFKEdAsIk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=XUE72OhBXiKSN%2FY3bD4DsTw4KFQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/047DC6F3-DF18-5705-FC37-4AB9FB89F4E7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=NGO7UkM00T201ZAMxeay2ZHqhmI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Ojikawa S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0ECF438F-38E2-BFD0-8A66-DF16BF64B52E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567637&Signature=RTSIuQFAQddNsnusxh7NJcTux8c%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144998-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=77Hd2s3GVKBrECOyISIFKEdAsIk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=XUE72OhBXiKSN%2FY3bD4DsTw4KFQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/047DC6F3-DF18-5705-FC37-4AB9FB89F4E7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=NGO7UkM00T201ZAMxeay2ZHqhmI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Ojikawa S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/FEE71BB7-BE3A-108F-6EA5-65B384AE7AC0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567637&Signature=1GpIB1f0Gjs8ElgyPUIJJ6tnWLA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144998-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=77Hd2s3GVKBrECOyISIFKEdAsIk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=XUE72OhBXiKSN%2FY3bD4DsTw4KFQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/047DC6F3-DF18-5705-FC37-4AB9FB89F4E7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=NGO7UkM00T201ZAMxeay2ZHqhmI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Ojikawa S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/7A54B4D9-4F06-8E25-21F5-DAD1E306555C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567637&Signature=vXm1CzJdzJdSFZZ3rM84OLna7dw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144998-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=77Hd2s3GVKBrECOyISIFKEdAsIk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=XUE72OhBXiKSN%2FY3bD4DsTw4KFQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/047DC6F3-DF18-5705-FC37-4AB9FB89F4E7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=NGO7UkM00T201ZAMxeay2ZHqhmI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Ojikawa S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/03255B37-C914-7EDF-D7F7-EDD3934758B4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567637&Signature=Im0Bstel7qNHhlSiV9iIlxkGKV4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144998-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=77Hd2s3GVKBrECOyISIFKEdAsIk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/834876F4-E00B-11E7-08DF-1FA391FD9C1F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=XUE72OhBXiKSN%2FY3bD4DsTw4KFQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144998-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/047DC6F3-DF18-5705-FC37-4AB9FB89F4E7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795585505&Signature=NGO7UkM00T201ZAMxeay2ZHqhmI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3145001",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6E9B887A-D083-BB26-889D-49D2A90F4265_poster.png",
+        "overview": "رجل في منتصف العمر يبدو صارماً، لكنه يعشق الأشياء اللطيفة، وخاصةً قطته المحبوبة\n\nA serious middle-aged man secretly loves cute things, especially his beloved cat, despite his tough appearance.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Ojikawa S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/062C7BDC-7910-F544-BD43-7B0785881882_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793602070&Signature=TxL3iTtNv5tzTe7hRg3J%2FuUFrSY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3145001-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=eBgvQyZNPSH3aLJhoJVbD%2BBt%2FlI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=ZfpZtneMASqAedgHOSrmzkpN4uE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8180051-6EB4-9B21-51E6-EE524A79C05C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=5rHCC9pZD1lL2IzwlOc8y2x2%2FWg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Ojikawa S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3535DF60-AA90-5C51-77D3-47A9ADF13A9F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793602070&Signature=%2FQ%2Byx03g%2FNMr62LdfnmPGa%2FFhdM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3145001-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=eBgvQyZNPSH3aLJhoJVbD%2BBt%2FlI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=ZfpZtneMASqAedgHOSrmzkpN4uE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8180051-6EB4-9B21-51E6-EE524A79C05C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=5rHCC9pZD1lL2IzwlOc8y2x2%2FWg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Ojikawa S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/9A5D4259-6839-5D3E-063A-399746455181_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793602070&Signature=TcG2xuy24tlb9LaToYt6OyluwBQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3145001-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=eBgvQyZNPSH3aLJhoJVbD%2BBt%2FlI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=ZfpZtneMASqAedgHOSrmzkpN4uE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8180051-6EB4-9B21-51E6-EE524A79C05C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=5rHCC9pZD1lL2IzwlOc8y2x2%2FWg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Ojikawa S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/BFFAD021-5F9D-8149-58B0-307175DCC541_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793602070&Signature=y060m%2FzLDl8%2Fbw4bKso7zFnRk4w%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3145001-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=eBgvQyZNPSH3aLJhoJVbD%2BBt%2FlI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=ZfpZtneMASqAedgHOSrmzkpN4uE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8180051-6EB4-9B21-51E6-EE524A79C05C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=5rHCC9pZD1lL2IzwlOc8y2x2%2FWg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Ojikawa S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0F63C6DF-A6D7-9879-C1B1-F03BE218EE69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793602070&Signature=o99Obm2xEM5CFGt6OhSE6Ex%2BpL0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3145001-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=eBgvQyZNPSH3aLJhoJVbD%2BBt%2FlI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A4F71AD-4799-C8BF-D753-EAEC0DC7D491_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=ZfpZtneMASqAedgHOSrmzkpN4uE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3145001-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8180051-6EB4-9B21-51E6-EE524A79C05C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597317&Signature=5rHCC9pZD1lL2IzwlOc8y2x2%2FWg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

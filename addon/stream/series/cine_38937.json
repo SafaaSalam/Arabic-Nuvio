@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "One Piece S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3171CBAC-D13B-A203-A785-E8528DC1DD1E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394417&Signature=FqSt714hHmpUAM6uA74MJe631U8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-38937-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=hro%2BzhaZSyt7eO2hNvH4XT%2BOu6Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=BGFbjzRy6aOF4WjM38qOW65tW24%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=RvnEwv%2F5dLsq1EnPUfxPrNKCalI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-38937-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=lDf0NO%2B%2BIM7%2B3vjZHJskovNuOVU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "One Piece S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3BACBF38-8606-816A-F092-ADEEB78D82BA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394417&Signature=0yKyvce%2BVzdgYEfXR9ayfQQ5kTg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-38937-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=hro%2BzhaZSyt7eO2hNvH4XT%2BOu6Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=BGFbjzRy6aOF4WjM38qOW65tW24%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=RvnEwv%2F5dLsq1EnPUfxPrNKCalI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-38937-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=lDf0NO%2B%2BIM7%2B3vjZHJskovNuOVU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "One Piece S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/59109982-10AE-B8E7-2D2A-CF94E5ED1108_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394417&Signature=KADT4I0CYKI2zZdGPYlG%2FgZhGZo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-38937-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=hro%2BzhaZSyt7eO2hNvH4XT%2BOu6Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=BGFbjzRy6aOF4WjM38qOW65tW24%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=RvnEwv%2F5dLsq1EnPUfxPrNKCalI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-38937-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=lDf0NO%2B%2BIM7%2B3vjZHJskovNuOVU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "One Piece S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EFDD68BA-DEC4-487C-5732-CE6ED574BF1D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394417&Signature=hriJCXEkvvVz4C113MDqTHwQX38%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-38937-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=hro%2BzhaZSyt7eO2hNvH4XT%2BOu6Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=BGFbjzRy6aOF4WjM38qOW65tW24%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=RvnEwv%2F5dLsq1EnPUfxPrNKCalI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-38937-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=lDf0NO%2B%2BIM7%2B3vjZHJskovNuOVU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "One Piece S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D55614A4-6B64-B7C9-57F6-49FF6A21BEEA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394417&Signature=1SrRdFPc5jVj1RaLflxyxOwBnCg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-38937-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=hro%2BzhaZSyt7eO2hNvH4XT%2BOu6Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4FBF0C66-FFC8-A6D1-AE5E-F172E4E95A94_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=BGFbjzRy6aOF4WjM38qOW65tW24%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-38937-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=RvnEwv%2F5dLsq1EnPUfxPrNKCalI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-38937-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14F9B3B1-A330-6073-F429-7160677CAD77_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594551&Signature=lDf0NO%2B%2BIM7%2B3vjZHJskovNuOVU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الكيت كات • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/81B54DB4-0362-F115-42C2-3CA240D6F256_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135949&Signature=irxNULHGai9PxrdPf2ZVkv4QaVg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الكيت كات • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/AC7C12FF-9736-A707-7E63-C4332806F37A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135949&Signature=Zeo%2Fb3JUTGYHauLgSjGZwQ5kfn0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الكيت كات • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/D6B2E1A6-550E-6BD9-0E7C-0A3DE79B6F95_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135949&Signature=kbACvBhw%2BKpGjLva2zadyuSDMJg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الكيت كات • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/81637A9B-651B-93CF-5C3F-5F911ED0A078_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048958&Signature=ca4m1sPRiO8rugoqN%2BeJP67CbOk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الكيت كات • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/1B7E4171-F6A4-A49D-55A9-7E3009791A22_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048958&Signature=patMzhjQec9t94X4KVKHUd8HuDw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

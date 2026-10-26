@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Our Unwritten Seoul S01E12 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9D8887E5-C621-B7DF-EBD0-11D2306CB017_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483126&Signature=UcUVXOPsxQkdO2PYJ5Mc3TX3Xag%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1266422-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=fHQcpilleslHHmLXYcdkWwhG7uU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1266422-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=0PZP%2FdxPFnHTj36LGNxWyFhri6Q%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Our Unwritten Seoul S01E12 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A2D026C0-9106-5166-77F5-21A10584E642_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483126&Signature=LtSsw5XJZ1RD%2B73vEqwwkRQue6c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1266422-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=fHQcpilleslHHmLXYcdkWwhG7uU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1266422-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=0PZP%2FdxPFnHTj36LGNxWyFhri6Q%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Our Unwritten Seoul S01E12 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1A805096-DFE4-D50D-EAD3-830B4F08CC8D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483126&Signature=oXVMKidqk30TvBaxyU4%2BHVb2rxA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1266422-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=fHQcpilleslHHmLXYcdkWwhG7uU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1266422-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=0PZP%2FdxPFnHTj36LGNxWyFhri6Q%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Our Unwritten Seoul S01E12 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FF1126CD-DB47-AFC3-C64E-46956DD9247C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483126&Signature=p20KGTL484%2B1F43hUKy2CO9dpkM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1266422-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=fHQcpilleslHHmLXYcdkWwhG7uU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1266422-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=0PZP%2FdxPFnHTj36LGNxWyFhri6Q%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Our Unwritten Seoul S01E12 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/407963F5-AFD3-71A5-A2C5-4BB9A74E00D5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483126&Signature=sXM1VCllctPY2LN8KGMotrKjlAQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1266422-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=fHQcpilleslHHmLXYcdkWwhG7uU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1266422-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CEE79F5E-0255-03EA-DB65-A3F3917BA780_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795564834&Signature=0PZP%2FdxPFnHTj36LGNxWyFhri6Q%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

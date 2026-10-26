@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Architect S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2812D3BA-65BD-BD26-D8C6-7F124BC939AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309670&Signature=eObMYTH5PuygcFRqCS7%2F%2BadX7Ts%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349867-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=JPODCgFzHx2vuDn%2FjD9K86Pphpw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=Kbl9vuBGAAkb1stBtzhl%2BWR7T0k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=0Lu83cgVQdfAExxeDaIix4H7tcQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349867-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=%2FCBqjwOjMY9tXmVScICDBcdSzzw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Architect S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7665DA02-6DFD-CEEE-DF5C-E81045AC9A79_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309670&Signature=x84YoborE0%2B31f6472WEXNmxrlI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349867-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=JPODCgFzHx2vuDn%2FjD9K86Pphpw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=Kbl9vuBGAAkb1stBtzhl%2BWR7T0k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=0Lu83cgVQdfAExxeDaIix4H7tcQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349867-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=%2FCBqjwOjMY9tXmVScICDBcdSzzw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Architect S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EC0681EF-1817-E293-C9D5-0B4223D077A5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309670&Signature=X%2Bbddi4gHpsf4b1YeaCOsYmkW3U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349867-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=JPODCgFzHx2vuDn%2FjD9K86Pphpw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=Kbl9vuBGAAkb1stBtzhl%2BWR7T0k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=0Lu83cgVQdfAExxeDaIix4H7tcQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349867-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=%2FCBqjwOjMY9tXmVScICDBcdSzzw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Architect S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F1BEE9AE-6226-4BEC-B9D4-E0EE419D7437_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309670&Signature=ea4Cvb0%2Fkf%2BZOT4I8wwG9VXwVCM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349867-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=JPODCgFzHx2vuDn%2FjD9K86Pphpw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=Kbl9vuBGAAkb1stBtzhl%2BWR7T0k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=0Lu83cgVQdfAExxeDaIix4H7tcQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349867-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=%2FCBqjwOjMY9tXmVScICDBcdSzzw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Architect S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2D658FC2-09E0-B1A6-1797-1B8002278BF4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309670&Signature=Weq%2FZClg2PY04rJbTrTvtSgK9Vc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1349867-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=JPODCgFzHx2vuDn%2FjD9K86Pphpw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF83C868-FED6-F4FE-1028-0D7146DD207A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=Kbl9vuBGAAkb1stBtzhl%2BWR7T0k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1349867-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=0Lu83cgVQdfAExxeDaIix4H7tcQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1349867-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DD7DD272-728A-CF62-0E1E-6A47E9D030EC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795542175&Signature=%2FCBqjwOjMY9tXmVScICDBcdSzzw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

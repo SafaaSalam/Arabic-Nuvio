@@ -1,0 +1,1128 @@
+{
+  "meta": {
+    "id": "cine_773809",
+    "type": "series",
+    "name": "انتقام مشروع",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+    "releaseInfo": "2022",
+    "imdbRating": "6.9",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [
+      "أريج العطار",
+      "عبدالله بوشهري",
+      "محمود بوشهري"
+    ],
+    "director": [
+      "حسين دشتي"
+    ],
+    "videos": [
+      {
+        "id": "cine_773809",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/CF0697D0-F3FC-7E12-617E-DB9994C80D3E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134820&Signature=GzlU1JNTEbmexdVPlOWGrwKCKBY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B2E6663E-8C76-03D6-B8C7-E914AA45E6E9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481896&Signature=zkyARtH%2FsIoP8NzyQvKg9cCJFRQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/5B880A4C-ADFC-0CA7-FE6F-BBDAC5962173_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048691&Signature=sOL%2FR5am2TuJhJplM1lQG63F7cE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/05B0E284-841F-3B61-444F-62EB655CB5AC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567578&Signature=ra5K2XJMpalacd8aB2VGxV8N%2BFA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/89624CD1-35D4-B4A8-367D-D4333F398FF7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567578&Signature=XzO2C4%2BqZfKs5ZCKUe05%2BN1By0U%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773812",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/2D7F57DE-787A-85D5-40B8-430B51F9C0DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140192&Signature=5OgWW%2FYqW6bLNbPRAPVUeKz6VE0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/FEBB4237-27E4-2887-9F93-2D7ED05C3777_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481231&Signature=tjR4kqVKOnLOhmnYhYGlhwSQRk8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/9508DED4-A55A-EBC2-E578-D2152967FA18_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049697&Signature=iyAc4eamWaRAaT4MQ4WnxJsIygY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/AEBAAEB5-0D1A-1469-2C55-773ACD7B3A94_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569262&Signature=oOmIsYv%2BOdXHfI8GubIh6umpIgY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/15FE1DF8-18C0-1B2A-12E4-2D7704AC4B9F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569262&Signature=OpaAPAc8O%2Bz8nWHiBAd6LxIePnY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773815",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/4E1C1034-D4D5-17F3-F36C-763992E3BB42_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134824&Signature=MNNVYjK3k%2F%2FpxsngorecZNHZLL0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/023D7C63-8B63-2DFD-8F47-14B4AB94321B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221788&Signature=Env0DIdDQezje2wXRwcGj3lQn7g%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/2EDA36ED-E2B6-1747-CC40-37E359BFCCEB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050372&Signature=sosEnr5hZZjUq5Y9RSj0CuaqEzA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/10AF18F3-BF8A-F480-B4B2-021183D25E1D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568222&Signature=zzFSR1i4fsvSYA6%2BejSPsILUH48%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/A0062022-D912-A890-D8D9-16665E85CBBB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568222&Signature=ILaYZ9FnrK86bXukoMIGmIbkxsE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773818",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/F04D9276-F1DA-AF81-B80C-6A85C8D1B1D4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135013&Signature=1PqBBf4h6HoEsCzqkLtGTugcZOI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/A218157E-3DA8-2E02-938C-B2B8FDD1BDB1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480566&Signature=6NxCLRj030AbAgeXDHI%2Fh62SKcU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/68A1C3B7-A2BD-898B-DB7E-F0A8E73AFC35_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050722&Signature=LXvAFr4PT5NjlHbwL%2F7xu7CLS4g%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/25B91D1E-CBE1-C9A7-4C0A-F3EB0CF08251_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570261&Signature=%2B1HdNyIOTkSPQVMiV0pBV9w4Tg0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/1550A279-63CC-D499-A83E-2F4662ADF7E9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570261&Signature=veAB5Pu30%2B5r2cV0mJ%2Fn2Id%2BzM0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773821",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/4CF4DEBF-9985-53D1-8853-ED8E0D663A0B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135908&Signature=UdXJOyl6AfeSPH6gfFL5cJHeYks%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D036848E-CF6A-F43E-1D78-E3D4994402EB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483117&Signature=XiZ15Q4UfuBgtmCQLbl15faO76Y%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/9955B1F6-A9D6-3762-B8F5-B17DB0FB59E3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051280&Signature=9ZAZeu17K2ATmT3p5LXw0JOh1As%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/E39A5C66-5EB2-60C0-B9F1-5C99B27AFD6A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792967060&Signature=RBYM9kH8K7cOR6ADi2O4PNqE1MQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/9C36D848-7CF8-5589-7AE6-391284668D69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792967060&Signature=nV7rvXA8C4x%2BqNQFzCFXZE0Lm4A%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773824",
+        "title": "الموسم 1 - الحلقة 6 | Season 1 Episode 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E06 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/8EFCA4F4-DB35-D471-B3E7-6321765AC4A5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135992&Signature=3qMmhnc9OQWPzcY9fbKXsHxmpIU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E06 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/87568A35-541D-C11D-A9B2-0159A35270F9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481952&Signature=%2Ft7ICi6RuM2aceCn6YN5BRv72mE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E06 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/28814EEC-EDFB-3615-0865-6B008E3333F3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052352&Signature=YR%2FOqCgbY55LS5neMTP8RT0pXNM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E06 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/D6C6B664-4336-A261-95A3-78AEEDA8D66E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573455&Signature=tQMmnkRAxQD4txKkDmVjjWdLrCM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E06 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/F3F71D99-72BD-4DE0-6D62-B00A126E28BC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573455&Signature=jgki4YgF5va3tSPHmwt8NLdlBDA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773827",
+        "title": "الموسم 1 - الحلقة 7 | Season 1 Episode 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E07 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/0874CFDB-96EF-FB07-D86C-637EBA4E1D77_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139477&Signature=ncrgR9m5EIYQMdL%2F%2FaJnFdzxzDc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E07 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/113122FF-FCB7-FA0E-78BA-CCEB95907164_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221838&Signature=jIiRLNMDS1qVfQqR0J4IoPj3b0E%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E07 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/6927966E-1C2E-7C14-68CC-7799B9D0CB92_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052354&Signature=5IeIUZIa5rMV%2BMOE2N1nlM1auZ0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E07 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/F9178F70-7223-A433-03C0-FDF7FFDA6028_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052354&Signature=IB1Xk1i%2FeAWMEBUzgDHXz1imxiQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E07 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/1C0C262B-9FC3-E1DC-A0B1-C6E5644EEC35_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793574726&Signature=kPT%2Bx7nr2ooKL7SfLcPDNPnBiAo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773830",
+        "title": "الموسم 1 - الحلقة 8 | Season 1 Episode 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E08 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/4AF3A6F7-0751-09C3-0004-2CF3482B3E31_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139645&Signature=QO6EVY5SY2zatv7FNmbGY2mfGSw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E08 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/0891104F-18E5-8CF8-88B0-9EF947EED9E3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221841&Signature=0hgSAMr%2FkYgQ1SzO5BEYZPchoHs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E08 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/603B0BDC-771E-8435-1362-F7DBD9729A20_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052357&Signature=DQpaD5wnrzkdpmDMP38GOm7tE8E%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E08 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/5FCFE2D4-A902-40D6-596C-F86BA5553E48_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793574876&Signature=5I9%2B%2Btljp39al5UUUX%2Bh1khIeq0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E08 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/2A30CE79-D014-AC61-AAC1-AC85D37FF945_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793574876&Signature=G1Feq3b3un0jeT0KuQFfIs63H9E%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773833",
+        "title": "الموسم 1 - الحلقة 9 | Season 1 Episode 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E09 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/F13C8020-6E91-8FF3-B405-4D288E83A552_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139818&Signature=bYSBF2vFkn0Z5IVDcFHlzkI8G%2FE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E09 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/325A0869-7449-B07D-9FE4-A7750D44697C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221854&Signature=QMkAJ0KqJsou1CEEF9lvueeP0SU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E09 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D19D2E51-1A57-2F8C-73A2-A244638C6065_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052359&Signature=qfIRuT5j%2BlBNTN5HEeyhHHU9Cig%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E09 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/71DA69A6-44BF-9960-FBFB-7D6E4D548DF0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052359&Signature=T6MtNPHjCy8cWqoSLNC5oOk4wd0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E09 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/BEDB3228-0F57-BF2E-16E1-EE2F5D5AC288_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052359&Signature=%2F8iPtOu%2FRcXfs2caEfvMVWjhY4k%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773836",
+        "title": "الموسم 1 - الحلقة 10 | Season 1 Episode 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E10 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/AF8F8E38-9D1D-6D1A-01E0-9C8B29225BDA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137626&Signature=vg%2BaWcd6zKWT6ajV%2Bn3Lur4MMoI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E10 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/4DFBC80D-776F-BB84-B256-A63EB0044DF2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221844&Signature=KldYfadznonMQgC16zTcf1eOb4Q%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E10 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/5C9FB8E8-3EF1-4C84-05F7-A0363BE83E5E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050421&Signature=7IX1GpoCmmtZ1vV7kDp%2FbjoCskA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E10 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/37918F70-0E84-C184-16A2-B22AC097F6A5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572556&Signature=MpJaKNoH9NjtUJcpN%2FdVob%2Fw%2Fd8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E10 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/2B694873-751B-C600-20A9-D8396AB14AA3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572556&Signature=8Xnvrw9Cr6cOT7ZmwB4Yy8A8kPQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773839",
+        "title": "الموسم 1 - الحلقة 11 | Season 1 Episode 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E11 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/68559F9F-2AD7-63F4-0E48-CA2571114ACF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140379&Signature=1s%2Bsg1tYw%2Fp%2FbKznLnUN06YOAIA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E11 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/4431AA5C-3B37-8EF8-4D7E-1B169E38E8EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793225820&Signature=cYrRZRjW5pFf437BV%2FS0sBvBdbw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E11 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/5AA7D8AD-0581-8616-7DF9-CD8467C8BC22_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052364&Signature=siZ4MvWm3e5y6t3RaakjPd%2FRrjs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E11 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/F84BA721-9829-85A3-B2F4-9CF54DFA646C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052364&Signature=iQ%2FNyG7hRElyKa5UQTAC8T3LarA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E11 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/ABD111B0-FA2A-2887-7B7A-1CB85995BDBE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572239&Signature=CqqTi5zrR7q6jl9HXQTu1JA1Eho%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773842",
+        "title": "الموسم 1 - الحلقة 12 | Season 1 Episode 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E12 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/D4EDD159-8317-23D6-32F5-825894F1E7CF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137885&Signature=Jwt1RklWczY3cGkPWMkSwG%2BSGYQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E12 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/5F788D65-C46B-8FF4-7439-7CCDEA0CA117_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793225976&Signature=rDTELCuss3O6qxW1yemT0U%2BWYM4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E12 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/35BC3D4D-CF2A-8B8C-7C7C-78CC4DBC3955_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052366&Signature=qrgPpMRdH5Zu2C1G01tIlAo4jco%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E12 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/01A80489-0CEB-B880-3A3C-AA9D6BF4A65A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573462&Signature=dh7lx1d70nTy79GNfGGl5xiui0g%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E12 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/1C2D7011-3B0D-E4F9-6716-1347B74869DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573462&Signature=gmFdfqWFDg7Oxcn2Eu1HFjXvcaw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773845",
+        "title": "الموسم 1 - الحلقة 13 | Season 1 Episode 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E13 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/821536CB-EF8B-D39B-9DFA-D3740ADBCAC6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140380&Signature=B66n5awgu3ITCc7KLUgsbOPqXbg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E13 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/85A52D10-1573-6BBA-746F-748980DAC439_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482081&Signature=DCZjz0fdm5KRIfpKEwcQJPTfd%2Bw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E13 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/7BECB531-C6E5-B18D-14C5-56093832FE95_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050951&Signature=D5VxI0Bn3NqO5KwrCwOmKoouleE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E13 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/8FDC0EB1-433A-C581-39EB-AE037EDEE4BB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570076&Signature=RSRzChSHipRvPj9DEQlhoBWDk90%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E13 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/1C4FC791-B526-0261-83BD-DFD395E2BDB8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570076&Signature=kFi6AjH35MJL3iAj32ZWS48ZWxU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773848",
+        "title": "الموسم 1 - الحلقة 14 | Season 1 Episode 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E14 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/92D29894-FA6B-6B15-9A86-D6F84904FA48_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139134&Signature=oKc6bO43iasYBTJzOY1kxoponpU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E14 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B9968DED-E5FF-8EB3-D4C7-41388BF8A430_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482124&Signature=8aaAExSbuI20fQMl7Yf1%2FFR%2BSus%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E14 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B72C1472-00D5-86B1-20F1-7D3E79CAB83C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050950&Signature=EKasLyHo3q22uzenSQK75K6E11o%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E14 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/3015E9F6-96C6-EF5E-31E8-8EDF28B99BFE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567575&Signature=QuQP9x3bUaiyrfHbJ5VTpkm1svQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E14 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/4D7D4B5C-53E6-652B-50E8-6948120D4263_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567575&Signature=I4LQArQjLT02OME4jBwxdKf5cVo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773851",
+        "title": "الموسم 1 - الحلقة 15 | Season 1 Episode 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E15 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/7BA259DF-C903-C2AA-1311-8EBB907D85EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136116&Signature=N5KaxnpgwLddVOiRsBTPYURGBsU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E15 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/469E7E71-BB8E-5FCB-0049-EE41F037EDDE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793226146&Signature=xDQM0J9XLqO%2FTeUBy7w2Zxbcrrc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E15 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/FF255CBE-F7AA-A923-D428-3D39DF6D17D9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052374&Signature=rq71lZHo%2FoOucMwkufmf2W5RUQE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E15 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/2F935107-7615-B2B9-7894-8C4143181578_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567754&Signature=F%2BiaNfDs8DpfWivZql2sF1INIb8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E15 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/3C367C14-9CE5-F72B-9DAA-035395913A60_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567754&Signature=%2FpC9ccd0WhxKM9ulkLpTzJrr6QA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773854",
+        "title": "الموسم 1 - الحلقة 16 | Season 1 Episode 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E16 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/44BF17A2-B4E2-9309-DDBB-0745C3053738_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140194&Signature=A9ZwBYgLlR5lF0QRBJxxbD592rg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E16 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/99499E59-EC1A-FE58-ACFE-0BCEBAAFD836_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481711&Signature=IaGkTORFmmtRE4ZBDeDx5JCGESY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E16 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/05531544-DAE8-42A9-8260-D620D5267E1A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049242&Signature=vkBzlvoTJX%2FN0hb3sgvEgtmQbRA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E16 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/4A249318-F958-D024-C2B2-3F0243377B40_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566890&Signature=i1jCohEYqZq9ufhA1QZCjTzgM8I%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E16 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/9CC0E2A3-8FBA-3096-8E5B-4B9627302F82_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566890&Signature=c%2BvoGgxbXxw2bGHYwfsuRYaSF9s%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773857",
+        "title": "الموسم 1 - الحلقة 17 | Season 1 Episode 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E17 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/EBFA4957-4D16-B2B4-7DF6-2CB7A3BBA027_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140536&Signature=9nBWbXfw4w07WiXgU%2F4XvpGgehI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E17 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/FB445459-16E6-E7AB-0B32-FD4034F03BE5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567906&Signature=DXTwKe%2FWhPMacNpW%2B03Oim2L0MM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E17 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/0B7086BD-0371-A279-0201-0AEFD048819C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793140536&Signature=%2Fuiv%2F%2BWsnKfogwfltVI2GgjKzdU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E17 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/BAF3696A-A5F6-48F0-F57F-79DC87564474_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567906&Signature=J4Nb2KVvUdIY%2Bw3xdKrjzj%2BPfGI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E17 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/B01E19A3-A297-76E2-64F5-EFC5F7E7C2D3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567906&Signature=QKXMhe1m8Lx00xDH%2FHRSZlspYUw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773860",
+        "title": "الموسم 1 - الحلقة 18 | Season 1 Episode 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E18 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/2E972D8C-6691-41DD-7EA4-FA59B728BFA1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139923&Signature=xXBYqaDc5eFbILGvPiNkM8I882s%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E18 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/BDB80347-8FBD-642A-774F-4FEA854118D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570391&Signature=NhRIx2NMSKtQc0HBWOFZJDWx9oQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E18 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/305751B8-31BE-B7F7-F6CE-CA39AAE92848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052380&Signature=gQ8gMK3HY4PTi9%2Feb65pbKt%2Bwqw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E18 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/2BC19299-0451-EF29-98F0-D2D0C7E59AD6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570391&Signature=3rsSXJGjOiZknuPmMgfxVHpp5k4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E18 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/5FD89D7F-8EDB-2088-2102-B2EE12EE20A6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570391&Signature=oARyOoYmQZ%2BvcdZagcChns1xNoo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773863",
+        "title": "الموسم 1 - الحلقة 19 | Season 1 Episode 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E19 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/A0DD02F1-D461-6C9B-ED33-E89F525FDCAA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137046&Signature=vk64ji2jDSfd9OVH%2BCxnQAyGjJc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E19 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/21C09684-CAC5-AF09-BC44-DADF12E6F0CD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793225976&Signature=DhsI6l6h07j8mBRenFBbOl5ubXw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E19 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/08B70C59-83D0-1739-69D4-AB5F302FD93F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137046&Signature=x2F58ldBHX41ONl8ydseBCxS0Pk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E19 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/32A38124-C688-267B-B141-AF543C504A32_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570998&Signature=3roXs0DB1uPQEvUti69aLxbaiDU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E19 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/9989B5FC-AE46-AAE5-33A5-B50B4A658A1A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570998&Signature=4iSDOzgjuLO1fd%2Fdr0PqjciN%2BLU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_773866",
+        "title": "الموسم 1 - الحلقة 20 | Season 1 Episode 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/DE104D9D-AEE1-1CC2-D328-5E761CB3AE92_poster.jpg",
+        "overview": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "انتقام مشروع S01E20 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/55F34DCC-C5DA-27A7-A2FC-CADB83A95848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137048&Signature=doJ17AOIuH%2Fis9whLCQbd6TBhuk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "انتقام مشروع S01E20 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/AC11723B-17EC-D5A5-C2EE-F825450163C7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481199&Signature=48LPfLm1pdyuj8I9pa7ZH1xKSYg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "انتقام مشروع S01E20 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/9CFCF5E6-FD1C-E402-1C07-50B7212AAA39_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137048&Signature=HsyXREQBVT9IEs1zTaFlNxxqRtU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "انتقام مشروع S01E20 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/8B7CDE24-6EEB-0A95-6F50-38CE89CFEF31_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793571454&Signature=uSg%2F6hhKOpONRCT%2BRdlmXIKSd3s%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "انتقام مشروع S01E20 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/E61444B0-E8A8-F6C3-DBBA-0155D59B6388_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793571454&Signature=b62Sp7XkcM7IDffrhPHODht2Vs4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

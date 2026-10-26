@@ -1,0 +1,26 @@
+{
+  "name": "arabic-nuvio",
+  "version": "1.0.0",
+  "description": "Arabic Streaming Providers, Catalog Addon & Collections for Nuvio",
+  "main": "providers/cinemana.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SafaaSalam/Arabic-Nuvio.git"
+  },
+  "scripts": {
+    "sync": "node scripts/sync-from-source.js",
+    "test": "node scripts/test-provider.js",
+    "serve": "node server.js",
+    "deploy": "node scripts/deploy-to-github-dir.js"
+  },
+  "keywords": [
+    "nuvio",
+    "nuvio-plugin",
+    "nuvio-providers",
+    "nuvio-collections",
+    "arabic",
+    "cinemana"
+  ],
+  "author": "SafaaSalam",
+  "license": "MIT"
+}

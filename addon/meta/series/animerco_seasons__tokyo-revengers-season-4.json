@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_seasons__tokyo-revengers-season-4",
+    "type": "series",
+    "name": "Tokyo Revengers",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/10/y76Q9XQw0UaFjwJlreOA5Pewl8y.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/10/y76Q9XQw0UaFjwJlreOA5Pewl8y.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/10/y76Q9XQw0UaFjwJlreOA5Pewl8y.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Tokyo Revengers — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_seasons__tokyo-revengers-season-4:1:1",
+        "title": "Episode 1 | الحلقة 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/10/y76Q9XQw0UaFjwJlreOA5Pewl8y.jpg"
+      }
+    ]
+  }
+}

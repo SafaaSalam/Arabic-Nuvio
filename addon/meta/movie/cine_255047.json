@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "id": "cine_255047",
+    "type": "movie",
+    "name": "Game of Thrones the Movie",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/AA181E37-2D89-841B-48D5-7D4DF0BBC25B_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/AA181E37-2D89-841B-48D5-7D4DF0BBC25B_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/AA181E37-2D89-841B-48D5-7D4DF0BBC25B_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يسرد الفيلم بأسلوب متفرد ملخص كل مواسم المسلسل والأحداث المهمة والشخصيات الرئيسية في إطار ملحمي غير اعتيادي",
+    "releaseInfo": "2018",
+    "imdbRating": "9.0",
+    "genres": [
+      "اكشن | Action",
+      "مغامرة | Adventure",
+      "دراما | Drama"
+    ],
+    "cast": [
+      "Emilia Clarke",
+      "Peter Dinklage",
+      "Kit Harington"
+    ],
+    "director": [
+      "David Benioff",
+      "D.B. Weiss"
+    ]
+  }
+}

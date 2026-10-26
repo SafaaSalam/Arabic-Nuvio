@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Mezameza S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C6025165-ECEE-5FC4-07BF-A36FFEF0F92B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601751&Signature=bOV1MfiuQmGmY%2BzR2oLnpkgG1uI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144956-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=KMLh8bH4s8ELdrra7YUDEuoAvbw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=1i7m9Ogh5K%2F9gN%2Fs%2BcuREcNr6VU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3510DE56-738C-FB3D-021B-9BE9DEA141F5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=q4ThLj67GuMYZpTq0KXQFG2KRIw%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Mezameza S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/54206264-6096-3A8D-7980-DE332F3743B2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601751&Signature=6%2FuRXm0QGYkSlTDCX9T%2FxYzfAYM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144956-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=KMLh8bH4s8ELdrra7YUDEuoAvbw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=1i7m9Ogh5K%2F9gN%2Fs%2BcuREcNr6VU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3510DE56-738C-FB3D-021B-9BE9DEA141F5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=q4ThLj67GuMYZpTq0KXQFG2KRIw%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Mezameza S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/996C3B05-904D-AF2E-77D0-83C3CC79C0AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601751&Signature=VGnal1QbZscb5PzvpenfVJ4igM0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144956-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=KMLh8bH4s8ELdrra7YUDEuoAvbw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=1i7m9Ogh5K%2F9gN%2Fs%2BcuREcNr6VU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3510DE56-738C-FB3D-021B-9BE9DEA141F5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=q4ThLj67GuMYZpTq0KXQFG2KRIw%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Mezameza S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7ED8B65E-EBCF-675D-34DB-E1B1F0F1AFD6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601751&Signature=GX4Ou0Ocbx0xvY7o1qMahF3jntM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144956-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=KMLh8bH4s8ELdrra7YUDEuoAvbw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=1i7m9Ogh5K%2F9gN%2Fs%2BcuREcNr6VU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3510DE56-738C-FB3D-021B-9BE9DEA141F5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=q4ThLj67GuMYZpTq0KXQFG2KRIw%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Mezameza S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/09336CD3-FDF5-A0A5-941F-02E3F9844C04_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601751&Signature=EtarbTSfivnmChTVOaIv12%2Frijc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144956-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=KMLh8bH4s8ELdrra7YUDEuoAvbw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/563A56A3-24C1-3AFF-7264-374662C12FCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=1i7m9Ogh5K%2F9gN%2Fs%2BcuREcNr6VU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144956-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3510DE56-738C-FB3D-021B-9BE9DEA141F5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596531&Signature=q4ThLj67GuMYZpTq0KXQFG2KRIw%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

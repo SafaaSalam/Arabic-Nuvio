@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Hotel Inhumans S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6EF82E36-708E-AE9D-E11F-E45D69A53884_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566985&Signature=db8Q3sCJbZnad45yw2akSAHMZ%2Bs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1280981-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=5b%2FodmsPBEs51rmko2m32c5XIWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=0mCG9HKz%2B%2Fe6jniocruq2g2xBxk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7FF1221-C6E9-C3B6-31BA-EE618032CDB1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=WDb%2BzNvBmVIzIqdoEfcOIeeftZU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Hotel Inhumans S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/944B2ACF-6757-98CC-626A-C64F27EE5AEC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566985&Signature=BK6XwDVH3vFK8S%2BxJJhyJa37lqw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1280981-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=5b%2FodmsPBEs51rmko2m32c5XIWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=0mCG9HKz%2B%2Fe6jniocruq2g2xBxk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7FF1221-C6E9-C3B6-31BA-EE618032CDB1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=WDb%2BzNvBmVIzIqdoEfcOIeeftZU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Hotel Inhumans S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F745A0F3-453C-1B04-4720-764EB5E14523_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566985&Signature=X0phVH0WFjnWobWPtkAqqCNoggA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1280981-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=5b%2FodmsPBEs51rmko2m32c5XIWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=0mCG9HKz%2B%2Fe6jniocruq2g2xBxk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7FF1221-C6E9-C3B6-31BA-EE618032CDB1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=WDb%2BzNvBmVIzIqdoEfcOIeeftZU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Hotel Inhumans S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5CD03D3B-1ABC-AD56-422D-4AB55C98A07A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566985&Signature=Dzy%2BlRuKTNWLDqI90fDI4NljuVI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1280981-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=5b%2FodmsPBEs51rmko2m32c5XIWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=0mCG9HKz%2B%2Fe6jniocruq2g2xBxk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7FF1221-C6E9-C3B6-31BA-EE618032CDB1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=WDb%2BzNvBmVIzIqdoEfcOIeeftZU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Hotel Inhumans S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7256A48D-B1B7-BCC3-F495-A54E4AB79328_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566985&Signature=6Pe7PdlwV7deeDvDEr7q3qTJFfc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1280981-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=5b%2FodmsPBEs51rmko2m32c5XIWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E5DB31E-0AB3-84D0-0C4F-B8427E1DEAF1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=0mCG9HKz%2B%2Fe6jniocruq2g2xBxk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1280981-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7FF1221-C6E9-C3B6-31BA-EE618032CDB1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596032&Signature=WDb%2BzNvBmVIzIqdoEfcOIeeftZU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_movies__one-piece-heroines",
+    "type": "series",
+    "name": "One Piece: Heroines",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "One Piece: Heroines — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_movies__one-piece-heroines:1:1",
+        "title": "Episode 1 | الحلقة 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg"
+      }
+    ]
+  }
+}

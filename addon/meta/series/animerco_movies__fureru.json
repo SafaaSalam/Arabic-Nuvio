@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_movies__fureru",
+    "type": "series",
+    "name": "Fureru.",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/01/5UHcz5eEP9CDCR4rlyNW4HxFdzM.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/01/5UHcz5eEP9CDCR4rlyNW4HxFdzM.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/01/5UHcz5eEP9CDCR4rlyNW4HxFdzM.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Fureru. — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_movies__fureru:1:1",
+        "title": "Episode 1 | الحلقة 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/01/5UHcz5eEP9CDCR4rlyNW4HxFdzM.jpg"
+      }
+    ]
+  }
+}

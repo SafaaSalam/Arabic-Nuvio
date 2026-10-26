@@ -2,14 +2,14 @@
   "meta": {
     "id": "cine_43178",
     "type": "movie",
-    "name": "The Garden of Sinners Chapter 7: A Study in Murder - Part 2 | Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
+    "name": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
     "mal_id": "5205",
     "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/E5B3466B-1421-8458-CBE9-198CD962A152_poster.png",
     "posterShape": "poster",
     "background": "https://cnth2.shabakaty.cc/vascin-poster-images/E5B3466B-1421-8458-CBE9-198CD962A152_poster.png",
     "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/E5B3466B-1421-8458-CBE9-198CD962A152_poster.png",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-    "description": "The Garden of Sinners Chapter 7: A Study in Murder - Part 2 | Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go) (2009) • اكشن | Action، رسوم متحركة | Animation، جريمة | Crime",
+    "description": "في فبراير عام 1999، تتكرر سلسلة من جرائم القتل الغامضة، بصورة تشبه بشكل مخيف جرائم وقعت قبل أربع سنوات، فتدخل شيكي ريوغي و ميكيا كوكوتو في تحقيق جديد. تصبح شيكي موضع اشتباه مع عودة نزعتها القاتلة الكامنة، بينما يسعى ميكيا جاهدًا للعثور على القاتل الحقيقي وحمايتها من نفسها\n\nIn February 1999, a series of murders eerily similar to those from four years earlier plunges Shiki Ryougi and Mikiya Kokutou into a new mystery. Shiki becomes a suspect as her dormant murderous impulse resurfaces, while Mikiya desperately searches for the real killer and tries to protect her from herself.",
     "releaseInfo": "2009",
     "imdbRating": "7.5",
     "genres": [
@@ -17,7 +17,17 @@
       "رسوم متحركة | Animation",
       "جريمة | Crime"
     ],
-    "cast": [],
-    "director": []
+    "cast": [
+      "Hiroki Touchi",
+      "Maaya Sakamoto",
+      "Kenichi Suzumura",
+      "Takako Honda",
+      "Ayumi Fujimura",
+      "Jouji Nakata",
+      "Sôichirô Hoshi"
+    ],
+    "director": [
+      "Shinsuke Takizawa"
+    ]
   }
 }

@@ -1,3 +1,129 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Kashita Maryoku S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A7CF1266-886A-B29A-3040-58359617EFD9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480439&Signature=m4tuj1anppsxUiV93fJM6N%2BIMYM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144653-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=0%2BVl77L0jFLnXPf%2FU96zQRVKtCg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=kWcOGSvx0%2Fzv1DfcW%2FpAJW%2BzBck%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B62F7B51-08B0-3106-5AB0-B02AFCCA9F04_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=hmMF%2BOolaraHKCg%2Bpz6DHxExf1c%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Kashita Maryoku S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B1745A17-25E4-C26D-80CD-41F88CB8C2CC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480439&Signature=gjYwATC9ykW2wQY9LSmUNpyg8dQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144653-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=0%2BVl77L0jFLnXPf%2FU96zQRVKtCg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=kWcOGSvx0%2Fzv1DfcW%2FpAJW%2BzBck%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B62F7B51-08B0-3106-5AB0-B02AFCCA9F04_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=hmMF%2BOolaraHKCg%2Bpz6DHxExf1c%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Kashita Maryoku S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/90A449A6-288C-7731-572E-972684D2F166_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480439&Signature=f3fUrK60vlMkTx4JD6YPAIgKJ0k%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144653-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=0%2BVl77L0jFLnXPf%2FU96zQRVKtCg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=kWcOGSvx0%2Fzv1DfcW%2FpAJW%2BzBck%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B62F7B51-08B0-3106-5AB0-B02AFCCA9F04_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=hmMF%2BOolaraHKCg%2Bpz6DHxExf1c%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Kashita Maryoku S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/85F2AB6E-F8F0-C740-053B-0595CD67698A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480439&Signature=Sw9a%2F9W2FCoeyDpWEdaUcDn83mM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144653-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=0%2BVl77L0jFLnXPf%2FU96zQRVKtCg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=kWcOGSvx0%2Fzv1DfcW%2FpAJW%2BzBck%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B62F7B51-08B0-3106-5AB0-B02AFCCA9F04_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=hmMF%2BOolaraHKCg%2Bpz6DHxExf1c%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Kashita Maryoku S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/29BAE199-34E6-A273-795D-FE96887022E3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480439&Signature=mGzlQ%2BUh5kK7EVIyBwS7imRYIfg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144653-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=0%2BVl77L0jFLnXPf%2FU96zQRVKtCg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C7DA5D77-8AD3-FEF9-7793-9C589AD65851_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=kWcOGSvx0%2Fzv1DfcW%2FpAJW%2BzBck%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144653-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B62F7B51-08B0-3106-5AB0-B02AFCCA9F04_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795596595&Signature=hmMF%2BOolaraHKCg%2Bpz6DHxExf1c%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

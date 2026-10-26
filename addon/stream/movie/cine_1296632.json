@@ -1,3 +1,154 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Deadly Puppet • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/756FDD3D-67F6-5E92-C31D-1E2C035048D8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384534&Signature=dfdpRHcgkTHrQ6UKSnDFpOo%2F3ks%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=fCaOLvdlrtIwiCQ4u4VugwZDkQA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=%2BiOy9oVqpKQRLNf3yFFqUG5RJEQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=8lHImzs16lXs7dzG87zfpP7QQv4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=2uL5Pzbk4m3%2BBj3HA0R4RhjOpeY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Deadly Puppet • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9CBB13F7-BDC1-7339-F618-0D03CDF5A0E6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384534&Signature=yrJVYJRkw2akvD5P7qRd5rahMzs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=fCaOLvdlrtIwiCQ4u4VugwZDkQA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=%2BiOy9oVqpKQRLNf3yFFqUG5RJEQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=8lHImzs16lXs7dzG87zfpP7QQv4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=2uL5Pzbk4m3%2BBj3HA0R4RhjOpeY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Deadly Puppet • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1FAA3AB0-E4F7-ACD2-D486-33AC65F336C0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384534&Signature=8vJIu0Lmo2H3jSUBKyVDl%2FmxXW0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=fCaOLvdlrtIwiCQ4u4VugwZDkQA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=%2BiOy9oVqpKQRLNf3yFFqUG5RJEQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=8lHImzs16lXs7dzG87zfpP7QQv4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=2uL5Pzbk4m3%2BBj3HA0R4RhjOpeY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Deadly Puppet • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6BCAEBD7-8AE9-2EFF-4ACF-C2BFDBD286D0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384534&Signature=IexUH8gZ%2B7YeFVvH9KbxCpoAKl4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=fCaOLvdlrtIwiCQ4u4VugwZDkQA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=%2BiOy9oVqpKQRLNf3yFFqUG5RJEQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=8lHImzs16lXs7dzG87zfpP7QQv4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=2uL5Pzbk4m3%2BBj3HA0R4RhjOpeY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Deadly Puppet • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/ADF095C7-8EE4-D293-EB86-74B4BFBE4A72_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793384534&Signature=ruGvAn2iyn362W43Cy45wWQm7eE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=fCaOLvdlrtIwiCQ4u4VugwZDkQA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A2E7011F-0841-067C-5387-7C94903D9FDC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=%2BiOy9oVqpKQRLNf3yFFqUG5RJEQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=8lHImzs16lXs7dzG87zfpP7QQv4%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6662002C-3B8D-CFD2-4618-9656F2A00E3C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600259&Signature=2uL5Pzbk4m3%2BBj3HA0R4RhjOpeY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

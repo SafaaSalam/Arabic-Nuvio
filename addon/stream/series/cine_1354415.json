@@ -1,3 +1,154 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Thai Sweet S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2395916-A626-B054-A57E-C5E084287E7A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135347&Signature=0TyacV7BMJkRpk1WtPXlQxCiM6E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1354415-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=hEPOkyTpKSY2PbdAHmnQIAi5TkY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=HJxCW%2BKTI5DRAhHXneYJ7U9T9sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=xA2pAI6EV3dXLLqqXc69xzyTZ3A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1354415-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=rB1dHrDiTrMhL%2F30pVEyR7I3GAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Thai Sweet S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/372D7F7E-9ACA-1355-B0C3-D3F7140AB688_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135347&Signature=S%2FAge0fQpXdcXCwNETHdzwWbt6M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1354415-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=hEPOkyTpKSY2PbdAHmnQIAi5TkY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=HJxCW%2BKTI5DRAhHXneYJ7U9T9sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=xA2pAI6EV3dXLLqqXc69xzyTZ3A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1354415-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=rB1dHrDiTrMhL%2F30pVEyR7I3GAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Thai Sweet S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8E0F40E5-D2AC-CF33-C596-01E6C1798A55_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135347&Signature=mqWx8reWBFrUY3Xlvg3X%2BHVHocs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1354415-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=hEPOkyTpKSY2PbdAHmnQIAi5TkY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=HJxCW%2BKTI5DRAhHXneYJ7U9T9sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=xA2pAI6EV3dXLLqqXc69xzyTZ3A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1354415-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=rB1dHrDiTrMhL%2F30pVEyR7I3GAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Thai Sweet S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5D20E05D-5B7D-538B-176A-C3BBEE0EC643_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135347&Signature=XYAPbhHYOW3bljLmT%2BCJeafcGCU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1354415-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=hEPOkyTpKSY2PbdAHmnQIAi5TkY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=HJxCW%2BKTI5DRAhHXneYJ7U9T9sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=xA2pAI6EV3dXLLqqXc69xzyTZ3A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1354415-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=rB1dHrDiTrMhL%2F30pVEyR7I3GAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Thai Sweet S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1890E19E-15DF-4639-441D-1871787EEB3A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135347&Signature=iV42148%2FYW%2FJuQQ35oFpwfvBaeo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1354415-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=hEPOkyTpKSY2PbdAHmnQIAi5TkY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DC7D8300-DA62-03A0-6438-BD523C8A48A6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=HJxCW%2BKTI5DRAhHXneYJ7U9T9sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1354415-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=xA2pAI6EV3dXLLqqXc69xzyTZ3A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1354415-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C5E2E97-2148-9F1A-1676-C5A3C1BBD736_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795589569&Signature=rB1dHrDiTrMhL%2F30pVEyR7I3GAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

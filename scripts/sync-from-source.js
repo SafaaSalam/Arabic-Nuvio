@@ -117,13 +117,33 @@ function extractMalId(str) {
   return m ? m[1] : null;
 }
 
+function cleanBilingualTitle(str) {
+  if (!str || typeof str !== "string") return str || "";
+  const s = str.trim();
+  if (s.includes(" | ")) {
+    const parts = s.split(" | ").map(p => p.trim());
+    const latin = parts.find(p => /[A-Za-z]/.test(p));
+    if (latin) return latin;
+  }
+  if (s.includes(" / ")) {
+    const parts = s.split(" / ").map(p => p.trim());
+    const latin = parts.find(p => /[A-Za-z]/.test(p));
+    if (latin) return latin;
+  }
+  return s;
+}
+
 function formatItemTitle(item) {
   const ar = item.ar_title ? String(item.ar_title).trim() : "";
   const en = item.en_title ? String(item.en_title).trim() : "";
-  if (ar && en && ar.toLowerCase() !== en.toLowerCase()) {
-    return `${ar} | ${en}`;
+  // If English exists, use English only and delete Arabic!
+  if (en && /[A-Za-z]/.test(en)) {
+    return cleanBilingualTitle(en);
   }
-  return ar || en || "بدون عنوان | Untitled";
+  if (ar && /[A-Za-z]/.test(ar)) {
+    return cleanBilingualTitle(ar);
+  }
+  return en || ar || "Untitled";
 }
 
 function formatItemDescription(item) {
@@ -436,11 +456,11 @@ async function main() {
 
     if (metas.length === 0) return null;
 
-    const bilingualName = `${arTitle} | ${enTitle}`;
+    const englishName = enTitle || arTitle;
     catalogDefinitions.push({
       type,
       id,
-      name: bilingualName,
+      name: englishName,
       pageSize: metas.length,
       showInHome
     });
@@ -451,7 +471,7 @@ async function main() {
     const info = {
       id,
       type,
-      name: bilingualName,
+      name: englishName,
       arTitle,
       enTitle,
       emoji,
@@ -460,7 +480,7 @@ async function main() {
       count: metas.length
     };
     catalogDataMap.set(`${type}/${id}`, info);
-    console.log(`   📦 Catalog [${type}] ${id} (${bilingualName}): ${metas.length} items`);
+    console.log(`   📦 Catalog [${type}] ${id} (${englishName}): ${metas.length} items`);
     return info;
   }
 
@@ -690,11 +710,11 @@ async function main() {
 
   for (const cat of allExtraCatalogs) {
     if (!cat || !Array.isArray(cat.metas) || cat.metas.length === 0) continue;
-    const bilingualName = `${cat.arTitle} | ${cat.enTitle}`;
+    const englishName = cat.enTitle || cat.arTitle;
     catalogDefinitions.push({
       type: cat.type,
       id: cat.id,
-      name: bilingualName,
+      name: englishName,
       pageSize: cat.metas.length,
       showInHome: ["cee", "3isk", "alooytv", "akwam"].includes(cat.providerKey)
     });
@@ -708,7 +728,7 @@ async function main() {
       const metaObj = {
         id: m.id,
         type: m.type,
-        name: m.name,
+        name: cleanBilingualTitle(m.name),
         poster: m.poster,
         posterShape: "poster",
         background: m.background || m.poster,
@@ -722,7 +742,7 @@ async function main() {
         metaObj.videos = [
           {
             id: `${m.id}:1:1`,
-            title: "Episode 1 | الحلقة 1",
+            title: "Episode 1",
             season: 1,
             episode: 1,
             thumbnail: m.poster
@@ -735,7 +755,7 @@ async function main() {
     const info = {
       id: cat.id,
       type: cat.type,
-      name: bilingualName,
+      name: englishName,
       arTitle: cat.arTitle,
       enTitle: cat.enTitle,
       emoji: cat.emoji || "🎬",
@@ -745,11 +765,12 @@ async function main() {
       count: cat.metas.length
     };
     catalogDataMap.set(`${cat.type}/${cat.id}`, info);
-    console.log(`   📦 Extra Catalog [${cat.type}] ${cat.id} (${bilingualName}): ${cat.metas.length} items`);
+    console.log(`   📦 Extra Catalog [${cat.type}] ${cat.id} (${englishName}): ${cat.metas.length} items`);
 
     const folderObj = {
       id: `folder-${info.id}`,
       title: info.enTitle,
+      name: info.enTitle,
       coverImageUrl: info.coverImage,
       focusGifEnabled: true,
       coverEmoji: info.emoji,
@@ -781,7 +802,7 @@ async function main() {
   ];
   const addonManifest = {
     id: ADDON_ID,
-    name: "Arabic Nuvio | الإضافات العربية الشاملة",
+    name: "Arabic Nuvio",
     version: "2.0.0",
     description: "Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam & 36+ Arabic Movie, Series, Anime & Live TV Catalogs",
     logo: cinemanaLogoUrl,
@@ -818,6 +839,7 @@ async function main() {
     return {
       id: `folder-${catInfo.id}`,
       title: catInfo.enTitle,
+      name: catInfo.enTitle,
       coverImageUrl: catInfo.coverImage || cinemanaLogoUrl,
       focusGifEnabled: true,
       coverEmoji: catInfo.emoji || "🎬",
@@ -870,6 +892,7 @@ async function main() {
     {
       id: "cinemana-home-collection",
       title: "Shabakaty Cinemana Home (🇮🇶)",
+      name: "Shabakaty Cinemana Home (🇮🇶)",
       backdropImageUrl: (featuredFolders[0] && featuredFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: true,
       focusGlowEnabled: true,
@@ -880,6 +903,7 @@ async function main() {
     {
       id: "cinemana-movies-collection",
       title: "Cinemana Movies (🇮🇶)",
+      name: "Cinemana Movies (🇮🇶)",
       backdropImageUrl: (movieFolders[0] && movieFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -890,6 +914,7 @@ async function main() {
     {
       id: "cinemana-series-collection",
       title: "Cinemana Series (🇮🇶)",
+      name: "Cinemana Series (🇮🇶)",
       backdropImageUrl: (seriesFolders[0] && seriesFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -900,6 +925,7 @@ async function main() {
     {
       id: "cee-iraq-collection",
       title: "CEE Movies & Series (🇮🇶)",
+      name: "CEE Movies & Series (🇮🇶)",
       backdropImageUrl: (ceeFolders[0] && ceeFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -910,6 +936,7 @@ async function main() {
     {
       id: "3isk-turkish-collection",
       title: "3isk Turkish Drama & Series",
+      name: "3isk Turkish Drama & Series",
       backdropImageUrl: (eishkFolders[0] && eishkFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -920,6 +947,7 @@ async function main() {
     {
       id: "alooytv-series-collection",
       title: "AlooyTv Gulf, Arabic & Turkish Series",
+      name: "AlooyTv Gulf, Arabic & Turkish Series",
       backdropImageUrl: (alooyFolders[0] && alooyFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -930,6 +958,7 @@ async function main() {
     {
       id: "akwam-collection",
       title: "Akwam Movies & Series",
+      name: "Akwam Movies & Series",
       backdropImageUrl: (akwamFolders[0] && akwamFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -940,6 +969,7 @@ async function main() {
     {
       id: "arabic-drama-hub-collection",
       title: "Arabic, Turkish & Asian Drama Hub",
+      name: "Arabic, Turkish & Asian Drama Hub",
       backdropImageUrl: (dramaFolders[0] && dramaFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -950,6 +980,7 @@ async function main() {
     {
       id: "arabic-anime-hub-collection",
       title: "Arabic Subtitled Anime Hub",
+      name: "Arabic Subtitled Anime Hub",
       backdropImageUrl: (animeFolders[0] && animeFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
@@ -960,6 +991,7 @@ async function main() {
     {
       id: "arabic-sports-replays-collection",
       title: "Football Match Replays & Live Sports",
+      name: "Football Match Replays & Live Sports",
       backdropImageUrl: (sportsFolders[0] && sportsFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,

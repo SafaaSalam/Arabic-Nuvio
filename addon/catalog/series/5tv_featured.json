@@ -1,6 +1,17 @@
 {
   "metas": [
     {
+      "id": "5tv_series__la-casa-de-papel",
+      "type": "series",
+      "name": "La casa de papel",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "La casa de papel — 5TV Featured Series & Movies"
+    },
+    {
       "id": "5tv_series__boston-blue",
       "type": "series",
       "name": "Boston Blue",
@@ -120,17 +131,6 @@
       "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/nqM1kx1n8pY5cHXLN2X0V2pYDA8-768x1152.jpg",
       "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
       "description": "المزارع العصري Modern Farmer — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_series__%d8%a7%d9%84%d9%86%d9%88%d9%85-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b0%d8%a6%d8%a7%d8%a8-slumbering-with-wolves",
-      "type": "series",
-      "name": "النوم بين الذئاب Slumbering with Wolves",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/jy1lg8b1WCHsEyRef8scRMXoYtL-768x432.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/jy1lg8b1WCHsEyRef8scRMXoYtL-768x432.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/jy1lg8b1WCHsEyRef8scRMXoYtL-768x432.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "النوم بين الذئاب Slumbering with Wolves — 5TV Featured Series & Movies"
     },
     {
       "id": "5tv_movie__kingdom-ashin-of-the-north-2021",

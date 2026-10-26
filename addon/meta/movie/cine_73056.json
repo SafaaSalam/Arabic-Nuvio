@@ -2,7 +2,7 @@
   "meta": {
     "id": "cine_73056",
     "type": "movie",
-    "name": "Gintama the Movie: The Final Chapter - Be Forever Yorozuya | Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "name": "Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare",
     "mal_id": "15335",
     "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/650AA7D1-0108-DC92-0BE6-202382965B9E_poster.jpg",
     "posterShape": "poster",
@@ -18,7 +18,11 @@
       "كوميدي | Comedy",
       "خيال علمي | Sci-Fi"
     ],
-    "cast": [],
+    "cast": [
+      "Akira Ishida",
+      "Hiroki Gotô",
+      "Susumu Chiba"
+    ],
     "director": []
   }
 }

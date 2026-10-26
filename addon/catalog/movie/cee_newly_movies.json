@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt0333645",
+      "type": "movie",
+      "name": "The Deserted Station",
+      "poster": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+      "posterShape": "poster",
+      "background": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+      "landscapePoster": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+      "description": "تتعطل سيارة مصوّر وزوجته في قرية إيرانية نائية، فيذهب الزوج بحثاً عن قطع الغيار، بينما تتولى زوجته، وهي معلّمة سابقة، رعاية أطفال القرية، وتنشأ بينها وبينهم علاقة وثيقة تعيد إليها الأمل والشعور بمعنى الحياة",
+      "releaseInfo": "2003",
+      "imdbRating": "6.6"
+    },
+    {
       "id": "tt0100477",
       "type": "movie",
       "name": "The Rescuers Down Under",
@@ -29,7 +42,7 @@
     {
       "id": "tt37961714",
       "type": "movie",
-      "name": "في مواجهة الإعصار أوتيس | Surviving Hurricane Otis",
+      "name": "Surviving Hurricane Otis",
       "poster": "https://cnth2.cee.buzz/vascin-poster-images/74CC07BE-BEB2-5D96-9498-5DBCD7B0DD93_poster.jpg",
       "posterShape": "poster",
       "background": "https://cnth2.cee.buzz/vascin-poster-images/74CC07BE-BEB2-5D96-9498-5DBCD7B0DD93_poster.jpg",
@@ -140,19 +153,6 @@
       "landscapePoster": "https://cnth2.cee.buzz/vascin-poster-images/6198B876-F918-E89B-94C4-1D133E030F7B_poster.jpg",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
       "description": "تدور الأحداث في فجر ليلة العيد داخل عمارة سكنية، حيث تعيش عائلة يواجه جدها أزمة صحية طارئة، ثم يغادر الأبناء الرجال في سباق مع الزمن بحثًا عن طبيب لإنقاذه، تاركين النساء وأطفالهن في حالة ترقب وقلق، وبدخول فتاة مستأجرة في العقار برفقة شاب غريب؛ يبدأن في إسقاط توتراتهن المكبوتة على الفتاة والشاب.\n\n",
-      "releaseInfo": "2025",
-      "imdbRating": "4.2"
-    },
-    {
-      "id": "cee_3151625",
-      "type": "movie",
-      "name": "مشاكل داخلية 32B",
-      "poster": "https://cnth2.cee.buzz/vascin-poster-images/0DA41A94-EFAE-0153-D3C6-39D8FDF1966B_poster.jpg",
-      "posterShape": "poster",
-      "background": "https://cnth2.cee.buzz/vascin-poster-images/0DA41A94-EFAE-0153-D3C6-39D8FDF1966B_poster.jpg",
-      "landscapePoster": "https://cnth2.cee.buzz/vascin-poster-images/0DA41A94-EFAE-0153-D3C6-39D8FDF1966B_poster.jpg",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
-      "description": "الفيلم يقدم قصة إنسانية درامية تدور حول أب منفصل عن زوجته يحاول الحفاظ على علاقته القريبة مع ابنته المراهقة وسط مواقف تربوية محرجة ومتقلبة.\n\n",
       "releaseInfo": "2025",
       "imdbRating": "4.2"
     }

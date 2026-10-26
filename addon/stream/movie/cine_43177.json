@@ -1,3 +1,104 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/11EFFD82-2AE1-4AAF-C548-46D9D9BB3197_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135034&Signature=03N8eq9PLlHOlXOfmfnAXk9NOoc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-43177-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=dLSgUQbuFKlxMUZZ9laYhRuTufo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-43177-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=uovMQrB1njCmhgHPavlx%2FKudgaw%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/A25B806A-97E8-A29A-A6B0-2991346DE78C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135034&Signature=d0%2F9rC%2FNsGDViJew69HJCc2D4sA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-43177-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=dLSgUQbuFKlxMUZZ9laYhRuTufo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-43177-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=uovMQrB1njCmhgHPavlx%2FKudgaw%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/997A5495-6C1F-D6F9-0727-F399E206FDAF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135034&Signature=u0OcTi2CXBOCoexEtYeM%2BPGMlqE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-43177-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=dLSgUQbuFKlxMUZZ9laYhRuTufo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-43177-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=uovMQrB1njCmhgHPavlx%2FKudgaw%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/C5FE3DF8-B64A-920D-2817-948E2200DEAB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135034&Signature=KOA9dtsJokYZjLbJ4J4aTzWCR5c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-43177-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=dLSgUQbuFKlxMUZZ9laYhRuTufo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-43177-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=uovMQrB1njCmhgHPavlx%2FKudgaw%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Kara no Kyoukai Movie 6: Boukyaku Rokuon • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/BAD4E110-556E-0608-34C9-145E22D6C877_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135034&Signature=J8vrddzdGrmshDvWkIwk5e92258%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-43177-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=dLSgUQbuFKlxMUZZ9laYhRuTufo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-43177-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12EDD874-6D4D-5AC8-6370-BA37A66F529E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795588389&Signature=uovMQrB1njCmhgHPavlx%2FKudgaw%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

@@ -1,3 +1,104 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Kara no Kyoukai Movie 8: Shuushou • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9BAF2051-3390-9142-9DA4-E3C8B02DB2B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480522&Signature=A46IEO3Y9Tw9SpZOlbPV9Ka0PzA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-50074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=UQihuGHHTDQRNGFYfCVs%2BvxRYNM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-50074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=3XGpiQlC2HEUqbHggL3FKShIhdQ%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Kara no Kyoukai Movie 8: Shuushou • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/18B7ED14-BDC8-80B9-50EA-A07BD9C97879_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480522&Signature=zO2LCynvYtnKgncKkz89WgXOAHQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-50074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=UQihuGHHTDQRNGFYfCVs%2BvxRYNM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-50074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=3XGpiQlC2HEUqbHggL3FKShIhdQ%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Kara no Kyoukai Movie 8: Shuushou • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A2300F51-91A9-E1D6-B0FA-B87373C5489A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480522&Signature=Vl92NDScYKpqPz75uGzm%2BRBXvIs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-50074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=UQihuGHHTDQRNGFYfCVs%2BvxRYNM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-50074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=3XGpiQlC2HEUqbHggL3FKShIhdQ%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Kara no Kyoukai Movie 8: Shuushou • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AC18C822-3A53-000C-6D1C-3F5687CE125C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480522&Signature=eA287JyOQ8krZknFmDo5BLOG3yQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-50074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=UQihuGHHTDQRNGFYfCVs%2BvxRYNM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-50074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=3XGpiQlC2HEUqbHggL3FKShIhdQ%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Kara no Kyoukai Movie 8: Shuushou • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AA400FD2-42C6-4B29-1BFD-8D41AC8F3B15_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480522&Signature=dMiwkYmZ7FWO9lHU4MGRVusw4GM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-50074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=UQihuGHHTDQRNGFYfCVs%2BvxRYNM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-50074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5EF77B42-6264-49A2-94BC-7F549D735DC2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594823&Signature=3XGpiQlC2HEUqbHggL3FKShIhdQ%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

@@ -16,7 +16,14 @@
       "مغامرة | Adventure",
       "دراما | Drama"
     ],
-    "cast": [],
-    "director": []
+    "cast": [
+      "Emilia Clarke",
+      "Peter Dinklage",
+      "Kit Harington"
+    ],
+    "director": [
+      "David Benioff",
+      "D.B. Weiss"
+    ]
   }
 }

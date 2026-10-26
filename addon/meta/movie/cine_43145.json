@@ -2,14 +2,14 @@
   "meta": {
     "id": "cine_43145",
     "type": "movie",
-    "name": "The Garden of Sinners Chapter 4: The Hollow Shrine | Kara no Kyoukai Movie 4: Garan no Dou",
+    "name": "Kara no Kyoukai Movie 4: Garan no Dou",
     "mal_id": "4280",
     "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/28D1DE25-367C-51D4-36D6-D0DBB535FD7D_poster.png",
     "posterShape": "poster",
     "background": "https://cnth2.shabakaty.cc/vascin-poster-images/28D1DE25-367C-51D4-36D6-D0DBB535FD7D_poster.png",
     "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/28D1DE25-367C-51D4-36D6-D0DBB535FD7D_poster.png",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-    "description": "The Garden of Sinners Chapter 4: The Hollow Shrine | Kara no Kyoukai Movie 4: Garan no Dou (2008) • اكشن | Action، رسوم متحركة | Animation، جريمة | Crime",
+    "description": "بعد استيقاظ شيكي ريوغي من غيبوبة استمرت عامين، تكتشف أنها اكتسبت عيون إدراك الموت الغامضة، لكنها فقدت شخصيتها الأخرى «شيكي». وبينما تكافح مع وحدتها وقوتها الجديدة، تصبح هدفًا لروح غامضة تبحث عن جسد تستولي عليه\n\nAfter awakening from a two-year coma, Shiki Ryougi discovers that she has gained the Mystic Eyes of Death Perception but lost her other self, Shiki. As she struggles with loneliness and her new power, she becomes the target of a mysterious spirit seeking a vessel.",
     "releaseInfo": "2008",
     "imdbRating": "7.1",
     "genres": [
@@ -17,7 +17,16 @@
       "رسوم متحركة | Animation",
       "جريمة | Crime"
     ],
-    "cast": [],
-    "director": []
+    "cast": [
+      "Maaya Sakamoto",
+      "Kenichi Suzumura",
+      "Takako Honda",
+      "Ayumi Fujimura",
+      "Hiroki Touchi",
+      "Jôji Nakata"
+    ],
+    "director": [
+      "Teiichi Takiguchi"
+    ]
   }
 }

@@ -1,3 +1,129 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Dragon Ball Super: Beerus S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C83E4DA6-96CC-0935-83CB-F2141ADA3F55_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567085&Signature=iMN1NygaqQIQgWd%2BSDJjmvY0AJ0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=4gagOpbB8cz6zUUaEcbe5RiTy2g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=QPcrO%2BUiFxT2s2tUIhp4XHCdhjg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/06EB375C-9498-2930-C9A1-7FEE2E311A01_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=gpMyBP3f2fT8%2BXhcg6rwbqZHb5E%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Dragon Ball Super: Beerus S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/09CDF663-555F-4837-8802-42A2AE7658DA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567085&Signature=Iqy0WpWi60np0UQzZ%2ByxpDgrT9U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=4gagOpbB8cz6zUUaEcbe5RiTy2g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=QPcrO%2BUiFxT2s2tUIhp4XHCdhjg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/06EB375C-9498-2930-C9A1-7FEE2E311A01_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=gpMyBP3f2fT8%2BXhcg6rwbqZHb5E%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Dragon Ball Super: Beerus S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/26138CBB-FB59-A279-CBBD-9909D58B4A24_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567085&Signature=u91wVout3nz97DDVOxNUxNoUS90%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=4gagOpbB8cz6zUUaEcbe5RiTy2g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=QPcrO%2BUiFxT2s2tUIhp4XHCdhjg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/06EB375C-9498-2930-C9A1-7FEE2E311A01_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=gpMyBP3f2fT8%2BXhcg6rwbqZHb5E%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Dragon Ball Super: Beerus S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/633D5607-524D-8572-AD53-BDF6BD502189_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567085&Signature=0vLCDE6RHaRigMPeE0V7DLFXK%2Fw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=4gagOpbB8cz6zUUaEcbe5RiTy2g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=QPcrO%2BUiFxT2s2tUIhp4XHCdhjg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/06EB375C-9498-2930-C9A1-7FEE2E311A01_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=gpMyBP3f2fT8%2BXhcg6rwbqZHb5E%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Dragon Ball Super: Beerus S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1178355A-C946-B481-F925-2070E95532F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567085&Signature=vpmBfoT5en5IT7XY0NYYuvtUcFo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=4gagOpbB8cz6zUUaEcbe5RiTy2g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/476D8FF9-5104-4FCC-608C-0443E2AAF043_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=QPcrO%2BUiFxT2s2tUIhp4XHCdhjg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/06EB375C-9498-2930-C9A1-7FEE2E311A01_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601969&Signature=gpMyBP3f2fT8%2BXhcg6rwbqZHb5E%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

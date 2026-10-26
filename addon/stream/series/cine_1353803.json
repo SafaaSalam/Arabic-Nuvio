@@ -1,3 +1,154 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Oops! I'm in Jail S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/924B15CB-75D1-3039-E166-323A0D0FE7A9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135252&Signature=rG7ACamhKTJw66t8PxxGr7h3bM0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1353803-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=ndfKg0a4CBQKKhm9KhOTgqMmAKc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=hDxnXsshFnDZPzyszwPlyxq7Mh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=FiTOe0BPRkoPndmBCz%2FkzK5X1IY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1353803-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=HZLKDYexxcbVVqzxZFiaor37Ez0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Oops! I'm in Jail S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FC1A4637-2735-6458-FB80-994A0D629231_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135252&Signature=W8HvepDGv2wW6DRAUPD1I2IBbYA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1353803-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=ndfKg0a4CBQKKhm9KhOTgqMmAKc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=hDxnXsshFnDZPzyszwPlyxq7Mh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=FiTOe0BPRkoPndmBCz%2FkzK5X1IY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1353803-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=HZLKDYexxcbVVqzxZFiaor37Ez0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Oops! I'm in Jail S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2DAB64AF-13F8-3D84-CCBE-CF56CAF984D1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135252&Signature=BAV19%2BXAEynH22a%2FRCu7LrsizfQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1353803-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=ndfKg0a4CBQKKhm9KhOTgqMmAKc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=hDxnXsshFnDZPzyszwPlyxq7Mh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=FiTOe0BPRkoPndmBCz%2FkzK5X1IY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1353803-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=HZLKDYexxcbVVqzxZFiaor37Ez0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Oops! I'm in Jail S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AF4B64E1-E06C-9629-22D2-EBA0B80B5672_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135252&Signature=NqH4XKnBmq%2FXWmxY1Y5YfRH%2BQk0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1353803-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=ndfKg0a4CBQKKhm9KhOTgqMmAKc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=hDxnXsshFnDZPzyszwPlyxq7Mh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=FiTOe0BPRkoPndmBCz%2FkzK5X1IY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1353803-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=HZLKDYexxcbVVqzxZFiaor37Ez0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Oops! I'm in Jail S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DDF58B97-30B2-FFDC-1489-89BF0C444710_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135252&Signature=IsF9axE3ulCc%2F86HsJK9gS0Ncns%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1353803-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=ndfKg0a4CBQKKhm9KhOTgqMmAKc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/662BC86F-BBF0-B3F9-9540-E1BD10D16626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=hDxnXsshFnDZPzyszwPlyxq7Mh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1353803-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=FiTOe0BPRkoPndmBCz%2FkzK5X1IY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1353803-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAAC0AC6-D386-3B62-20E4-282D0796CD36_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602167&Signature=HZLKDYexxcbVVqzxZFiaor37Ez0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

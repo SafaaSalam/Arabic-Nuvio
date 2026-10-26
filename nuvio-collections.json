@@ -2,6 +2,7 @@
   {
     "id": "cinemana-home-collection",
     "title": "Shabakaty Cinemana Home (🇮🇶)",
+    "name": "Shabakaty Cinemana Home (🇮🇶)",
     "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
     "pinToTop": true,
     "focusGlowEnabled": true,
@@ -11,6 +12,7 @@
       {
         "id": "folder-cinemana_banner_movies",
         "title": "Featured Movies (Cinemana)",
+        "name": "Featured Movies (Cinemana)",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌟",
@@ -37,6 +39,7 @@
       {
         "id": "folder-cinemana_banner_series",
         "title": "Featured Series (Cinemana)",
+        "name": "Featured Series (Cinemana)",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/2EDFC3A2-0802-D8FC-4D2E-A0F4C7A59B95_cover.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌟",
@@ -63,6 +66,7 @@
       {
         "id": "folder-cinemana_group_410",
         "title": "Currently Airing Turkish",
+        "name": "Currently Airing Turkish",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/BFDF541A-9568-6DC0-EA00-E22C941C63E4_poster.jpeg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -89,6 +93,7 @@
       {
         "id": "folder-cinemana_group_26",
         "title": "Featured Movies",
+        "name": "Featured Movies",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/304B0856-37FB-6110-D889-B19563D95760_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -115,12 +120,13 @@
       {
         "id": "folder-cinemana_group_2",
         "title": "Featured Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/C223877B-FB24-4970-A7AB-5FBDEA734D1B_poster.png",
+        "name": "Featured Series",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/C223877B-FB24-4970-A7AB-5FBDEA734D1B_poster.png",
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
         "sources": [
           {
@@ -141,6 +147,7 @@
       {
         "id": "folder-cinemana_group_290",
         "title": "4K Movies",
+        "name": "4K Movies",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/304B0856-37FB-6110-D889-B19563D95760_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "💎",
@@ -167,6 +174,7 @@
       {
         "id": "folder-cinemana_group_407",
         "title": "Garden of Sinners Movies",
+        "name": "Garden of Sinners Movies",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/F4321F24-C119-EAEC-614A-78978529F685_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -193,6 +201,7 @@
       {
         "id": "folder-cinemana_group_311",
         "title": "4K Most Popular Series",
+        "name": "4K Most Popular Series",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/2CCA1AD0-4316-8362-6D00-40255C73D36D_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "💎",
@@ -219,6 +228,7 @@
       {
         "id": "folder-cinemana_group_392",
         "title": "4K Mission: Impossible",
+        "name": "4K Mission: Impossible",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/29C1CC76-923C-9DD9-0BA6-6AD215DE408B_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "💎",
@@ -245,6 +255,7 @@
       {
         "id": "folder-cinemana_group_30",
         "title": "4K Marvel Universe",
+        "name": "4K Marvel Universe",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/D0CAFE55-F0FC-C30C-A958-028E5A5C1EC5_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "💎",
@@ -271,6 +282,7 @@
       {
         "id": "folder-cinemana_group_386",
         "title": "4K James Bond",
+        "name": "4K James Bond",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/FBE41933-F21E-A6E3-97F8-109C5B55D4F4_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "💎",
@@ -297,6 +309,7 @@
       {
         "id": "folder-cinemana_group_377",
         "title": "Latest Asian Series",
+        "name": "Latest Asian Series",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/B594963B-560D-E159-5877-56387CFF258C_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -323,12 +336,13 @@
       {
         "id": "folder-cinemana_group_4",
         "title": "Latest Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/C223877B-FB24-4970-A7AB-5FBDEA734D1B_poster.png",
+        "name": "Latest Series",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/C223877B-FB24-4970-A7AB-5FBDEA734D1B_poster.png",
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
         "sources": [
           {
@@ -351,6 +365,7 @@
   {
     "id": "cinemana-movies-collection",
     "title": "Cinemana Movies (🇮🇶)",
+    "name": "Cinemana Movies (🇮🇶)",
     "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -360,6 +375,7 @@
       {
         "id": "folder-cinemana_newly_movies",
         "title": "Newly Added Movies",
+        "name": "Newly Added Movies",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🆕",
@@ -386,6 +402,7 @@
       {
         "id": "folder-cinemana_mov_upload_desc",
         "title": "Movies - Latest Uploaded",
+        "name": "Movies - Latest Uploaded",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -412,6 +429,7 @@
       {
         "id": "folder-cinemana_mov_release_desc",
         "title": "Movies - Newest Release",
+        "name": "Movies - Newest Release",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/54858168-8ACC-A810-1951-93FD6332D1B5_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🗓️",
@@ -438,6 +456,7 @@
       {
         "id": "folder-cinemana_mov_views_desc",
         "title": "Movies - Most Viewed",
+        "name": "Movies - Most Viewed",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0A831473-8DEF-1225-0AEF-974F6041939C_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -464,6 +483,7 @@
       {
         "id": "folder-cinemana_mov_stars_desc",
         "title": "Movies - Top IMDb Rated",
+        "name": "Movies - Top IMDb Rated",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/FD951829-6199-8E3B-C98F-66EEBF90EA70_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⭐",
@@ -492,7 +512,8 @@
   {
     "id": "cinemana-series-collection",
     "title": "Cinemana Series (🇮🇶)",
-    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+    "name": "Cinemana Series (🇮🇶)",
+    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/CD475EE4-C0EF-0A78-1338-4EB7A10BE0FB_poster.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -501,12 +522,13 @@
       {
         "id": "folder-cinemana_ser_upload_desc",
         "title": "Series - Latest Uploaded",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+        "name": "Series - Latest Uploaded",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/CD475EE4-C0EF-0A78-1338-4EB7A10BE0FB_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/CD475EE4-C0EF-0A78-1338-4EB7A10BE0FB_poster.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
         "sources": [
           {
@@ -527,6 +549,7 @@
       {
         "id": "folder-cinemana_ser_release_desc",
         "title": "Series - Newest Release",
+        "name": "Series - Newest Release",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/1416FD25-A4CB-9A82-CDF3-C5ACBB9902EE_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🗓️",
@@ -553,6 +576,7 @@
       {
         "id": "folder-cinemana_ser_views_desc",
         "title": "Series - Most Viewed",
+        "name": "Series - Most Viewed",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -579,6 +603,7 @@
       {
         "id": "folder-cinemana_ser_stars_desc",
         "title": "Series - Top IMDb Rated",
+        "name": "Series - Top IMDb Rated",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⭐",
@@ -607,7 +632,8 @@
   {
     "id": "cee-iraq-collection",
     "title": "CEE Movies & Series (🇮🇶)",
-    "backdropImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
+    "name": "CEE Movies & Series (🇮🇶)",
+    "backdropImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -616,12 +642,13 @@
       {
         "id": "folder-cee_newly_movies",
         "title": "CEE Newly Added Movies",
-        "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
+        "name": "CEE Newly Added Movies",
+        "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.cee.buzz/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
+        "heroBackdropUrl": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
         "sources": [
           {
@@ -642,6 +669,7 @@
       {
         "id": "folder-cee_popular_movies",
         "title": "CEE Most Viewed Movies",
+        "name": "CEE Most Viewed Movies",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/0A831473-8DEF-1225-0AEF-974F6041939C_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -668,6 +696,7 @@
       {
         "id": "folder-cee_top_movies",
         "title": "CEE Top Rated Movies",
+        "name": "CEE Top Rated Movies",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/FD951829-6199-8E3B-C98F-66EEBF90EA70_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⭐",
@@ -694,6 +723,7 @@
       {
         "id": "folder-cee_popular_series",
         "title": "CEE Most Viewed Series",
+        "name": "CEE Most Viewed Series",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -720,6 +750,7 @@
       {
         "id": "folder-cee_top_series",
         "title": "CEE Top Rated Series",
+        "name": "CEE Top Rated Series",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⭐",
@@ -748,6 +779,7 @@
   {
     "id": "3isk-turkish-collection",
     "title": "3isk Turkish Drama & Series",
+    "name": "3isk Turkish Drama & Series",
     "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -757,6 +789,7 @@
       {
         "id": "folder-3isk_latest_episodes",
         "title": "3isk Latest Turkish Episodes",
+        "name": "3isk Latest Turkish Episodes",
         "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
@@ -783,6 +816,7 @@
       {
         "id": "folder-3isk_turkish_series",
         "title": "3isk Featured Turkish Series",
+        "name": "3isk Featured Turkish Series",
         "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "❤️",
@@ -811,6 +845,7 @@
   {
     "id": "alooytv-series-collection",
     "title": "AlooyTv Gulf, Arabic & Turkish Series",
+    "name": "AlooyTv Gulf, Arabic & Turkish Series",
     "backdropImageUrl": "https://gb.alooytv16.xyz/uploads/video_thumb/2020.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -820,6 +855,7 @@
       {
         "id": "folder-alooy_latest_series",
         "title": "AlooyTv Latest Series",
+        "name": "AlooyTv Latest Series",
         "coverImageUrl": "https://gb.alooytv16.xyz/uploads/video_thumb/2020.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -846,6 +882,7 @@
       {
         "id": "folder-alooy_gulf_ramadan",
         "title": "AlooyTv Gulf Series",
+        "name": "AlooyTv Gulf Series",
         "coverImageUrl": "https://gb.alooytv16.xyz/uploads/video_thumb/1857.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌙",
@@ -872,6 +909,7 @@
       {
         "id": "folder-alooy_arabic_ramadan",
         "title": "AlooyTv Arabic Series",
+        "name": "AlooyTv Arabic Series",
         "coverImageUrl": "https://gb.alooytv16.xyz/uploads/video_thumb/1867.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌟",
@@ -898,6 +936,7 @@
       {
         "id": "folder-alooy_turkish_series",
         "title": "AlooyTv Turkish Series",
+        "name": "AlooyTv Turkish Series",
         "coverImageUrl": "https://gb.alooytv16.xyz/uploads/video_thumb/2033.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
@@ -926,6 +965,7 @@
   {
     "id": "akwam-collection",
     "title": "Akwam Movies & Series",
+    "name": "Akwam Movies & Series",
     "backdropImageUrl": "https://img.downet.net/thumb/178x260/uploads/gRCyb.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -935,6 +975,7 @@
       {
         "id": "folder-akwam_latest_movies",
         "title": "Akwam Latest Movies",
+        "name": "Akwam Latest Movies",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/gRCyb.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -961,6 +1002,7 @@
       {
         "id": "folder-akwam_latest_series",
         "title": "Akwam Latest Series",
+        "name": "Akwam Latest Series",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/rBg5S.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -987,6 +1029,7 @@
       {
         "id": "folder-akwam_arabic_movies",
         "title": "Akwam Arabic Movies",
+        "name": "Akwam Arabic Movies",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/xQ7LS.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🎞️",
@@ -1013,6 +1056,7 @@
       {
         "id": "folder-akwam_arabic_series",
         "title": "Akwam Arabic Series",
+        "name": "Akwam Arabic Series",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🌙",
@@ -1041,6 +1085,7 @@
   {
     "id": "arabic-drama-hub-collection",
     "title": "Arabic, Turkish & Asian Drama Hub",
+    "name": "Arabic, Turkish & Asian Drama Hub",
     "backdropImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -1050,6 +1095,7 @@
       {
         "id": "folder-tuktukcima_recent",
         "title": "TukTukcima Recently Added",
+        "name": "TukTukcima Recently Added",
         "coverImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -1076,6 +1122,7 @@
       {
         "id": "folder-lodynet_latest",
         "title": "LodyNet Latest Drama & Series",
+        "name": "LodyNet Latest Drama & Series",
         "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حورية-220x220.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -1102,6 +1149,7 @@
       {
         "id": "folder-krmzy_series",
         "title": "Krmzy Turkish Series",
+        "name": "Krmzy Turkish Series",
         "coverImageUrl": "https://krmzi.org/wp-content/uploads/2025/11/Deniz-S02-genis.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
@@ -1128,6 +1176,7 @@
       {
         "id": "folder-asia2tv_drama",
         "title": "Asia2TV Korean & Asian Drama",
+        "name": "Asia2TV Korean & Asian Drama",
         "coverImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/5v3OJe_3f-238x320.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇰🇷",
@@ -1154,12 +1203,13 @@
       {
         "id": "folder-5tv_featured",
         "title": "5TV Featured Series & Movies",
-        "coverImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/81IhL3ckAgJ9J8vHazlUA5BNs8G-768x1152.jpg",
+        "name": "5TV Featured Series & Movies",
+        "coverImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🌟",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/81IhL3ckAgJ9J8vHazlUA5BNs8G-768x1152.jpg",
+        "heroBackdropUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
         "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
         "sources": [
           {
@@ -1180,6 +1230,7 @@
       {
         "id": "folder-aflaam_movies",
         "title": "Aflaam Arabic Movies",
+        "name": "Aflaam Arabic Movies",
         "coverImageUrl": "https://aflaam.com/login",
         "focusGifEnabled": true,
         "coverEmoji": "🎞️",
@@ -1206,6 +1257,7 @@
       {
         "id": "folder-tuniflix_movies",
         "title": "TuniFlix Latest Movies",
+        "name": "TuniFlix Latest Movies",
         "coverImageUrl": "https://image.tmdb.org/t/p/w185/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇳",
@@ -1234,6 +1286,7 @@
   {
     "id": "arabic-anime-hub-collection",
     "title": "Arabic Subtitled Anime Hub",
+    "name": "Arabic Subtitled Anime Hub",
     "backdropImageUrl": "https://images.anime3rb.com/514289/158595.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -1243,6 +1296,7 @@
       {
         "id": "folder-anim3rb_latest",
         "title": "Anime3rb Latest Anime",
+        "name": "Anime3rb Latest Anime",
         "coverImageUrl": "https://images.anime3rb.com/514289/158595.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⛩️",
@@ -1269,6 +1323,7 @@
       {
         "id": "folder-anime4up_latest",
         "title": "Anime4Up Latest Anime",
+        "name": "Anime4Up Latest Anime",
         "coverImageUrl": "https://w1.anime4up.rest/wp-content/uploads/2026/10/bx209562-kQQbTKDuql9p.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⚔️",
@@ -1295,6 +1350,7 @@
       {
         "id": "folder-animerco_latest",
         "title": "Animerco Featured Anime",
+        "name": "Animerco Featured Anime",
         "coverImageUrl": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -1321,6 +1377,7 @@
       {
         "id": "folder-animephoenix_latest",
         "title": "Anime Phoenix Latest Episodes",
+        "name": "Anime Phoenix Latest Episodes",
         "coverImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QfzeiEiDAmg13_LCzxq_7lKGhiZFFdk42j7h8FY4YM39kOQupcwSXyyNxhshHQlGTTy6HXArQ0XwxLheT3IjyWZPxIQvih7hwyn-17PEpdVAa0yViP-sL-zr43OfZSAkNCKcF_CTsa5NUX1f-bVUmh0WcTqA2VaL-ltOTEDqPbrnPs4_m0GPn_myxLY/s800-q60-rw/yugioh_1998_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🦅",
@@ -1349,6 +1406,7 @@
   {
     "id": "arabic-sports-replays-collection",
     "title": "Football Match Replays & Live Sports",
+    "name": "Football Match Replays & Live Sports",
     "backdropImageUrl": "https://fullmatchshows.com/wp-content/uploads/2024/10/Real-Madrid-vs-Barcelona.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -1358,6 +1416,7 @@
       {
         "id": "folder-replaymatch_latest",
         "title": "FullMatchShows Latest Football Replays",
+        "name": "FullMatchShows Latest Football Replays",
         "coverImageUrl": "https://fullmatchshows.com/wp-content/uploads/2024/10/Real-Madrid-vs-Barcelona.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⚽",

@@ -109,18 +109,35 @@ function saveExtraSeed(seed) {
   fs.writeFileSync(EXTRA_SEED_PATH, JSON.stringify(seed, null, 2) + "\n", "utf8");
 }
 
+function cleanBilingualTitle(str) {
+  if (!str || typeof str !== "string") return str || "";
+  const s = str.trim();
+  if (s.includes(" | ")) {
+    const parts = s.split(" | ").map(p => p.trim());
+    const latin = parts.find(p => /[A-Za-z]/.test(p));
+    if (latin) return latin;
+  }
+  if (s.includes(" / ")) {
+    const parts = s.split(" / ").map(p => p.trim());
+    const latin = parts.find(p => /[A-Za-z]/.test(p));
+    if (latin) return latin;
+  }
+  return s;
+}
+
 function makeMetaItem({ id, type, name, poster, description, releaseInfo, imdbRating, logo }) {
   if (!id || !name || !poster) return null;
+  const cleanName = cleanBilingualTitle(name);
   return {
     id,
     type: type || "series",
-    name,
+    name: cleanName,
     poster,
     posterShape: "poster",
     background: poster,
     landscapePoster: poster,
     logo: logo || undefined,
-    description: description || name,
+    description: description || cleanName,
     releaseInfo: releaseInfo ? String(releaseInfo) : undefined,
     imdbRating: imdbRating ? String(imdbRating) : undefined,
   };
@@ -220,7 +237,14 @@ async function scrapeCeeCatalogs(seed) {
       seen.add(id);
       const ar = item.ar_title ? String(item.ar_title).trim() : "";
       const en = item.en_title ? String(item.en_title).trim() : "";
-      const name = ar && en && ar.toLowerCase() !== en.toLowerCase() ? `${ar} | ${en}` : ar || en;
+      let name = ar || en;
+      if (en && /[A-Za-z]/.test(en)) {
+        name = cleanBilingualTitle(en);
+      } else if (ar && /[A-Za-z]/.test(ar)) {
+        name = cleanBilingualTitle(ar);
+      } else if (en) {
+        name = en;
+      }
       const poster = item.imgObjUrl || item.imgThumbObjUrl || item.img;
       const meta = makeMetaItem({
         id,

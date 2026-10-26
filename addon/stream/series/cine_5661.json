@@ -1,3 +1,84 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Naruto S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/62BFDED9-28DC-F93A-ADA3-04508B288DDB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480995&Signature=A%2FUmZGbDpm2HrsNoSN2%2BVFwNrTw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-5661-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=ORh746PkdGItoBRi9%2FSGkjLu2Sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-5661-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=E4iEUlkmiJrEL0r2v2jyqeQtWGM%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Naruto S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/1AAB7608-4A93-C9CA-9E0A-1ECEB8097338_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480995&Signature=O1ZdmaZGAHQIikzE4iweTs25xdA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-5661-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=ORh746PkdGItoBRi9%2FSGkjLu2Sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-5661-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=E4iEUlkmiJrEL0r2v2jyqeQtWGM%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Naruto S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/AD87F632-02FC-2572-11FB-28B0B87F16EB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480995&Signature=9WOGY0%2Fim5O59YAF20%2B7hoYQJQ4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-5661-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=ORh746PkdGItoBRi9%2FSGkjLu2Sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-5661-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=E4iEUlkmiJrEL0r2v2jyqeQtWGM%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Naruto S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/69357FDE-85DF-3650-9926-297A0A74E7C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480995&Signature=T6Mwy%2B9jHrhzlOJjOxIFi1LouTk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-5661-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=ORh746PkdGItoBRi9%2FSGkjLu2Sg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-5661-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/22B043BA-F08F-14A3-8AB5-9D83C58F182A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602217&Signature=E4iEUlkmiJrEL0r2v2jyqeQtWGM%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

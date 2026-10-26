@@ -1,3 +1,129 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tank Chair S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/968B9CE0-7098-AB48-6795-F60A1E5B92D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567036&Signature=Q3FPY9lU811d577T013qHaUUG80%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144857-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=buInkOWg8Z6EGX%2FoAVTZtZT8P5Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=nOqPzh701BLkLGV4rMFp%2BCFlOic%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7BFF170B-7C0D-F944-49D1-359D65E2509D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=5fqCRiFxp6uAiHh%2BzefZwYTm6ps%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tank Chair S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6EA46807-C430-26E5-657F-A60426ED548B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567036&Signature=4gIeL6NhIsIUM4k3Ykq8zyZfJpc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144857-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=buInkOWg8Z6EGX%2FoAVTZtZT8P5Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=nOqPzh701BLkLGV4rMFp%2BCFlOic%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7BFF170B-7C0D-F944-49D1-359D65E2509D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=5fqCRiFxp6uAiHh%2BzefZwYTm6ps%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tank Chair S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/65F85C93-E80E-733E-9EC6-B76D3A9D5DAB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567036&Signature=IBWScZ8V57nO2%2BciId1%2ByhxSgl0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144857-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=buInkOWg8Z6EGX%2FoAVTZtZT8P5Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=nOqPzh701BLkLGV4rMFp%2BCFlOic%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7BFF170B-7C0D-F944-49D1-359D65E2509D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=5fqCRiFxp6uAiHh%2BzefZwYTm6ps%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tank Chair S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5BBBE7C2-77E2-329B-4295-00B11C231E9C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567036&Signature=t4JTEQlaTa7DlO3PuWC1SiqbGxA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144857-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=buInkOWg8Z6EGX%2FoAVTZtZT8P5Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=nOqPzh701BLkLGV4rMFp%2BCFlOic%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7BFF170B-7C0D-F944-49D1-359D65E2509D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=5fqCRiFxp6uAiHh%2BzefZwYTm6ps%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tank Chair S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5752B742-97CE-AE80-A9EA-2485038ECDD0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567036&Signature=YopDbY09%2FXDRjq%2FDdRtvfGb75ms%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144857-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=buInkOWg8Z6EGX%2FoAVTZtZT8P5Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18FCC73C-58B9-0925-90F9-045FD94CC427_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=nOqPzh701BLkLGV4rMFp%2BCFlOic%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144857-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7BFF170B-7C0D-F944-49D1-359D65E2509D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600663&Signature=5fqCRiFxp6uAiHh%2BzefZwYTm6ps%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

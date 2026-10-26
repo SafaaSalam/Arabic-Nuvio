@@ -2,14 +2,14 @@
   "meta": {
     "id": "cine_43146",
     "type": "movie",
-    "name": "The Garden of Sinners Chapter 5: Paradox Spiral | Kara no Kyoukai Movie 5: Mujun Rasen",
+    "name": "Kara no Kyoukai Movie 5: Mujun Rasen",
     "mal_id": "4282",
     "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/620ADA8C-CCBD-C86A-0433-88F2E640A574_poster.png",
     "posterShape": "poster",
     "background": "https://cnth2.shabakaty.cc/vascin-poster-images/620ADA8C-CCBD-C86A-0433-88F2E640A574_poster.png",
     "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/620ADA8C-CCBD-C86A-0433-88F2E640A574_poster.png",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-    "description": "The Garden of Sinners Chapter 5: Paradox Spiral | Kara no Kyoukai Movie 5: Mujun Rasen (2008) • اكشن | Action، رسوم متحركة | Animation، جريمة | Crime",
+    "description": "بعد سلسلة من الحوادث الغامضة، تتورط شيكي ريوغي مع الشاب توموي إنجو، الذي يدّعي أنه قتل والديه. وأثناء تحقيق شيكي في الأمر، تكتشف أن الحقيقة أكثر تعقيدًا مما تبدو عليه، لتجد نفسها وسط متاهة قاتلة من الحقائق المشوهة والهوية والتلاعب الخارق للطبيعة\n\nAfter a series of mysterious incidents, Shiki Ryougi becomes involved with Tomoe Enjou, a young man who claims to have murdered his parents. As Shiki investigates, she discovers that the truth is far more complicated than it appears, leading her into a deadly maze of distorted realities, identity, and supernatural manipulation.",
     "releaseInfo": "2008",
     "imdbRating": "7.9",
     "genres": [
@@ -17,7 +17,16 @@
       "رسوم متحركة | Animation",
       "جريمة | Crime"
     ],
-    "cast": [],
-    "director": []
+    "cast": [
+      "Maaya Sakamoto",
+      "Kenichi Suzumura",
+      "Takako Honda",
+      "Ayumi Fujimura",
+      "Hiromasa Touji",
+      "Jouji Nakata"
+    ],
+    "director": [
+      "Takaaki Hirao"
+    ]
   }
 }

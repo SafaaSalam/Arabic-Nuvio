@@ -1,3 +1,129 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/48892261-477E-BCEA-32E0-8DC3F0F558B4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394385&Signature=l7LK8SjeIvt%2FEBzxWwJNKWWgvOM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-73056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=J9cEaN444Xtil43%2F%2BK2LzwEJAcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=JNWAY%2FtHNtifE28T999mi8xe1Vw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14413354-9C11-5AD9-6D01-C5B745B0AA21_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=WiZhPht1dEhqho0aCBPjY%2BRNNh0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/EC83B4A7-240F-5F4C-24AE-182BABEA8A02_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394385&Signature=tXsc4pxhwuuOfndNWtolRH9htjQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-73056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=J9cEaN444Xtil43%2F%2BK2LzwEJAcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=JNWAY%2FtHNtifE28T999mi8xe1Vw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14413354-9C11-5AD9-6D01-C5B745B0AA21_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=WiZhPht1dEhqho0aCBPjY%2BRNNh0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/0AED46F6-46F1-2CEE-4039-01212AA3D3FC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394385&Signature=KBkP8oXe1N1sOqmD%2BjrGKDh%2F6cg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-73056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=J9cEaN444Xtil43%2F%2BK2LzwEJAcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=JNWAY%2FtHNtifE28T999mi8xe1Vw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14413354-9C11-5AD9-6D01-C5B745B0AA21_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=WiZhPht1dEhqho0aCBPjY%2BRNNh0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/0192EBB1-5541-D9B9-74F1-B8F2C5DF49C3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394385&Signature=taR9PZeuOzoDihSF%2BT8eb9pRbBw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-73056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=J9cEaN444Xtil43%2F%2BK2LzwEJAcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=JNWAY%2FtHNtifE28T999mi8xe1Vw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14413354-9C11-5AD9-6D01-C5B745B0AA21_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=WiZhPht1dEhqho0aCBPjY%2BRNNh0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/3A7EBF92-C3D4-17F3-178B-3A1268FA4B38_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394385&Signature=0xQiuE6xiBilRBlu2Q9zKuShmgM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-73056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=J9cEaN444Xtil43%2F%2BK2LzwEJAcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3A94BC88-04EF-4F82-BAF7-3A5DEDDF8E3D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=JNWAY%2FtHNtifE28T999mi8xe1Vw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-73056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/14413354-9C11-5AD9-6D01-C5B745B0AA21_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597943&Signature=WiZhPht1dEhqho0aCBPjY%2BRNNh0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

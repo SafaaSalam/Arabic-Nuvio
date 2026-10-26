@@ -2,7 +2,7 @@
   "meta": {
     "id": "cine_110484",
     "type": "movie",
-    "name": "الرساله | الرسالة",
+    "name": "الرسالة",
     "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/CA4ED274-3D19-89F8-1874-26118F0736D8_poster.png",
     "posterShape": "poster",
     "background": "https://cnth2.shabakaty.cc/vascin-poster-images/CA4ED274-3D19-89F8-1874-26118F0736D8_poster.png",
@@ -14,7 +14,15 @@
     "genres": [
       "تاريخي | History"
     ],
-    "cast": [],
-    "director": []
+    "cast": [
+      "أحمد مرعي",
+      "حمدي غيث",
+      "عبدالله غيث",
+      "محمد العربي",
+      "منى واصف"
+    ],
+    "director": [
+      "مصطفى العقاد"
+    ]
   }
 }

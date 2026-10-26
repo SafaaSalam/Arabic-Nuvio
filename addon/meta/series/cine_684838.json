@@ -15,8 +15,17 @@
       "دراما | Drama",
       "رومانسي | Romance"
     ],
-    "cast": [],
-    "director": [],
+    "cast": [
+      "هند نزار",
+      "ألكسندر علوم",
+      "صبا إبراهيم",
+      "كاظم القريشي",
+      "غسان إسماعيل",
+      "ريهام فؤاد"
+    ],
+    "director": [
+      "دافيد أوريان"
+    ],
     "videos": [
       {
         "id": "cine_684838",
@@ -24,8 +33,1099 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6BCA6510-9282-2F60-B4B3-25B5E421E0EA_poster.png",
-        "overview": "ألماس مكسور",
-        "streams": []
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1D394FEF-6D26-83D5-1BC8-D96C07B44174_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050183&Signature=WiECCO5AkqdmrsPUmLVVDONXFg4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2CD2C56-F822-1FDE-10AD-56AF143B3A32_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480780&Signature=Gdmw2vR8u9HyZRLs5eYTPM5j9KI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F0E05DA0-CD34-9CFD-C7F1-BB16AAFD4C9E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050183&Signature=NohHW3BfDYJeKrSR0n9adqK%2BaCI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/0D8F259A-283C-97E2-B9A8-823427B6E1DD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567264&Signature=ArV3nhG5pUb5bwBlu1CKn9dxY5Q%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/6B661093-2C4A-183D-0179-BFB607092752_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567264&Signature=a6vB4XHSJpTLo2jHRQ52HppWaFs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684841",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1CB323DD-7FC4-5410-362D-BA70BF27503A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050938&Signature=5a%2FTTxzmSDTmY6ZJpnm8bWxfcO8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F821298B-F64B-C390-462A-414187157863_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569590&Signature=xMsrptcgcpyPc2th13J9zJMvSV4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C0D47883-2116-2175-329E-E76B1914D65D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050938&Signature=uuHDIUxvF3HpLbutNd1oKyX8vko%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/CEF39247-70CC-84E3-FCC1-CFD1AAF8A9ED_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569590&Signature=V0gk9SjCyp3QIwvaHl1Ut5Ku1sQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/8884E724-3EE3-5A1C-3A9B-C76476A6610C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569590&Signature=ESwStu18UADaUSdWFNjA7gMQbPo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684844",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/162BF82F-E4FA-6CA4-8ED2-ADB52A38DCDE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050841&Signature=Mrw5OE3abYGH4KbYBAyMI2f9kEg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C1B2008E-54FB-214D-A736-E4AF313BD5EF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963778&Signature=hbGREi2voxC47xcJ7m%2F8S1dL3H0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/733932D1-5768-24E8-4602-307E8D0CF51B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050841&Signature=Udrg5Cxv%2BfLaUf2%2FAQ0yUgJ1v4c%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/115ADB4D-B8BB-CB40-203A-EB0E340E913A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050841&Signature=yrsOJ4Rf9Y%2FNzzAHVXEKwdZWGRo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/ACD29B9A-4D6F-3D05-865C-EB2790635B1E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050841&Signature=nutAGwyIaKo9GjVMyRdZ1qeju2A%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684847",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/5DAB0C97-B345-A6D0-5996-8C1737371FD6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793223772&Signature=vR8Z93WKTQzV7LCpxyMVmd52sfg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/59D69F9B-86E4-7940-F2FB-22BFA6B70A99_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793223772&Signature=V8BmF%2BScpmslMNuPKWKDLBQbZMs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6A8A6B0D-0EAE-641F-25AF-BC9A9FBCEFF4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051138&Signature=0%2B3b4Wivy2RgwRkSuFFDVb1br1M%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/4613DA4F-3551-F9D3-6A68-123D44FBA13F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572239&Signature=32TMZAeuQX9PRicMpRyU6jQtNDc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/C507C790-39D1-F655-F77C-348194724BFB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572239&Signature=QIiIUx9nxf9xMVcfT1BAKAhM59I%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684850",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0A136CF9-FD5A-FF17-3292-6BC4B36513F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051228&Signature=22X3GQGL1XQsIod4vtcV1grYrCg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1FFEBBB0-3139-241F-2745-E3B538F45EE2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793308994&Signature=%2BduPcsW%2FH6dCjWGdFh6uf59UK4Y%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/47C72EF9-EE0B-00A6-A508-05FA42DB59A9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051228&Signature=ZBOpokKQ7g%2F5AOll8blvkeR3XX0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/BC531646-2E5F-58F1-E719-E076598B39F3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572856&Signature=0W4FsKo%2BYd3AW%2FvujII%2FQ9JLY0c%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/39FED58B-3548-0B37-C09F-CFF7694D5AB7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572856&Signature=EGXwbdp2WQJ2j%2B3rXLHdguF3wN0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684853",
+        "title": "الموسم 1 - الحلقة 6 | Season 1 Episode 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E06 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/FA5C77AC-CDCE-E25F-7BD9-3FE9D650C58D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394797&Signature=JCQZwBGVt6o7OYWv4vIp9l449v4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E06 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/425A006E-6A96-A6E5-4D0F-46B78C2A3C1F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394797&Signature=TJVE4Q8hddt6wghb3oEAmU1PQEQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E06 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/96E8286B-1A18-C223-B4F2-760D85A809AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051737&Signature=oLdaeU7Zq2xm5zPufU2B%2FOSsBfA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E06 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/2867A9BD-30BF-31AF-DF6B-1CC523EB24DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051737&Signature=TfvHEawTIbfUnC8CcxacsfBOxqM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E06 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/0DD99DEE-B877-CAF2-B3F5-9F58C904C679_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051737&Signature=%2BFuhEhG9VYtDirQk1Wz1oPMogrw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684856",
+        "title": "الموسم 1 - الحلقة 7 | Season 1 Episode 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E07 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/5900E7F9-44D0-B594-23D5-6A529F088C7B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309164&Signature=fBqXq8BRHbW9JwqMY5IwgYI87gs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E07 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E525B6E6-B460-A0F3-DC15-DF2ADB30ABEF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792965956&Signature=CIgEKIurPrVaQsoMGdQ9bXqxVR4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E07 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D4A8C146-661D-55D8-D27C-27F824429A4F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309164&Signature=84EalNuTQP4Hi6bt%2FX0ZKc9CxU4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E07 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/CCF12C16-181E-AE49-FD78-4BFA11B71D5A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792965956&Signature=jqzfKk9rlW4itrKK0sXMTX8vzEo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E07 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/FE887841-72F2-CCC5-05BC-F4FD39CC1CDB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792965956&Signature=eaphww%2FTWy%2B%2FImNKL%2BaZmc09WM4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684859",
+        "title": "الموسم 1 - الحلقة 8 | Season 1 Episode 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E08 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/86F82240-463B-D97F-BC63-B54D215FF060_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221939&Signature=jZLGIJHFrJxAYXkLwFJ9wvpMv9Y%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E08 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/10124863-6DC3-A623-D051-0A1DC7FCA6E9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221939&Signature=2TTNMGULwyeoykc6K1slZolenoU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E08 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/42F24667-0A0F-1816-C67C-1201DE2A72C5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=00IJiMMiuUGZlVgQwA2DyiCp4Bk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E08 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/C8A86360-90EE-3EA3-F0E3-675F35BE1D40_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=ZopzDGbc02I%2FQ3%2B82nRad7nlML4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E08 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/EE148D43-855E-3063-553A-1FC0B33F74F1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=50suXJDEMJRS2bjvbUg6Yo1Jdr0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684862",
+        "title": "الموسم 1 - الحلقة 9 | Season 1 Episode 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E09 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/482DBC94-9B92-0DB2-2DC0-F025338E9D00_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221947&Signature=EpC6l7dwsMlF%2BCj9b9uHuZ9t7Jo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E09 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D3B6A9E9-E1E8-1727-0C97-301F78C95045_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=yl6TcP3q3n%2BvUhWc4I%2B5q%2FHV8LE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E09 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8B5B10B8-8C30-BDF2-8FC4-D09562882B02_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=8helko6FxwmBxD%2B5TlqBn6wOj10%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E09 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/2F6F9848-2CC8-BB7D-2A8C-092DF012155E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=26YpzCRrwyuJCpthdIjy7W3H5N0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E09 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/7D2B9B87-E3E3-82CC-1330-3139CCA8D0E7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=t064IoxhTp%2FQ0NdU%2FLFkhM%2Ff%2BpQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684865",
+        "title": "الموسم 1 - الحلقة 10 | Season 1 Episode 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E10 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8C08D908-9F41-3234-FA7B-97192D72257D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221963&Signature=CT%2B7hfYLuQ3Slzzk05K805%2FVBwY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E10 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/7397905C-2F2F-CFD6-7353-9B4584100DFC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221963&Signature=sbT9gkYwiaq78XQ5H0m9%2BOjz6RM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E10 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F18EEC11-B665-535F-B067-1B8E72BA50DF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221963&Signature=roobXl132IxjARC0%2FIQyJhHXLkc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E10 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/5410C9BF-E61F-C274-F89E-C8C83B7E95C3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=bJaVIKldXRGmOLbg6y7acrIAl7M%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E10 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/8C691F00-5752-8B8E-D822-A85517854904_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057840&Signature=Gy6U3tkjttF0u3IwTCb2B9GYBI0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684868",
+        "title": "الموسم 1 - الحلقة 11 | Season 1 Episode 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E11 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/5C59242E-91C8-5875-C3DA-C01D45EBD271_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394874&Signature=rOVN5M8hQihkbcemZ1hyvZR5xoQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E11 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3908A9F4-4C24-4A03-9BB3-262CD582476D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394874&Signature=F8wor16JmySaAUqfarlyhaK7ygo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E11 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/7080F073-71F9-7E52-2927-C3F8C99F6DE7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394874&Signature=j61m6qSe%2Fd8ZPM%2BTJJgRQ%2FqKmEk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E11 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/71434D25-F393-1713-F93D-85F47B55B1BE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048773&Signature=HXAQ7LxFhPTaCS7G7c%2FNSBm439U%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E11 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/3FF46774-2A2E-F02F-1F07-E975D521F060_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048773&Signature=OD%2BkLrkvYJkcZoKt2rz94lW9UKs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684871",
+        "title": "الموسم 1 - الحلقة 12 | Season 1 Episode 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E12 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/40701747-B329-038F-C87D-EF58F62986A7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394257&Signature=PBOw3wqX%2FlHgxB80WN4IQ6nUyag%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E12 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2C4DFA7-5116-7CD5-7AA3-8F7B65674BFA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048777&Signature=sTzoUJTzAGAcoT2U7otoN1fr5sQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E12 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/51C1B89A-4661-154E-A2B0-B0A551F51A3A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394257&Signature=KsWy7ngorJirmSxKYDQ%2FiWpS158%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E12 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/AAF4135C-FC2F-AA6B-04A0-42B0D65B8381_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048777&Signature=Vg93CaPg%2FJod0hZ6QcGWzQGGmwQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E12 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/9E8DFD4B-79BA-879B-66C2-BE6F982F4DF9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048777&Signature=v%2BjHGFXf3j%2F1Mf3uY%2BpZVBl3PWA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684874",
+        "title": "الموسم 1 - الحلقة 13 | Season 1 Episode 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E13 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/DE3B87CB-3185-E10A-7B6A-FB17CE3252AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137277&Signature=gPKa%2FRs2nEmndL6ywzKEu2tC7hk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E13 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/5C674D34-5C57-3064-38BA-DC9E81734C95_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137277&Signature=dBf7bQfsDnvYpQ18ziqZZH0sMEA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E13 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/24F86C8B-1427-25E9-BC48-1A61036052E1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481022&Signature=ZacXKYm5Zrxp3Uuu%2B61dzKVGzeE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E13 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/B441C77B-DF13-87A0-1691-5275B9B09FC1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137277&Signature=xZ%2BC%2FX2%2BPSW%2F6zROQme5%2F9oqAQ0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E13 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/767A08D1-D432-D492-5AB2-A155445F6D94_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137277&Signature=Y2MbqHMfgcOwb1k61u576alLaT0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684877",
+        "title": "الموسم 1 - الحلقة 14 | Season 1 Episode 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E14 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/70602987-D9E5-F6F1-B73F-359143E24556_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482305&Signature=oBFnNv10fdZL%2FivxLfRA6Y8bAxk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E14 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/439666C3-4EC3-695D-3B4E-9CA1CCF5B9DF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482305&Signature=WJ6sUAYYuvpoJfNhOWjZcJM2vAc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E14 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/45FAE9F4-ED9B-5321-8AC2-9926D0C977AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482305&Signature=qXzF95Ay0nKdsHdVeB37xDcZ7d4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E14 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/6801FFD0-6578-59A9-92A3-5AAF259657DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224685&Signature=nEwAUib2JbMv99xFyWLt%2B44amVE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E14 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/6158B9C2-E641-AD42-B2B7-F3472ABDFABC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224685&Signature=bWQZeev823zEvvp5P%2FfaTIfOzdA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684880",
+        "title": "الموسم 1 - الحلقة 15 | Season 1 Episode 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E15 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3F7E8C78-6FF8-CADA-2B06-7D05130BCB74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482773&Signature=UFap19g3eP7uu4dYys7rj6c3Sao%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E15 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/75BA5465-1601-2D00-2AC1-BC5ED9BD59A9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482773&Signature=hRtDp9mmF%2BYN3xbG%2FjzmWMiSOlA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E15 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/026A50D3-8FAE-EF71-2343-7AB41731B9E0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482773&Signature=jcElfPFghxlxWcLIZFUEhTW2ZsU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E15 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/A3248059-7408-249F-4BCD-B67BE1D49077_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139827&Signature=rzyRIVLH88M7AdkSWj29atmkQyQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E15 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/1D018696-EA82-78F3-4C7C-EDA2D5D73022_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139827&Signature=evfra1vzJ0rx1PYUyC7dKXq74dw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684883",
+        "title": "الموسم 1 - الحلقة 16 | Season 1 Episode 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E16 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6938BD22-4BF8-5852-4411-D526744B6E4D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=aVwECuPVAvUIU3iagNZGFUUsKkc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E16 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D5E6850C-DF1C-2EE4-34DF-05D1F2E4EE92_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=WB2OCQ9QOfOSVetAbxH%2F9FsrFb4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E16 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/61D71370-66C3-9F0D-FA35-AF31246216A8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=zL0nozYJHUH%2Fpqle3A%2FSDE%2BYssw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E16 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/5F888686-A8E8-DFF5-21F5-7F690E070E67_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=fjIv2TwO9Oo5PXk7g01t3Y4MUq0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E16 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/BB37997C-69A0-DEA5-D848-26958BBE6033_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=PLrY3gp4gTagYjtXAUSr%2BWSBbDw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684886",
+        "title": "الموسم 1 - الحلقة 17 | Season 1 Episode 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E17 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4E25862E-DE84-0E1E-4A24-46C50DAC68D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395933&Signature=3%2B7aseIGgvThVetTG3c1clEV8tg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E17 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/90067C95-536F-8BD6-B5D8-023BD3F73F91_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480616&Signature=9QrE1BGRuWlEMXrXKvnCzwjenYM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E17 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F553C83D-8BC7-6A6C-E3BA-85DEA13BC776_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395933&Signature=my4mmeKPBayh4RXNlAYXei%2BZltI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E17 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/947C3518-BFCD-37D6-411C-C82D4D0360FA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395933&Signature=Mqmk795MhO2wLfgklob3HbP9hes%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E17 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/96723EA3-8844-2B21-F81E-C8F97C05F1B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395933&Signature=dPmifclS08ZvnmhXvkl1EzL8Epg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684889",
+        "title": "الموسم 1 - الحلقة 18 | Season 1 Episode 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E18 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1A684BB5-3849-C452-F1AF-4BA5C598DB6E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224698&Signature=YCq1FSQ983tOQ8k0J%2FytBDy17YM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E18 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D9B4414C-B6EC-3DDC-C934-B6CC51B226BE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224698&Signature=98nSUsN%2FCxyHg5k5tkAPeQF4TA8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E18 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0E3BB29C-9A9B-A9A8-07A8-0C73C3B46E62_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224698&Signature=1eVYMgVwWZlX62pQ6Y0lhaCcwXk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E18 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/B24AE8AF-21D4-4804-393D-81D89007C725_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224698&Signature=1308W2mteT%2BiDeMbnimKOjL3qzU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E18 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/1F3CFE86-1870-2DC4-421E-FCE120A95A47_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224698&Signature=tbWnpiHwm%2FugisEvycF59dhE5EA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684892",
+        "title": "الموسم 1 - الحلقة 19 | Season 1 Episode 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E19 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1305533D-AD19-8BC8-5959-341AC140271D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481645&Signature=Ylp2LLVlxfY4TUVR9fYULXguXko%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E19 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/5BE13DD8-23DB-D8B5-A22A-99EF8034A803_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481645&Signature=imPv4KOeqgfG%2FB0A6dbKz3acavk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E19 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4CBC4A43-BD75-1DE9-EC21-1D2E7DCF07D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481645&Signature=cpFfA9GipanRi5whMEzHjKp9Wdo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E19 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/469B6BAF-BAD2-8616-CCF6-1D64EFB80E03_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481645&Signature=EU6idCVWDwjxYoeuNBtzaitbJTU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E19 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/4730FE71-1319-585B-E7EC-0ABF697FE101_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481645&Signature=nFQl0JwsnWBU%2FzOV%2BKOcW03XtWc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_684895",
+        "title": "الموسم 1 - الحلقة 20 | Season 1 Episode 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CE552258-616B-C134-99C6-710A86F52507_poster.png",
+        "overview": "علاقة حب بين شابة من الريف و طبيب لتلاقيهم عدد من الصعوبات، وتتطرق الأحداث حول قضايا التزوير وتجارة وبيع الأعضاء البشرية",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "ألماس مكسور S01E20 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6F6C1F54-30A3-65E4-B64C-2F87A4AE187F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793485024&Signature=0wZ%2FhOBC6J9W6aFpswC1J0%2FDNNQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "ألماس مكسور S01E20 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/FD1F40DE-8563-0418-9188-1BEF0A7DDB73_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224703&Signature=Hq60etmjiowOcMkH%2FxCYUW5uRC8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "ألماس مكسور S01E20 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8C40A586-E608-1E51-373E-3C612E5EC813_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224703&Signature=yzlK7AfFDxGeE5%2F3%2ByxG33%2FMKgQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "ألماس مكسور S01E20 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/30DBBC14-9F2B-BDE1-9B5A-52287B8507BB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224703&Signature=9VE4gIMb3c%2B8VCyY0%2BjIR3XKA5Q%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "ألماس مكسور S01E20 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin22-mp4/EB9E9034-F979-0616-1F6D-C69292B077CC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224703&Signature=NPSlVcTvPjzLAOJJP6EoN6GKhYs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
       }
     ]
   }

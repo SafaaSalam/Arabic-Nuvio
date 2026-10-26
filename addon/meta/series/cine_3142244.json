@@ -18,8 +18,17 @@
       "خيالي | Fantasy",
       "لعبة | Game"
     ],
-    "cast": [],
-    "director": [],
+    "cast": [
+      "Amasaki Kouhei",
+      "Mizunaka Masaaki",
+      "Seto Asami",
+      "Sugiyama Riho",
+      "Tachibana Tatsumaru",
+      "Toki Shunichi"
+    ],
+    "director": [
+      "Kouno Ayako"
+    ],
     "videos": [
       {
         "id": "cine_3142244",
@@ -27,8 +36,674 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/D417A373-C7B5-CF78-0606-D44EF9E3EA10_poster.jpg",
-        "overview": "Tempal: Item no Chikara",
-        "streams": []
+        "overview": "يدخل شاب غارق في الديون إلى لعبة واقع افتراضي شهيرة، ويحصل على فئة الحدّاد الأسطوري. مستعيناً بمهاراته في صناعة المعدات، يسعى لتحقيق الثروة والشهرة ليصبح لاعبًا أسطوريًا\n\nA debt-ridden young man enters a popular VR game, where he unlocks the legendary blacksmith class. Using his crafting abilities, he strives to gain wealth, fame, and become a legendary player.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tempal: Item no Chikara S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/29D6416B-78D6-77CE-EA20-E2449F2434D2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566923&Signature=slpzEb5gXgzI2CUzWt0oWi9BDs8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142244-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=mA559vo4RNjL61yGofaPCxyPo%2FU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=HFfkSqf7jlERpkLj17TYJrZfPMg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF8D7E90-186A-5464-C3B2-64EDDC2EDA4B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=MnljKEBQj1ZgQYNNTiiDM21jGGI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tempal: Item no Chikara S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2F9066F-F358-397A-FCD5-40C87C175A06_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566923&Signature=s5x1tyPPDflKFMteSTtyN23RmA8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142244-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=mA559vo4RNjL61yGofaPCxyPo%2FU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=HFfkSqf7jlERpkLj17TYJrZfPMg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF8D7E90-186A-5464-C3B2-64EDDC2EDA4B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=MnljKEBQj1ZgQYNNTiiDM21jGGI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tempal: Item no Chikara S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C33F20FF-B767-332B-836A-F57BE1994956_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566923&Signature=umt8Wy%2F3wdutF3Y7PQ7o4ctoBRo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142244-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=mA559vo4RNjL61yGofaPCxyPo%2FU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=HFfkSqf7jlERpkLj17TYJrZfPMg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF8D7E90-186A-5464-C3B2-64EDDC2EDA4B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=MnljKEBQj1ZgQYNNTiiDM21jGGI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tempal: Item no Chikara S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/5CCFF688-B80E-C18D-5760-E5AEFADC9678_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566923&Signature=KVOlK4fp1AZvDrxarcKQb%2FjQgUQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142244-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=mA559vo4RNjL61yGofaPCxyPo%2FU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=HFfkSqf7jlERpkLj17TYJrZfPMg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF8D7E90-186A-5464-C3B2-64EDDC2EDA4B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=MnljKEBQj1ZgQYNNTiiDM21jGGI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tempal: Item no Chikara S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D1418B88-30C0-BDD1-4A69-E47D33068963_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566923&Signature=zPzAj5xgFLCorMdPgVKSm3mHVqg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142244-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=mA559vo4RNjL61yGofaPCxyPo%2FU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2F04AB30-65FA-5C39-EA70-3F9A5FC35782_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=HFfkSqf7jlERpkLj17TYJrZfPMg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142244-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EF8D7E90-186A-5464-C3B2-64EDDC2EDA4B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600443&Signature=MnljKEBQj1ZgQYNNTiiDM21jGGI%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3142247",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/373C0D93-55D3-5A90-6284-1B4E86935B0B_poster.jpg",
+        "overview": "يدخل شاب غارق في الديون إلى لعبة واقع افتراضي شهيرة، ويحصل على فئة الحدّاد الأسطوري. مستعيناً بمهاراته في صناعة المعدات، يسعى لتحقيق الثروة والشهرة ليصبح لاعبًا أسطوريًا\n\nA debt-ridden young man enters a popular VR game, where he unlocks the legendary blacksmith class. Using his crafting abilities, he strives to gain wealth, fame, and become a legendary player.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tempal: Item no Chikara S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/393092C8-FBE4-6FC8-8FB1-792AE5459843_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567364&Signature=Pcm3q1SS5RoVc8i2z%2FkjF5ScYNs%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=Ak2H1c8EsM1i29XnGlwuuL4eNf8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=LEv4yKCQqQuZCGCZz1Rd9fCL9Us%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/35C3F10A-BF23-4208-5606-383B1230D11C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=U1NOSUnxD7F%2FE7xAp%2BTWLq3vcPs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tempal: Item no Chikara S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/7FE6F916-C2F0-600D-3EF1-311FAEFD6ECB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567364&Signature=du940IrZEAvyfHOkjGU%2F%2FmmXMbw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=Ak2H1c8EsM1i29XnGlwuuL4eNf8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=LEv4yKCQqQuZCGCZz1Rd9fCL9Us%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/35C3F10A-BF23-4208-5606-383B1230D11C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=U1NOSUnxD7F%2FE7xAp%2BTWLq3vcPs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tempal: Item no Chikara S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6FE96B7D-DB28-83B9-053D-8298E3CD0B6D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567364&Signature=QGR7%2BDpUo6eATKmoERuXA19YQ%2Bg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=Ak2H1c8EsM1i29XnGlwuuL4eNf8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=LEv4yKCQqQuZCGCZz1Rd9fCL9Us%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/35C3F10A-BF23-4208-5606-383B1230D11C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=U1NOSUnxD7F%2FE7xAp%2BTWLq3vcPs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tempal: Item no Chikara S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/18C04095-3D1C-9A72-BF66-A18D97955FAB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567364&Signature=fStCCoO%2B2TUeyURsQQlfUlaXU%2Bs%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=Ak2H1c8EsM1i29XnGlwuuL4eNf8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=LEv4yKCQqQuZCGCZz1Rd9fCL9Us%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/35C3F10A-BF23-4208-5606-383B1230D11C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=U1NOSUnxD7F%2FE7xAp%2BTWLq3vcPs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tempal: Item no Chikara S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/FF1660B4-2C15-6C8B-B9D3-E9F7275880DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567364&Signature=It%2BMJOTNSYRZCCqxfIRRXjVWgUs%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=Ak2H1c8EsM1i29XnGlwuuL4eNf8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B2231985-6E70-D828-64BD-7B848F21F82E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=LEv4yKCQqQuZCGCZz1Rd9fCL9Us%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142247-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/35C3F10A-BF23-4208-5606-383B1230D11C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795600856&Signature=U1NOSUnxD7F%2FE7xAp%2BTWLq3vcPs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3142250",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/373C0D93-55D3-5A90-6284-1B4E86935B0B_poster.jpg",
+        "overview": "يدخل شاب غارق في الديون إلى لعبة واقع افتراضي شهيرة، ويحصل على فئة الحدّاد الأسطوري. مستعيناً بمهاراته في صناعة المعدات، يسعى لتحقيق الثروة والشهرة ليصبح لاعبًا أسطوريًا\n\nA debt-ridden young man enters a popular VR game, where he unlocks the legendary blacksmith class. Using his crafting abilities, he strives to gain wealth, fame, and become a legendary player.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tempal: Item no Chikara S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/9A51008B-9758-4E03-BF7A-0BD29A409BDB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567076&Signature=E7CGjyz8QAzVoV4ARBXr1Xot9cc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142250-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=uI8XASJvP4SdjB8jBoBzlYUyuJQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=8slVsLEmLE7qkBai6eYrfxCxSD4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E8802C-4445-4CF8-8E2A-90480214B244_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=YgyfBY40cZyDNmwDLUL6HBkRe7I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tempal: Item no Chikara S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/FD8BDEDD-4056-F463-6D74-EEFA6C49E4E9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567076&Signature=PjRYc6smDWoLNsqdmVza8D9NO2w%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142250-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=uI8XASJvP4SdjB8jBoBzlYUyuJQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=8slVsLEmLE7qkBai6eYrfxCxSD4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E8802C-4445-4CF8-8E2A-90480214B244_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=YgyfBY40cZyDNmwDLUL6HBkRe7I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tempal: Item no Chikara S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E638F73B-2A21-05D9-FE2B-EE8128DB45C0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567076&Signature=f14aGpOg3A9EZty0Rc2eZl15PTw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142250-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=uI8XASJvP4SdjB8jBoBzlYUyuJQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=8slVsLEmLE7qkBai6eYrfxCxSD4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E8802C-4445-4CF8-8E2A-90480214B244_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=YgyfBY40cZyDNmwDLUL6HBkRe7I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tempal: Item no Chikara S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2C26B6E-2050-B7D6-546A-50CAEABE75C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567076&Signature=Eze%2FwnD%2FZ3MqO9CnaZnSM%2F68eBo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142250-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=uI8XASJvP4SdjB8jBoBzlYUyuJQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=8slVsLEmLE7qkBai6eYrfxCxSD4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E8802C-4445-4CF8-8E2A-90480214B244_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=YgyfBY40cZyDNmwDLUL6HBkRe7I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tempal: Item no Chikara S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F7B176BF-200B-79AF-9867-483691FD83C4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567076&Signature=rVjDhDtUHkLOF5plO7%2BclFeb8hw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142250-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=uI8XASJvP4SdjB8jBoBzlYUyuJQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/48F1C520-14E6-9547-A55E-CF78B7B09639_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=8slVsLEmLE7qkBai6eYrfxCxSD4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142250-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E8802C-4445-4CF8-8E2A-90480214B244_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601550&Signature=YgyfBY40cZyDNmwDLUL6HBkRe7I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3142253",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/373C0D93-55D3-5A90-6284-1B4E86935B0B_poster.jpg",
+        "overview": "يدخل شاب غارق في الديون إلى لعبة واقع افتراضي شهيرة، ويحصل على فئة الحدّاد الأسطوري. مستعيناً بمهاراته في صناعة المعدات، يسعى لتحقيق الثروة والشهرة ليصبح لاعبًا أسطوريًا\n\nA debt-ridden young man enters a popular VR game, where he unlocks the legendary blacksmith class. Using his crafting abilities, he strives to gain wealth, fame, and become a legendary player.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tempal: Item no Chikara S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8786E389-77D4-3F86-37BF-FC18A9C9BC4E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567072&Signature=DyoLNar%2Bf7uvZH3pJAkkcd9dCDE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=TGTuAO5JKgiKMkabYuNfOptV7xU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=L1vofTrJ7yenZL4WOsnsgIEBCUA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FDC73A6A-3A3B-3566-57A0-2C0F80F44F59_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=gi%2FNxFhrQgls1JELHLKBW%2FMN1Wc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tempal: Item no Chikara S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/ACC73A32-17F9-36A2-BFF7-E3E4281CCA74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567072&Signature=md6S26WSIMSsfVe%2FrjLT613IUyA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=TGTuAO5JKgiKMkabYuNfOptV7xU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=L1vofTrJ7yenZL4WOsnsgIEBCUA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FDC73A6A-3A3B-3566-57A0-2C0F80F44F59_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=gi%2FNxFhrQgls1JELHLKBW%2FMN1Wc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tempal: Item no Chikara S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/62F871B7-4F11-3588-D486-C0CA34B26340_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567072&Signature=renWTv8ReiMLvmWXfV6zmNoxrb0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=TGTuAO5JKgiKMkabYuNfOptV7xU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=L1vofTrJ7yenZL4WOsnsgIEBCUA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FDC73A6A-3A3B-3566-57A0-2C0F80F44F59_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=gi%2FNxFhrQgls1JELHLKBW%2FMN1Wc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tempal: Item no Chikara S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/928BCE2A-358E-116C-F85C-B34179EF5766_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567072&Signature=b0901H3CxZICpRHJBgRBLDLh3aU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=TGTuAO5JKgiKMkabYuNfOptV7xU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=L1vofTrJ7yenZL4WOsnsgIEBCUA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FDC73A6A-3A3B-3566-57A0-2C0F80F44F59_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=gi%2FNxFhrQgls1JELHLKBW%2FMN1Wc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tempal: Item no Chikara S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6EAF79B0-16A8-3EE3-5A9F-4AB2C886F683_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567072&Signature=DWrMAzi426fjhPYk9ONIwFBz8%2BU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=TGTuAO5JKgiKMkabYuNfOptV7xU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/26E3D3BF-18AA-C03E-FA1A-79A634961342_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=L1vofTrJ7yenZL4WOsnsgIEBCUA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142253-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FDC73A6A-3A3B-3566-57A0-2C0F80F44F59_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795599422&Signature=gi%2FNxFhrQgls1JELHLKBW%2FMN1Wc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3142256",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/373C0D93-55D3-5A90-6284-1B4E86935B0B_poster.jpg",
+        "overview": "يدخل شاب غارق في الديون إلى لعبة واقع افتراضي شهيرة، ويحصل على فئة الحدّاد الأسطوري. مستعيناً بمهاراته في صناعة المعدات، يسعى لتحقيق الثروة والشهرة ليصبح لاعبًا أسطوريًا\n\nA debt-ridden young man enters a popular VR game, where he unlocks the legendary blacksmith class. Using his crafting abilities, he strives to gain wealth, fame, and become a legendary player.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tempal: Item no Chikara S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B93B57F9-174D-DDE1-1EC4-85BF47DC33A4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601809&Signature=tFNYuMh01akibY2uRSIGSIyEsCw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142256-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=aR89v9PTBDWURxoV8yJV%2F6%2FwqHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=r%2FphVkQQQPFKBaHzqcDeQVkVCu4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0CABAFA8-87AC-D3E3-5272-D52087364693_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=etZhYmxV2%2FXM02L4iF%2FX7JL4Ufo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tempal: Item no Chikara S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/CA9E93D7-698F-1DA8-A443-E66DC24D35FC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601809&Signature=7OE6UNMZjkZGJ3AdBrzeLmaRGP8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142256-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=aR89v9PTBDWURxoV8yJV%2F6%2FwqHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=r%2FphVkQQQPFKBaHzqcDeQVkVCu4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0CABAFA8-87AC-D3E3-5272-D52087364693_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=etZhYmxV2%2FXM02L4iF%2FX7JL4Ufo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tempal: Item no Chikara S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/46DBDD04-2A38-8146-7547-FB0EF58D42EE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601809&Signature=cDANbBU38qSBcRgc4lG8ZsHwZ1k%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142256-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=aR89v9PTBDWURxoV8yJV%2F6%2FwqHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=r%2FphVkQQQPFKBaHzqcDeQVkVCu4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0CABAFA8-87AC-D3E3-5272-D52087364693_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=etZhYmxV2%2FXM02L4iF%2FX7JL4Ufo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tempal: Item no Chikara S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/95C1E263-7A0E-43E0-739A-200CDECBAA80_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601809&Signature=jpBlvdPheTyXANPT7qr9R2a%2BDs8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142256-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=aR89v9PTBDWURxoV8yJV%2F6%2FwqHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=r%2FphVkQQQPFKBaHzqcDeQVkVCu4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0CABAFA8-87AC-D3E3-5272-D52087364693_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=etZhYmxV2%2FXM02L4iF%2FX7JL4Ufo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tempal: Item no Chikara S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D8894792-C5CA-CE4C-5AEA-B882C431CD7B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793601809&Signature=eCQurn1EaGe6n2Cxeo7aoq8JP1Y%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3142256-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=aR89v9PTBDWURxoV8yJV%2F6%2FwqHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FC5C48B5-A3E2-66B6-A89A-5448EEB569B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=r%2FphVkQQQPFKBaHzqcDeQVkVCu4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3142256-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0CABAFA8-87AC-D3E3-5272-D52087364693_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602224&Signature=etZhYmxV2%2FXM02L4iF%2FX7JL4Ufo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
       }
     ]
   }

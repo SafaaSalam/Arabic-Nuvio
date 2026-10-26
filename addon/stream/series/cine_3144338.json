@@ -1,3 +1,129 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Marronnier Oukoku S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B8AD82E6-A168-5128-9CD5-4A9DA244D6B2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480819&Signature=gNPzQuKNTeGn%2FKDtTFiF3xu2rzM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144338-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Uu%2BFEPdggEyKVsRBSccsRwq2CBI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=ynjAbBeyhxkvxSDIbWJ7kkBkk9I%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EFB201CE-E4F7-A39E-7B1D-0D5F1B87FF17_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Wlsd91gCMBrP5E%2B9Pu9O%2FAV3lPM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Marronnier Oukoku S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/86B5CC9C-C4D5-8966-8109-0E4C5C142FF1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480819&Signature=n9T1GCwQfRw7GUKGSZpzFsTW85I%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144338-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Uu%2BFEPdggEyKVsRBSccsRwq2CBI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=ynjAbBeyhxkvxSDIbWJ7kkBkk9I%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EFB201CE-E4F7-A39E-7B1D-0D5F1B87FF17_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Wlsd91gCMBrP5E%2B9Pu9O%2FAV3lPM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Marronnier Oukoku S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2263ABA0-AAED-BD3A-049A-D59504F9D1AA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480819&Signature=Pc1hspa0nPJK44JpbEkzG4rabZc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144338-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Uu%2BFEPdggEyKVsRBSccsRwq2CBI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=ynjAbBeyhxkvxSDIbWJ7kkBkk9I%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EFB201CE-E4F7-A39E-7B1D-0D5F1B87FF17_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Wlsd91gCMBrP5E%2B9Pu9O%2FAV3lPM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Marronnier Oukoku S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D3478755-D169-DF20-49EE-D016DDFA5C68_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480819&Signature=eGTyPbdcUXwYR7mZ7lc3LHJjNpc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144338-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Uu%2BFEPdggEyKVsRBSccsRwq2CBI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=ynjAbBeyhxkvxSDIbWJ7kkBkk9I%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EFB201CE-E4F7-A39E-7B1D-0D5F1B87FF17_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Wlsd91gCMBrP5E%2B9Pu9O%2FAV3lPM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Marronnier Oukoku S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9F52430F-689E-625E-4D7E-E1A1ECDB9142_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480819&Signature=volqd%2BLni6NON4ylhf0p8ra%2BoM0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144338-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Uu%2BFEPdggEyKVsRBSccsRwq2CBI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8E6B470D-03CF-17C2-2AF1-359170A21D89_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=ynjAbBeyhxkvxSDIbWJ7kkBkk9I%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144338-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EFB201CE-E4F7-A39E-7B1D-0D5F1B87FF17_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795594933&Signature=Wlsd91gCMBrP5E%2B9Pu9O%2FAV3lPM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

@@ -1,3 +1,129 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Mezameza S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0C02FF8F-FE16-3FA2-DDAA-FEACA1E28693_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567471&Signature=iZ972Q8LHCb7Zu4%2FhAVX%2Fp16Mno%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144947-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=1ICFmYwm%2F8%2BI1VpsD%2B3QNLHmj4Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=A7XaGe9uML0hNzD72OXLbFJ8jBM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5BB145EA-F8D9-A20C-97D9-93A841FF3F47_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=fkCcopTwzLjeTwmQo4ETCjrCLEc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Mezameza S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/09E9FB62-2AF8-B144-58AD-7A61747BC375_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567471&Signature=PQ7R4RhZfKJj3ruxoYekgBhDDh8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144947-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=1ICFmYwm%2F8%2BI1VpsD%2B3QNLHmj4Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=A7XaGe9uML0hNzD72OXLbFJ8jBM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5BB145EA-F8D9-A20C-97D9-93A841FF3F47_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=fkCcopTwzLjeTwmQo4ETCjrCLEc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Mezameza S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B9D987BD-E016-C3C7-9F54-E3A38ACB15F0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567471&Signature=v9zGzNhPReWU8wUxYX8VFAsT6zk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144947-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=1ICFmYwm%2F8%2BI1VpsD%2B3QNLHmj4Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=A7XaGe9uML0hNzD72OXLbFJ8jBM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5BB145EA-F8D9-A20C-97D9-93A841FF3F47_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=fkCcopTwzLjeTwmQo4ETCjrCLEc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Mezameza S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6DB62CD3-E28F-9EE6-42E9-1FAD1613497F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567471&Signature=If6Kvr8ps8WFd0wV%2FDhCj1LsRyE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144947-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=1ICFmYwm%2F8%2BI1VpsD%2B3QNLHmj4Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=A7XaGe9uML0hNzD72OXLbFJ8jBM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5BB145EA-F8D9-A20C-97D9-93A841FF3F47_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=fkCcopTwzLjeTwmQo4ETCjrCLEc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Mezameza S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/752468CB-77DA-8F1F-3D75-C0D57597D1EB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567471&Signature=rRamo3ZAp3c8oxEQmJqUpiBSQeY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144947-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=1ICFmYwm%2F8%2BI1VpsD%2B3QNLHmj4Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60DC4582-EE1A-2C48-78F8-9C5393F8C048_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=A7XaGe9uML0hNzD72OXLbFJ8jBM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144947-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5BB145EA-F8D9-A20C-97D9-93A841FF3F47_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601749&Signature=fkCcopTwzLjeTwmQo4ETCjrCLEc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
 }

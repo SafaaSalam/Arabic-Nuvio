@@ -14,8 +14,18 @@
     "genres": [
       "دراما | Drama"
     ],
-    "cast": [],
-    "director": [],
+    "cast": [
+      "حسن دكاك",
+      "سامر المصري",
+      "سليم كلاس",
+      "عباس النوري",
+      "عبدالرحمن آل رشي",
+      "ميلاد يوسف"
+    ],
+    "director": [
+      "بسام الملا",
+      "أيهم جباوي"
+    ],
     "videos": [
       {
         "id": "cine_1160",
@@ -23,8 +33,1099 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
-        "overview": "باب الحارة",
-        "streams": []
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/CB430F8C-7B59-A521-1281-FCF9748B4E25_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134987&Signature=nab45fu1nGLiOVpx7OgkqWtQYbo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/DD4F0549-9A90-933B-C4D2-46149C37F9E1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480589&Signature=87oatNIvZoB7m8sEm0FbmyJR9ig%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D551DD51-DA6C-E909-E36D-5C6F7741CCD5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049608&Signature=Fr5ECbleVDnofjjLyHpD4oDIKlY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/C2243BE6-475E-1AEE-BD62-E59D58350BA5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567256&Signature=qhtxJOtoBx570meC0nrY%2BU9B2QM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/1F53CE83-DF86-C8F0-5907-1A6CCBB30ABD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567256&Signature=UuHK2UZ4VF73X%2FpxzKjD9CQNG3M%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1181",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/227DF16E-DA18-6784-D3DD-00A513E91CE4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134853&Signature=ZntDpt08FlSL9O1x2uX%2Fhq5d2Ag%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/571ACAE8-0C22-3B2E-DDF6-5A0389ACF9CD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221432&Signature=y32jFURckHXLBS2Ih6w4SHWqwGw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/06A63008-D19A-B9FE-5B92-211724250A6D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048505&Signature=hJX3GqomDOxyGKHaRqVXRxb7d%2FM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/833AAB39-460D-79D0-114A-F43F1518E1F1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567208&Signature=NqH7r2G9LJS6eKURonU7TicXF78%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/28C6C8D2-659B-733C-564A-C9961993BA3C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567208&Signature=WHawKNQ%2Bbo5jlrR3uvay0%2Fx%2FDwM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1182",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/C2ABE0E9-4C59-890F-5C2B-0A51A383A840_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134810&Signature=31shsmgUFoeXAhyjq0HhmCFGks0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/A124E8E6-7DEF-CF7C-AA42-F1728774FE73_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480531&Signature=YULpjqTkolgeH7XS7Chj8La%2Fegs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D1317C14-B7A6-41D1-91FA-530B3BB1F935_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048490&Signature=Wz%2BqbsBaOFdtHXqBrVTkVVwwaMg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/EE0BA3C1-D344-E6FB-82DC-E5C10FBBBADE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567030&Signature=WDLvsQXjyNVHuiK4tmMxSQCGMEE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D4341F6E-DDE1-4AC6-C485-654123E8EB35_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567030&Signature=DQ9s4LYBi3MmnfHqBwEruAhtxYc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1178",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/F0D6A6C9-DF62-7CBD-97F0-97F5C7124F05_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135141&Signature=MMrjhw%2B8XgnaEXGiz6hDuKYfjGc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B79114DA-DC80-38AB-0B10-F2370F7B448C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480746&Signature=%2FF0WWISLhK5%2BeKa40Uz%2BMDcoNw0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D0AD3365-0E01-1B9B-2708-771FA51CC5D0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049317&Signature=Kk2pIUscmpYiEOSJBd4KAWyw8vY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/48512335-E848-EFD9-60BE-C5E0EDA5787A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567038&Signature=qpfycrO0QLxkVU8IKAb%2FNd2AZnM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/265F7288-E95F-9785-1B13-4680523AF4CB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567038&Signature=39wfplTxfXMSBkHsTDz5tDG9pIQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1179",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/3863D031-4DDF-CD33-0AAC-07B5F1EC40D1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134844&Signature=m8AzBghSVclyHt%2BGcXpLwQvJFhI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D19730EB-22D4-7DE6-3364-0B8B677C92D8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480768&Signature=bVvgQvFM7TJkjbSO9yUbgPwBOX0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/02ED0176-0008-4C99-8AD4-0BA8F1092506_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048561&Signature=iAz6l0XfJJ1LT9x2EHdmWX%2FxsEQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/91FF00EA-B88A-0952-F5F3-0D6B929BB969_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567053&Signature=ZERuHMjHkNmULu2oT29qqlhkSOU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/8B2D6E17-0094-FDB2-72DA-C954DB356317_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567053&Signature=AxTOgF2Amg9QOYmuFp3ZpuAMo4Q%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1180",
+        "title": "الموسم 1 - الحلقة 6 | Season 1 Episode 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E06 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/0A342E25-8F32-F0B8-2A78-7227366D16A6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135030&Signature=MTjcMdRX7N0WW%2FzCzFG8cOdMjSQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E06 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D37FA663-D45A-0E2F-B0E3-FAF5C5777AAD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480768&Signature=iNLGepEtXaWxAdkGV%2FEjAd5kHPA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E06 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/2C9A41DE-1887-26F4-ABB4-29CCFDCB3B69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048750&Signature=GovDawSflcGJUORVWPbyeVit8dE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E06 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/7F42E23D-A34D-E1FC-F708-8E17D08F121A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568069&Signature=dIiGlIW%2FcSy%2FDqvNWMCTZ1SsMLk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E06 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/6073A506-F7AB-E6E9-B027-22CE0CA35855_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568069&Signature=%2BIdY473Xt4W4%2BXu36%2FgpEs%2FWz%2Bo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1175",
+        "title": "الموسم 1 - الحلقة 7 | Season 1 Episode 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E07 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/B56B2E4D-EF5C-D26F-D01E-34AE665D6CD0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135295&Signature=Frv%2BqGfoT16H1eeo14PlDY%2FkjJU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E07 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/05A0A440-A26F-D43E-480F-D7E18E2AF098_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221248&Signature=aswTFB1jhygE96BkBRU2CAa4m2o%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E07 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/4FB428DF-89B0-AAF3-9F0F-9D43E96BB270_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048755&Signature=HKaGZlax7xm%2Bx0uQ1xkFRFXGSCg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E07 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/615F929E-9C48-913A-80CC-BCC30B93528F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963040&Signature=iG0IjFDr%2FkrIIE6avUnY7uMjxDQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E07 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/FDF31C75-5FE9-8004-74B4-6EAF220358F8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963040&Signature=vYDvJ87%2F8TY4%2BRUM9E0JkxbQ3SU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1176",
+        "title": "الموسم 1 - الحلقة 8 | Season 1 Episode 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E08 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/F2EADA03-9C81-01B7-A013-337D38FC3711_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135804&Signature=SIgC%2FxGywH%2F8RjKxXghCcgb4nVA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E08 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/02669D5E-9790-E78C-2224-7C02EAB04AC4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221576&Signature=Lm%2Bq5Z8pXWuNgnVktf8twne4dec%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E08 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B2B9BE03-EB39-C48F-E510-A11DE8F5726A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048775&Signature=6lXm13RgsFkyYyDffZS4SEaOUhI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E08 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/F201FF4B-F57E-61F1-6EB4-7D837AC7BD39_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568093&Signature=TajKgan8QW0dqOWbet1hMupGheo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E08 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/3933A1F6-BC73-EC72-CE27-FED7F2DA44C0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568093&Signature=NRwoR1SfEFip94WWMNe9Q0IARuA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1177",
+        "title": "الموسم 1 - الحلقة 9 | Season 1 Episode 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E09 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/D09AD739-C6B3-AA5F-F371-7A8C304E8106_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135004&Signature=YfMbP6KmYGhzoq74VZFvyBRkWMg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E09 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/527522B7-5B0B-8119-0D3C-1773FB6D3A48_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221834&Signature=DH%2FLTJtsg6hk1k8HPOm%2BTmlDdko%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E09 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/146C55FB-A800-7F4B-FB6E-5FB013FBE89F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048556&Signature=%2FvBpoXVu0aI%2BKkHK5YIAZx%2Fr8S4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E09 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B7B8BDBF-D417-3591-39C4-66B593D24DC6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568644&Signature=RnifxtT8iJl9fWYI4gxUQ3Adeco%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E09 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/AF30233F-C98F-8656-0E62-8E51DD4568FD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568644&Signature=CXnCXZBR1mP8aRtDnteVM8fTZq4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1173",
+        "title": "الموسم 1 - الحلقة 10 | Season 1 Episode 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E10 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/5FA43E7D-6AAD-CC81-0D3D-56C4F327C0EA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135471&Signature=Z7yAG3LA5vSJB5%2BTsKBpsmW%2FIUw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E10 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/950FBCB8-F115-660E-2C11-3AD59E456938_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480922&Signature=HYiQzX%2FvHV%2Fx8kIBrUL%2BfUhHcpI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E10 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/4B94A9C5-2BD1-214F-CB68-AD5995E366BA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048774&Signature=IJZzydOcEDRN%2FzicAWk9xC0O79M%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E10 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/035BBE2F-B1D9-CDE9-7E8C-E2B912CD878D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570544&Signature=6PFjcU7RSMqo0F0e1x3md5JBs0E%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E10 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/3D12EBF1-636C-8F82-16CE-080698401D7B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570544&Signature=bCVCq0KkSQPhBOpuZGlVWL5VHk4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1174",
+        "title": "الموسم 1 - الحلقة 11 | Season 1 Episode 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E11 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/9AA75DD8-2F7C-9E91-6D2F-DAF8837F8F07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135469&Signature=sTwJ2Uyo18j4pW4HRAYw53U81sw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E11 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/2124A21A-3AA1-9B17-CAEC-2FD3EC4ACE87_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221915&Signature=GgWPZjrbvuyo8Vxx9FSPh4iGlC8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E11 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/80ADF651-CAF3-98BD-C067-AED437DC8A18_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048687&Signature=CAzXp11XFZg%2F7gZODzy4bwqX67w%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E11 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/F8B2AC01-4C80-0939-14E2-E54A8877FB4E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048687&Signature=UKnPH1xQN1Uy5QAv6KHNDqDtQVo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E11 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D7442E9D-BAE0-FE8F-5955-D53A88F862C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569914&Signature=%2B3GEtptI7wbtq9wWGRxXK1EFeyU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1171",
+        "title": "الموسم 1 - الحلقة 12 | Season 1 Episode 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E12 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/BBD87E31-6425-7CE9-E01E-A39295D338FE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136258&Signature=BHjbcu4OZduIKrEhD6fGQQdalPc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E12 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/786375D2-38D6-FB30-E0EC-F2C16F686172_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221434&Signature=ZevyyFGmZv7D3mJOSfNyNl9gnpM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E12 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/E14FE42D-FDC9-40E0-6D93-65B8064F5FD0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049126&Signature=p2QIFdyl2vR76cNEZfA1c5aNtRk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E12 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/6EE85EDD-4E97-F74C-EE47-DD7A3243C8F3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570393&Signature=pWxurApTGP9SVvdlrij74KubawQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E12 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/0D1BEF2A-ED44-B0E9-BE77-4777E269EDA0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570393&Signature=kmKxDAU3yFRvc%2ByvvfqirNa8y5U%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1172",
+        "title": "الموسم 1 - الحلقة 13 | Season 1 Episode 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E13 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/9CB16CFF-A269-5911-76D9-3701E4BEA4CE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135595&Signature=0ixhSEKGKikiZJM%2B8qfcO0BRXAs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E13 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/943FFBE6-FD65-752B-40BB-D0E4099BC61F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481244&Signature=0g0H7f4Qmnkh8G%2FjrP8C9tVXgwI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E13 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/99D055B2-3DE9-4D8F-85D9-868DA43A6F62_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051493&Signature=1B3s9GAuHRhFlJfMzS1M1qt%2Ftw8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E13 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/8A78337B-4EB2-190F-A1DB-6AF944C4C768_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567737&Signature=zq8Fih7u6PDhG8R8SBHpHOeb1xk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E13 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/49B29BE1-6EC7-F434-396E-7A2F7A41615E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567737&Signature=3e1uw7dAqDvV9Cy9IGpv%2FllEIVk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1169",
+        "title": "الموسم 1 - الحلقة 14 | Season 1 Episode 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E14 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/A051FA54-BA53-B065-D487-501615F06792_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135013&Signature=FhaPlfnRzGV6jeVXmsgiREoXfsA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E14 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/C439C1E7-2EC6-4294-283F-8F7BDE7B2EF0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480422&Signature=5350GGnlIKS8Aletogz0Xl3VB5w%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E14 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/09E520B0-ED0B-E995-F0CE-DDA0EAAD99D3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048573&Signature=xw%2Fi5YP9287GrYgsKrNtb3LtgBA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E14 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/09295584-8559-2D2A-24E0-5658CAA06462_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566885&Signature=6qMU%2BQ0RQeR3Y%2Bwzyx%2BIZidlK54%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E14 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/ABFE5AE3-06D8-02B5-F281-BFBA34257615_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566885&Signature=h%2FKverChGjGW6wtYI2ziK1OJIxA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1170",
+        "title": "الموسم 1 - الحلقة 15 | Season 1 Episode 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E15 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/2A3F3655-AB88-CEE8-888A-A42A92AED24C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135227&Signature=NHeJkrNOrP9zRocEy1aq%2BYQC%2Fa4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E15 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/730BFB68-6C54-8CB6-1471-828B8362AA66_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221385&Signature=6E2LtymO68l6iB5wkZeJOqXCeF4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E15 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/466F49F5-05B1-54A2-1D27-A083BDE8D36B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049497&Signature=%2F9XkomHGTTzkIE22FNV1ffnpg%2B4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E15 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/D573F0D0-3B7B-E655-5813-88979CDC9012_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566831&Signature=9IlbIJO%2Bqe7Uk48F1manocd8xg0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E15 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/56FA2E8B-04CB-F50B-4087-BAD58EC83CED_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566831&Signature=kOKsglY1of%2Fn00vazYU3C3bxBDk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1168",
+        "title": "الموسم 1 - الحلقة 16 | Season 1 Episode 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E16 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/EAB5B6E5-0EDC-C930-7901-FDE69A87AF54_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136536&Signature=434np6oztJ0OnvaQBdikNLoPSvA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E16 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/38195F1A-E533-5555-191A-4E877AFAF894_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221454&Signature=8ErC9h9YKldjRnvHvTUVBs9ovA0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E16 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/54FDBC71-EE28-4A7F-BC6E-B9C990397FBB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048711&Signature=gq8R6zxMb4hExtY4cI3hKq6zj2c%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E16 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/AB420301-6736-40E0-BDC1-6912358DDDF9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963471&Signature=RbIJT1HUTgivAMJ76UZAgkVT2SM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E16 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/C5ED5E12-BF37-324A-4045-875B431BF1D1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963471&Signature=RJORHA1z8aKKVBLHaisnQvFweJA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1167",
+        "title": "الموسم 1 - الحلقة 17 | Season 1 Episode 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E17 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/BBAE2897-1533-6891-E488-8072C66AAA75_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135439&Signature=c3tbZ5gEX4hbpZbZKx4x0XLXyno%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E17 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/F46B82CD-EE59-1228-732D-C178299015EE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481572&Signature=zjYJeOjdaR59TNOcBIYrNWWLN78%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E17 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/2244E0A5-673B-3EEF-7085-529784045414_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048762&Signature=dvdtkqgza3LHRRmHNLcdBghmoWQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E17 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/B46C1C2A-320C-F02C-8398-6EE169552164_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568205&Signature=n64KQlDNBXzTL0dmB4ViuYLddm8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E17 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/6074293E-C025-8A29-1F09-4FCB0F427F41_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568205&Signature=zoLAUSVJjCThb49gLgybS2ImmEE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1166",
+        "title": "الموسم 1 - الحلقة 18 | Season 1 Episode 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E18 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/559444BD-E324-C72B-B499-83295EA738FC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134861&Signature=p%2FnH30XphRF1UwzOhJRsexdj54g%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E18 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/96553F1B-A4DD-5323-11B9-4782C8569E84_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480492&Signature=HMa3BbH2bxJ1Jy4oBIfguSVBIic%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E18 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/6567058C-8C79-EE53-4DAD-C4C413B34BD6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049440&Signature=DUqC3J%2BOmsB43e%2B4bs7KfmUyxCQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E18 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/3A07D7C1-A04A-DDC4-061A-062557E06E40_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567089&Signature=dcRpOPlNiBGvqCogEW1ZxJESS7c%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E18 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/62EB018F-2278-0E7E-752C-7877694381A4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567089&Signature=YiSpMXpR7rTUo3t8cZZfDilZE%2BU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1164",
+        "title": "الموسم 1 - الحلقة 19 | Season 1 Episode 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E19 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/FBAC8F72-B64C-5B60-2D42-E69795A38033_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135848&Signature=khTaL1b7ooTkTGGQOGmU5evQ1kY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E19 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/1A5F4D5D-6D05-3BA9-68FC-D372FB71F354_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221316&Signature=tMb0vDAVNtJjcmwOK4hqJ%2FMRXX0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E19 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/4806BDCD-0D31-1F8A-8FAE-36B5A2A8D13A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049138&Signature=DtsHW2tp62HJcKrb3Bfoifz7F6o%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E19 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/AE41D646-BE67-EBE4-E533-6508530C5A83_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569320&Signature=Fpx9XaCDOGvz4d%2F7%2BCkKXZfcZuw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E19 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/0EF32D41-DDE5-209E-CA5D-C62BA0AAB0AB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569320&Signature=bIn8ri6TMUHJ5n9qr7BPz%2FnHze0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1165",
+        "title": "الموسم 1 - الحلقة 20 | Season 1 Episode 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF397089-70B6-63D3-DD4F-E51D048A41A5_poster.jpg",
+        "overview": "باب الحارة، مسلسل سوري عبارة عن دراما اجتماعية شامية تدور أحداثها في عشرينيات القرن الماضي.\n أنتج الجزء الأول منه عام 2006، \nمن إخراج بسام الملا، كتب الجزء أول جزء منه مروان قاووق وكمال مرة،\n  \n \n\nويتناول الجزء الأول منه سرقة الذهب من أبو إبراهيم الذي يبيع القماش ودخول \"صطيف\" جاسوس الفرنسيين إلى حارة الضبع. ويسلط الضوء على الحياة الدمشقية والقيم النبيلة والعادات والتقاليد القديمة، كما أن قصص المسلسل حقيقية كما ذكر الكاتب مروان قاووق",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "باب الحارة S01E20 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18/CED2A140-5121-8970-7AD6-BA36A2C39BB9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135161&Signature=KjcW%2F8UhpGOvWrGupeVcPHuJJc4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "باب الحارة S01E20 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/8CD0F868-4730-36D1-0F0B-32333AECF31C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793481261&Signature=yoUFC5arOOImUPQ4SC%2BXv%2FnjJSk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "باب الحارة S01E20 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/97BA8951-87DA-B509-0AC4-7E1080898CCC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048807&Signature=AHn%2BIIKmKRkWrspK8krojrBlRT4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "باب الحارة S01E20 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/91BA5242-DBE8-5709-3D90-0B60B7CDF159_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567929&Signature=hn8VbmPVgXswFthJAs%2FdNlxVwUs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "باب الحارة S01E20 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin23-mp4/3D60BD9F-82BC-6CC3-C11A-D8BB848FC318_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567929&Signature=wrrcYbhgqHV2nz%2FV8jq635ptuQM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
       }
     ]
   }

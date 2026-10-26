@@ -1,6 +1,6 @@
 {
   "id": "org.nuvio.arabic.cinemana",
-  "name": "Arabic Nuvio | الإضافات العربية الشاملة",
+  "name": "Arabic Nuvio",
   "version": "2.0.0",
   "description": "Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam & 36+ Arabic Movie, Series, Anime & Live TV Catalogs",
   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
@@ -78,343 +78,343 @@
     {
       "type": "movie",
       "id": "cinemana_banner_movies",
-      "name": "المميز - أفلام سينمانا | Featured Movies (Cinemana)",
+      "name": "Featured Movies (Cinemana)",
       "pageSize": 27,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cinemana_banner_series",
-      "name": "المميز - مسلسلات سينمانا | Featured Series (Cinemana)",
+      "name": "Featured Series (Cinemana)",
       "pageSize": 38,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cinemana_group_410",
-      "name": "يعرض حاليا تركي | Currently Airing Turkish",
+      "name": "Currently Airing Turkish",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_group_26",
-      "name": "الأفلام المميزة | Featured Movies",
+      "name": "Featured Movies",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cinemana_group_2",
-      "name": "المسلسلات المميزة | Featured Series",
+      "name": "Featured Series",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_group_290",
-      "name": "4K أفلام | 4K Movies",
+      "name": "4K Movies",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_group_407",
-      "name": "سلسلة أفلام حديقة الآثمين | Garden of Sinners Movies",
+      "name": "Garden of Sinners Movies",
       "pageSize": 10,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cinemana_group_311",
-      "name": "4K المسلسلات الاكثر شعبية | 4K Most Popular Series",
+      "name": "4K Most Popular Series",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_group_392",
-      "name": "4K المهمة المستحيلة | 4K Mission: Impossible",
+      "name": "4K Mission: Impossible",
       "pageSize": 8,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_group_30",
-      "name": "4K عالم مارفل | 4K Marvel Universe",
+      "name": "4K Marvel Universe",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_group_386",
-      "name": "4K جيمس بوند | 4K James Bond",
+      "name": "4K James Bond",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cinemana_group_377",
-      "name": "أحدث المسلسلات الآسيوية | Latest Asian Series",
+      "name": "Latest Asian Series",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cinemana_group_4",
-      "name": "احدث المسلسلات | Latest Series",
-      "pageSize": 12,
+      "name": "Latest Series",
+      "pageSize": 15,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_newly_movies",
-      "name": "أحدث الإضافات - أفلام | Newly Added Movies",
+      "name": "Newly Added Movies",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cinemana_mov_upload_desc",
-      "name": "أفلام - تاريخ الرفع - الأحدث | Movies - Latest Uploaded",
+      "name": "Movies - Latest Uploaded",
       "pageSize": 30,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "cinemana_mov_release_desc",
-      "name": "أفلام - تاريخ الإصدار - الأحدث | Movies - Newest Release",
+      "name": "Movies - Newest Release",
       "pageSize": 29,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "cinemana_mov_views_desc",
-      "name": "أفلام - الأكثر مشاهدة | Movies - Most Viewed",
+      "name": "Movies - Most Viewed",
       "pageSize": 30,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "cinemana_mov_stars_desc",
-      "name": "أفلام - أعلى تقييم IMDb | Movies - Top IMDb Rated",
+      "name": "Movies - Top IMDb Rated",
       "pageSize": 30,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "cinemana_ser_upload_desc",
-      "name": "مسلسلات - تاريخ الرفع - الأحدث | Series - Latest Uploaded",
+      "name": "Series - Latest Uploaded",
       "pageSize": 30,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "cinemana_ser_release_desc",
-      "name": "مسلسلات - تاريخ الإصدار - الأحدث | Series - Newest Release",
+      "name": "Series - Newest Release",
       "pageSize": 30,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "cinemana_ser_views_desc",
-      "name": "مسلسلات - الأكثر مشاهدة | Series - Most Viewed",
+      "name": "Series - Most Viewed",
       "pageSize": 30,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "cinemana_ser_stars_desc",
-      "name": "مسلسلات - أعلى تقييم IMDb | Series - Top IMDb Rated",
+      "name": "Series - Top IMDb Rated",
       "pageSize": 27,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "cee_newly_movies",
-      "name": "أحدث أفلام CEE | CEE Newly Added Movies",
+      "name": "CEE Newly Added Movies",
       "pageSize": 12,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cee_popular_movies",
-      "name": "الأكثر مشاهدة - أفلام CEE | CEE Most Viewed Movies",
+      "name": "CEE Most Viewed Movies",
       "pageSize": 24,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "cee_top_movies",
-      "name": "أعلى تقييم - أفلام CEE | CEE Top Rated Movies",
+      "name": "CEE Top Rated Movies",
       "pageSize": 24,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cee_popular_series",
-      "name": "الأكثر مشاهدة - مسلسلات CEE | CEE Most Viewed Series",
+      "name": "CEE Most Viewed Series",
       "pageSize": 24,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "cee_top_series",
-      "name": "أعلى تقييم - مسلسلات CEE | CEE Top Rated Series",
+      "name": "CEE Top Rated Series",
       "pageSize": 21,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "3isk_latest_episodes",
-      "name": "قصة عشق - أحدث الحلقات التركية | 3isk Latest Turkish Episodes",
+      "name": "3isk Latest Turkish Episodes",
       "pageSize": 49,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "3isk_turkish_series",
-      "name": "قصة عشق - المسلسلات التركية | 3isk Featured Turkish Series",
+      "name": "3isk Featured Turkish Series",
       "pageSize": 49,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "alooy_latest_series",
-      "name": "علوي تي في - أحدث المسلسلات | AlooyTv Latest Series",
+      "name": "AlooyTv Latest Series",
       "pageSize": 24,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "alooy_gulf_ramadan",
-      "name": "علوي تي في - مسلسلات خليجية | AlooyTv Gulf Series",
+      "name": "AlooyTv Gulf Series",
       "pageSize": 50,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "alooy_arabic_ramadan",
-      "name": "علوي تي في - مسلسلات عربية | AlooyTv Arabic Series",
+      "name": "AlooyTv Arabic Series",
       "pageSize": 50,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "alooy_turkish_series",
-      "name": "علوي تي في - مسلسلات تركية | AlooyTv Turkish Series",
+      "name": "AlooyTv Turkish Series",
       "pageSize": 50,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "akwam_latest_movies",
-      "name": "أكوام - أحدث الأفلام | Akwam Latest Movies",
+      "name": "Akwam Latest Movies",
       "pageSize": 30,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "akwam_latest_series",
-      "name": "أكوام - أحدث المسلسلات | Akwam Latest Series",
+      "name": "Akwam Latest Series",
       "pageSize": 24,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "akwam_arabic_movies",
-      "name": "أكوام - أفلام عربية | Akwam Arabic Movies",
+      "name": "Akwam Arabic Movies",
       "pageSize": 30,
       "showInHome": true
     },
     {
       "type": "series",
       "id": "akwam_arabic_series",
-      "name": "أكوام - مسلسلات عربية | Akwam Arabic Series",
+      "name": "Akwam Arabic Series",
       "pageSize": 24,
       "showInHome": true
     },
     {
       "type": "movie",
       "id": "tuktukcima_recent",
-      "name": "توك توك سيما - المضاف حديثاً | TukTukcima Recently Added",
+      "name": "TukTukcima Recently Added",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "lodynet_latest",
-      "name": "لودي نت - أحدث الحلقات والمسلسلات | LodyNet Latest Drama & Series",
+      "name": "LodyNet Latest Drama & Series",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "krmzy_series",
-      "name": "قرمزي - مسلسلات تركية | Krmzy Turkish Series",
+      "name": "Krmzy Turkish Series",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "asia2tv_drama",
-      "name": "آسيا تو تي في - الدراما الآسيوية | Asia2TV Korean & Asian Drama",
+      "name": "Asia2TV Korean & Asian Drama",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "5tv_featured",
-      "name": "5TV - أحدث الأفلام والمسلسلات | 5TV Featured Series & Movies",
+      "name": "5TV Featured Series & Movies",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "aflaam_movies",
-      "name": "أفلام - أفلام عربية | Aflaam Arabic Movies",
+      "name": "Aflaam Arabic Movies",
       "pageSize": 24,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "tuniflix_movies",
-      "name": "توني فليكس - أحدث الأفلام | TuniFlix Latest Movies",
+      "name": "TuniFlix Latest Movies",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "anim3rb_latest",
-      "name": "أنمي عرب - أحدث الحلقات | Anime3rb Latest Anime",
+      "name": "Anime3rb Latest Anime",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "anime4up_latest",
-      "name": "أنمي فور أب - أحدث الأنميات | Anime4Up Latest Anime",
+      "name": "Anime4Up Latest Anime",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "animerco_latest",
-      "name": "أنميركو - أنميات مميزة | Animerco Featured Anime",
+      "name": "Animerco Featured Anime",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "series",
       "id": "animephoenix_latest",
-      "name": "أنمي فينيكس - أحدث الحلقات | Anime Phoenix Latest Episodes",
+      "name": "Anime Phoenix Latest Episodes",
       "pageSize": 28,
       "showInHome": false
     },
     {
       "type": "movie",
       "id": "replaymatch_latest",
-      "name": "إعادة المباريات الكاملة - FullMatchShows | FullMatchShows Latest Football Replays",
+      "name": "FullMatchShows Latest Football Replays",
       "pageSize": 14,
       "showInHome": false
     }
@@ -423,5 +423,5 @@
     "configurable": false,
     "configurationRequired": false
   },
-  "_timestamp": 1793008269717
+  "_timestamp": 1793010727482
 }

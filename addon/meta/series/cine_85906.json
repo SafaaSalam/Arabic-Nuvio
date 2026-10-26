@@ -2,7 +2,7 @@
   "meta": {
     "id": "cine_85906",
     "type": "series",
-    "name": "الهيبه | الهيبة",
+    "name": "الهيبة",
     "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/D7174C1E-9339-3944-C793-2C0B3FAFDADB_poster.jpg",
     "posterShape": "poster",
     "background": "https://cnth2.shabakaty.cc/vascin-poster-images/D7174C1E-9339-3944-C793-2C0B3FAFDADB_poster.jpg",
@@ -14,7 +14,9 @@
     "genres": [
       "دراما | Drama"
     ],
-    "cast": [],
+    "cast": [
+      "nostaff"
+    ],
     "director": [],
     "videos": [
       {
@@ -23,8 +25,1099 @@
         "season": 1,
         "episode": 1,
         "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/D7174C1E-9339-3944-C793-2C0B3FAFDADB_poster.jpg",
-        "overview": "الهيبه | الهيبة",
-        "streams": []
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/83154882-6C29-9D1B-B2BD-24959103C119_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134821&Signature=1JcqG9dhdwh4PVLiMfZbldQPm7w%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1290AE79-FC5D-5E77-D054-E1479742E30F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134821&Signature=k7S2eBIwSe%2B9XeH6qGQSfVbijfQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D8B7ACA7-CC13-297E-15DD-971244E5C800_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134821&Signature=adncYHVYUd1MM57HOiYzCESskyw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/14A53628-C70A-07A2-1104-1BF1DDD1151B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048463&Signature=vEpYWtmW%2B1OoBQDuzCKKPjwShtc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/999C329E-91D5-FE85-0841-FA56400D09E6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048463&Signature=FEvL0HEOW9e6sqmFZaWriwTgxzc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85907",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/AAD4EAC1-08E3-FC71-A098-6FBBA0552948_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134855&Signature=Kl9ISUNfNsDU4Isk6B86cOdfO9o%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1F8A9F7D-D823-8C0D-9A18-93B60E0A244C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134855&Signature=CKB7EgkxXSRiS7%2Bcv6JMyVkmiHk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B5E3F56B-655A-7273-F00F-0A71C6FDE94B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134855&Signature=HX0i0xkv7Pc37mGw%2FHUUKK0Xqj4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B4668A7F-21B7-2E9A-667F-D0D0F8B879CA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048475&Signature=QGuT5o9OAQfbIh9Lb433BnCf4io%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/A257A3BA-BC28-731E-9FA7-6C862AE17D10_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048475&Signature=r1iVeOMENZZ3Ej0dLgyCpQc%2FSkw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85908",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/432BF658-66DE-5E24-4654-5F92D8B05B95_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135121&Signature=ZZVBJ49C5mU67%2B9CMFHXuyiSiek%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/0987EAF4-ACB8-5A98-A415-BB30094B6043_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135121&Signature=hLsx1WN6DYZKt27H4ASh2JX6hAs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E883BD29-FFA4-3DF7-CBC6-65ABE4BB9919_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135121&Signature=LDO3bhJDA92c32wp%2FP5dUjdGBJA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/93410E8A-E477-1E48-D53C-3F95668304B5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048963&Signature=gO1kYwfYl9LvTJ9zEux%2BmFBSOhI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/562FE95B-5450-F14A-667A-5B36B3B42274_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048963&Signature=l%2F%2BdQPr7yCjZbjYVkRIRSTTwfMM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85909",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/FB6C2F14-1CF7-E2FD-0FA7-E7A548CC331E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135053&Signature=R%2F3oHpOFR%2BpGuhv7lRTQ6GaVbM4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B835BE4B-3813-2B4E-66C1-C1A466612456_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135053&Signature=b5dZCw4UAZLDSqHPbIkLnh3jVC8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/12010BC3-EFAC-2B20-886D-21054B617AB7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135053&Signature=bO5uzZkz8lC34BldK07NqSSZu94%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D6D800F5-9CDA-A402-D56E-F21729D05FDE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048971&Signature=lp8bc4o%2ByJ7AcTLVCDa4txOm1jw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/A246795B-759E-014C-F72C-80B26FD8E848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048971&Signature=OpaFxWm%2FKz5vB3G5Cks14E2iMSQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85910",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/6B6A3046-7B3C-098D-FABA-6E110AF2B942_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134936&Signature=knAQKT0w5qWbf8oMugiFp%2BgEshY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/AEBF81A1-0DD8-6C9D-CE3F-8B2B2A83066F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134936&Signature=8OICyFOO7%2Bvy%2FL8FguJg5iJ%2Fo0U%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/BD782A24-9336-5063-D84E-6E03EA5A4ED4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134936&Signature=s4eum9SXIC2UYWXzZXJbn6%2BQqQ8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/C989F94C-DEC4-D0D4-F412-CA545DD22AB0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048621&Signature=77iWPnMozBluEM7kfdjZQLlqxV4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/656D67AB-5F90-B0CE-DFB4-26049D620211_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048621&Signature=iPNiYFQjoJnQeU720S4LkuDTEuk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85911",
+        "title": "الموسم 1 - الحلقة 6 | Season 1 Episode 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E06 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/0BC43A59-BE55-2222-FD51-52CFB1120469_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136048&Signature=g82UPJ8u8BVB%2FnGj2lazyFgXA6A%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E06 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D14C401D-A201-E4F7-8653-E9039ACD95DF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136048&Signature=yhAseAOljUs5DSez0sWuvTc99UE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E06 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D052BFF4-330A-7EC0-4DFC-86E2BDAB0058_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136048&Signature=XJ0%2FjSdOBrPLmTqIhhu1VqAqMWA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E06 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E1C67030-386D-EE21-6A80-7BC699B72D03_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048943&Signature=IcVqdOF8QkXx6wrB24Ed7RLy2XA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E06 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/2B79A429-DCA2-90DA-C80A-1C98B5B1EBAC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048943&Signature=GjIaOyLXaS4hkhoLKKtmXluvBjc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85912",
+        "title": "الموسم 1 - الحلقة 7 | Season 1 Episode 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E07 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/CFBDAA2D-D2D4-6C28-77F8-FA2969C33C60_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134823&Signature=sB8nSsvXU7fQo9PCyJdD5qle%2Bf4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E07 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/27FAF3D9-89FA-1463-C875-4E354FD811B9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134823&Signature=9LHfZzfhXE3Dr%2F44I6ytocKu%2FeU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E07 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/74AF4CF9-DAB6-CC80-5BEE-9CD9E566D849_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134823&Signature=cpkZgoVnLthRao7GihVLL9zKSeI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E07 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/24655DA2-65FC-53EC-EEAB-163AE23C4D60_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049302&Signature=CZ3C%2F44pdwuvv6WCE2Twf%2B3KP7M%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E07 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/3C827365-897C-8006-50F0-57F45760072D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049302&Signature=AlXlOH7vLa%2FEg7wjRBts2xsh73o%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85913",
+        "title": "الموسم 1 - الحلقة 8 | Season 1 Episode 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E08 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E54882D9-9B17-9ABF-229E-21C25FC1AFCE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135086&Signature=og3tyJeiLdHtzvTgAqEH61s7xPA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E08 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1C0D7093-784F-9775-1FDE-1D1B291EAB79_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135086&Signature=46p81O7FaGh2XbpCkYZ1ZW5cJ%2B4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E08 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/88A34100-F323-23CD-E03D-8CC387BBAC9D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135086&Signature=fTo249IWpzsmeUHuS13IFmtxOug%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E08 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/F7311853-B537-E3F0-EC62-737BA4BFF3F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049570&Signature=FWKiVmpnICVLgDiVcyJ9UwhAGuE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E08 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/ED06F5EA-2438-F405-9451-16F1F5660430_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049570&Signature=wI8cJx%2BzrLFgx4nnZYDSFEIhK1o%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85914",
+        "title": "الموسم 1 - الحلقة 9 | Season 1 Episode 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E09 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/9F458058-6DEC-DEE0-E8C7-14DDAF9F45E1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136049&Signature=%2F7%2BQ8Akn4iVGmmkBiY%2BtxSC18s8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E09 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/C69541B9-D877-4FAF-620E-14643339787C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136049&Signature=%2FNjlRL54k2%2BqPfcGseQgA32nufI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E09 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E81CA82F-7CBD-8A21-4F09-E4918AEA2F4E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136049&Signature=as2mRO8kymz1Cw0Wcnl8VeSVTwM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E09 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/5F229600-7D8C-CD83-8EE7-BEE1EFE1AA0B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049714&Signature=mBgq81%2F1AArXTizLkdH7AMQr5CI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E09 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/5009D44D-F6B2-596B-39E1-1D1897C3F42C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049714&Signature=Is919E7Q84rv3wB%2BTSlHm%2FcX1Lw%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85915",
+        "title": "الموسم 1 - الحلقة 10 | Season 1 Episode 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E10 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/4843D63C-00BF-B773-F7E9-AED87CDAD2F8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135045&Signature=siP00YY8%2FdCDpGmwT7yOIn2hrBk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E10 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/AA65BD51-422A-83ED-866F-E09912C67502_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135045&Signature=ONsIeaHqPNB4Oa%2BuIR6%2B22uC%2FiM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E10 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/2AA5527B-4297-1246-0C13-9B0CDFD2C6D1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135045&Signature=zWeLP9N%2FU2Muq1bbmzo22uiaKyU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E10 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/53826AF6-5200-73FC-E4F9-4B7ABB0C0F24_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049767&Signature=zVC%2BbYwR84GNXm71sYsq2uxQDpo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E10 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D056DEFC-70B6-44F6-0F13-602158EB23E0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049767&Signature=74t6ZZUBJ8G051sa9bnBwPbAk28%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85916",
+        "title": "الموسم 1 - الحلقة 11 | Season 1 Episode 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E11 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/169EDE4E-4319-5771-4B25-C992EE20463A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137323&Signature=ZkkqCobmy9XeAfVwqd38ov8wa58%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E11 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/ADB31D3B-8E86-0800-ED11-CFA4EA49F509_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137323&Signature=Mg%2FwYNkd9QFPsde6i4xk9Xv847E%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E11 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/7CD479E7-4650-2C75-E45F-457061475704_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137323&Signature=DX2UbqKJXJKviZPBsa4565J2Gak%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E11 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/8EF9E3C5-BFC1-FB27-ACD2-58C780E6C9DA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049137&Signature=Xta3L5wSSyJtiQHsNIoAnmDgyfg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E11 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/9AC46D88-A5E7-1298-7FCC-A3CE3822D8A5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049137&Signature=UovPlojyhU%2F0rUzfmn5bBBUEuU8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85917",
+        "title": "الموسم 1 - الحلقة 12 | Season 1 Episode 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E12 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/62C06C85-0EF6-38BF-8E0B-828CDAEE36E6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136409&Signature=jqbrCz5qUud7xifPezDDtQWaiVM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E12 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/85C0030D-5507-AEBC-F3E8-6E4656DDFC9C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136409&Signature=PeA%2B43kCUbmuJnTUUJoXq3uR2E8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E12 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/CE23ED74-13BE-8095-CF2E-1F4B2F7BD62A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136409&Signature=nC%2FsRfDryE2JDg6TUFhlmnJsrbo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E12 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/033976F3-EE73-B054-DD33-D32093D232DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049825&Signature=h0zVy3DnJ7kTWJbAuGe%2BC8iA0wU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E12 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/9FC693E6-1E92-6AF0-EFDC-30790200B530_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049825&Signature=BEOrgLwsaNUZZFO4f0BgHMry0g4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85918",
+        "title": "الموسم 1 - الحلقة 13 | Season 1 Episode 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E13 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1E679FAC-2C42-52C5-FA8A-5E0574DE8DEE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136518&Signature=mdLPQyK1Q6JU3GwOHWDn4oamct0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E13 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/3CA8756A-1CC1-10BE-B275-16F2885AB367_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136518&Signature=35%2B3DuEci5OuynPNe0SmnJGcBeQ%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E13 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/8298081D-784C-7AB4-6F16-245DF1F980BA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136518&Signature=idP5Ui%2F3gdLZ3b%2FMcfHihiTiLTY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E13 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/4AE772ED-15BF-F916-0DF8-4BFFE489E568_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048430&Signature=sa8kq6mJjRodNC2T9ECR35%2B4eHM%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E13 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/7CA8DA98-5FFC-5DDA-367D-5DC6CD8792B3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048430&Signature=U5PVfJc6gKz4yLJKD%2B6YJJIOK7k%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85919",
+        "title": "الموسم 1 - الحلقة 14 | Season 1 Episode 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E14 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/03483D37-3C53-FFAE-5574-D25BAC525DB6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135119&Signature=AIbpJB3%2FYLzQ%2Fg4%2FRowIbbxqezg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E14 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/6E9591D3-41B5-153B-96DF-94582748CD45_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135119&Signature=xL8KvxHenjNDTg0QCGxhsKGi9D8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E14 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/52EE44C8-4076-A099-DC4A-C168755727B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135119&Signature=5wrKZiq2qKkuXYEehxYKPZRpbn4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E14 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/77350BFA-CCA6-AAC0-A805-DE54CD25916C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050112&Signature=7U9q9xNbJxy6G0xTupdSyHW6s1Q%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E14 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/038AA4B9-39BE-3261-9819-90AB545E923E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050112&Signature=cm1Q%2F2AEMwIXxPrRvdvNBOE9zlI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85920",
+        "title": "الموسم 1 - الحلقة 15 | Season 1 Episode 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E15 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/FD0CFFF1-9AC1-AE51-1CFC-AB3C63C05B60_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135488&Signature=hoKMIFGynsHFflsrUiSV661Rj%2FE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E15 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D058B830-6497-19BE-7D8A-5A53CA45E729_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135488&Signature=I%2FoxYJf9oJu4vxYXpjJ5Wif7ENU%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E15 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E7F2BA9C-954E-69FF-E67B-BC33CB98851A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135488&Signature=vJU80Q%2F%2BiyJ0gd3kqwFrNquxRr8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E15 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/5C26A77C-773F-BA4C-1834-8DADCD86962C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050148&Signature=PImAG0kiFORjeBXPsehkgERWG6I%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E15 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/7FE6DF77-87FA-4B88-4672-B5F96CD61177_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050148&Signature=dsxsvrr6JFgW1c73cE4OVRnbrmA%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85921",
+        "title": "الموسم 1 - الحلقة 16 | Season 1 Episode 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E16 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/0F9430E7-DB05-AC86-5673-E29E52AC4F2F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135304&Signature=lxlydz%2BOvsJ3FScampvMrDZVmGo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E16 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B937ACEC-CDA0-E05B-BB5C-59BA53114D1E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135304&Signature=tC6q%2FHIfUZWSkVe5h%2B5y45uf35A%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E16 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/509B60C4-439D-7AA0-5B4C-21E1A10B90F0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135304&Signature=GTAIBU5Hg%2B7oNsAqu18wlj5Ds1A%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E16 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/6733558F-FA3D-A77C-D313-DC1F9AA08388_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050193&Signature=hx76emrW5sNIU8A5Ad0%2BG5I%2FMEE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E16 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/F240B6E6-C56D-40EE-E3D3-F1E5F0972A82_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050193&Signature=DX1o6UMUdUmDADfHjnV7FsWPVP4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85922",
+        "title": "الموسم 1 - الحلقة 17 | Season 1 Episode 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E17 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1207E6C3-0320-6404-B731-DB592E2F6B04_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135472&Signature=PxRiwHcee4InYscXAq4EdVRb3%2F8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E17 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D3F6A6B4-5C54-B490-6D33-CF92AF5A998A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135472&Signature=%2FndHINbIYDEUGBjadPYTY6%2BCgpo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E17 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/9FA128D0-554C-90D8-493B-4A28645E2F64_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135472&Signature=2zxVQz7lxfy83CEPi3ijEv7sm90%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E17 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/5CC68B63-D098-C666-2834-B6C3D06234B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050222&Signature=3a1xgtzXFFJr0H1Q%2F1b7mOd4ap8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E17 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/C58AA1CE-31BB-A377-739B-EE75B795DFF4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050222&Signature=wUcbmzihSz3lDBtdO11msdZuocY%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85923",
+        "title": "الموسم 1 - الحلقة 18 | Season 1 Episode 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E18 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/48B93E48-751E-5032-1275-8377FB8AA799_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135449&Signature=89UqSPTaAFtMxFIda2FrOUCDU0Q%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E18 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/30070C44-0DE7-169E-B8A3-4B50CA677686_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135449&Signature=37OvIPeFk9ZZySg8osqZUj%2BCgqE%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E18 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/F28A004E-F009-2433-37BC-8B586F55EA19_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135449&Signature=2XKSH2zSfchZSADPnKWJWB3p9Fk%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E18 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/39A61D2E-9E58-FB95-63E3-9AC97C84FC4A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050246&Signature=S5UlQL8u%2Fj%2FB9ZtkTdTkWNsu4cc%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E18 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/894BDF16-5C74-C780-B98C-A124A4BE6806_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050246&Signature=X%2BLSztNCWarSDn1CLiLG8CthbiI%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85924",
+        "title": "الموسم 1 - الحلقة 19 | Season 1 Episode 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E19 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B0705351-7BF2-7CC6-AAB4-CC66030F3049_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135165&Signature=354OlWLV14v3%2FsX3x9zrYnx81P0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E19 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/BEF1C546-C6A8-A6F2-0725-878BF70C3C35_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135165&Signature=QnXHg05i8NPzKXWXCjdEMH4Vk48%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E19 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1D86F877-10CF-787B-048A-72876E336C34_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135165&Signature=dTZY%2BvqCiAwEpFFUv4Jihc%2F7ND8%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E19 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B767CA35-AE06-3123-09D4-A992055AD53A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050441&Signature=e6xPVHXY2MZ3ZRJvruYqWmGqF14%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E19 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B98CD649-F3E1-A231-8B1E-160196C22E74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050441&Signature=jigOYopv1uKPQBF3ejeJH93mXY0%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_85925",
+        "title": "الموسم 1 - الحلقة 20 | Season 1 Episode 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4111D34A-CC48-3652-513E-104E0398903B_poster.jpg",
+        "overview": "تدور أحداث المسلسل في إطار من التشويق والإثارة حول (عليا) التي تعيش مع زوجها وابنهما في بلد أوروبي، وعندما يتوفى الزوج تعود إلى لبنان لدفنه في بلدته الحدودية بين لبنان وسوريا، فتواجه مشكلة أن عائلة زوجها تقرر أخذ الطفل منها، والشرط الوحيد لبقائها بجانبه هي أن تتزوج من شقيق زوجها (جبل)، لكنها تكتشف أن زوجها وعائلته يتاجرون في السلاح وتهريبه وغيره، فما الذي ستفعله؟.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "الهيبة S01E20 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/EE79C4A6-BB9B-168A-9DC5-38D5BD63FB85_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135764&Signature=Qg5jQcnUbNAoU0%2B%2B3vURv8snx2E%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "الهيبة S01E20 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/C3879EDA-63CC-5519-59DE-821191E72C41_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135764&Signature=1xlQfCNO%2B2ZB4s%2BrHifvQivu7%2Bo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "الهيبة S01E20 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/502589BE-B6DE-52E3-8D2A-BE65DD9359B5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135764&Signature=%2BATRB%2FFskoA%2Fq8EftkxlP3ORsCo%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "الهيبة S01E20 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E5F08FF9-67BA-19E7-6B01-862A809E5FBB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048449&Signature=QHlx0nsMzndZUGbgJ9C0HJaJYq4%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "الهيبة S01E20 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/697C2EE0-2AF7-37F1-8CF8-CD98E541DC1D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048449&Signature=asXkvXNlvKLkyWHx7IreYQGYcUg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
       }
     ]
   }

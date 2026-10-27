@@ -268,7 +268,7 @@
       "type": "series",
       "id": "3isk_latest_episodes",
       "name": "3isk Latest Turkish Episodes",
-      "pageSize": 42,
+      "pageSize": 49,
       "showInHome": true
     },
     {
@@ -423,5 +423,5 @@
     "configurable": false,
     "configurationRequired": false
   },
-  "_timestamp": 1793062857388
+  "_timestamp": 1793081144388
 }

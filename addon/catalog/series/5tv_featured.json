@@ -1,6 +1,39 @@
 {
   "metas": [
     {
+      "id": "5tv_series__brooklyn-nine-nine",
+      "type": "series",
+      "name": "Brooklyn Nine-Nine",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "Brooklyn Nine-Nine — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_series__%d9%82%d9%86%d8%a7%d8%b9-%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b3-bridal-mask",
+      "type": "series",
+      "name": "قناع العروس Bridal Mask",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/5EW5VUeTicxFKy4ZL8ugkRV1cxq-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/5EW5VUeTicxFKy4ZL8ugkRV1cxq-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/5EW5VUeTicxFKy4ZL8ugkRV1cxq-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "قناع العروس Bridal Mask — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_series__%d8%a3%d8%ac%d8%a7%d8%b2%d8%a9-%d8%b5%d9%8a%d9%81%d9%8a%d8%a9-summer-vacation",
+      "type": "series",
+      "name": "أجازة صيفية Summer Vacation",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/8FXMTIQNKr7bWFdZeKNSKmeoRBh-1-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/8FXMTIQNKr7bWFdZeKNSKmeoRBh-1-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/8FXMTIQNKr7bWFdZeKNSKmeoRBh-1-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "أجازة صيفية Summer Vacation — 5TV Featured Series & Movies"
+    },
+    {
       "id": "5tv_series__%d8%a7%d9%84%d9%83%d8%b0%d8%a8%d8%a9-%d8%a7%d9%84%d9%85%d8%ab%d8%a7%d9%84%d9%8a%d8%a9-the-perfect-lie",
       "type": "series",
       "name": "الكذبة المثالية The Perfect Lie",
@@ -100,37 +133,92 @@
       "description": "المحقق النبيل The Noble Detective — 5TV Featured Series & Movies"
     },
     {
-      "id": "5tv_series__%d9%8a%d8%a7-%d8%ad%d8%a7%d8%b1%d8%b3%d8%aa%d9%8a-oh-my-guard",
+      "id": "5tv_movie__sense-and-sensibility-2026",
       "type": "series",
-      "name": "يا حارستي! Oh! My Guard",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/dg4IIruyBEtSgjW5fdXi46xrSzC-e1792843559802-768x863.jpg",
+      "name": "Sense and Sensibility 2026",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/5bmH9lyNVEW6DXBf4rYx9Os7Fuo-768x1152.jpg",
       "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/dg4IIruyBEtSgjW5fdXi46xrSzC-e1792843559802-768x863.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/dg4IIruyBEtSgjW5fdXi46xrSzC-e1792843559802-768x863.jpg",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/5bmH9lyNVEW6DXBf4rYx9Os7Fuo-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/5bmH9lyNVEW6DXBf4rYx9Os7Fuo-768x1152.jpg",
       "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "يا حارستي! Oh! My Guard — 5TV Featured Series & Movies"
+      "description": "Sense and Sensibility 2026 — 5TV Featured Series & Movies"
     },
     {
-      "id": "5tv_series__%d8%a7%d9%84%d9%85%d8%a7%d8%a6%d8%af%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9-final-table",
+      "id": "5tv_movie__verity-2026-3",
       "type": "series",
-      "name": "المائدة الأخيرة Final Table",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/8FXMTIQNKr7bWFdZeKNSKmeoRBh-768x1152.jpg",
+      "name": "Verity 2026",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/images-33.jpg",
       "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/8FXMTIQNKr7bWFdZeKNSKmeoRBh-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/8FXMTIQNKr7bWFdZeKNSKmeoRBh-768x1152.jpg",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/images-33.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/images-33.jpg",
       "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "المائدة الأخيرة Final Table — 5TV Featured Series & Movies"
+      "description": "Verity 2026 — 5TV Featured Series & Movies"
     },
     {
-      "id": "5tv_series__9-1-1-nashville",
+      "id": "5tv_movie__forgotten-island-2026",
       "type": "series",
-      "name": "9-1-1: Nashville",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ubqZEVCDp86myrZwJpyNwocLrce-768x432.jpg",
+      "name": "Forgotten Island 2026",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/myd1K3gefdNAWFsGNRDdMeiK9Qg-768x1152.jpg",
       "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/ubqZEVCDp86myrZwJpyNwocLrce-768x432.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ubqZEVCDp86myrZwJpyNwocLrce-768x432.jpg",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/myd1K3gefdNAWFsGNRDdMeiK9Qg-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/myd1K3gefdNAWFsGNRDdMeiK9Qg-768x1152.jpg",
       "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "9-1-1: Nashville — 5TV Featured Series & Movies"
+      "description": "Forgotten Island 2026 — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_movie__queen-at-sea-2026",
+      "type": "series",
+      "name": "Queen at Sea 2026",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ueYawr1nldKchzyP8Q9KJpn31SK-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/ueYawr1nldKchzyP8Q9KJpn31SK-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ueYawr1nldKchzyP8Q9KJpn31SK-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "Queen at Sea 2026 — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_movie__hive-2026",
+      "type": "series",
+      "name": "Hive 2026",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/aFGoHyaTPERCyuAhEvonS8xlk9Y-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/aFGoHyaTPERCyuAhEvonS8xlk9Y-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/aFGoHyaTPERCyuAhEvonS8xlk9Y-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "Hive 2026 — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_movie__the-dog-stars-2026",
+      "type": "series",
+      "name": "The Dog Stars 2026",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/5O616X9vmRzQdB68PHzBewPittd-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/5O616X9vmRzQdB68PHzBewPittd-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/5O616X9vmRzQdB68PHzBewPittd-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "The Dog Stars 2026 — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_movie__the-long-walk-2025-2",
+      "type": "series",
+      "name": "The Long Walk 2025",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/wobVTa99eW0ht6c1rNNzLkazPtR-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/wobVTa99eW0ht6c1rNNzLkazPtR-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/wobVTa99eW0ht6c1rNNzLkazPtR-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "The Long Walk 2025 — 5TV Featured Series & Movies"
+    },
+    {
+      "id": "5tv_movie__tune-in-for-love-2019",
+      "type": "series",
+      "name": "Tune in for Love 2019",
+      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/7yaF5BOtPjQH8JDSSiVbzdrsWM4-768x1152.jpg",
+      "posterShape": "poster",
+      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/7yaF5BOtPjQH8JDSSiVbzdrsWM4-768x1152.jpg",
+      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/7yaF5BOtPjQH8JDSSiVbzdrsWM4-768x1152.jpg",
+      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+      "description": "Tune in for Love 2019 — 5TV Featured Series & Movies"
     },
     {
       "id": "5tv_movie__kingdom-ashin-of-the-north-2021",
@@ -219,94 +307,6 @@
       "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/8Q3G7ZWfHiNI3fdx0qZnnQ07GW0-768x1152.jpg",
       "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
       "description": "Sakamoto Days 2026 — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__street-fighter-2026-%d9%85%d8%af%d8%a8%d9%84%d8%ac",
-      "type": "series",
-      "name": "Street Fighter 2026 مدبلج",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ccxdepKqORLwccbzvO4eAGkN0IC-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/ccxdepKqORLwccbzvO4eAGkN0IC-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ccxdepKqORLwccbzvO4eAGkN0IC-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "Street Fighter 2026 مدبلج — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__tenzing-2026-%d9%85%d8%af%d8%a8%d9%84%d8%ac",
-      "type": "series",
-      "name": "Tenzing 2026 مدبلج",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/eI0QW02PYqhnmIvLRdn9vrfVVP7-1-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/eI0QW02PYqhnmIvLRdn9vrfVVP7-1-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/eI0QW02PYqhnmIvLRdn9vrfVVP7-1-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "Tenzing 2026 مدبلج — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__love-language-2026",
-      "type": "series",
-      "name": "Love Language 2026",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/sCQde3BSMpDgA1qpE0zzboFdwl0-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/sCQde3BSMpDgA1qpE0zzboFdwl0-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/sCQde3BSMpDgA1qpE0zzboFdwl0-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "Love Language 2026 — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__go-back-2021",
-      "type": "series",
-      "name": "Go Back 2021",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/1pBAaatnUJ7SrIxKUPaVHhJZi1A-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/1pBAaatnUJ7SrIxKUPaVHhJZi1A-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/1pBAaatnUJ7SrIxKUPaVHhJZi1A-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "Go Back 2021 — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__the-last-10-years-2022",
-      "type": "series",
-      "name": "The Last 10 Years 2022",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "The Last 10 Years 2022 — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__detective-conan-the-counterfeit-case-of-ultra-30-2026",
-      "type": "series",
-      "name": "Detective Conan: The Counterfeit Case of Ultra 30 2026",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/pT9RIHf4K9OyOB3eqYj97E5h0YA-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/pT9RIHf4K9OyOB3eqYj97E5h0YA-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/pT9RIHf4K9OyOB3eqYj97E5h0YA-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "Detective Conan: The Counterfeit Case of Ultra 30 2026 — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__dreamquil-2026",
-      "type": "series",
-      "name": "DreamQuil 2026",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/dVuxzF8odLaajzUk5SC4vRub7aL-768x1152.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/dVuxzF8odLaajzUk5SC4vRub7aL-768x1152.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/dVuxzF8odLaajzUk5SC4vRub7aL-768x1152.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "DreamQuil 2026 — 5TV Featured Series & Movies"
-    },
-    {
-      "id": "5tv_movie__grizzly-attack-2026",
-      "type": "series",
-      "name": "Grizzly Attack 2026",
-      "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/6XMvAhNdDKP1lIP3pZn8Apbg0Qh-768x1097.jpg",
-      "posterShape": "poster",
-      "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/6XMvAhNdDKP1lIP3pZn8Apbg0Qh-768x1097.jpg",
-      "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/6XMvAhNdDKP1lIP3pZn8Apbg0Qh-768x1097.jpg",
-      "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
-      "description": "Grizzly Attack 2026 — 5TV Featured Series & Movies"
     }
   ]
 }

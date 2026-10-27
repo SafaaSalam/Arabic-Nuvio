@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "alooy_dafneno-sawa",
+    "type": "series",
+    "name": "دافنينه سوا",
+    "poster": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg",
+    "posterShape": "poster",
+    "background": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg",
+    "landscapePoster": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg",
+    "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+    "description": "دافنينه سوا — AlooyTv",
+    "videos": [
+      {
+        "id": "alooy_dafneno-sawa:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg"
+      }
+    ]
+  }
+}

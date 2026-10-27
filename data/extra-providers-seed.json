@@ -6197,6 +6197,17 @@
     ],
     "alooy_latest_series": [
       {
+        "id": "alooy_dafneno-sawa",
+        "type": "series",
+        "name": "دافنينه سوا",
+        "poster": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg",
+        "posterShape": "poster",
+        "background": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg",
+        "landscapePoster": "https://ge.alooytv16.xyz/uploads/video_thumb/2037.jpg",
+        "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+        "description": "دافنينه سوا — AlooyTv"
+      },
+      {
         "id": "alooy_ahla-naseeb",
         "type": "series",
         "name": "أحلى نصيب",
@@ -6448,17 +6459,6 @@
         "landscapePoster": "https://ge.alooytv16.xyz/uploads/video_thumb/1800.jpg",
         "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
         "description": "أنت من أحب — AlooyTv"
-      },
-      {
-        "id": "alooy_khamsin-khamsin",
-        "type": "series",
-        "name": "خمسين خمسين",
-        "poster": "https://ge.alooytv16.xyz/uploads/video_thumb/2010.jpg",
-        "posterShape": "poster",
-        "background": "https://ge.alooytv16.xyz/uploads/video_thumb/2010.jpg",
-        "landscapePoster": "https://ge.alooytv16.xyz/uploads/video_thumb/2010.jpg",
-        "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
-        "description": "خمسين خمسين — AlooyTv"
       }
     ],
     "alooy_gulf_ramadan": [
@@ -8915,6 +8915,17 @@
         "description": "مسلسل حلم أشرف — Krmzy Turkish Series"
       },
       {
+        "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%83-%d9%86%d8%a7%d8%b1",
+        "type": "series",
+        "name": "مسلسل حبك نار",
+        "poster": "https://krmzi.org/wp-content/uploads/2026/08/Sevdan-genis.jpg",
+        "posterShape": "poster",
+        "background": "https://krmzi.org/wp-content/uploads/2026/08/Sevdan-genis.jpg",
+        "landscapePoster": "https://krmzi.org/wp-content/uploads/2026/08/Sevdan-genis.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+        "description": "مسلسل حبك نار — Krmzy Turkish Series"
+      },
+      {
         "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85%d8%a9",
         "type": "series",
         "name": "مسلسل الكرامة",
@@ -8935,17 +8946,6 @@
         "landscapePoster": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
         "description": "مسلسل القهوة المالحة — Krmzy Turkish Series"
-      },
-      {
-        "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%83-%d9%86%d8%a7%d8%b1",
-        "type": "series",
-        "name": "مسلسل حبك نار",
-        "poster": "https://krmzi.org/wp-content/uploads/2026/08/Sevdan-genis.jpg",
-        "posterShape": "poster",
-        "background": "https://krmzi.org/wp-content/uploads/2026/08/Sevdan-genis.jpg",
-        "landscapePoster": "https://krmzi.org/wp-content/uploads/2026/08/Sevdan-genis.jpg",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
-        "description": "مسلسل حبك نار — Krmzy Turkish Series"
       },
       {
         "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%87%d8%af",
@@ -9049,17 +9049,6 @@
     ],
     "asia2tv_drama": [
       {
-        "id": "aia2tv_%D8%B2%D9%87%D8%B1%D8%A9-%D8%AA%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%AD%D8%A8",
-        "type": "series",
-        "name": "زهرة تتفتح بين السحب Blossom through the Cloud",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
-        "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
-        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "زهرة تتفتح بين السحب Blossom through the Cloud — Asia2TV Korean & Asian Drama"
-      },
-      {
         "id": "aia2tv_%D8%A3%D8%B1%D8%A8%D8%B9-%D8%A3%D9%8A%D8%A7%D8%AF%D9%8D-%D9%88%D8%B3%D9%88%D9%86%D8%A7%D8%AA%D8%AA%D8%A7%D9%86",
         "type": "series",
         "name": "أربع أيادٍ وسوناتتان Four Hands, Two Sonatas",
@@ -9080,6 +9069,17 @@
         "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/b3om0Y_4f-238x320.jpg",
         "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
         "description": "مصيدة فئران Mousetrap — Asia2TV Korean & Asian Drama"
+      },
+      {
+        "id": "aia2tv_%D8%B2%D9%87%D8%B1%D8%A9-%D8%AA%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%AD%D8%A8",
+        "type": "series",
+        "name": "زهرة تتفتح بين السحب Blossom through the Cloud",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
+        "posterShape": "poster",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "description": "زهرة تتفتح بين السحب Blossom through the Cloud — Asia2TV Korean & Asian Drama"
       },
       {
         "id": "aia2tv_%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1",
@@ -9126,6 +9126,28 @@
         "description": "حتى يجف القميص Until the T-Shirt Dries — Asia2TV Korean & Asian Drama"
       },
       {
+        "id": "aia2tv_%D9%85%D8%B9%D8%A8%D9%88%D8%AF%D9%8A%D8%8C-%D9%85%D8%AF%D9%8A%D8%B1%D9%8A",
+        "type": "series",
+        "name": "معبودي، مديري My Bias, My Boss",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/nOjyQ6_3f-238x320.jpg",
+        "posterShape": "poster",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/nOjyQ6_3f-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/nOjyQ6_3f-238x320.jpg",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "description": "معبودي، مديري My Bias, My Boss — Asia2TV Korean & Asian Drama"
+      },
+      {
+        "id": "aia2tv_%D8%AD%D8%A8%D9%83-%D9%84%D8%A7-%D9%8A%D9%8F%D9%82%D9%87%D8%B1",
+        "type": "series",
+        "name": "حبك لا يُقهر Your Love So Invincible",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/z88xrlngh1qa-238x320.jpg",
+        "posterShape": "poster",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/z88xrlngh1qa-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/z88xrlngh1qa-238x320.jpg",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "description": "حبك لا يُقهر Your Love So Invincible — Asia2TV Korean & Asian Drama"
+      },
+      {
         "id": "aia2tv_%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%A8%D8%A7%D9%87%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A",
         "type": "series",
         "name": "الشرطي المتباهي 2 Flex X Cop 2",
@@ -9148,26 +9170,15 @@
         "description": "حب كحلوى التوفي Our Sticky Love — Asia2TV Korean & Asian Drama"
       },
       {
-        "id": "aia2tv_%D9%85%D8%B9%D8%A8%D9%88%D8%AF%D9%8A%D8%8C-%D9%85%D8%AF%D9%8A%D8%B1%D9%8A",
+        "id": "aia2tv_%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%8A-%D8%A7%D9%84%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9",
         "type": "series",
-        "name": "معبودي، مديري My Bias, My Boss",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/nOjyQ6_3f-238x320.jpg",
+        "name": "حبيبتي العبقرية Genius Girlfriend",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/3o5vVm_4f-238x320.jpg",
         "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/nOjyQ6_3f-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/nOjyQ6_3f-238x320.jpg",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/3o5vVm_4f-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/3o5vVm_4f-238x320.jpg",
         "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "معبودي، مديري My Bias, My Boss — Asia2TV Korean & Asian Drama"
-      },
-      {
-        "id": "aia2tv_%D8%AD%D8%A8%D9%83-%D9%84%D8%A7-%D9%8A%D9%8F%D9%82%D9%87%D8%B1",
-        "type": "series",
-        "name": "حبك لا يُقهر Your Love So Invincible",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/z88xrlngh1qa-238x320.jpg",
-        "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/z88xrlngh1qa-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/z88xrlngh1qa-238x320.jpg",
-        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "حبك لا يُقهر Your Love So Invincible — Asia2TV Korean & Asian Drama"
+        "description": "حبيبتي العبقرية Genius Girlfriend — Asia2TV Korean & Asian Drama"
       },
       {
         "id": "aia2tv_%D9%82%D8%A7%D8%AA%D9%84%D8%A9-%D8%A8%D8%AD%D8%B3%D9%86-%D9%86%D9%8A%D8%A9",
@@ -9214,15 +9225,37 @@
         "description": "متجر للقتلة الموسم 2 A Shop for Killers — Asia2TV Korean & Asian Drama"
       },
       {
-        "id": "aia2tv_%D8%AD%D8%A8%D9%8A%D8%A8%D8%AA%D9%8A-%D8%A7%D9%84%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9",
+        "id": "aia2tv_%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%84%D8%BA%D8%A9",
         "type": "series",
-        "name": "حبيبتي العبقرية Genius Girlfriend",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/3o5vVm_4f-238x320.jpg",
+        "name": "المبالغة Overdo",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/oQAOek_3f-238x320.jpg",
         "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/3o5vVm_4f-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/08/3o5vVm_4f-238x320.jpg",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/oQAOek_3f-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/oQAOek_3f-238x320.jpg",
         "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "حبيبتي العبقرية Genius Girlfriend — Asia2TV Korean & Asian Drama"
+        "description": "المبالغة Overdo — Asia2TV Korean & Asian Drama"
+      },
+      {
+        "id": "aia2tv_%D8%B4%D9%8A%D8%A7%D9%88-%D9%81%D8%A7%D9%86%D8%BA",
+        "type": "series",
+        "name": "شياو فانغ Xiao Fang",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/yWDrQ6_3f-238x320.jpg",
+        "posterShape": "poster",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/yWDrQ6_3f-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/yWDrQ6_3f-238x320.jpg",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "description": "شياو فانغ Xiao Fang — Asia2TV Korean & Asian Drama"
+      },
+      {
+        "id": "aia2tv_%D9%82%D8%B5%D8%A9-%D8%AD%D8%A8-%D9%85%D8%B1%D8%B9%D8%A8%D8%A9",
+        "type": "series",
+        "name": "قصة حب مرعبة Spooky in Love",
+        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/81Eojl_3f-238x320.jpg",
+        "posterShape": "poster",
+        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/81Eojl_3f-238x320.jpg",
+        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/81Eojl_3f-238x320.jpg",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "description": "قصة حب مرعبة Spooky in Love — Asia2TV Korean & Asian Drama"
       },
       {
         "id": "aia2tv_%D8%A7%D9%84%D9%82%D8%B5%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A",
@@ -9256,39 +9289,6 @@
         "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/O8PDKb_4f-238x320.jpg",
         "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
         "description": "مهمة في المجمع السكني The Apartment Job — Asia2TV Korean & Asian Drama"
-      },
-      {
-        "id": "aia2tv_%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D9%84%D8%BA%D8%A9",
-        "type": "series",
-        "name": "المبالغة Overdo",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/oQAOek_3f-238x320.jpg",
-        "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/oQAOek_3f-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/oQAOek_3f-238x320.jpg",
-        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "المبالغة Overdo — Asia2TV Korean & Asian Drama"
-      },
-      {
-        "id": "aia2tv_%D8%B4%D9%8A%D8%A7%D9%88-%D9%81%D8%A7%D9%86%D8%BA",
-        "type": "series",
-        "name": "شياو فانغ Xiao Fang",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/yWDrQ6_3f-238x320.jpg",
-        "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/yWDrQ6_3f-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/yWDrQ6_3f-238x320.jpg",
-        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "شياو فانغ Xiao Fang — Asia2TV Korean & Asian Drama"
-      },
-      {
-        "id": "aia2tv_%D9%82%D8%B5%D8%A9-%D8%AD%D8%A8-%D9%85%D8%B1%D8%B9%D8%A8%D8%A9",
-        "type": "series",
-        "name": "قصة حب مرعبة Spooky in Love",
-        "poster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/81Eojl_3f-238x320.jpg",
-        "posterShape": "poster",
-        "background": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/81Eojl_3f-238x320.jpg",
-        "landscapePoster": "https://ww1.asia2tv.pw/wp-content/uploads/2026/07/81Eojl_3f-238x320.jpg",
-        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
-        "description": "قصة حب مرعبة Spooky in Love — Asia2TV Korean & Asian Drama"
       },
       {
         "id": "aia2tv_%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD",
@@ -11485,6 +11485,61 @@
     ],
     "3isk_latest_episodes": [
       {
+        "id": "3isk_watch__episodes__serie-tuzlu-kahve-season-1-episode-9",
+        "type": "series",
+        "name": "مسلسل القهوة المالحة الحلقة 9",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل القهوة المالحة الحلقة 9 — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-season-1-episode-90",
+        "type": "series",
+        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 90",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 90 — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__episodes__serie-anne-yarisi-season-1-episode-6",
+        "type": "series",
+        "name": "مسلسل نصف الام الحلقة 6",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/Anne-Yarisi-1.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/Anne-Yarisi-1.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/Anne-Yarisi-1.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل نصف الام الحلقة 6 — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__episodes__serie-haysiyet-season-1-episode-8",
+        "type": "series",
+        "name": "مسلسل الكرامة الحلقة 8",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل الكرامة الحلقة 8 — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__episodes__serie-alti-ustu-istanbul-season-1-episode-18",
+        "type": "series",
+        "name": "مسلسل اسطنبول راسا على عقب الحلقة 18",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل اسطنبول راسا على عقب الحلقة 18 — 3isk (قصة عشق)"
+      },
+      {
         "id": "3isk_watch__episodes__serie-uzak-sehir-season-1-episode-70",
         "type": "series",
         "name": "مسلسل المدينة البعيدة الحلقة 70",
@@ -11505,17 +11560,6 @@
         "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/Sevdam-Karadeniz.jpg",
         "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
         "description": "مسلسل حبي البحر الاسود الحلقة 3 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-alti-ustu-istanbul-season-1-episode-18",
-        "type": "series",
-        "name": "مسلسل اسطنبول راسا على عقب الحلقة 18",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل اسطنبول راسا على عقب الحلقة 18 — 3isk (قصة عشق)"
       },
       {
         "id": "3isk_watch__episodes__serie-evlilik-guzeldir-season-1-episode-8",
@@ -11593,50 +11637,6 @@
         "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
         "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
         "description": "مسلسل حبك نار الحلقة 7 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-tuzlu-kahve-season-1-episode-9",
-        "type": "series",
-        "name": "مسلسل القهوة المالحة الحلقة 9",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل القهوة المالحة الحلقة 9 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-season-1-episode-90",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 90",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 90 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-haysiyet-season-1-episode-8",
-        "type": "series",
-        "name": "مسلسل الكرامة الحلقة 8",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل الكرامة الحلقة 8 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-anne-yarisi-season-1-episode-6",
-        "type": "series",
-        "name": "مسلسل نصف الام الحلقة 6",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/Anne-Yarisi-1.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/Anne-Yarisi-1.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/Anne-Yarisi-1.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل نصف الام الحلقة 6 — 3isk (قصة عشق)"
       },
       {
         "id": "3isk_watch__episodes__serie-sevdigim-sensin-season-1-episode-22",
@@ -11793,235 +11793,202 @@
         "description": "مسلسل حيث تشرق الشمس الحلقة 6 — 3isk (قصة عشق)"
       },
       {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-118-m187y",
+        "id": "3isk_watch__movies__film-hikayatik-ant-2013-1oct5",
         "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 118 مدبلج",
+        "name": "فيلم حكايتك انت 2013 Senin Hikayen مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2020/08/uY5bOrFCNkqaTdoZg4wZ6cE8Yos.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2020/08/uY5bOrFCNkqaTdoZg4wZ6cE8Yos.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2020/08/uY5bOrFCNkqaTdoZg4wZ6cE8Yos.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم حكايتك انت 2013 Senin Hikayen مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-okul-tirasi-2021",
+        "type": "series",
+        "name": "فيلم حارس الاخ 2021 Okul Tirasi مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/yTqV0pzQkbpTs8olGghxOy3gwUX.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/yTqV0pzQkbpTs8olGghxOy3gwUX.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/yTqV0pzQkbpTs8olGghxOy3gwUX.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم حارس الاخ 2021 Okul Tirasi مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-two-worlds-one-wish",
+        "type": "series",
+        "name": "فيلم عالمان امنية واحدة 2025 Two Worlds One Wish مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2025/11/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2025/11/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2025/11/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم عالمان امنية واحدة 2025 Two Worlds One Wish مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-two-worlds-one-wish-mudblij",
+        "type": "series",
+        "name": "فيلم عالمان امنية واحدة 2025 Two Worlds One Wish مدبلج",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2025/11/Two-Worlds-One-Wish.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2025/11/Two-Worlds-One-Wish.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2025/11/Two-Worlds-One-Wish.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم عالمان امنية واحدة 2025 Two Worlds One Wish مدبلج — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-kin-2021",
+        "type": "series",
+        "name": "فيلم ضغينة 2021 Kin مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/6fhqb5JegWJGMuomR3Jqmo0Skqn.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/6fhqb5JegWJGMuomR3Jqmo0Skqn.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/6fhqb5JegWJGMuomR3Jqmo0Skqn.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم ضغينة 2021 Kin مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-son-kuslar-2016",
+        "type": "series",
+        "name": "فيلم صيد في غير موسم 2016 Son Kuslar مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/pGCA2c6eWEzu3ym5ah5Pw6dX5vR.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/pGCA2c6eWEzu3ym5ah5Pw6dX5vR.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/pGCA2c6eWEzu3ym5ah5Pw6dX5vR.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم صيد في غير موسم 2016 Son Kuslar مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-umut-apartmani-2016",
+        "type": "series",
+        "name": "فيلم شقة الامل 2016 Umut Apartmanı مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/h7w13eLpdyyUJrbOsUMzjo52Rp5.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/h7w13eLpdyyUJrbOsUMzjo52Rp5.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/h7w13eLpdyyUJrbOsUMzjo52Rp5.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم شقة الامل 2016 Umut Apartmanı مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__film-my-apologies-2022-1oct5",
+        "type": "series",
+        "name": "فيلم اعتذاري 2022 My Apologies مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2023/05/vjA8vqKnHHHbGOllVTcL2gwBvus.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2023/05/vjA8vqKnHHHbGOllVTcL2gwBvus.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2023/05/vjA8vqKnHHHbGOllVTcL2gwBvus.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم اعتذاري 2022 My Apologies مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-mucize-2015-mudblij",
+        "type": "series",
+        "name": "فيلم اراك بقلبي Mucize 2015 مدبلج",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/Mucize-m.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/Mucize-m.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/Mucize-m.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم اراك بقلبي Mucize 2015 مدبلج — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-mucize-2-2019",
+        "type": "series",
+        "name": "فيلم اراك بقلبي 2 Mucize مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/movie-Mucize-2-2019-2.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/movie-Mucize-2-2019-2.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/movie-Mucize-2-2019-2.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم اراك بقلبي 2 Mucize مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__episodes__serie-deli-yurek-season-1-episode-4",
+        "type": "series",
+        "name": "مسلسل قلب شجاع مترجم الحلقة 4",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل قلب شجاع مترجم الحلقة 4 — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_seasons__serie-deli-yurek-season-1",
+        "type": "series",
+        "name": "مسلسل قلب شجاع الموسم الاول مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل قلب شجاع الموسم الاول مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__tvshows__serie-deli-yurek",
+        "type": "series",
+        "name": "مسلسل قلب شجاع مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/57IBNzzBJ6LAWVbNZtdmYwF3fj2.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "مسلسل قلب شجاع مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__film-iinaa-wabnutay-2018-1oct5",
+        "type": "series",
+        "name": "فيلم ابنتي وانا 2018 مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2020/08/viVUM1UeH2KkgFMTAK1f44btKIk.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2020/08/viVUM1UeH2KkgFMTAK1f44btKIk.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2020/08/viVUM1UeH2KkgFMTAK1f44btKIk.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم ابنتي وانا 2018 مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-olumlu-dunya-2",
+        "type": "series",
+        "name": "فيلم احذروا هذه العائلة 2023 olumlu dunya 2 مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/09/pxdmeAKAjeoMIPBrhgULHAZct60.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/09/pxdmeAKAjeoMIPBrhgULHAZct60.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/09/pxdmeAKAjeoMIPBrhgULHAZct60.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم احذروا هذه العائلة 2023 olumlu dunya 2 مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__movies__movie-sonunda-sen-2026",
+        "type": "series",
+        "name": "فيلم اخيرا انت Sonunda Sen 2026 مترجم",
+        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg",
+        "posterShape": "poster",
+        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg",
+        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg",
+        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "description": "فيلم اخيرا انت Sonunda Sen 2026 مترجم — 3isk (قصة عشق)"
+      },
+      {
+        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-127-d613u",
+        "type": "series",
+        "name": "مسلسل شراب التوت 3 الحلقة 127 مدبلج",
         "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
         "posterShape": "poster",
         "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
         "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
         "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 118 مدبلج — 3isk (قصة عشق)"
+        "description": "مسلسل شراب التوت 3 الحلقة 127 مدبلج — 3isk (قصة عشق)"
       },
       {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-116-h644t",
+        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-126-c307r",
         "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 116 مدبلج",
+        "name": "مسلسل شراب التوت 3 الحلقة 126 مدبلج",
         "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
         "posterShape": "poster",
         "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
         "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
         "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 116 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-117-q998x",
-        "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 117 مدبلج",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 117 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-114-d731f",
-        "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 114 مدبلج",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 114 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-115-s621u",
-        "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 115 مدبلج",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 115 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-113-q694z",
-        "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 113 مدبلج",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 113 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-112-k501w",
-        "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 112 مدبلج",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 112 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-kizilcik-serbeti-mudblij-season-3-episode-111-a677o",
-        "type": "series",
-        "name": "مسلسل شراب التوت 3 الحلقة 111 مدبلج",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2024/03/c24d13a147.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل شراب التوت 3 الحلقة 111 مدبلج — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-asi-season-1-episode-4",
-        "type": "series",
-        "name": "مسلسل عاصي الحلقة 4",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل عاصي الحلقة 4 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-esaret-mudblij-season-1-episode-255",
-        "type": "series",
-        "name": "مسلسل الاسيرة مدبلج الحلقة 255",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/03/3ed190ad003.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/03/3ed190ad003.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/03/3ed190ad003.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل الاسيرة مدبلج الحلقة 255 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-esaret-mudblij-season-1-episode-254",
-        "type": "series",
-        "name": "مسلسل الاسيرة مدبلج الحلقة 254",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/03/3ed190ad003.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/03/3ed190ad003.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/03/3ed190ad003.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل الاسيرة مدبلج الحلقة 254 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-asi-season-1-episode-3",
-        "type": "series",
-        "name": "مسلسل عاصي الحلقة 3",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/10/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/10/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/10/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل عاصي الحلقة 3 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-71",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 71",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 71 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-70",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 70",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 70 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-69",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 69",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 69 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-68",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 68",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 68 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-67",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 67",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 67 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-66",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 66",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 66 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-65",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 65",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 65 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-64",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 64",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 64 — 3isk (قصة عشق)"
-      },
-      {
-        "id": "3isk_watch__episodes__serie-mehmed-fetihler-sultani-8oct6-season-1-episode-63",
-        "type": "series",
-        "name": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 63",
-        "poster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "posterShape": "poster",
-        "background": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "landscapePoster": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
-        "logo": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "description": "مسلسل محمد الفاتح سلطان الفتوحات الحلقة 63 — 3isk (قصة عشق)"
+        "description": "مسلسل شراب التوت 3 الحلقة 126 مدبلج — 3isk (قصة عشق)"
       }
     ],
     "akwam_latest_movies": [
@@ -12388,6 +12355,114 @@
     ],
     "akwam_latest_series": [
       {
+        "id": "akwam_series__5272__شراب-التوت-الموسم-الرابع-مدبلج-3",
+        "type": "series",
+        "name": "شراب التوت الموسم الرابع مدبلج",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/HFVhs.jpg",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/HFVhs.jpg",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/HFVhs.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "شراب التوت الموسم الرابع مدبلج — Akwam (أكوام)",
+        "imdbRating": "7.0"
+      },
+      {
+        "id": "akwam_series__5532__الورود-مترجم",
+        "type": "series",
+        "name": "الورود مترجم",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/EBo4F.jpg",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/EBo4F.jpg",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/EBo4F.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "الورود مترجم — Akwam (أكوام)",
+        "imdbRating": "7.0"
+      },
+      {
+        "id": "akwam_series__5813__احلى-نصيب",
+        "type": "series",
+        "name": "احلى نصيب",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "احلى نصيب — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5870__حب-أسود",
+        "type": "series",
+        "name": "حب أسود",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "حب أسود — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5734__العروس-مدبلج",
+        "type": "series",
+        "name": "العروس مدبلج",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/8ehVV.jpg",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/8ehVV.jpg",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/8ehVV.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "العروس مدبلج — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5760__اسطنبول-راسا-على-عقب-مدبلج",
+        "type": "series",
+        "name": "اسطنبول راسا على عقب مدبلج",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/97AJz.webp",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/97AJz.webp",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/97AJz.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "اسطنبول راسا على عقب مدبلج — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5753__ورود-وذنوب-الموسم-الثاني-مدبلج",
+        "type": "series",
+        "name": "ورود وذنوب الموسم الثاني مدبلج",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/KkuwM.png",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/KkuwM.png",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/KkuwM.png",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "ورود وذنوب الموسم الثاني مدبلج — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5899__اسرار-اللؤلؤ-مدبلج-الموسم-الثالث",
+        "type": "series",
+        "name": "اسرار اللؤلؤ مدبلج الموسم الثالث",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/A0qZm.jpg",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/A0qZm.jpg",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/A0qZm.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "اسرار اللؤلؤ مدبلج الموسم الثالث — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5814__سقف-الوالد-الموسم-الثاني",
+        "type": "series",
+        "name": "سقف الوالد الموسم الثاني",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "سقف الوالد الموسم الثاني — Akwam (أكوام)",
+        "imdbRating": "7.0"
+      },
+      {
         "id": "akwam_series__5902__الخليفة-مدبلج",
         "type": "series",
         "name": "الخليفة مدبلج",
@@ -12565,114 +12640,6 @@
         "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/8Cy9m.jpg",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
         "description": "بهو الست لميا — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5791__s-w-a-t-exiles",
-        "type": "series",
-        "name": "S.W.A.T. Exiles",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/JObB9.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/JObB9.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/JObB9.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "S.W.A.T. Exiles — Akwam (أكوام)",
-        "imdbRating": "6.0"
-      },
-      {
-        "id": "akwam_series__5861__sheriff-country-الموسم-الثاني",
-        "type": "series",
-        "name": "Sheriff Country الموسم الثاني",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/FqLzW.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/FqLzW.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/FqLzW.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "Sheriff Country الموسم الثاني — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5859__zmora",
-        "type": "series",
-        "name": "Zmora",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/uZaXs.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/uZaXs.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/uZaXs.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "Zmora — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5863__treasure-island",
-        "type": "series",
-        "name": "Treasure Island",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/CTJsE.jpg",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/CTJsE.jpg",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/CTJsE.jpg",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "Treasure Island — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5799__youth",
-        "type": "series",
-        "name": "Youth",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/g45t6.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/g45t6.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/g45t6.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "Youth — Akwam (أكوام)",
-        "imdbRating": "6.0"
-      },
-      {
-        "id": "akwam_series__5844__eternally-yours",
-        "type": "series",
-        "name": "Eternally Yours",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/0S4m6.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/0S4m6.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/0S4m6.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "Eternally Yours — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5842__cupertino",
-        "type": "series",
-        "name": "Cupertino",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/OOOhw.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/OOOhw.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/OOOhw.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "Cupertino — Akwam (أكوام)",
-        "imdbRating": "7.0"
-      },
-      {
-        "id": "akwam_series__5899__اسرار-اللؤلؤ-مدبلج-الموسم-الثالث",
-        "type": "series",
-        "name": "اسرار اللؤلؤ مدبلج الموسم الثالث",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/A0qZm.jpg",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/A0qZm.jpg",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/A0qZm.jpg",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "اسرار اللؤلؤ مدبلج الموسم الثالث — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5870__حب-أسود",
-        "type": "series",
-        "name": "حب أسود",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "حب أسود — Akwam (أكوام)",
         "imdbRating": "8.0"
       }
     ],
@@ -13040,6 +13007,42 @@
     ],
     "akwam_arabic_series": [
       {
+        "id": "akwam_series__5813__احلى-نصيب",
+        "type": "series",
+        "name": "احلى نصيب",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "احلى نصيب — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5870__حب-أسود",
+        "type": "series",
+        "name": "حب أسود",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "حب أسود — Akwam (أكوام)",
+        "imdbRating": "8.0"
+      },
+      {
+        "id": "akwam_series__5814__سقف-الوالد-الموسم-الثاني",
+        "type": "series",
+        "name": "سقف الوالد الموسم الثاني",
+        "poster": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
+        "posterShape": "poster",
+        "background": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
+        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+        "description": "سقف الوالد الموسم الثاني — Akwam (أكوام)",
+        "imdbRating": "7.0"
+      },
+      {
         "id": "akwam_series__5718__الفندق-الملعون-مدبلج",
         "type": "series",
         "name": "الفندق الملعون مدبلج",
@@ -13061,30 +13064,6 @@
         "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/8Cy9m.jpg",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
         "description": "بهو الست لميا — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5870__حب-أسود",
-        "type": "series",
-        "name": "حب أسود",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/SJfQd.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "حب أسود — Akwam (أكوام)",
-        "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5813__احلى-نصيب",
-        "type": "series",
-        "name": "احلى نصيب",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/ric4v.webp",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "احلى نصيب — Akwam (أكوام)",
         "imdbRating": "8.0"
       },
       {
@@ -13170,18 +13149,6 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
         "description": "تيك تاك — Akwam (أكوام)",
         "imdbRating": "8.0"
-      },
-      {
-        "id": "akwam_series__5814__سقف-الوالد-الموسم-الثاني",
-        "type": "series",
-        "name": "سقف الوالد الموسم الثاني",
-        "poster": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
-        "posterShape": "poster",
-        "background": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
-        "landscapePoster": "https://img.downet.net/thumb/178x260/uploads/DcSE1.jpg",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "description": "سقف الوالد الموسم الثاني — Akwam (أكوام)",
-        "imdbRating": "7.0"
       },
       {
         "id": "akwam_series__5682__حب-ع-ورق-1",

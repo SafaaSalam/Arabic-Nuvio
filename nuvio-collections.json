@@ -1413,7 +1413,7 @@
     "id": "tuniflix-collection",
     "title": "TuniFlix — Movies",
     "name": "TuniFlix — Movies",
-    "backdropImageUrl": "https://image.tmdb.org/t/p/w185/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+    "backdropImageUrl": "https://image.tmdb.org/t/p/w185/6ssnzqrXNwXig5LlM7YHh9Y5X6t.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -1423,12 +1423,12 @@
         "id": "folder-tuniflix_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://image.tmdb.org/t/p/w185/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w185/6ssnzqrXNwXig5LlM7YHh9Y5X6t.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇳",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://image.tmdb.org/t/p/w185/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+        "heroBackdropUrl": "https://image.tmdb.org/t/p/w185/6ssnzqrXNwXig5LlM7YHh9Y5X6t.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
         "sources": [
           {

@@ -31,6 +31,11 @@ function getTmdbKey() {
   return DEFAULT_TMDB_API_KEY;
 }
 
+function decodeIdSlug(slug) {
+  var pct = String(slug).replace(/~([0-9a-fA-F]{2})/g, "%$1");
+  try { return decodeURIComponent(pct); } catch (e) { return pct; }
+}
+
 async function safeTextFetch(url, options) {
   try {
     var opts = options || {};
@@ -113,7 +118,7 @@ function unpackDeanEdwards(evalText) {
 async function resolveTmdbTitles(rawId, mediaType) {
   var idStr = String(rawId || "").trim();
   if (idStr.indexOf("3isk_") === 0) {
-    var slug = idStr.slice(5).split(":")[0].replace(/__/g, "/");
+    var slug = decodeIdSlug(idStr.slice(5).split(":")[0].replace(/__/g, "/"));
     return { customSlug: slug, titles: [] };
   }
   var normalizedType = (String(mediaType || "movie").toLowerCase() === "movie") ? "movie" : "tv";

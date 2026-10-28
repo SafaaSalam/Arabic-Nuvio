@@ -424,7 +424,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "movie",
@@ -437,7 +437,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -450,7 +450,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -463,7 +463,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -489,7 +489,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -515,7 +515,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -528,7 +528,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -541,7 +541,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "movie",
@@ -567,7 +567,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "movie",
@@ -580,7 +580,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "series",
@@ -593,7 +593,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": true
+      "showInHome": false
     },
     {
       "type": "movie",
@@ -606,7 +606,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -619,7 +619,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -632,7 +632,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -645,7 +645,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -658,7 +658,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "movie",
@@ -671,7 +671,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "movie",
@@ -684,7 +684,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -697,7 +697,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -710,7 +710,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -723,7 +723,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "series",
@@ -736,7 +736,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     },
     {
       "type": "movie",
@@ -749,7 +749,7 @@
           "isRequired": false
         }
       ],
-      "showInHome": false
+      "showInHome": true
     }
   ],
   "behaviorHints": {

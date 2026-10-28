@@ -484,6 +484,8 @@ const PROVIDERS_CATALOG = [
   },
 ];
 
+const EPISODE_HELPER = fs.readFileSync(path.join(__dirname, "templates", "episode-helper.js"), "utf8");
+
 function buildProviderSource(p) {
   const prefix = p.id.replace(/[^a-z0-9]/gi, "") + "_";
   return `/**
@@ -560,6 +562,8 @@ async function safeJsonFetch(url, options) {
   }
 }
 
+${EPISODE_HELPER}
+
 function fixUrl(url, baseUrl) {
   if (!url) return "";
   var u = String(url).trim();
@@ -604,11 +608,11 @@ function unpackDeanEdwards(evalText) {
 async function resolveTargetInfo(rawId, mediaType) {
   var idStr = String(rawId || "").trim();
   if (idStr.indexOf(CUSTOM_PREFIX) === 0) {
-    var slug = idStr.slice(CUSTOM_PREFIX.length).split(":")[0].replace(/__/g, "/");
+    var slug = decodeIdSlug(idStr.slice(CUSTOM_PREFIX.length).split(":")[0].replace(/__/g, "/"));
     return { customSlug: slug, titles: [] };
   }
   if (idStr.indexOf(PROVIDER_ID + "_") === 0) {
-    var slug2 = idStr.slice((PROVIDER_ID + "_").length).split(":")[0].replace(/__/g, "/");
+    var slug2 = decodeIdSlug(idStr.slice((PROVIDER_ID + "_").length).split(":")[0].replace(/__/g, "/"));
     return { customSlug: slug2, titles: [] };
   }
 
@@ -824,37 +828,33 @@ async function getStreams(tmdbId, mediaType, season, episode) {
         var sRes = await safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } });
         if (!sRes || !sRes.text) continue;
 
-        var linkRegex = /<a[^>]*href=["'](https?:\\/\\/[^"']+)["'][^>]*>/gi;
-        var lm;
-        while ((lm = linkRegex.exec(sRes.text)) !== null) {
-          var href = lm[1];
-          if (
-            href.indexOf(new URL(sRes.url || mainUrl).hostname) !== -1 &&
-            !/\\/(?:category|tag|genre|page|search|login|register|contact|wp-content|wp-admin|feed|author)\\b/i.test(href) &&
-            href.replace(/\\/+$/, "") !== (sRes.url || mainUrl).replace(/\\/+$/, "")
-          ) {
-            targetUrl = href;
-            break;
-          }
-        }
+        targetUrl = pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
         if (targetUrl) break;
       }
     }
 
     if (!targetUrl) return [];
 
+    var episodeResolved = false;
+    if (String(mediaType || "").toLowerCase() !== "movie" && episode != null && targetInfo.customSlug) {
+      var epMeta = await lookupEpisodeMeta(tmdbId, season, episode);
+      if (epMeta && epMeta.episodeUrl) {
+        targetUrl = epMeta.episodeUrl;
+        episodeResolved = true;
+      } else if (epMeta && epMeta.website) {
+        targetUrl = epMeta.website;
+      }
+    }
+
     var pageRes = await safeTextFetch(targetUrl, { headers: { Referer: mainUrl + "/" } });
     if (!pageRes || !pageRes.text) return [];
     var html = pageRes.text;
     var finalPageUrl = pageRes.url || targetUrl;
 
-    // If TV series episode requested, look for episode link
-    if (String(mediaType || "").toLowerCase() !== "movie" && episode != null) {
-      var epNum = parseInt(episode, 10);
-      var epCandidateRegex = new RegExp("<a[^>]*href=[\\"']([^\\"']*(?:episode-" + epNum + "|ep-" + epNum + "|%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-" + epNum + "|%d8%ad%d9%84%d9%82%d8%a9-" + epNum + ")[^\\"']*)[\\"']", "i");
-      var epM = html.match(epCandidateRegex);
-      if (epM && epM[1]) {
-        var epUrl = fixUrl(epM[1], mainUrl);
+    // TV episode: use the exact URL scraped at sync time, else find the episode link on the series page
+    if (String(mediaType || "").toLowerCase() !== "movie" && episode != null && !episodeResolved) {
+      var epUrl = findEpisodeUrl(html, finalPageUrl, season, episode);
+      if (epUrl) {
         var epRes = await safeTextFetch(epUrl, { headers: { Referer: finalPageUrl } });
         if (epRes && epRes.text) {
           html = epRes.text;

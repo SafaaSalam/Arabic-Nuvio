@@ -139,6 +139,7 @@ Catalogs and collections are synchronized automatically **every 15 minutes** via
 - Duplicates are removed inside every row by id, IMDb id and normalised title (episode/“مترجم”/“مسلسل” decorations are ignored). The two **Latest — All Sources** rows mix the newest items of every source and are de-duplicated across sources.
 - Files are only rewritten when their content changes, so a quiet 15 minutes produces no commit.
 - `data/health.json` lists every row with its item count, whether the source was reachable on the last run, and the date it last succeeded. A source that is down simply keeps its last good data.
+- **Sources that block GitHub's servers** (shown with `reachable: false` in `data/health.json`; currently Cinemana, CEE and several anime/Cloudflare sites) only update when the sync runs from a normal home connection. Install a [self-hosted runner](https://docs.github.com/actions/hosting-your-own-runners) on a PC that stays on, then set the repository variable `SYNC_RUNNER` to `self-hosted` — the same workflow then runs there every 15 minutes.
 - Cinemana only answers from Iraqi (Earthlink) networks. On GitHub it keeps using its captured data; run `npm run sync` from an Iraqi connection and push to refresh it live.
 
 To run or test locally (requires Node.js 18+):
@@ -153,6 +154,9 @@ npm test
 # Offline unit tests (merge, de-duplication, paging) and structural check of the generated catalogs
 npm run test:store
 npm run verify
+
+# Episode-list extraction and provider stream-lookup tests
+node scripts/test-episodes.js && node scripts/test-episode-streams.js
 
 # Start local CORS development server (http://localhost:3000)
 npm run serve

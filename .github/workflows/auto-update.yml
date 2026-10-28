@@ -23,7 +23,9 @@ concurrency:
 
 jobs:
   sync-and-publish:
-    runs-on: ubuntu-latest
+    # Set the repository variable SYNC_RUNNER to "self-hosted" to run on your own (e.g. Iraqi) machine,
+    # which can reach sites that block GitHub's servers (Cinemana, CEE and several anime sites).
+    runs-on: ${{ vars.SYNC_RUNNER || 'ubuntu-latest' }}
     timeout-minutes: 12
     steps:
       - name: Checkout repository
@@ -34,8 +36,11 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Unit tests (merge / dedupe / paging)
-        run: node scripts/test-store.js
+      - name: Unit tests (merge / dedupe / paging / episodes / stream lookup)
+        run: |
+          node scripts/test-store.js
+          node scripts/test-episodes.js
+          node scripts/test-episode-streams.js
 
       - name: Sync latest providers, catalogs & collections from every source
         run: node scripts/sync-from-source.js

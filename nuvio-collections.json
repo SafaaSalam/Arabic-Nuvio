@@ -723,9 +723,9 @@
     ]
   },
   {
-    "id": "cee-iraq-collection",
-    "title": "CEE Movies & Series (🇮🇶)",
-    "name": "CEE Movies & Series (🇮🇶)",
+    "id": "cee-collection",
+    "title": "CEE — Movies & Series (🇮🇶)",
+    "name": "CEE — Movies & Series (🇮🇶)",
     "backdropImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -870,9 +870,9 @@
     ]
   },
   {
-    "id": "3isk-turkish-collection",
-    "title": "3isk Turkish Drama & Series",
-    "name": "3isk Turkish Drama & Series",
+    "id": "3isk-collection",
+    "title": "3isk — Turkish Drama",
+    "name": "3isk — Turkish Drama",
     "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -936,9 +936,9 @@
     ]
   },
   {
-    "id": "alooytv-series-collection",
-    "title": "AlooyTv Gulf, Arabic & Turkish Series",
-    "name": "AlooyTv Gulf, Arabic & Turkish Series",
+    "id": "alooytv-collection",
+    "title": "AlooyTv — Gulf, Arabic & Turkish Series",
+    "name": "AlooyTv — Gulf, Arabic & Turkish Series",
     "backdropImageUrl": "https://gg.alooytv16.xyz/uploads/video_thumb/2034.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -1057,8 +1057,8 @@
   },
   {
     "id": "akwam-collection",
-    "title": "Akwam Movies & Series",
-    "name": "Akwam Movies & Series",
+    "title": "Akwam — Movies & Series",
+    "name": "Akwam — Movies & Series",
     "backdropImageUrl": "https://img.downet.net/thumb/178x260/uploads/JPj3S.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -1176,19 +1176,19 @@
     ]
   },
   {
-    "id": "arabic-drama-hub-collection",
-    "title": "Arabic, Turkish & Asian Drama Hub",
-    "name": "Arabic, Turkish & Asian Drama Hub",
+    "id": "tuktukcima-collection",
+    "title": "TukTukcima — Movies",
+    "name": "TukTukcima — Movies",
     "backdropImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "folder-tuktukcima_recent",
-        "title": "TukTukcima Recently Added",
-        "name": "TukTukcima Recently Added",
+        "title": "Recently Added",
+        "name": "Recently Added",
         "coverImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -1211,11 +1211,23 @@
             "catalogId": "tuktukcima_recent"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "lodynet-collection",
+    "title": "LodyNet — Turkish & Asian Series",
+    "name": "LodyNet — Turkish & Asian Series",
+    "backdropImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حب-220x220.webp",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-lodynet_latest",
-        "title": "LodyNet Latest Drama & Series",
-        "name": "LodyNet Latest Drama & Series",
+        "title": "Latest Drama & Series",
+        "name": "Latest Drama & Series",
         "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حب-220x220.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -1238,11 +1250,23 @@
             "catalogId": "lodynet_latest"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "krmzy-collection",
+    "title": "Krmzy — Turkish Series",
+    "name": "Krmzy — Turkish Series",
+    "backdropImageUrl": "https://krmzi.org/wp-content/uploads/2025/11/Deniz-S02-genis.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-krmzy_series",
-        "title": "Krmzy Turkish Series",
-        "name": "Krmzy Turkish Series",
+        "title": "Turkish Series",
+        "name": "Turkish Series",
         "coverImageUrl": "https://krmzi.org/wp-content/uploads/2025/11/Deniz-S02-genis.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
@@ -1265,11 +1289,23 @@
             "catalogId": "krmzy_series"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "aia2tv-collection",
+    "title": "Asia2TV — Asian Drama",
+    "name": "Asia2TV — Asian Drama",
+    "backdropImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-asia2tv_drama",
-        "title": "Asia2TV Korean & Asian Drama",
-        "name": "Asia2TV Korean & Asian Drama",
+        "title": "Korean & Asian Drama",
+        "name": "Korean & Asian Drama",
         "coverImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/Nd0J3o_4f-238x320.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇰🇷",
@@ -1292,11 +1328,23 @@
             "catalogId": "asia2tv_drama"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "5tv-collection",
+    "title": "5TV — Movies & Series",
+    "name": "5TV — Movies & Series",
+    "backdropImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-5tv_featured",
-        "title": "5TV Featured Series & Movies",
-        "name": "5TV Featured Series & Movies",
+        "title": "Featured Series & Movies",
+        "name": "Featured Series & Movies",
         "coverImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🌟",
@@ -1319,11 +1367,23 @@
             "catalogId": "5tv_featured"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "aflaam-collection",
+    "title": "Aflaam — Arabic Movies",
+    "name": "Aflaam — Arabic Movies",
+    "backdropImageUrl": "https://aflaam.com/login",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-aflaam_movies",
-        "title": "Aflaam Arabic Movies",
-        "name": "Aflaam Arabic Movies",
+        "title": "Arabic Movies",
+        "name": "Arabic Movies",
         "coverImageUrl": "https://aflaam.com/login",
         "focusGifEnabled": true,
         "coverEmoji": "🎞️",
@@ -1346,11 +1406,23 @@
             "catalogId": "aflaam_movies"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "tuniflix-collection",
+    "title": "TuniFlix — Movies",
+    "name": "TuniFlix — Movies",
+    "backdropImageUrl": "https://image.tmdb.org/t/p/w185/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-tuniflix_movies",
-        "title": "TuniFlix Latest Movies",
-        "name": "TuniFlix Latest Movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
         "coverImageUrl": "https://image.tmdb.org/t/p/w185/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇳",
@@ -1377,19 +1449,19 @@
     ]
   },
   {
-    "id": "arabic-anime-hub-collection",
-    "title": "Arabic Subtitled Anime Hub",
-    "name": "Arabic Subtitled Anime Hub",
+    "id": "anim3rb-collection",
+    "title": "Anime3rb — Anime",
+    "name": "Anime3rb — Anime",
     "backdropImageUrl": "https://images.anime3rb.com/514289/158595.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "folder-anim3rb_latest",
-        "title": "Anime3rb Latest Anime",
-        "name": "Anime3rb Latest Anime",
+        "title": "Latest Anime",
+        "name": "Latest Anime",
         "coverImageUrl": "https://images.anime3rb.com/514289/158595.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⛩️",
@@ -1412,11 +1484,23 @@
             "catalogId": "anim3rb_latest"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "anime4up-collection",
+    "title": "Anime4Up — Anime",
+    "name": "Anime4Up — Anime",
+    "backdropImageUrl": "https://w1.anime4up.rest/wp-content/uploads/2026/10/bx209562-kQQbTKDuql9p.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-anime4up_latest",
-        "title": "Anime4Up Latest Anime",
-        "name": "Anime4Up Latest Anime",
+        "title": "Latest Anime",
+        "name": "Latest Anime",
         "coverImageUrl": "https://w1.anime4up.rest/wp-content/uploads/2026/10/bx209562-kQQbTKDuql9p.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⚔️",
@@ -1439,11 +1523,23 @@
             "catalogId": "anime4up_latest"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "animerco-collection",
+    "title": "Animerco — Anime",
+    "name": "Animerco — Anime",
+    "backdropImageUrl": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-animerco_latest",
-        "title": "Animerco Featured Anime",
-        "name": "Animerco Featured Anime",
+        "title": "Featured Anime",
+        "name": "Featured Anime",
         "coverImageUrl": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -1466,11 +1562,23 @@
             "catalogId": "animerco_latest"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "anime-phoenix-collection",
+    "title": "Anime Phoenix — Anime",
+    "name": "Anime Phoenix — Anime",
+    "backdropImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QfzeiEiDAmg13_LCzxq_7lKGhiZFFdk42j7h8FY4YM39kOQupcwSXyyNxhshHQlGTTy6HXArQ0XwxLheT3IjyWZPxIQvih7hwyn-17PEpdVAa0yViP-sL-zr43OfZSAkNCKcF_CTsa5NUX1f-bVUmh0WcTqA2VaL-ltOTEDqPbrnPs4_m0GPn_myxLY/s800-q60-rw/yugioh_1998_poster.png",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
       {
         "id": "folder-animephoenix_latest",
-        "title": "Anime Phoenix Latest Episodes",
-        "name": "Anime Phoenix Latest Episodes",
+        "title": "Latest Episodes",
+        "name": "Latest Episodes",
         "coverImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QfzeiEiDAmg13_LCzxq_7lKGhiZFFdk42j7h8FY4YM39kOQupcwSXyyNxhshHQlGTTy6HXArQ0XwxLheT3IjyWZPxIQvih7hwyn-17PEpdVAa0yViP-sL-zr43OfZSAkNCKcF_CTsa5NUX1f-bVUmh0WcTqA2VaL-ltOTEDqPbrnPs4_m0GPn_myxLY/s800-q60-rw/yugioh_1998_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🦅",
@@ -1497,19 +1605,19 @@
     ]
   },
   {
-    "id": "arabic-sports-replays-collection",
-    "title": "Football Match Replays & Live Sports",
-    "name": "Football Match Replays & Live Sports",
+    "id": "replaymatch-collection",
+    "title": "FullMatchShows — Football Replays",
+    "name": "FullMatchShows — Football Replays",
     "backdropImageUrl": "https://fullmatchshows.com/wp-content/uploads/2026/10/Liverpool-vs-Chelsea.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
         "id": "folder-replaymatch_latest",
-        "title": "FullMatchShows Latest Football Replays",
-        "name": "FullMatchShows Latest Football Replays",
+        "title": "Latest Football Replays",
+        "name": "Latest Football Replays",
         "coverImageUrl": "https://fullmatchshows.com/wp-content/uploads/2026/10/Liverpool-vs-Chelsea.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⚽",

@@ -46,6 +46,20 @@ const GROUP_TRANSLATIONS = {
   "أحدث المسلسلات": "Latest Series"
 };
 
+// Display names for the one-collection-per-source layout
+const PROVIDER_NAMES = {
+  cee: "CEE", "3isk": "3isk", alooytv: "AlooyTv", akwam: "Akwam", tuktukcima: "TukTukcima", lodynet: "LodyNet",
+  krmzy: "Krmzy", eseek: "Eseek", aia2tv: "Asia2TV", "5tv": "5TV", aflaam: "Aflaam", shahidwbas: "ShahidWBas",
+  tuniflix: "TuniFlix", anim3rb: "Anime3rb", anime4up: "Anime4Up", animerco: "Animerco", witanime: "WitAnime",
+  "anime-phoenix": "Anime Phoenix", replaymatch: "FullMatchShows"
+};
+const PROVIDER_SUBTITLES = {
+  cee: "Movies & Series (🇮🇶)", "3isk": "Turkish Drama", alooytv: "Gulf, Arabic & Turkish Series", akwam: "Movies & Series",
+  tuktukcima: "Movies", lodynet: "Turkish & Asian Series", krmzy: "Turkish Series", eseek: "Turkish Series", aia2tv: "Asian Drama",
+  "5tv": "Movies & Series", aflaam: "Arabic Movies", shahidwbas: "Arabic Series", tuniflix: "Movies", anim3rb: "Anime",
+  anime4up: "Anime", animerco: "Anime", witanime: "Anime", "anime-phoenix": "Anime", replaymatch: "Football Replays"
+};
+
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -468,7 +482,7 @@ async function main() {
     });
     store.writePagedCatalog(type, id, metas);
     rowItems.set(id, { type, metas });
-    healthReport[id] = { provider: "cinemana", items: metas.length, reachable: res.reachable, backfillDone: res.done, lastOk: st.updatedAt };
+    healthReport[id] = { provider: "cinemana", items: metas.length, reachable: isCinemanaOnline, backfillDone: res.done, lastOk: isCinemanaOnline ? st.updatedAt : (seedData.updatedAt || null), ...(isCinemanaOnline ? {} : { error: "saved snapshot (Cinemana only answers from Iraq)" }) };
 
     const info = {
       id,
@@ -719,33 +733,41 @@ async function main() {
     ...extraData.remainingCatalogs
   ];
 
-  const ceeFolders = [];
-  const eishkFolders = [];
-  const alooyFolders = [];
-  const akwamFolders = [];
-  const dramaFolders = [];
-  const animeFolders = [];
-  const sportsFolders = [];
+
+  const expectedMetaFiles = new Set();
+  const homeProviders = new Set();
+  const providerFolders = new Map(); // providerKey -> folders (one Nuvio collection per source)
+  const epJobs = [];
+  let metaTotal = 0;
+  const metaFileId = (id) => store.asciiId(id);
 
   for (const cat of allExtraCatalogs) {
     if (!cat || !Array.isArray(cat.metas) || cat.metas.length === 0) continue;
     const englishName = cat.enTitle || cat.arTitle;
+    const firstRowOfProvider = !homeProviders.has(cat.providerKey);
+    homeProviders.add(cat.providerKey);
     catalogDefinitions.push({
       type: cat.type,
       id: cat.id,
       name: englishName,
       pageSize: PAGE_SIZE,
       extra: [{ name: "skip", isRequired: false }],
-      showInHome: ["cee", "3isk", "alooytv", "akwam"].includes(cat.providerKey)
+      showInHome: firstRowOfProvider
     });
 
     store.writePagedCatalog(cat.type, cat.id, cat.metas);
     rowItems.set(cat.id, { type: cat.type, metas: cat.metas });
 
-    // Write static meta files for custom items so Nuvio can open their detail view and invoke the JS provider
-    for (const m of cat.metas) {
-      if (!m || !m.id || m.id.startsWith("tt")) continue;
-      const safeId = String(m.id).replace(/[^a-zA-Z0-9_\-.]/g, "_");
+    // Static meta files so Nuvio can open the detail view. File name == the id Nuvio requests
+    // (only characters that are illegal in file names are replaced; "%" is kept for percent-encoded slugs).
+    metaTotal += cat.metas.length;
+    cat.metas.forEach((m, idx) => {
+      if (!m || !m.id || /^tt\d+/.test(m.id)) return;
+      const safeId = metaFileId(m.id);
+      const metaPath = path.join(ADDON_DIR, "meta", m.type, `${safeId}.json`);
+      expectedMetaFiles.add(metaPath);
+      let existing = null;
+      try { existing = JSON.parse(fs.readFileSync(metaPath, "utf8")).meta; } catch (_) {}
       const metaObj = {
         id: m.id,
         type: m.type,
@@ -759,19 +781,14 @@ async function main() {
         releaseInfo: m.releaseInfo,
         imdbRating: m.imdbRating
       };
+      const scraped = existing && existing.episodesScraped && Array.isArray(existing.videos) && existing.videos.length > 0;
       if (m.type === "series") {
-        metaObj.videos = [
-          {
-            id: `${m.id}:1:1`,
-            title: "Episode 1",
-            season: 1,
-            episode: 1,
-            thumbnail: m.poster
-          }
-        ];
+        metaObj.videos = scraped ? existing.videos : [{ id: `${m.id}:1:1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
+        if (scraped) { metaObj.episodesScraped = true; metaObj.website = existing.website; }
+        if (cat.idPrefix && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
       }
-      writeJson(path.join(ADDON_DIR, "meta", m.type, `${safeId}.json`), { meta: metaObj }, false);
-    }
+      writeJson(metaPath, { meta: metaObj }, false);
+    });
 
     const info = {
       id: cat.id,
@@ -788,8 +805,9 @@ async function main() {
     catalogDataMap.set(`${cat.type}/${cat.id}`, info);
     console.log(`   📦 Extra Catalog [${cat.type}] ${cat.id} (${englishName}): ${cat.metas.length} items`);
 
-    const bigFour = ["cee", "3isk", "alooytv", "akwam"].includes(cat.providerKey);
-    const tabTitle = bigFour ? String(info.enTitle).replace(/^(CEE|3isk|AlooyTv|Akwam)\s+/i, "") : info.enTitle;
+    const pName = PROVIDER_NAMES[cat.providerKey] || "";
+    const stripped = pName ? String(info.enTitle).replace(new RegExp("^" + pName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\s+", "i"), "") : info.enTitle;
+    const tabTitle = stripped && stripped.length > 2 ? stripped : info.enTitle;
     const folderObj = {
       id: `folder-${info.id}`,
       title: tabTitle,
@@ -805,13 +823,72 @@ async function main() {
       catalogSources: [{ addonId: ADDON_ID, type: info.type, catalogId: info.id }]
     };
 
-    if (cat.providerKey === "cee") ceeFolders.push(folderObj);
-    else if (cat.providerKey === "3isk") eishkFolders.push(folderObj);
-    else if (cat.providerKey === "alooytv") alooyFolders.push(folderObj);
-    else if (cat.providerKey === "akwam") akwamFolders.push(folderObj);
-    else if (cat.group === "anime") animeFolders.push(folderObj);
-    else if (cat.group === "sports") sportsFolders.push(folderObj);
-    else dramaFolders.push(folderObj);
+    if (!providerFolders.has(cat.providerKey)) providerFolders.set(cat.providerKey, { emoji: info.emoji, folders: [] });
+    providerFolders.get(cat.providerKey).folders.push(folderObj);
+  }
+
+  // 4.6b Episode lists: scrape the series page of custom-id series so Nuvio shows every episode.
+  //      New series first, then refresh the newest rows (new episodes). Bounded per run.
+  {
+    const { extractEpisodes, nextEpisodesPage } = require("./lib/episodes.js");
+    const { alooyDomain } = require("./scrape-extra-catalogs.js");
+    const MAX_EP_FETCH = parseInt(process.env.MAX_EPISODE_FETCHES || "120", 10);
+    epJobs.sort((x, y) => Number(x.scraped) - Number(y.scraped));
+    const seenJob = new Set();
+    const jobs = epJobs.filter(j => !seenJob.has(j.m.id) && seenJob.add(j.m.id)).slice(0, MAX_EP_FETCH);
+    let scrapedNow = 0, noEpisodes = 0, unreachable = 0;
+    let cursor = 0;
+    async function fetchHtml(url) {
+      try {
+        const res = await fetch(url, { headers: { "User-Agent": USER_AGENT, Accept: "text/html,*/*" }, redirect: "follow", signal: AbortSignal.timeout(9000) });
+        if (!res.ok) return null;
+        return { text: await res.text(), url: res.url || url };
+      } catch (_) { return null; }
+    }
+    async function worker() {
+      while (cursor < jobs.length) {
+        const job = jobs[cursor++];
+        const { m, cat } = job;
+        let slug = m.id.slice(cat.idPrefix.length + 1).split(":")[0].replace(/__/g, "/");
+        slug = store.decodeIdSlug(slug);
+        const bases = [];
+        for (const b of (cat.bases || [])) bases.push(b === "@alooy" ? await alooyDomain() : b);
+        let page = null;
+        for (const b of bases) { page = await fetchHtml(`${b.replace(/\/+$/, "")}/${slug}`); if (page) break; }
+        if (!page) { unreachable++; continue; }
+        const origin = new URL(page.url).origin;
+        let episodes = extractEpisodes(page.text, origin, { selfUrl: page.url });
+        let next = nextEpisodesPage(page.text, origin), guard = 0, allHtml = page.text;
+        while (next && guard++ < 6) {
+          const more = await fetchHtml(next);
+          if (!more) break;
+          allHtml += "\n" + more.text;
+          next = nextEpisodesPage(more.text, origin);
+        }
+        if (guard > 0) episodes = extractEpisodes(allHtml, origin, { selfUrl: page.url });
+        if (episodes.length === 0) { noEpisodes++; continue; }
+        const metaObj = Object.assign({}, job.metaObj, {
+          website: page.url,
+          episodesScraped: true,
+          videos: episodes.map(e => ({ id: `${m.id}:${e.season}:${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
+        });
+        if (writeJson(job.metaPath, { meta: metaObj }, false)) scrapedNow++;
+      }
+    }
+    await Promise.all(Array.from({ length: 6 }, worker));
+    console.log(`🎞️  Episodes: ${jobs.length} series checked (${scrapedNow} updated, ${noEpisodes} without episode links, ${unreachable} unreachable)`);
+    healthReport._episodes = { checked: jobs.length, updated: scrapedNow, noEpisodes, unreachable };
+
+    // drop meta files left over from the old (broken) file naming
+    for (const type of ["movie", "series"]) {
+      const dir = path.join(ADDON_DIR, "meta", type);
+      if (!fs.existsSync(dir)) continue;
+      for (const f of fs.readdirSync(dir)) {
+        if (f.startsWith("cine_") || !/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch)_/.test(f)) continue;
+        const full = path.join(dir, f);
+        if (!expectedMetaFiles.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
+      }
+    }
   }
 
   // 4.7 Cross-source "Latest" rows: round-robin the newest items of every source, de-duplicated across sources
@@ -974,83 +1051,17 @@ async function main() {
       showAllTab: true,
       folders: seriesFolders
     },
-    {
-      id: "cee-iraq-collection",
-      title: "CEE Movies & Series (🇮🇶)",
-      name: "CEE Movies & Series (🇮🇶)",
-      backdropImageUrl: (ceeFolders[0] && ceeFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
+    ...[...providerFolders.entries()].map(([key, v]) => ({
+      id: `${key}-collection`,
+      title: `${PROVIDER_NAMES[key] || key} — ${PROVIDER_SUBTITLES[key] || "Catalog"}`,
+      name: `${PROVIDER_NAMES[key] || key} — ${PROVIDER_SUBTITLES[key] || "Catalog"}`,
+      backdropImageUrl: (v.folders[0] && v.folders[0].heroBackdropUrl) || cinemanaLogoUrl,
       pinToTop: false,
       focusGlowEnabled: true,
       viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: ceeFolders
-    },
-    {
-      id: "3isk-turkish-collection",
-      title: "3isk Turkish Drama & Series",
-      name: "3isk Turkish Drama & Series",
-      backdropImageUrl: (eishkFolders[0] && eishkFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: eishkFolders
-    },
-    {
-      id: "alooytv-series-collection",
-      title: "AlooyTv Gulf, Arabic & Turkish Series",
-      name: "AlooyTv Gulf, Arabic & Turkish Series",
-      backdropImageUrl: (alooyFolders[0] && alooyFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: alooyFolders
-    },
-    {
-      id: "akwam-collection",
-      title: "Akwam Movies & Series",
-      name: "Akwam Movies & Series",
-      backdropImageUrl: (akwamFolders[0] && akwamFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: akwamFolders
-    },
-    {
-      id: "arabic-drama-hub-collection",
-      title: "Arabic, Turkish & Asian Drama Hub",
-      name: "Arabic, Turkish & Asian Drama Hub",
-      backdropImageUrl: (dramaFolders[0] && dramaFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: dramaFolders
-    },
-    {
-      id: "arabic-anime-hub-collection",
-      title: "Arabic Subtitled Anime Hub",
-      name: "Arabic Subtitled Anime Hub",
-      backdropImageUrl: (animeFolders[0] && animeFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: animeFolders
-    },
-    {
-      id: "arabic-sports-replays-collection",
-      title: "Football Match Replays & Live Sports",
-      name: "Football Match Replays & Live Sports",
-      backdropImageUrl: (sportsFolders[0] && sportsFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: sportsFolders
-    }
+      showAllTab: v.folders.length > 1,
+      folders: v.folders
+    }))
   ].filter(c => c.folders.length > 0);
 
   writeJson(path.join(ROOT_DIR, "nuvio-collections.json"), nuvioCollections);

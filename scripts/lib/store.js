@@ -35,6 +35,25 @@ function writeJsonIfChanged(filePath, data, pretty = true) {
   return writeIfChanged(filePath, (pretty ? JSON.stringify(data, null, 2) : JSON.stringify(data)) + "\n");
 }
 
+/** Ids must be plain ASCII so file names and Stremio/Nuvio URLs always match: non-ASCII chars become %xx. */
+function asciiId(id) {
+  // Allowed: A-Z a-z 0-9 _ - . ~     Everything else (incl. %xx and non-ASCII) becomes ~xx (UTF-8 bytes, lower-case hex).
+  // Idempotent: running it on an already converted id changes nothing. "%" is avoided on purpose because
+  // clients and GitHub treat %xx in URLs as escapes, which would break meta file lookups.
+  return String(id)
+    .replace(/%([0-9a-fA-F]{2})/g, (_, h) => "~" + h.toLowerCase())
+    .replace(/[^A-Za-z0-9_\-.~]+/g, (run) =>
+      Array.from(run).map((ch) => {
+        const e = encodeURIComponent(ch);
+        return (e.length > 1 ? e : "%" + ch.charCodeAt(0).toString(16).padStart(2, "0")).toLowerCase().replace(/%/g, "~");
+      }).join(""));
+}
+/** Inverse of asciiId for the URL part of an id: "~d9~85" -> "%d9%85" -> real characters. */
+function decodeIdSlug(slug) {
+  const pct = String(slug).replace(/~([0-9a-fA-F]{2})/g, "%$1");
+  try { return decodeURIComponent(pct); } catch (_) { return pct; }
+}
+
 // ------------------------------------------------------------ title / keys
 const TASHKEEL = /[ً-ٰٟـ]/g;
 function normalizeTitle(name) {
@@ -93,7 +112,10 @@ function storePath(id) { return path.join(STORE_DIR, `${id}.json`); }
 function loadStore(id, type) {
   try {
     const s = JSON.parse(fs.readFileSync(storePath(id), "utf8"));
-    if (s && Array.isArray(s.items)) return s;
+    if (s && Array.isArray(s.items)) {
+      s.items = dedupe(s.items.map((it) => (it && it.id ? Object.assign(it, { id: asciiId(it.id) }) : it)));
+      return s;
+    }
   } catch (_) {}
   // First run: migrate whatever is already published so nothing is lost.
   let items = [];
@@ -101,7 +123,7 @@ function loadStore(id, type) {
     const old = JSON.parse(fs.readFileSync(path.join(ADDON_DIR, "catalog", type, `${id}.json`), "utf8"));
     if (Array.isArray(old.metas)) items = old.metas;
   } catch (_) {}
-  return { id, type, items: dedupe(items), cursor: { next: 1, done: false }, updatedAt: null };
+  return { id, type, items: dedupe(items.map((it) => (it && it.id ? Object.assign(it, { id: asciiId(it.id) }) : it))), cursor: { next: 1, done: false }, updatedAt: null };
 }
 function saveStore(store) {
   writeJsonIfChanged(storePath(store.id), store, false);
@@ -163,10 +185,11 @@ async function crawl(store, fetchPage, opts = {}) {
   const maxPages = opts.maxPages || 400;
   const head = [];
   let reachable = false;
+  let status = null;
 
   for (let n = 1; n <= forwardPages; n++) {
     const r = await fetchPage(n);
-    if (!r || !r.ok) break;
+    if (!r || !r.ok) { if (r && r.status) status = r.status; break; }
     reachable = true;
     if (isEnd(r)) { store.cursor.done = true; break; }
     head.push(...r.items);
@@ -191,11 +214,11 @@ async function crawl(store, fetchPage, opts = {}) {
   }
   if (reachable) store.updatedAt = new Date().toISOString().slice(0, 10);
   mergeIntoStore(store, head, tail);
-  return { reachable, fresh: head.length, backfilled: tail.length, total: store.items.length, done: !!store.cursor.done };
+  return { reachable, status, fresh: head.length, backfilled: tail.length, total: store.items.length, done: !!store.cursor.done };
 }
 
 module.exports = {
   ROOT_DIR, ADDON_DIR, STORE_DIR, PAGE_SIZE,
-  writeIfChanged, writeJsonIfChanged, normalizeTitle, keysOf, dedupe,
+  asciiId, decodeIdSlug, writeIfChanged, writeJsonIfChanged, normalizeTitle, keysOf, dedupe,
   loadStore, saveStore, mergeIntoStore, writePagedCatalog, pageFileFor, crawl,
 };

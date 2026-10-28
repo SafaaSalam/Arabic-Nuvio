@@ -40,6 +40,7 @@ const LOGOS = {
 
 /** status-aware GET: { ok:true, end:true } for 404/410 (page does not exist) ; { ok:false } for transient failures */
 async function getRaw(url, accept, timeoutMs, retries = 1) {
+  let lastStatus = null;
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
       const res = await fetch(url, {
@@ -48,14 +49,14 @@ async function getRaw(url, accept, timeoutMs, retries = 1) {
         signal: AbortSignal.timeout(timeoutMs),
       });
       if (res.status === 404 || res.status === 410) return { ok: true, end: true, url: res.url || url };
-      if (!res.ok) throw new Error("HTTP " + res.status);
+      if (!res.ok) { lastStatus = res.status; throw new Error("HTTP " + res.status); }
       return { ok: true, end: false, text: await res.text(), url: res.url || url };
     } catch (e) {
-      if (attempt === retries) return { ok: false };
+      if (attempt === retries) return { ok: false, status: lastStatus || "network" };
       await new Promise((r) => setTimeout(r, 600));
     }
   }
-  return { ok: false };
+  return { ok: false, status: lastStatus || "network" };
 }
 
 async function fetchJson(url, timeoutMs = 8000) {
@@ -102,7 +103,7 @@ function extractImdbId(str) {
 function makeMetaItem({ id, type, name, poster, description, releaseInfo, imdbRating, logo }) {
   if (!id || !name || !poster) return null;
   return {
-    id,
+    id: asciiId(id),
     type: type || "series",
     name,
     poster,
@@ -116,7 +117,7 @@ function makeMetaItem({ id, type, name, poster, description, releaseInfo, imdbRa
   };
 }
 
-const { loadStore, saveStore, crawl } = require("./lib/store.js");
+const { loadStore, saveStore, crawl, asciiId } = require("./lib/store.js");
 
 /* ----------------------------------------------------------------------------
  * Parsers (HTML -> meta items). Pure functions so they can be unit-tested offline.
@@ -252,14 +253,77 @@ const ceeNewly = (p) => `${CEE_API}/newlyVideosItems/level/0/offset/30/page/${p}
 
 async function htmlSource(fetchPageUrls, parse) {
   // fetchPageUrls: array of candidate absolute URLs (mirror domains) for the same page
+  let lastStatus = null;
   for (const url of fetchPageUrls) {
     const r = await fetchText(url);
-    if (!r.ok) continue;
+    if (!r.ok) { lastStatus = r.status; continue; }
     if (r.end) return { ok: true, items: [] };
     return { ok: true, items: parse(r.text, new URL(r.url).origin) };
   }
-  return { ok: false };
+  return { ok: false, status: lastStatus };
 }
+
+const GENERIC_SOURCES = [
+  { id: "tuktukcima_recent", providerKey: "tuktukcima", prefix: "tuktukcima", group: "drama", type: "movie", base: "https://tuktukcinemas.com", bases: ["https://tuktukcinemas.com", "https://tuktukhd.com"], pageUrl: (n) => `/recent/page/${n}`,
+    arTitle: "توك توك سيما - المضاف حديثاً", enTitle: "TukTukcima Recently Added", emoji: "🎬", logo: LOGOS.tuktukcima,
+    itemRegex: /<(?:li|div)[^>]*class=["'][^"']*(?:Small--Box|Block--Item)[^"']*["'][^>]*>[\s\S]*?<\/(?:li|div)>/gi },
+  { id: "lodynet_latest", providerKey: "lodynet", prefix: "lodynet", group: "drama", type: "series", base: "https://lodynet.watch", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
+    arTitle: "لودي نت - أحدث الحلقات والمسلسلات", enTitle: "LodyNet Latest Drama & Series", emoji: "📺", logo: LOGOS.lodynet, styleBg: true,
+    itemRegex: /<div[^>]*class=["'][^"']*ItemNewlyField[^"']*["'][^>]*>[\s\S]*?<\/a>\s*<\/div>/gi,
+    titleRegex: /<div[^>]*class=["'][^"']*NewlyTitle[^"']*["'][^>]*>([\s\S]*?)<\/div>/i },
+  { id: "krmzy_series", providerKey: "krmzy", prefix: "krmzy", group: "drama", type: "series", base: "https://krmzi.org", pageUrl: (n) => `/series-list/page/${n}`,
+    arTitle: "قرمزي - مسلسلات تركية", enTitle: "Krmzy Turkish Series", emoji: "🇹🇷", logo: LOGOS.krmzy, styleBg: true,
+    itemRegex: /<article[^>]*class=["'][^"']*postEp[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
+    titleRegex: /<div[^>]*class=["'][^"']*title[^"']*["'][^>]*>([\s\S]*?)<\/div>/i },
+  { id: "eseek_series", providerKey: "eseek", prefix: "eseek", group: "drama", type: "series", base: "https://qeseh.net", pageUrl: (n) => `/all-series/page/${n}`,
+    arTitle: "عشق 2 - المسلسلات التركية", enTitle: "Eseek Turkish Series", emoji: "❤️", logo: LOGOS.eseek, styleBg: true,
+    itemRegex: /<article[^>]*class=["'][^"']*post[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
+    titleRegex: /<div[^>]*class=["'][^"']*title[^"']*["'][^>]*>([\s\S]*?)<\/div>/i },
+  { id: "asia2tv_drama", providerKey: "aia2tv", prefix: "aia2tv", group: "drama", type: "series", base: "https://ww1.asia2tv.pw", pageUrl: (n) => `/category/asian-drama/${n > 1 ? `page/${n}/` : ""}`,
+    arTitle: "آسيا تو تي في - الدراما الآسيوية", enTitle: "Asia2TV Korean & Asian Drama", emoji: "🇰🇷", logo: LOGOS.aia2tv,
+    itemRegex: /<div[^>]*class=["'][^"']*box-item[^"']*["'][^>]*>[\s\S]*?<\/div>\s*<\/div>\s*<\/div>/gi },
+  { id: "5tv_featured", providerKey: "5tv", prefix: "5tv", group: "drama", type: "series", base: "https://new61.5tv.lol", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
+    arTitle: "5TV - أحدث الأفلام والمسلسلات", enTitle: "5TV Featured Series & Movies", emoji: "🌟", logo: LOGOS["5tv"],
+    itemRegex: /<article[^>]*class=["'][^"']*ftv-home-poster-card[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
+    titleRegex: /class=["'][^"']*ftv-home-poster-card__title[^"']*["'][^>]*>([\s\S]*?)<\//i },
+  { id: "aflaam_movies", providerKey: "aflaam", prefix: "aflaam", group: "drama", type: "movie", base: "https://aflaam.com", pageUrl: (n) => `/search?section=1${n > 1 ? `&page=${n}` : ""}`,
+    arTitle: "أفلام - أفلام عربية", enTitle: "Aflaam Arabic Movies", emoji: "🎞️", logo: LOGOS.aflaam,
+    itemRegex: /<div[^>]*class=["'][^"']*item[^"']*["'][^>]*>[\s\S]*?<\/h3>\s*<\/div>\s*<\/a>\s*<\/div>/gi,
+    titleRegex: /<h3[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>([\s\S]*?)<\/h3>/i },
+  { id: "shahidwbas_latest", providerKey: "shahidwbas", prefix: "shahidwbas", group: "drama", type: "series", base: "https://w30.shahidwbas.tv", pageUrl: (n) => (n > 1 ? `/index.php?page=${n}` : "/index.php"),
+    arTitle: "شاهد وبس - أحدث الحلقات", enTitle: "ShahidWBas Latest Series", emoji: "📺", logo: LOGOS.shahidwbas,
+    itemRegex: /<li[^>]*class=["'][^"']*col-xs-6[^"']*["'][^>]*>[\s\S]*?<\/li>/gi,
+    linkRegex: /<a(?=[^>]*class=["'][^"']*ellipsis)[^>]*href=["']([^"']+)["']/i,
+    titleRegex: /<a(?=[^>]*class=["'][^"']*ellipsis)[^>]*>([\s\S]*?)<\/a>/i },
+  { id: "tuniflix_movies", providerKey: "tuniflix", prefix: "tuniflix", group: "drama", type: "movie", base: "https://tuniflix.site", pageUrl: (n) => `/movies/page/${n}`,
+    arTitle: "توني فليكس - أحدث الأفلام", enTitle: "TuniFlix Latest Movies", emoji: "🇹🇳", logo: LOGOS.tuniflix,
+    itemRegex: /<article[^>]*class=["'][^"']*TPost[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
+    titleRegex: /<h2[^>]*class=["'][^"']*Title[^"']*["'][^>]*>([\s\S]*?)<\/h2>/i },
+  { id: "anim3rb_latest", providerKey: "anim3rb", prefix: "anim3rb", group: "anime", type: "series", base: "https://anime3rb.com", pageUrl: (n) => (n > 1 ? `/titles/list?page=${n}` : "/"), paginated: false,
+    arTitle: "أنمي عرب - أحدث الحلقات", enTitle: "Anime3rb Latest Anime", emoji: "⛩️", logo: LOGOS.anim3rb,
+    itemRegex: /<a[^>]*class=["'][^"']*video-card[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i,
+    titleRegex: /<h3[^>]*class=["'][^"']*title-name[^"']*["'][^>]*>([\s\S]*?)<\/h3>/i },
+  { id: "anime4up_latest", providerKey: "anime4up", prefix: "anime4up", group: "anime", type: "series", base: "https://w1.anime4up.rest", pageUrl: () => "/", paginated: false,
+    arTitle: "أنمي فور أب - أحدث الأنميات", enTitle: "Anime4Up Latest Anime", emoji: "⚔️", logo: LOGOS.anime4up,
+    itemRegex: /<div[^>]*class=["'][^"']*(?:anime-card-container|themexblock)[^"']*["'][^>]*>[\s\S]*?<\/h3>[\s\S]*?<\/div>\s*<\/div>/gi,
+    titleRegex: /<h3>\s*<a[^>]*>([\s\S]*?)<\/a>\s*<\/h3>/i },
+  { id: "animerco_latest", providerKey: "animerco", prefix: "animerco", group: "anime", type: "series", base: "https://eva.animerco.org", pageUrl: () => "/", paginated: false,
+    arTitle: "أنميركو - أنميات مميزة", enTitle: "Animerco Featured Anime", emoji: "🔥", logo: LOGOS.animerco,
+    itemRegex: /<div[^>]*class=["'][^"']*anime-card[^"']*["'][^>]*>[\s\S]*?<\/h3>[\s\S]*?<\/div>\s*<\/div>/gi, titleRegex: /<h3>([\s\S]*?)<\/h3>/i },
+  { id: "witanime_latest", providerKey: "witanime", prefix: "witanime", group: "anime", type: "series", base: "https://witanime.site", pageUrl: () => "/", paginated: false,
+    arTitle: "ويت أنمي - أحدث الحلقات", enTitle: "WitAnime Latest Anime", emoji: "🎌", logo: LOGOS.witanime,
+    itemRegex: /<a[^>]*class=["'][^"']*@container[^"']*["'][^>]*href=["'][^"']+["'][^>]*>[\s\S]*?<\/h3>/gi,
+    linkRegex: /^<a[^>]*href=["']([^"']+)["']/i,
+    titleRegex: /<h3[^>]*>([\s\S]*?)<\/h3>/i },
+  { id: "animephoenix_latest", providerKey: "anime-phoenix", prefix: "animephoenix", group: "anime", type: "series", base: "https://anime-phoenix.com", pageUrl: () => "/", paginated: false,
+    arTitle: "أنمي فينيكس - أحدث الحلقات", enTitle: "Anime Phoenix Latest Episodes", emoji: "🦅", logo: LOGOS["anime-phoenix"],
+    itemRegex: /<a[^>]*class=["'][^"']*FJ-Phoenix-Anastasia-EpCard[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i,
+    titleRegex: /class=["'][^"']*FJ-Phoenix-Anastasia-EpCard-Name[^"']*["'][^>]*>([\s\S]*?)<\//i },
+  { id: "replaymatch_latest", providerKey: "replaymatch", prefix: "replaymatch", group: "sports", type: "movie", base: "https://fullmatchshows.com", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
+    arTitle: "إعادة المباريات الكاملة - FullMatchShows", enTitle: "FullMatchShows Latest Football Replays", emoji: "⚽", logo: LOGOS.replaymatch,
+    itemRegex: /<article[^>]*class=["'][^"']*bloglo-article[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
+    titleRegex: /<h4[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i },
+];
 
 function buildSources() {
   const S = [];
@@ -273,9 +337,9 @@ function buildSources() {
 
   // ---- Priority 3: 3isk
   const eishkBases = ["https://3iskk.xyz", "https://3esk.onl"];
-  S.push({ id: "3isk_latest_episodes", type: "series", arTitle: "قصة عشق - أحدث الحلقات التركية", enTitle: "3isk Latest Turkish Episodes", emoji: "🇹🇷", providerKey: "3isk", logo: LOGOS["3isk"], paginated: false,
+  S.push({ id: "3isk_latest_episodes", idPrefix: "3isk", bases: eishkBases, type: "series", arTitle: "قصة عشق - أحدث الحلقات التركية", enTitle: "3isk Latest Turkish Episodes", emoji: "🇹🇷", providerKey: "3isk", logo: LOGOS["3isk"], paginated: false,
     fetchPage: (n) => htmlSource(eishkBases.map((b) => `${b}/`), (h, o) => parse3isk(h, o, LOGOS["3isk"])) });
-  S.push({ id: "3isk_turkish_series", type: "series", arTitle: "قصة عشق - المسلسلات التركية", enTitle: "3isk Turkish Series", emoji: "❤️", providerKey: "3isk", logo: LOGOS["3isk"],
+  S.push({ id: "3isk_turkish_series", idPrefix: "3isk", bases: eishkBases, type: "series", arTitle: "قصة عشق - المسلسلات التركية", enTitle: "3isk Turkish Series", emoji: "❤️", providerKey: "3isk", logo: LOGOS["3isk"],
     fetchPage: (n) => htmlSource(eishkBases.map((b) => `${b}/all-turkish-series/${n > 1 ? `page/${n}/` : ""}`), (h, o) => parse3isk(h, o, LOGOS["3isk"])) });
 
   // ---- Priority 4: AlooyTv (domain is discovered from the gate page once per run)
@@ -286,7 +350,7 @@ function buildSources() {
     ["alooy_turkish_series", "/genre/turki.html", "علوي تي في - مسلسلات تركية", "AlooyTv Turkish Series", "🇹🇷"],
   ];
   for (const [id, p, ar, en, emoji] of alooy) {
-    S.push({ id, type: "series", arTitle: ar, enTitle: en, emoji, providerKey: "alooytv", logo: LOGOS.alooytv,
+    S.push({ id, idPrefix: "alooy", bases: ["@alooy"], type: "series", arTitle: ar, enTitle: en, emoji, providerKey: "alooytv", logo: LOGOS.alooytv,
       fetchPage: async (n) => {
         const domain = await alooyDomain();
         return htmlSource([`${domain}${p}${n > 1 ? `?page=${n}` : ""}`], (h, o) => parseAlooy(h, o, LOGOS.alooytv));
@@ -302,72 +366,14 @@ function buildSources() {
   ];
   for (const [id, type, p, ar, en, emoji] of akwam) {
     const withPage = (n) => (n > 1 ? `${p}${p.includes("?") ? "&" : "?"}page=${n}` : p);
-    S.push({ id, type, arTitle: ar, enTitle: en, emoji, providerKey: "akwam", logo: LOGOS.akwam,
+    S.push({ id, idPrefix: "akwam", bases: ["https://akwam.ss", "https://ak.sv"], type, arTitle: ar, enTitle: en, emoji, providerKey: "akwam", logo: LOGOS.akwam,
       fetchPage: (n) => htmlSource(["https://akwam.ss", "https://ak.sv"].map((b) => b + withPage(n)), (h, o) => parseAkwam(h, type, o, LOGOS.akwam)) });
   }
 
   // ---- Priority 6+: everything else
-  const generic = [
-    { id: "tuktukcima_recent", providerKey: "tuktukcima", prefix: "tuktukcima", group: "drama", type: "movie", base: "https://tuktukhd.com", pageUrl: (n) => `/recent/page/${n}`,
-      arTitle: "توك توك سيما - المضاف حديثاً", enTitle: "TukTukcima Recently Added", emoji: "🎬", logo: LOGOS.tuktukcima,
-      itemRegex: /<(?:li|div)[^>]*class=["'][^"']*(?:Small--Box|Block--Item)[^"']*["'][^>]*>[\s\S]*?<\/(?:li|div)>/gi },
-    { id: "lodynet_latest", providerKey: "lodynet", prefix: "lodynet", group: "drama", type: "series", base: "https://lodynet.watch", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
-      arTitle: "لودي نت - أحدث الحلقات والمسلسلات", enTitle: "LodyNet Latest Drama & Series", emoji: "📺", logo: LOGOS.lodynet, styleBg: true,
-      itemRegex: /<div[^>]*class=["'][^"']*ItemNewlyField[^"']*["'][^>]*>[\s\S]*?<\/a>\s*<\/div>/gi,
-      titleRegex: /<div[^>]*class=["'][^"']*NewlyTitle[^"']*["'][^>]*>([\s\S]*?)<\/div>/i },
-    { id: "krmzy_series", providerKey: "krmzy", prefix: "krmzy", group: "drama", type: "series", base: "https://krmzi.org", pageUrl: (n) => `/series-list/page/${n}`,
-      arTitle: "قرمزي - مسلسلات تركية", enTitle: "Krmzy Turkish Series", emoji: "🇹🇷", logo: LOGOS.krmzy, styleBg: true,
-      itemRegex: /<article[^>]*class=["'][^"']*postEp[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
-      titleRegex: /<div[^>]*class=["'][^"']*title[^"']*["'][^>]*>([\s\S]*?)<\/div>/i },
-    { id: "eseek_series", providerKey: "eseek", prefix: "eseek", group: "drama", type: "series", base: "https://qeseh.net", pageUrl: (n) => `/all-series/page/${n}`,
-      arTitle: "عشق 2 - المسلسلات التركية", enTitle: "Eseek Turkish Series", emoji: "❤️", logo: LOGOS.eseek, styleBg: true,
-      itemRegex: /<article[^>]*class=["'][^"']*post[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
-      titleRegex: /<div[^>]*class=["'][^"']*title[^"']*["'][^>]*>([\s\S]*?)<\/div>/i },
-    { id: "asia2tv_drama", providerKey: "aia2tv", prefix: "aia2tv", group: "drama", type: "series", base: "https://ww1.asia2tv.pw", pageUrl: (n) => `/category/asian-drama/${n > 1 ? `page/${n}/` : ""}`,
-      arTitle: "آسيا تو تي في - الدراما الآسيوية", enTitle: "Asia2TV Korean & Asian Drama", emoji: "🇰🇷", logo: LOGOS.aia2tv,
-      itemRegex: /<div[^>]*class=["'][^"']*box-item[^"']*["'][^>]*>[\s\S]*?<\/div>\s*<\/div>\s*<\/div>/gi },
-    { id: "5tv_featured", providerKey: "5tv", prefix: "5tv", group: "drama", type: "series", base: "https://new61.5tv.lol", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
-      arTitle: "5TV - أحدث الأفلام والمسلسلات", enTitle: "5TV Featured Series & Movies", emoji: "🌟", logo: LOGOS["5tv"],
-      itemRegex: /<article[^>]*class=["'][^"']*ftv-home-poster-card[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
-      titleRegex: /class=["'][^"']*ftv-home-poster-card__title[^"']*["'][^>]*>([\s\S]*?)<\//i },
-    { id: "aflaam_movies", providerKey: "aflaam", prefix: "aflaam", group: "drama", type: "movie", base: "https://aflaam.com", pageUrl: (n) => `/search?section=1${n > 1 ? `&page=${n}` : ""}`,
-      arTitle: "أفلام - أفلام عربية", enTitle: "Aflaam Arabic Movies", emoji: "🎞️", logo: LOGOS.aflaam,
-      itemRegex: /<div[^>]*class=["'][^"']*item[^"']*["'][^>]*>[\s\S]*?<\/h3>\s*<\/div>\s*<\/a>\s*<\/div>/gi,
-      titleRegex: /<h3[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>([\s\S]*?)<\/h3>/i },
-    { id: "shahidwbas_latest", providerKey: "shahidwbas", prefix: "shahidwbas", group: "drama", type: "series", base: "https://w30.shahidwbas.tv", pageUrl: (n) => (n > 1 ? `/index.php?page=${n}` : "/index.php"),
-      arTitle: "شاهد وبس - أحدث الحلقات", enTitle: "ShahidWBas Latest Series", emoji: "📺", logo: LOGOS.shahidwbas,
-      itemRegex: /<li[^>]*>\s*<div[^>]*class=["'][^"']*pm-li-video[^"']*["'][^>]*>[\s\S]*?<\/li>/gi },
-    { id: "tuniflix_movies", providerKey: "tuniflix", prefix: "tuniflix", group: "drama", type: "movie", base: "https://tuniflix.site", pageUrl: (n) => `/movies/page/${n}`,
-      arTitle: "توني فليكس - أحدث الأفلام", enTitle: "TuniFlix Latest Movies", emoji: "🇹🇳", logo: LOGOS.tuniflix,
-      itemRegex: /<article[^>]*class=["'][^"']*TPost[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
-      titleRegex: /<h2[^>]*class=["'][^"']*Title[^"']*["'][^>]*>([\s\S]*?)<\/h2>/i },
-    { id: "anim3rb_latest", providerKey: "anim3rb", prefix: "anim3rb", group: "anime", type: "series", base: "https://anime3rb.com", pageUrl: (n) => (n > 1 ? `/titles/list?page=${n}` : "/"), paginated: false,
-      arTitle: "أنمي عرب - أحدث الحلقات", enTitle: "Anime3rb Latest Anime", emoji: "⛩️", logo: LOGOS.anim3rb,
-      itemRegex: /<a[^>]*class=["'][^"']*video-card[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i,
-      titleRegex: /<h3[^>]*class=["'][^"']*title-name[^"']*["'][^>]*>([\s\S]*?)<\/h3>/i },
-    { id: "anime4up_latest", providerKey: "anime4up", prefix: "anime4up", group: "anime", type: "series", base: "https://w1.anime4up.rest", pageUrl: () => "/", paginated: false,
-      arTitle: "أنمي فور أب - أحدث الأنميات", enTitle: "Anime4Up Latest Anime", emoji: "⚔️", logo: LOGOS.anime4up,
-      itemRegex: /<div[^>]*class=["'][^"']*(?:anime-card-container|themexblock)[^"']*["'][^>]*>[\s\S]*?<\/h3>[\s\S]*?<\/div>\s*<\/div>/gi,
-      titleRegex: /<h3>\s*<a[^>]*>([\s\S]*?)<\/a>\s*<\/h3>/i },
-    { id: "animerco_latest", providerKey: "animerco", prefix: "animerco", group: "anime", type: "series", base: "https://eva.animerco.org", pageUrl: () => "/", paginated: false,
-      arTitle: "أنميركو - أنميات مميزة", enTitle: "Animerco Featured Anime", emoji: "🔥", logo: LOGOS.animerco,
-      itemRegex: /<div[^>]*class=["'][^"']*anime-card[^"']*["'][^>]*>[\s\S]*?<\/h3>[\s\S]*?<\/div>\s*<\/div>/gi, titleRegex: /<h3>([\s\S]*?)<\/h3>/i },
-    { id: "witanime_latest", providerKey: "witanime", prefix: "witanime", group: "anime", type: "series", base: "https://witanime.site", pageUrl: () => "/", paginated: false,
-      arTitle: "ويت أنمي - أحدث الحلقات", enTitle: "WitAnime Latest Anime", emoji: "🎌", logo: LOGOS.witanime,
-      itemRegex: /<div[^>]*class=["'][^"']*anime-card-container[^"']*["'][^>]*>[\s\S]*?<\/h3>[\s\S]*?<\/div>\s*<\/div>/gi,
-      titleRegex: /<h3>\s*<a[^>]*>([\s\S]*?)<\/a>\s*<\/h3>/i },
-    { id: "animephoenix_latest", providerKey: "anime-phoenix", prefix: "animephoenix", group: "anime", type: "series", base: "https://anime-phoenix.com", pageUrl: () => "/", paginated: false,
-      arTitle: "أنمي فينيكس - أحدث الحلقات", enTitle: "Anime Phoenix Latest Episodes", emoji: "🦅", logo: LOGOS["anime-phoenix"],
-      itemRegex: /<a[^>]*class=["'][^"']*FJ-Phoenix-Anastasia-EpCard[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i,
-      titleRegex: /class=["'][^"']*FJ-Phoenix-Anastasia-EpCard-Name[^"']*["'][^>]*>([\s\S]*?)<\//i },
-    { id: "replaymatch_latest", providerKey: "replaymatch", prefix: "replaymatch", group: "sports", type: "movie", base: "https://fullmatchshows.com", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
-      arTitle: "إعادة المباريات الكاملة - FullMatchShows", enTitle: "FullMatchShows Latest Football Replays", emoji: "⚽", logo: LOGOS.replaymatch,
-      itemRegex: /<article[^>]*class=["'][^"']*bloglo-article[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
-      titleRegex: /<h4[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i },
-  ];
-  for (const cfg of generic) {
+  for (const cfg of GENERIC_SOURCES) {
     S.push({
-      id: cfg.id, type: cfg.type, arTitle: cfg.arTitle, enTitle: cfg.enTitle, emoji: cfg.emoji, providerKey: cfg.providerKey, group: cfg.group, logo: cfg.logo,
+      id: cfg.id, idPrefix: cfg.prefix, bases: cfg.bases || [cfg.base], type: cfg.type, arTitle: cfg.arTitle, enTitle: cfg.enTitle, emoji: cfg.emoji, providerKey: cfg.providerKey, group: cfg.group, logo: cfg.logo,
       paginated: cfg.paginated,
       fetchPage: (n) => htmlSource([cfg.base + cfg.pageUrl(n)], (h, o) => parseGeneric(h, o, cfg)),
     });
@@ -408,8 +414,8 @@ async function scrapeAllExtraCatalogs(options = {}) {
     const forwardPages = src.paginated === false ? 1 : 2;
     const res = await crawl(store, src.fetchPage, { forwardPages, backfillPages: options.backfillPages === undefined ? 6 : options.backfillPages, paginated: src.paginated });
     saveStore(store);
-    health[src.id] = { provider: src.providerKey, items: res.total, reachable: res.reachable, backfillDone: res.done, lastOk: store.updatedAt };
-    console.log(`   ${res.reachable ? "🟢" : "🟡"} ${src.id}: +${res.fresh} fresh, +${res.backfilled} backfill -> ${res.total} items${res.done ? " (complete)" : ""}`);
+    health[src.id] = { provider: src.providerKey, items: res.total, reachable: res.reachable, backfillDone: res.done, lastOk: store.updatedAt, ...(res.reachable ? {} : { error: res.status || "unreachable" }) };
+    console.log(`   ${res.reachable ? "🟢" : "🔴"} ${src.id}${res.reachable ? "" : " [" + (res.status || "unreachable") + "]"}: +${res.fresh} fresh, +${res.backfilled} backfill -> ${res.total} items${res.done ? " (complete)" : ""}`);
     return { ...src, metas: store.items };
   }), options.concurrency || 6);
 
@@ -425,4 +431,4 @@ async function scrapeAllExtraCatalogs(options = {}) {
   };
 }
 
-module.exports = { scrapeAllExtraCatalogs, buildSources, parse3isk, parseAlooy, parseAkwam, parseGeneric, ceeItemToMeta, LOGOS };
+module.exports = { alooyDomain, GENERIC_SOURCES, scrapeAllExtraCatalogs, buildSources, parse3isk, parseAlooy, parseAkwam, parseGeneric, ceeItemToMeta, LOGOS };

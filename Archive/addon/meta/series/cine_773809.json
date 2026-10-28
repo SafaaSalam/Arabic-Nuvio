@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_773809",
+    "type": "series",
+    "name": "انتقام مشروع",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد مرور سبع سنوات على تحمله مسؤولية حادث سيارة بدلا عن شقيقه خالد، يتم الإفراج عن يوسف الذي سرعان ما يدرك بأن تضحيته ضاعت هباء منثورا.",
+    "releaseInfo": "2022",
+    "imdbRating": "6.9",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_773809",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/42AEFAB3-EBE4-24A0-6EEA-CE4C7B5A2D28_poster.jpg",
+        "overview": "انتقام مشروع",
+        "streams": []
+      }
+    ]
+  }
+}

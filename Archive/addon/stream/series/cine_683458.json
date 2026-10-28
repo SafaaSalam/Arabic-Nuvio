@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "بنات صالح S01E17 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/986568BA-B849-845D-5CA2-93552D9C7B25_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224108&Signature=6Cofzr7Yzn0Nv34byNE0hjtFjZI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "بنات صالح S01E17 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3B8ADC80-8CB0-1AAF-776B-CFF2ECBD8D94_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224108&Signature=6VckpWrDL19Kx1c3zxvd1x%2FMggg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "بنات صالح S01E17 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9E297DCD-05D8-8C00-F5E2-E6B9840DDD6A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049933&Signature=ST8y2CPvV9D6iYqT58E3cnoPtWs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "بنات صالح S01E17 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/3AD92B45-CCA3-5855-421B-61D5BA8C3F58_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569133&Signature=6yTDoDoMlq7gO849lt6QMErnEFs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "بنات صالح S01E17 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/F73854C5-BD3A-A056-697F-4E243F0EF9B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569133&Signature=FZ0moPNEpfdNI7u0zakuoueNMRQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

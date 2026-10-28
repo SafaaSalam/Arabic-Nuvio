@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Romelia Senki S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F9BBCD83-5634-B516-7766-2DFAED918BAD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461167&Signature=FGO%2BVkv7ifEiKHr0JbGxvkhbPVg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144194-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=6x5SyZhoPAZeIUUZn8p4xyqb8o4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=t%2FiCn4UOfRNYA1txc1uE0dF5%2F6k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0BD2ED4A-B01B-C2CC-840C-06C450407570_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=tMiTIG16sw473TAmrPymeZAQen4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Romelia Senki S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C6CDDE9B-391D-B5AB-F8A3-DBE3807F5459_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461167&Signature=YcGE8nVH%2FeS2IN7V6Cl2vTi3eag%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144194-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=6x5SyZhoPAZeIUUZn8p4xyqb8o4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=t%2FiCn4UOfRNYA1txc1uE0dF5%2F6k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0BD2ED4A-B01B-C2CC-840C-06C450407570_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=tMiTIG16sw473TAmrPymeZAQen4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Romelia Senki S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/16735355-6946-2234-2DC8-881739761514_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461167&Signature=Fz0OcYzRYftO9AyDpinFOHbm7GQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144194-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=6x5SyZhoPAZeIUUZn8p4xyqb8o4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=t%2FiCn4UOfRNYA1txc1uE0dF5%2F6k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0BD2ED4A-B01B-C2CC-840C-06C450407570_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=tMiTIG16sw473TAmrPymeZAQen4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Romelia Senki S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/58D393D6-6C96-D4B5-5A71-A87DE9181506_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461167&Signature=DDqqjqJLY7XsOZwjfqw0TzbOZc8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144194-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=6x5SyZhoPAZeIUUZn8p4xyqb8o4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=t%2FiCn4UOfRNYA1txc1uE0dF5%2F6k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0BD2ED4A-B01B-C2CC-840C-06C450407570_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=tMiTIG16sw473TAmrPymeZAQen4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Romelia Senki S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/06793657-D91D-6217-B54D-7B68B92B122A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461167&Signature=p%2FtEmiOhiN3nwOJw3mQfpf1l3Ig%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144194-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=6x5SyZhoPAZeIUUZn8p4xyqb8o4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4850DC40-7D3C-2E7C-37FB-E64B77960CC3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=t%2FiCn4UOfRNYA1txc1uE0dF5%2F6k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144194-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0BD2ED4A-B01B-C2CC-840C-06C450407570_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795587641&Signature=tMiTIG16sw473TAmrPymeZAQen4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "id": "cine_38834",
+    "type": "series",
+    "name": "One Piece",
+    "mal_id": "21",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "Follows the adventures of Monkey D. Luffy and his friends in order to find the greatest treasure ever left by the legendary Pirate, Gol D Roger. The famous mystery treasure named \"One Piece\".",
+    "releaseInfo": "1999",
+    "imdbRating": "8.6",
+    "genres": [
+      "اكشن | Action",
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy",
+      "دراما | Drama",
+      "خيالي | Fantasy",
+      "Shounen",
+      "Super Power"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_38834",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+        "overview": "One Piece",
+        "streams": []
+      }
+    ]
+  }
+}

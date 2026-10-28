@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "بنات صالح S01E12 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B0BF6AC2-18E5-8696-BA20-19CF25220B07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221637&Signature=xIUrByOf6B7YUvuT5ukYDSnsAu8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "بنات صالح S01E12 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C70511CE-BFE7-601F-36FA-C0104461BD74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480733&Signature=S1jCPJdarv%2BfpcnJDUCFaWW2vyU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "بنات صالح S01E12 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/53887F12-EF15-7636-7F9E-D6CA99FDA044_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793049664&Signature=eSfuRV9rqwe7rlJ7aHxR3pWux5k%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "بنات صالح S01E12 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/046A38BF-677A-0968-00C3-B6B4BF95E1DA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566906&Signature=6yrs0SQsXZiMWnYvf9AcqlQpTZs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "بنات صالح S01E12 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/82599E9E-D534-7954-5D99-997A378AC7C4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566906&Signature=im%2BX2Ho5bASCFdbyXZ894yjOfiQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

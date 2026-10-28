@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "بنات صالح S01E08 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/905F9999-FA60-CA5B-B2FB-D5865C28A78F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793225165&Signature=GgkZYDM9v97c%2F4jfnbhXIkqQQuw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "بنات صالح S01E08 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E6E0BBD2-2F30-3570-04A9-558B8D780061_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793483296&Signature=L1JBixOGP2OEihkAZJApux0t5DU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "بنات صالح S01E08 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AF81937A-F940-77D3-2005-C4DA0E88ED6D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135271&Signature=Fb%2Bdbj50VPLaKPgB8x%2FsnLOwPPI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "بنات صالح S01E08 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/96A90D6E-1379-E080-D282-8463FE578527_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569220&Signature=dRVLJ8lGytMEWIL4cnhv4RILY%2Fw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "بنات صالح S01E08 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/0F80A1FA-FDA9-D668-1BF5-0A3CE753A459_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793569220&Signature=f6XA%2FGGkwqikhI1fCjPBzyAK6uk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

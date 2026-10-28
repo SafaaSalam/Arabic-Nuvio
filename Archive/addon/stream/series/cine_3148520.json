@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Dark Machine: The Animation S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0FAA7F2F-E023-04E4-0118-2639381D8505_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793178907&Signature=xrVCOHAkHy4TuoH3V1z7bMD6FK8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3148520-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=3v1NTSKNIi81jk8i6zvjddSsXVE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=htZasS3DvvrW3Eqa3UvOZvQpPeI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1E542B5-41A1-2A04-B384-D666E084381A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=2baNpr4dXISv4g8zmsYxqzcqYoo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Dark Machine: The Animation S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/81DAFCCE-EF0C-8F0A-A52B-0A6C89195C8F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793178907&Signature=SlhKwptdglEk4hnavEgpK0Ygses%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3148520-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=3v1NTSKNIi81jk8i6zvjddSsXVE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=htZasS3DvvrW3Eqa3UvOZvQpPeI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1E542B5-41A1-2A04-B384-D666E084381A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=2baNpr4dXISv4g8zmsYxqzcqYoo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Dark Machine: The Animation S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9FB0B5BF-6810-434A-6DC1-DBAB9E80422D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793178907&Signature=6g731KkU1zohYWE5lpBhWmy7S3Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3148520-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=3v1NTSKNIi81jk8i6zvjddSsXVE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=htZasS3DvvrW3Eqa3UvOZvQpPeI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1E542B5-41A1-2A04-B384-D666E084381A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=2baNpr4dXISv4g8zmsYxqzcqYoo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Dark Machine: The Animation S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/80AD0786-FC6D-4EF8-6F14-CBC1EA3BDD1A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793178907&Signature=kHCWF%2BGvIK8ZSK2HQdEQG3sco5s%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3148520-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=3v1NTSKNIi81jk8i6zvjddSsXVE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=htZasS3DvvrW3Eqa3UvOZvQpPeI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1E542B5-41A1-2A04-B384-D666E084381A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=2baNpr4dXISv4g8zmsYxqzcqYoo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Dark Machine: The Animation S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E468AF0E-72C0-573D-C492-A5EB1EAF56A4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793178907&Signature=Am1TrU2Qz%2BQq7g1jMDrvVtxAE74%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3148520-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=3v1NTSKNIi81jk8i6zvjddSsXVE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B3F2C15-8A3D-1F31-C830-CB74B3C36C83_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=htZasS3DvvrW3Eqa3UvOZvQpPeI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3148520-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1E542B5-41A1-2A04-B384-D666E084381A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795601286&Signature=2baNpr4dXISv4g8zmsYxqzcqYoo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

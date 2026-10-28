@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "id": "cine_3147650",
+    "type": "series",
+    "name": "Dragon Ball Super: Beerus",
+    "mal_id": "63367",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "عندما يستيقظ بيروس، إله الدمار، بحثاً عن منافس جدير بمواجهته، يجد غوكو وأصدقاءه أنفسهم أمام معركة ملحمية لإيقافه ومنعه من تدمير الأرض\n\nWhen Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "genres": [
+      "اكشن | Action",
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "خيالي | Fantasy",
+      "Shounen"
+    ],
+    "cast": [
+      "Horikawa Ryo",
+      "Nakao Ryuusei",
+      "Nozawa Masako",
+      "Yamadera Koichi"
+    ],
+    "director": [
+      "Seya Matsuto"
+    ],
+    "videos": [
+      {
+        "id": "cine_3147650",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+        "overview": "Dragon Ball Super: Beerus",
+        "streams": []
+      }
+    ]
+  }
+}

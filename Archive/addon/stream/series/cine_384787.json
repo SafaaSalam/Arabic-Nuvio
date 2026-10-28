@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "BTS In The SOOP S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/0A3C6534-0195-72AF-C50E-4507C45006A7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309827&Signature=c86x61ehim%2FuILY2ZtHYROJJgVM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "BTS In The SOOP S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/33D97CC9-5145-CDC1-648D-9C1F9F93296F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309827&Signature=d6FCXof7%2FP6SXh4v7rykhx%2Bsuyc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "BTS In The SOOP S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/3A018C86-F23B-D030-8328-EC7594E45799_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136406&Signature=og2%2B8M%2FrL5Um1nr5i9IGVPCGWto%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "BTS In The SOOP S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/94E0A1EA-44A0-C0C9-CBC3-C5D9B020F0F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136406&Signature=q7se3JrpLQfKDVKNVaMklEtuvYw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "BTS In The SOOP S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/8521D887-A2D6-86CE-6F95-56043C432F81_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793136406&Signature=XLoufpnT74W6WII6TBC8068gKkk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

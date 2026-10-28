@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "5tv_movie__crimson-peak-2015",
+    "type": "series",
+    "name": "Crimson Peak 2015",
+    "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ky0tYgkU6llzvvAL93NCbqU3g5m.webp",
+    "posterShape": "poster",
+    "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/ky0tYgkU6llzvvAL93NCbqU3g5m.webp",
+    "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/ky0tYgkU6llzvvAL93NCbqU3g5m.webp",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+    "description": "Crimson Peak 2015 — 5TV Featured Series & Movies",
+    "videos": [
+      {
+        "id": "5tv_movie__crimson-peak-2015:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://new61.5tv.lol/wp-content/uploads/2026/10/ky0tYgkU6llzvvAL93NCbqU3g5m.webp"
+      }
+    ]
+  }
+}

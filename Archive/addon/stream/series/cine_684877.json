@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "ألماس مكسور S01E14 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/70602987-D9E5-F6F1-B73F-359143E24556_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482305&Signature=oBFnNv10fdZL%2FivxLfRA6Y8bAxk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "ألماس مكسور S01E14 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/439666C3-4EC3-695D-3B4E-9CA1CCF5B9DF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482305&Signature=WJ6sUAYYuvpoJfNhOWjZcJM2vAc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "ألماس مكسور S01E14 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/45FAE9F4-ED9B-5321-8AC2-9926D0C977AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793482305&Signature=qXzF95Ay0nKdsHdVeB37xDcZ7d4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "ألماس مكسور S01E14 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/6801FFD0-6578-59A9-92A3-5AAF259657DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224685&Signature=nEwAUib2JbMv99xFyWLt%2B44amVE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "ألماس مكسور S01E14 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/6158B9C2-E641-AD42-B2B7-F3472ABDFABC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793224685&Signature=bWQZeev823zEvvp5P%2FfaTIfOzdA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

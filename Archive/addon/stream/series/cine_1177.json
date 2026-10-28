@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "باب الحارة S01E09 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/D09AD739-C6B3-AA5F-F371-7A8C304E8106_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135004&Signature=YfMbP6KmYGhzoq74VZFvyBRkWMg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "باب الحارة S01E09 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/527522B7-5B0B-8119-0D3C-1773FB6D3A48_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221834&Signature=DH%2FLTJtsg6hk1k8HPOm%2BTmlDdko%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "باب الحارة S01E09 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/146C55FB-A800-7F4B-FB6E-5FB013FBE89F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048556&Signature=%2FvBpoXVu0aI%2BKkHK5YIAZx%2Fr8S4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "باب الحارة S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/B7B8BDBF-D417-3591-39C4-66B593D24DC6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568644&Signature=RnifxtT8iJl9fWYI4gxUQ3Adeco%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "باب الحارة S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/AF30233F-C98F-8656-0E62-8E51DD4568FD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568644&Signature=CXnCXZBR1mP8aRtDnteVM8fTZq4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

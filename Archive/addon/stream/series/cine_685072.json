@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "من شارع الهرم إلى ... S01E09 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/03CB5D50-4955-571C-20C9-A70E4318C383_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050123&Signature=x837YMn185dP03DWd3UkBmUNRRw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "من شارع الهرم إلى ... S01E09 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/59AC78E2-66CF-DB84-59E1-D8DF2739EBA5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793222474&Signature=QPbIDzg5e%2BLhXI%2BlSwzh6HKmw%2Bg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "من شارع الهرم إلى ... S01E09 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E889305B-C8D4-D1D6-F964-92D082A00E71_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050123&Signature=ABjNpnh1zjsf5UmhqAFh%2FTYssKg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "من شارع الهرم إلى ... S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/B9809BE6-A0C1-01CD-7706-D746700B7AA0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568992&Signature=hyN25vLogKJ8mpuUaDxW5B0Y6gU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "من شارع الهرم إلى ... S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/33D85534-12BA-854D-18E1-8158A22A47DD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568992&Signature=Bplj%2FsfHX%2FbN%2Fzfe3h33DSOBceQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

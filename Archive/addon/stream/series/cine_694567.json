@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Aoashi | Ao Ashi S01E14 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/29CA8998-92A4-8804-334D-1A13715C03C2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793135133&Signature=fGQVYMy1TFkPXM8CKDrgexcsCZc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694567-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=34LC36RfTJrxOxlyRO9jkZHJPVI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=X7ZOABwuP0DPOigPyR1q9xf0j2w%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/641C90B6-1C2C-9DAE-4712-62FAF24A76C0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=xHTI9BRo9nBt%2FBGtDQEGqWWGQk0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Aoashi | Ao Ashi S01E14 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/DA53F8D9-9DFD-190D-987A-35B2BAF8D1CA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480544&Signature=iNRJlyurAMjHBfjvcaKtdMBmJpE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694567-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=34LC36RfTJrxOxlyRO9jkZHJPVI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=X7ZOABwuP0DPOigPyR1q9xf0j2w%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/641C90B6-1C2C-9DAE-4712-62FAF24A76C0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=xHTI9BRo9nBt%2FBGtDQEGqWWGQk0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Aoashi | Ao Ashi S01E14 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/DA54C5D3-D3DC-2D11-AB23-254A3ADBB7AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048404&Signature=ahZvd%2BcENvgM%2FfhWD4qn2%2BhRjKs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694567-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=34LC36RfTJrxOxlyRO9jkZHJPVI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=X7ZOABwuP0DPOigPyR1q9xf0j2w%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/641C90B6-1C2C-9DAE-4712-62FAF24A76C0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=xHTI9BRo9nBt%2FBGtDQEGqWWGQk0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Aoashi | Ao Ashi S01E14 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/9E9124AA-DBB6-19D3-19B0-64B20214791A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567181&Signature=VD8SJ4rYr4kxY66a582PrUUz8Lc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694567-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=34LC36RfTJrxOxlyRO9jkZHJPVI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=X7ZOABwuP0DPOigPyR1q9xf0j2w%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/641C90B6-1C2C-9DAE-4712-62FAF24A76C0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=xHTI9BRo9nBt%2FBGtDQEGqWWGQk0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Aoashi | Ao Ashi S01E14 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/CA8302D5-B86E-BBC3-8C94-7E83C669B8DD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793567181&Signature=113N0O%2BCZcljOpsbzDHRrO43Oos%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-694567-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=34LC36RfTJrxOxlyRO9jkZHJPVI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20D86868-7973-B208-7B74-8DBB26EADD52_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=X7ZOABwuP0DPOigPyR1q9xf0j2w%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-694567-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/641C90B6-1C2C-9DAE-4712-62FAF24A76C0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602611&Signature=xHTI9BRo9nBt%2FBGtDQEGqWWGQk0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

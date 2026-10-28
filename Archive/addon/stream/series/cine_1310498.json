@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الخليفة | Halef S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/18E3D6AB-40B3-F3A1-7E4F-F93EFA8AAF69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480764&Signature=RzoI6YoaibY96dGPCr0r0g05F3w%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الخليفة | Halef S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8533A922-2D18-A5E0-F0C7-82D807560C32_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480764&Signature=QwOn44u3oCDPXvWeZ0BP2%2FpR6nY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الخليفة | Halef S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/91D948F6-498D-6F75-8E7A-203C06E452EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480764&Signature=pXtMn%2BaAEyuZDnfzLQTnfu4dbv4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الخليفة | Halef S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DB73575F-3163-FECA-AAFD-38DC7096C6FA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480764&Signature=PMKur9KbD4P7tgV6CHoZ8WX5nBE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الخليفة | Halef S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9CBD908C-9F18-824E-5926-8D590066D8C3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480764&Signature=QIE0c2LJz4s57H4DRnuLcbzdnRA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

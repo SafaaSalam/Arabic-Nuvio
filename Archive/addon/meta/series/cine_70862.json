@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_70862",
+    "type": "series",
+    "name": "Diamond no Ace",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/65465782-93A6-464A-7F38-50317BB36189_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/65465782-93A6-464A-7F38-50317BB36189_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/65465782-93A6-464A-7F38-50317BB36189_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يتحدث الأنمي عن لاعب البيسبول Sawamura, Eijun وصديقه الماسك المتألق Miyuki, Kazuya\nحيث يقرر كلاهما الإنضمام الى فريق بيسبول مدرسة من النخبة ويقررا مع بقية \nاعضاء الفريق ان يفوزا بكأس Koushien من خلال العمل الجاد والتصميم .",
+    "releaseInfo": "2013",
+    "imdbRating": "8.2",
+    "genres": [
+      "كوميدي | Comedy",
+      "رسوم متحركة | Animation",
+      "رياضي | Sport"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_70862",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/65465782-93A6-464A-7F38-50317BB36189_poster.jpg",
+        "overview": "Diamond no Ace",
+        "streams": []
+      }
+    ]
+  }
+}

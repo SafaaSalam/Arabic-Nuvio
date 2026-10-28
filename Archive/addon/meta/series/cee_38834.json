@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "cee_38834",
+    "type": "series",
+    "name": "One Piece",
+    "poster": "https://cnth2.cee.buzz/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.cee.buzz/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+    "landscapePoster": "https://cnth2.cee.buzz/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+    "description": "Follows the adventures of Monkey D. Luffy and his friends in order to find the greatest treasure ever left by the legendary Pirate, Gol D Roger. The famous mystery treasure named \"One Piece\".",
+    "releaseInfo": "1999",
+    "imdbRating": "8.6",
+    "videos": [
+      {
+        "id": "cee_38834:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.cee.buzz/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png"
+      }
+    ]
+  }
+}

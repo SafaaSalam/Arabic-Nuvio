@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Chii Fuyo S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6DED3DBD-0156-81DD-7292-17849004F1F7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134947&Signature=zzEjwRbV2cW02SqHctKkmNZncQQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146054-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=cFNEdcyC3rbu1eeq5S28G5E5gIg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=EBxUSje%2Bzs7PpiO4j2uev%2BmUzUs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7703359C-6136-63CB-0CBD-EA37D9E607D3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=OALu3X8xEka9nhaClm%2FV8jNE2HQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Chii Fuyo S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C3E7762A-9B9F-9E2E-9000-F357155EBF06_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134947&Signature=vmOviiVDVOmnZ2r1axzqUsNOjo0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146054-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=cFNEdcyC3rbu1eeq5S28G5E5gIg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=EBxUSje%2Bzs7PpiO4j2uev%2BmUzUs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7703359C-6136-63CB-0CBD-EA37D9E607D3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=OALu3X8xEka9nhaClm%2FV8jNE2HQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Chii Fuyo S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/83B28C1E-D3B4-951A-E7F6-EB0AD6FB07D5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134947&Signature=vzQPzRQsKr%2FEruaoEYvJBBWfSB8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146054-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=cFNEdcyC3rbu1eeq5S28G5E5gIg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=EBxUSje%2Bzs7PpiO4j2uev%2BmUzUs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7703359C-6136-63CB-0CBD-EA37D9E607D3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=OALu3X8xEka9nhaClm%2FV8jNE2HQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Chii Fuyo S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C14589E2-08AE-B81B-00D9-9667469FDA51_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134947&Signature=TlrhcesXn%2FCW4pT2Xz%2B7gmttbcs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146054-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=cFNEdcyC3rbu1eeq5S28G5E5gIg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=EBxUSje%2Bzs7PpiO4j2uev%2BmUzUs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7703359C-6136-63CB-0CBD-EA37D9E607D3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=OALu3X8xEka9nhaClm%2FV8jNE2HQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Chii Fuyo S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7726E03E-B21F-24A1-A4AF-464F2BB082E5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134947&Signature=FIQ5S6YOyC%2BxKLb8aQZkehgbBlQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146054-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=cFNEdcyC3rbu1eeq5S28G5E5gIg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C90AFD38-8594-CB0D-3B64-5F20E9E438F1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=EBxUSje%2Bzs7PpiO4j2uev%2BmUzUs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146054-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7703359C-6136-63CB-0CBD-EA37D9E607D3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597829&Signature=OALu3X8xEka9nhaClm%2FV8jNE2HQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

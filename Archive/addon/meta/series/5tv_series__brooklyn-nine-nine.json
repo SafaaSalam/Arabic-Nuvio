@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "5tv_series__brooklyn-nine-nine",
+    "type": "series",
+    "name": "Brooklyn Nine-Nine",
+    "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+    "posterShape": "poster",
+    "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+    "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+    "description": "Brooklyn Nine-Nine — 5TV Featured Series & Movies",
+    "videos": [
+      {
+        "id": "5tv_series__brooklyn-nine-nine:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp"
+      }
+    ]
+  }
+}

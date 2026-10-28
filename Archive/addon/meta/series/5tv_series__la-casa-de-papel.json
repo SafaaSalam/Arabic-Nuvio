@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "5tv_series__la-casa-de-papel",
+    "type": "series",
+    "name": "La casa de papel",
+    "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
+    "posterShape": "poster",
+    "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
+    "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+    "description": "La casa de papel — 5TV Featured Series & Movies",
+    "videos": [
+      {
+        "id": "5tv_series__la-casa-de-papel:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://new61.5tv.lol/wp-content/uploads/2026/10/z01Dc0Ly2GmCpLe6Scx4d3dPP1S-768x1152.webp"
+      }
+    ]
+  }
+}

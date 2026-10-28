@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "alooy_ywdybg2p31p1",
+    "type": "series",
+    "name": "الشجاع",
+    "poster": "https://gg.alooytv16.xyz/uploads/video_thumb/1889.jpg",
+    "posterShape": "poster",
+    "background": "https://gg.alooytv16.xyz/uploads/video_thumb/1889.jpg",
+    "landscapePoster": "https://gg.alooytv16.xyz/uploads/video_thumb/1889.jpg",
+    "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+    "description": "الشجاع — AlooyTv",
+    "videos": [
+      {
+        "id": "alooy_ywdybg2p31p1:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://gg.alooytv16.xyz/uploads/video_thumb/1889.jpg"
+      }
+    ]
+  }
+}

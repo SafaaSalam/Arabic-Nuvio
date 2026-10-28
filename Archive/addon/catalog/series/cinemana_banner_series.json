@@ -1,0 +1,705 @@
+{
+  "metas": [
+    {
+      "id": "tt12590266",
+      "imdb_id": "tt12590266",
+      "slug": "cinemana-3151043",
+      "type": "series",
+      "name": "Cyberpunk: Edgerunners",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/2EDFC3A2-0802-D8FC-4D2E-A0F4C7A59B95_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/2EDFC3A2-0802-D8FC-4D2E-A0F4C7A59B95_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/2EDFC3A2-0802-D8FC-4D2E-A0F4C7A59B95_cover.jpg",
+      "description": "في شوارع مدينة نايت سيتي القاسية، تكافح مجموعة من المهمّشين من أجل البقاء وسط العنف والخيانة وجشع الشركات، مخاطرةً بكل شيء لتحقيق أحلامها في عالم تُكلّف فيه الإنسانية ثمناً باهظاً\n\nIn the ruthless streets of Night City, a group of outcasts struggles to survive amid violence, betrayal, and corporate greed, risking everything to pursue their dreams in a world where humanity comes at a price.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "اكشن | Action",
+        "مغامرة | Adventure",
+        "رسوم متحركة | Animation",
+        "جريمة | Crime",
+        "خيال علمي | Sci-Fi",
+        "اثارة | Thriller"
+      ]
+    },
+    {
+      "id": "tt23148340",
+      "imdb_id": "tt23148340",
+      "slug": "cinemana-3150386",
+      "type": "series",
+      "name": "كريستال ليك | Crystal Lake",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/8A24DE36-2829-8602-FC78-E6CA466D2131_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/8A24DE36-2829-8602-FC78-E6CA466D2131_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/8A24DE36-2829-8602-FC78-E6CA466D2131_cover.jpg",
+      "description": "تعيش باميلا في حزن بعد فقدان ابنها جيسون فورهيز خلال مخيم صيفي، حيث تتمسك بأمل أن ابنها، الذي لم يُعثر على جثته، ما زال على قيد الحياة، لكن يعود ماضي باميلا لمطاردتها ويُجبرها على القتال من أجل البقاء.\n\nIn 1971 (eight years before the events of the 1980 film), Pamela Voorhees (Linda Cardinelli) is a single mother who has been unable to cope with her grief after her sickly young son Jason presumably drowned at Camp Crystal Lake almost a year earlier. When a dark secret from Pam's past emerges, a disturbing chain of horrifying events befell the peaceful town of Crystal Lake, making its townspeople wonder: who is Pamela Voorhees?",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "genres": [
+        "دراما | Drama",
+        "رعب | Horror",
+        "اثارة | Thriller"
+      ]
+    },
+    {
+      "id": "tt16358384",
+      "imdb_id": "tt16358384",
+      "slug": "cinemana-842593",
+      "type": "series",
+      "name": "ملك تولسا | Tulsa King",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/847A1371-ED70-974F-FDC6-BD0093AF1124_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/847A1371-ED70-974F-FDC6-BD0093AF1124_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/847A1371-ED70-974F-FDC6-BD0093AF1124_cover.jpg",
+      "description": "في إطار من الجريمة والدراما، يتناول العمل قصة زعيم عصابات إيطالي يحاول إعادة تأسيس المافيا الإيطالية من جديد، ذلك في مدينة كانساس سيتي بولاية ميسوري.\n\nFollowing his release from prison, mafia capo Dwight \"The General\" Manfredi is exiled to Tulsa, Oklahoma, where he builds a new criminal empire with a group of unlikely characters.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1",
+      "genres": [
+        "جريمة | Crime",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt23112594",
+      "imdb_id": "tt23112594",
+      "slug": "cinemana-3148655",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/BD2A203B-1BC0-DB75-6E78-02154C105A9D_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/BD2A203B-1BC0-DB75-6E78-02154C105A9D_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/BD2A203B-1BC0-DB75-6E78-02154C105A9D_cover.jpg",
+      "description": "بعد إعادة تشغيله ونجاحه في الإفلات ممن سعوا لاستغلاله كسلاح، عاش \"فيجن\" متخفياً. وفي سعيه لإيجاد غاية جديدة لحياته، يستشير الشخصيات الذكية الاصطناعية المدمجة في برمجته، بما في ذلك \"فرايدي\" (F.R.I.D.A.Y.) و\"إديث\" (E.D.I.T.H.) و\"جارفس\" (J.A.R.V.I.D.)، وحتى \"ألترون\" سيئ السمعة. تنتهي حياة التخفي التي كان يعيشها حين تضعه مكافأة مالية رُصدت لمن يقبض عليه في رحلة هروب برفقة \"توماس شيبرد\"، وهو صبي غامض قد يكون التجسيد الجديد لابن \"فيجن\". وبينما يحاول \"فيجن\" تجنب الوقوع في الأسر، يتحتم عليه مواجهة حقيقة طبيعته، ومقاومة تأثير \"ألترون\"، وفك لغز رفيقه الصغير إذا ما أراد النجاة.\n\nVision, rebooted and having escaped from those who sought to weaponize him, has been in hiding. Searching for new meaning, he consults the AI personas embedded in his programming, including F.R.I.D.A.Y., E.D.I.T.H., J.A.R.V.I.S., and the infamous Ultron. His discreet existence ends when a bounty placed on his head thrusts him on the run with Thomas Shepherd, a mysterious boy who may be Vision's son, reincarnate. As Vision evades capture, he must confront his nature, resist Ultron's influence, and unravel the enigma that is his young companion if he's to survive.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "اكشن | Action",
+        "مغامرة | Adventure",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "cine_3147650",
+      "slug": "cinemana-3147650",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/F9D9CA8A-5E80-EDFC-3728-E42C43B056FD_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/F9D9CA8A-5E80-EDFC-3728-E42C43B056FD_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/F9D9CA8A-5E80-EDFC-3728-E42C43B056FD_cover.jpg",
+      "description": "عندما يستيقظ بيروس، إله الدمار، بحثاً عن منافس جدير بمواجهته، يجد غوكو وأصدقاءه أنفسهم أمام معركة ملحمية لإيقافه ومنعه من تدمير الأرض\n\nWhen Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "genres": [
+        "اكشن | Action",
+        "مغامرة | Adventure",
+        "رسوم متحركة | Animation",
+        "خيالي | Fantasy",
+        "Shounen"
+      ]
+    },
+    {
+      "id": "tt39201866",
+      "imdb_id": "tt39201866",
+      "slug": "cinemana-3147344",
+      "type": "series",
+      "name": "100 Days of Deception",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/BDAE54AC-DCCF-1EAA-8713-0040E676FA6D_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/BDAE54AC-DCCF-1EAA-8713-0040E676FA6D_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/BDAE54AC-DCCF-1EAA-8713-0040E676FA6D_cover.jpg",
+      "description": "في كوريا الخاضعة للاحتلال الياباني، تتسلل نشّالة ماهرة إلى مقر الحكومة الاستعمارية لمدة مئة يوم لمساعدة حركة الاستقلال، لكن مهمتها تتعقد عندما تقع في حب الابن بالتبني للرجل الذي تستهدفه\n\nIn Japanese-occupied Korea, a skilled pickpocket goes undercover inside the colonial government for 100 days to help the independence movement, but her mission becomes complicated when she falls for the adopted son of her target.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "genres": [
+        "اكشن | Action",
+        "جريمة | Crime",
+        "دراما | Drama",
+        "تاريخي | History",
+        "رومانسي | Romance",
+        "اثارة | Thriller"
+      ]
+    },
+    {
+      "id": "tt39328047",
+      "imdb_id": "tt39328047",
+      "slug": "cinemana-3146741",
+      "type": "series",
+      "name": "Doctor X: Mafia in White",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/EA40FA94-8674-ADA9-17A8-A18CA2795B57_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/EA40FA94-8674-ADA9-17A8-A18CA2795B57_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/EA40FA94-8674-ADA9-17A8-A18CA2795B57_cover.jpg",
+      "description": "تنضم الجرّاحة العبقرية كاي سو جونغ إلى مستشفى يعجّ بالفساد والصراعات على النفوذ. وبالاعتماد على مهاراتها الجراحية الاستثنائية وحدها، تتولى الحالات المستحيلة وتواجه أصحاب السلطة الذين يخفون فسادهم خلف المعاطف البيضاء\n\nGye Su-jeong is a brilliant surgeon who joins a hospital plagued by corruption and power struggles. Relying solely on her exceptional surgical skills, she takes on impossible cases and challenges the powerful figures hiding behind white coats.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "genres": [
+        "دراما | Drama",
+        "غموض | Mystery",
+        "اثارة | Thriller"
+      ]
+    },
+    {
+      "id": "tt39222526",
+      "imdb_id": "tt39222526",
+      "slug": "cinemana-1360769",
+      "type": "series",
+      "name": "تحت الارض | Underground",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/877CE4AE-E067-6022-7984-17EE12E7F469_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/877CE4AE-E067-6022-7984-17EE12E7F469_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/877CE4AE-E067-6022-7984-17EE12E7F469_cover.jpg",
+      "description": "بعد أن سعى رجل للانتقام لعائلته، انتهى به المطاف في السجن وانضم إلى عصابة إجرامية خطيرة. وبعد سنوات، اكتشف أن المرأة التي يحبها قد تزوجت من شخص قريب منه، مما أدى إلى صراع حاد بين الولاء والحب والبقاء.\n\nAfter seeking revenge for his family, a man lands in prison and joins a dangerous cartel. Years later, he discovers the woman he loves married someone close to him, leading to a tense conflict between loyalty, love, and survival.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt38647499",
+      "imdb_id": "tt38647499",
+      "slug": "cinemana-1320095",
+      "type": "series",
+      "name": "هذا البحر سوف يفيض | Tasacak Bu Deniz",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/613168C2-FB4A-C845-9D7D-D34094DA51AA_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/613168C2-FB4A-C845-9D7D-D34094DA51AA_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/613168C2-FB4A-C845-9D7D-D34094DA51AA_cover.jpg",
+      "description": "هذا البحر سوف يفيض | Tasacak Bu Deniz (2025) • دراما | Drama",
+      "releaseInfo": "2025",
+      "imdbRating": "8.1",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "cine_3144140",
+      "slug": "cinemana-3144140",
+      "type": "series",
+      "name": "Black Clover 2nd Season",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/7B229A39-DD3F-90DD-B145-96CC679080F9_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/7B229A39-DD3F-90DD-B145-96CC679080F9_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/7B229A39-DD3F-90DD-B145-96CC679080F9_cover.jpg",
+      "description": "يواصل أستا وحلفاؤه خوض معارك ضد أعداء أقوياء، بينما يواجه الثيران السوداء تهديدات جديدة لحماية مملكة كلوفر\n\nAsta and his allies continue their battles against powerful enemies as the Black Bulls face new threats in their quest to protect the Clover Kingdom.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "genres": [
+        "اكشن | Action",
+        "رسوم متحركة | Animation",
+        "كوميدي | Comedy",
+        "خيالي | Fantasy",
+        "Magic",
+        "Shounen"
+      ]
+    },
+    {
+      "id": "tt21097264",
+      "imdb_id": "tt21097264",
+      "slug": "cinemana-3143642",
+      "type": "series",
+      "name": "شرق عدن | East of Eden",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/61C5D084-A9F9-11AE-2E39-1532F0C2837D_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/61C5D084-A9F9-11AE-2E39-1532F0C2837D_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/61C5D084-A9F9-11AE-2E39-1532F0C2837D_cover.jpg",
+      "description": "تدور الأحداث في مزارع وادي ساليناس بولاية كاليفورنيا، حيث تعيش أجيال متعاقبة من عائلتي (تراسك) و(هاميلتون)، اللتين تبدو حياتهما محكومة قصة صراع يمتد لعقود.\n\nIn the farmlands of the Salinas Valley in California, successive generations of two families, the Trasks and the Hamiltons, are destined to reenact the fateful story of Cain and Abel.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.0",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt42888794",
+      "imdb_id": "tt42888794",
+      "slug": "cinemana-3133283",
+      "type": "series",
+      "name": "حياة الاخرين | Baskalarinin Hayati",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/D32150BA-86EB-0DFB-92BB-BF0BA0CCDFAB_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/D32150BA-86EB-0DFB-92BB-BF0BA0CCDFAB_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/D32150BA-86EB-0DFB-92BB-BF0BA0CCDFAB_cover.jpg",
+      "description": "حياة الاخرين | Baskalarinin Hayati (2026) • دراما | Drama، رومانسي | Romance",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "genres": [
+        "دراما | Drama",
+        "رومانسي | Romance"
+      ]
+    },
+    {
+      "id": "cine_1310480",
+      "slug": "cinemana-1310480",
+      "type": "series",
+      "name": "الخليفة | Halef",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/1784EBC8-48F5-8598-2174-7F7032AF7DFA_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/1784EBC8-48F5-8598-2174-7F7032AF7DFA_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/1784EBC8-48F5-8598-2174-7F7032AF7DFA_cover.jpg",
+      "description": "يروي المسلسل قصة سرحات (شين)، الجراح الناجح الذي تخلى عن مصيره الذي خيّم على وطنه من أجل بناء حياة مختلفة تمامًا في إسطنبول. يقوده هذا القرار إلى ملك (بوسات)، التي يقع سرحات في حبها فورًا ويتزوجها سرًا دون علم عائلته، لكن القدر يُخبئ له مفاجأة غير متوقعة.\n\nThe series follows the story of Serhat (Şen), a highly successful surgeon who traded the destiny his homeland had in store for him for building a completely different life for himself in Istanbul. This decision leads him to Melek (Pusat), whom Serhat immediately falls in love with and secretly marries without his family knowing, but fate has an unforeseen surprise waiting for him.",
+      "releaseInfo": "2025",
+      "imdbRating": "4.5",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt6773088",
+      "imdb_id": "tt6773088",
+      "slug": "cinemana-3137399",
+      "type": "series",
+      "name": "الأخوان | Brothers",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/2DA93281-0B29-9B94-92D2-46D377A634ED_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/2DA93281-0B29-9B94-92D2-46D377A634ED_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/2DA93281-0B29-9B94-92D2-46D377A634ED_cover.jpg",
+      "description": "يتابع العمل (ماثيو ماكونهي) و(وودي هارلسون) أثناء محاولتهما التعايش معًا في مزرعة بولاية تكساس، حيث تضعهما الحياة في هذا المكان الضيق أمام اختبار حقيقي لصداقتهما.\n\nMcConaughey and Harrelson they try to live together on a Texas ranch. That close space puts their friendship to the test.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.0",
+      "genres": [
+        "كوميدي | Comedy"
+      ]
+    },
+    {
+      "id": "tt13562418",
+      "imdb_id": "tt13562418",
+      "slug": "cinemana-423496",
+      "type": "series",
+      "name": "المنظمة | Teşkilat",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/29741D62-430B-12E8-84AD-A6214EA42BFD_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/29741D62-430B-12E8-84AD-A6214EA42BFD_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/29741D62-430B-12E8-84AD-A6214EA42BFD_cover.jpg",
+      "description": "أعضاء منظمة المخابرات الوطنية مستعدون دائمًا للخدمة لتدمير أعداء تركيا.\n\nNational Intelligence Organization members are always ready to serve to destroy the enemies of Turkey.",
+      "releaseInfo": "2021",
+      "imdbRating": "6.9",
+      "genres": [
+        "اكشن | Action",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt31510819",
+      "imdb_id": "tt31510819",
+      "slug": "cinemana-1240982",
+      "type": "series",
+      "name": "MobLand",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/B25287F3-7EE3-414B-17C5-8D38E5A588A0_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/B25287F3-7EE3-414B-17C5-8D38E5A588A0_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/B25287F3-7EE3-414B-17C5-8D38E5A588A0_cover.jpg",
+      "description": "في إطار من الجريمة، يتبع العمل قصة جيلين من رجال العصابات، ويغوص عبر عالم الجريمة والعلاقات والأعمال المظلمة، والرجال الذين يستعينون بهم لإصلاح مشاكلهم.\n\nPower is up for grabs as two warring crime families clash in a battle that threatens to topple empires. In the crossfire stands Harry Da Souza, a street-smart 'fixer' who knows too well where loyalties lie when opposing forces collide.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.4",
+      "genres": [
+        "جريمة | Crime",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt13207736",
+      "imdb_id": "tt13207736",
+      "slug": "cinemana-3136451",
+      "type": "series",
+      "name": "مشاهدة ‎الوحش: قصة ليزي بوردن | Monster: The Lizzie Borden Story",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/AE0A6307-E49B-6995-A8FC-EABC1437D457_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/AE0A6307-E49B-6995-A8FC-EABC1437D457_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/AE0A6307-E49B-6995-A8FC-EABC1437D457_cover.jpg",
+      "description": "تحت وطأة حياة أسرية قاسية في العصر الفيكتوري، تتخلص \"ليزي بوردن\" من والديها في جريمة قتل دموية بالفأس تهزّ البلاد\n\nTrapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "genres": [
+        "سيرة ذاتية | Biography",
+        "جريمة | Crime",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt33539520",
+      "imdb_id": "tt33539520",
+      "slug": "cinemana-3136106",
+      "type": "series",
+      "name": "Neagley",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/0AEF54FA-836B-8A49-6E1E-031EAE42E2D1_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/0AEF54FA-836B-8A49-6E1E-031EAE42E2D1_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/0AEF54FA-836B-8A49-6E1E-031EAE42E2D1_cover.jpg",
+      "description": "تنطلق (نيجلي)، مستندة إلى خبرتها السابقة مع (جاك ريتشر) ووحدة المحققين الخاصة رقم 110، في مهمة محفوفة بالمخاطر لكشف تهديد غامض وخطير، فتخاطر بحياتها لكشف ملابسات المؤامرة وحل اللغز المحيط بها.\n\nNeagley, drawing from her experience with Jack Reacher and the 110 Special Investigators, embarks on a perilous mission to expose a sinister threat, risking her life to unravel the mystery.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.0",
+      "genres": [
+        "اكشن | Action",
+        "جريمة | Crime",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt27486290",
+      "imdb_id": "tt27486290",
+      "slug": "cinemana-3136178",
+      "type": "series",
+      "name": "Stranger Things: Tales from '85",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/4EF21E9A-CFE0-E8C8-EF56-E48E67C04899_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/4EF21E9A-CFE0-E8C8-EF56-E48E67C04899_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/4EF21E9A-CFE0-E8C8-EF56-E48E67C04899_cover.jpg",
+      "description": "مرحبًا بعودتكم إلى بلدة \"هوكينز\" التي تعجّ بالخبايا والأسرار في شتاء عام 1985، حيث يواجه الأبطال المحبوبون ألغازًا جديدة… ويتصدّون لنوع مختلف تمامًا من الرعب والغرابة\n\nWinter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "genres": [
+        "رسوم متحركة | Animation",
+        "دراما | Drama",
+        "خيالي | Fantasy",
+        "رعب | Horror",
+        "خارق | Supernatural"
+      ]
+    },
+    {
+      "id": "tt31323988",
+      "imdb_id": "tt31323988",
+      "slug": "cinemana-1119119",
+      "type": "series",
+      "name": "محمد الفاتح | Mehmed: Fetihler Sultani",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/DDDFFE77-BF80-355E-2D11-DF437719FB01_cover.jpeg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/DDDFFE77-BF80-355E-2D11-DF437719FB01_cover.jpeg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/DDDFFE77-BF80-355E-2D11-DF437719FB01_cover.jpeg",
+      "description": "عندما اعتلى السلطان العثماني، السلطان محمد الفاتح، العرش، كان عليه أن يهزم العديد من الأعداء داخل القصر وخارجه من أجل الاستيلاء على إسطنبول، حلمه الأكبر.\n\nWhen Ottoman Sultan, Fatih Sultan Mehmet, ascends the throne, he must defeat many enemies inside and outside the palace in order to conquer Istanbul, his biggest dream.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.8",
+      "genres": [
+        "دراما | Drama",
+        "تاريخي | History",
+        "حروب | War"
+      ]
+    },
+    {
+      "id": "tt8888540",
+      "imdb_id": "tt8888540",
+      "slug": "cinemana-1332254",
+      "type": "series",
+      "name": "Palm Royale",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/F3C53BD5-59A0-1BA2-101C-D972EB876767_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/F3C53BD5-59A0-1BA2-101C-D972EB876767_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/F3C53BD5-59A0-1BA2-101C-D972EB876767_cover.jpg",
+      "description": "في الموسم الثاني، تجد (ماكسين) نفسها منبوذة اجتماعيًا بعد الفضيحة الكبيرة التي تعرضت لها، فتصبح مضطرة إلى استغلال دهائها وذكائها العميق لإثبات أنها لا تستحق فرصة أخرى.\n\nAn ambitious woman schemes to secure her seat at America's most exclusive table: Palm Beach high society, circa 1969.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7",
+      "genres": [
+        "كوميدي | Comedy",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt12637874",
+      "imdb_id": "tt12637874",
+      "slug": "cinemana-1346192",
+      "type": "series",
+      "name": "Fallout",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/29235868-10A9-5F73-19C8-BF36D932F560_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/29235868-10A9-5F73-19C8-BF36D932F560_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/29235868-10A9-5F73-19C8-BF36D932F560_cover.jpg",
+      "description": "في الموسم الثاني، تنطلق (لوسي) رفقة (كوبر) إلى نيو فيجاس لاكتشاف الحقيقة حول والدها في رحلة ما بين الماضي والحاضر، بينما يستعد (ماكسيموس) للحرب.\n\nIn a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.3",
+      "genres": [
+        "اكشن | Action",
+        "مغامرة | Adventure",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt5875444",
+      "imdb_id": "tt5875444",
+      "slug": "cinemana-1311572",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/024AB707-2432-CBF3-9075-842DCC07364E_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/024AB707-2432-CBF3-9075-842DCC07364E_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/024AB707-2432-CBF3-9075-842DCC07364E_cover.jpg",
+      "description": "في الموسم الخامس، يُقتل 11 شخصًا في جريمة مروعة، فيجد (جاكسون لامب) وفريقه أنفسهم مجبرين على إقامة جبرية، بينما تنتشر الجرائم وتسود الفوضى جميع أنحاء لندن.\n\nA dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.3",
+      "genres": [
+        "دراما | Drama",
+        "اثارة | Thriller"
+      ]
+    },
+    {
+      "id": "tt31137273",
+      "imdb_id": "tt31137273",
+      "slug": "cinemana-3081758",
+      "type": "series",
+      "name": "Margo's Got Money Troubles",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/47C6C366-8397-928C-A047-6FE3F4C5B6D6_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/47C6C366-8397-928C-A047-6FE3F4C5B6D6_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/47C6C366-8397-928C-A047-6FE3F4C5B6D6_cover.jpg",
+      "description": "تكافح أم شابة لتأمين معيشة طفلها، ويعرض عليها والدها المنفصل مساعدتها، فتنشئ منصة على وسائل التواصل الاجتماعي مستفيدة من نصائح والدها عن المصارعة الحرة. وعلى الرغم من الشهرة، تتساءل عن الثمن الحقيقي للشهرة على الإنترنت.\n\nThe young mother finds herself struggling to make ends meet. When her estranged father offers help, she starts an OnlyFans account using his advice from pro wrestling. Though successful, she wonders if internet fame comes at too high cost.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "genres": [
+        "كوميدي | Comedy",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt30460310",
+      "imdb_id": "tt30460310",
+      "slug": "cinemana-3099083",
+      "type": "series",
+      "name": "سبايدر-نوار",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/F7779A8F-2AC0-748E-E4D3-68655A965210_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/F7779A8F-2AC0-748E-E4D3-68655A965210_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/F7779A8F-2AC0-748E-E4D3-68655A965210_cover.jpg",
+      "description": "يُجبر بن رايلي، وهو محقق خاص مخضرم يعاني من سوء الحظ في نيويورك في ثلاثينيات القرن العشرين، على مواجهة ماضيه، في أعقاب مأساة شخصية عميقة، بصفته البطل الخارق الوحيد في المدينة.\n\nBen Reilly, a seasoned, down-on-his-luck private investigator in 1930s New York, is forced to grapple with his past life, following a deeply personal tragedy, as the city's one and only superhero.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "genres": [
+        "اكشن | Action",
+        "مغامرة | Adventure",
+        "جريمة | Crime",
+        "مدبلج عربي | Arabic dubbed"
+      ]
+    },
+    {
+      "id": "tt14403178",
+      "imdb_id": "tt14403178",
+      "slug": "cinemana-3082652",
+      "type": "series",
+      "name": "غضب على الطريق | Beef",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/2827B99D-FEA0-9036-CD65-462808D30A84_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/2827B99D-FEA0-9036-CD65-462808D30A84_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/2827B99D-FEA0-9036-CD65-462808D30A84_cover.jpg",
+      "description": "في نادٍ ريفي مرموق، يصوّر موظفان شابان شجارًا حادًا بين رئيسهما وزوجته، مما يشعل حرب ابتزاز لا يمكن لأي منهما الفوز بها.\n\nA minor conflict spirals into a consuming feud between two individuals, exposing pride, resentment, and hidden pain.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "genres": [
+        "كوميدي | Comedy",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt33332385",
+      "imdb_id": "tt33332385",
+      "slug": "cinemana-3086165",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/AF852FEC-2D6C-7537-E059-36AC4F911382_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/AF852FEC-2D6C-7537-E059-36AC4F911382_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/AF852FEC-2D6C-7537-E059-36AC4F911382_cover.jpg",
+      "description": "يتبع العمل قصة عمدة متشكك يقود سكان جزيرة ملعونة في نيو إنجلاند، حيث يواجه مجتمعًا تغلب عليه الخرافات وسط أجواء من الغموض والقلق.\n\nA skeptical mayor leads the superstitious residents of a cursed New England island.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "كوميدي | Comedy",
+        "دراما | Drama",
+        "رعب | Horror"
+      ]
+    },
+    {
+      "id": "tt8740790",
+      "imdb_id": "tt8740790",
+      "slug": "cinemana-405872",
+      "type": "series",
+      "name": "بريدجرتون | Bridgerton",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/EE0348DA-0255-19A6-6E62-A0375679DFE7_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/EE0348DA-0255-19A6-6E62-A0375679DFE7_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/EE0348DA-0255-19A6-6E62-A0375679DFE7_cover.jpg",
+      "description": "في مسلسل مستوحًى من روايات \"جوليا كوين\" الشهيرة، يبحث ثمانية أشقّاء مترابطين من عائلة \"بريدجرتون\" عن الحبّ والسعادة في مجتمع \"لندن\" الراقي.\n\nWealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "releaseInfo": "2020",
+      "imdbRating": "7.3",
+      "genres": [
+        "دراما | Drama",
+        "رومانسي | Romance"
+      ]
+    },
+    {
+      "id": "tt34385331",
+      "imdb_id": "tt34385331",
+      "slug": "cinemana-3081869",
+      "type": "series",
+      "name": "DTF St. Louis",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/4929F2CB-57D5-6CD3-7594-7612BE3D9A6D_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/4929F2CB-57D5-6CD3-7594-7612BE3D9A6D_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/4929F2CB-57D5-6CD3-7594-7612BE3D9A6D_cover.jpg",
+      "description": "في هذا المسلسل الكوميدي والغامض، يؤدي مثلث الحب بين ثلاثة بالغين يعانون من أزمة منتصف العمر إلى وفاة أحدهم.\n\nA darkly comedic tale of three middle-aged individuals entangled in a love triangle, leading to one's untimely demise.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "genres": [
+        "كوميدي | Comedy"
+      ]
+    },
+    {
+      "id": "tt31938062",
+      "imdb_id": "tt31938062",
+      "slug": "cinemana-1352477",
+      "type": "series",
+      "name": "The Pitt",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/CB2ED41A-2329-2760-C975-EE0AB3B632D8_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/CB2ED41A-2329-2760-C975-EE0AB3B632D8_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/CB2ED41A-2329-2760-C975-EE0AB3B632D8_cover.jpg",
+      "description": "الحياة اليومية لمقدمي الرعاية الصحية في مستشفى بيتسبرغ وهم يحاولون التوفيق بين الأزمات الشخصية وسياسات مكان العمل والتكلفة العاطفية لعلاج المرضى المصابين بأمراض خطيرة، مما يكشف عن المرونة المطلوبة في دعوتهم النبيلة\n\nThe daily lives of healthcare professionals in a Pittsburgh hospital as they juggle personal crises, workplace politics, and the emotional toll of treating critically ill patients, revealing the resilience required in their noble calling.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt22202452",
+      "imdb_id": "tt22202452",
+      "slug": "cinemana-1329980",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/384D79D7-0018-89F1-31CA-F630F3392848_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/384D79D7-0018-89F1-31CA-F630F3392848_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/384D79D7-0018-89F1-31CA-F630F3392848_cover.jpg",
+      "description": "في إطار من الدراما والخيال العلمي، يتبع العمل قصة المرأة الأكثر بؤسًا على الإطلاق على كوكب الأرض، خلال رحلتها في سبيل إنقاذ العالم من السعادة.\n\nFollows the most miserable person on Earth and the one who must save the world from happiness.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.3",
+      "genres": [
+        "دراما | Drama",
+        "خيال علمي | Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt11815682",
+      "imdb_id": "tt11815682",
+      "slug": "cinemana-1247213",
+      "type": "series",
+      "name": "Hacks",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/428A73AC-62F4-F4A1-7F11-169B01899D68_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/428A73AC-62F4-F4A1-7F11-169B01899D68_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/428A73AC-62F4-F4A1-7F11-169B01899D68_cover.jpg",
+      "description": "يشكل صوتان كوميديان موهوبان من أجيال مختلفة رابطاً غير متوقع عندما تضطر ممثلة كوميدية أسطورية من لاس فيغاس إلى توظيف كاتبة شابة وطموحة.\n\nExplores a dark mentorship that forms between Deborah Vance, a legendary Las Vegas comedian, and an entitled, outcast 25-year-old.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.2",
+      "genres": [
+        "كوميدي | Comedy",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt34063491",
+      "imdb_id": "tt34063491",
+      "slug": "cinemana-1196261",
+      "type": "series",
+      "name": "المدينة البعيدة | Uzak Sehir",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/4E687C74-AF72-D835-5178-82F8F224DB39_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/4E687C74-AF72-D835-5178-82F8F224DB39_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/4E687C74-AF72-D835-5178-82F8F224DB39_cover.jpg",
+      "description": "تصل امرأة إلى موطن زوجها الراحل مع جثته وابنه، لكن عائلته القوية تمنعها من المغادرة، مما يؤدي إلى معركة مع ظهور أسرار مظلمة.\n\nA woman arrives in her late husband's homeland with his body and son, but his powerful family prevents her from leaving, leading to a battle as dark secrets emerge.",
+      "releaseInfo": "2024",
+      "imdbRating": "6.9",
+      "genres": [
+        "اكشن | Action",
+        "جريمة | Crime",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt3032476",
+      "imdb_id": "tt3032476",
+      "slug": "cinemana-14867",
+      "type": "series",
+      "name": "Better Call Saul",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/A9619DEF-92C8-F693-5B18-D04EE8A20D3C_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/A9619DEF-92C8-F693-5B18-D04EE8A20D3C_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/A9619DEF-92C8-F693-5B18-D04EE8A20D3C_cover.jpg",
+      "description": "يحكي المسلسل المرشح لجائزة إيمي المشتق من Breaking Bad عن المحامي \"جيمي ماكغيل\" عندما يتحول إلى المحامي عديم الأخلاق \"سول غودمان\".\n\nThe trials and tribulations of criminal lawyer, Saul Goodman, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.",
+      "releaseInfo": "2015",
+      "imdbRating": "8.9",
+      "genres": [
+        "جريمة | Crime",
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt9142920",
+      "imdb_id": "tt9142920",
+      "slug": "cinemana-3132767",
+      "type": "series",
+      "name": "هدف ذو قيمة عالية: مطاردة صدام | High Value Target: The Hunt for Saddam",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/5AA28537-7C87-7F15-2F6F-7579C0C825F1_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/5AA28537-7C87-7F15-2F6F-7579C0C825F1_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/5AA28537-7C87-7F15-2F6F-7579C0C825F1_cover.jpg",
+      "description": "تدور أحداث المسلسل حول محلل وكالة المخابرات المركزية الأمريكية «جون نيكسون»، الذي يتولى مهمة استجواب صدام حسين عقب القبض عليه في ديسمبر 2003. وخلال جلسات الاستجواب، تتكشف مواجهات شديدة التوتر بين الرجلين، بينما يحاول نيكسون الوصول إلى حقيقة ما حدث قبل الغزو الأمريكي للعراق وفهم القرارات التي قادت إلى الحرب وتداعياتها.\n\nThe first American to interrogate Saddam Hussein slowly starts to realize that the US invasion of Iraq is not as cut and dry, nor its outlook as positive, as Washington believes.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.0",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt43723646",
+      "imdb_id": "tt43723646",
+      "slug": "cinemana-3133004",
+      "type": "series",
+      "name": "حبك نار | Your Love Is a Fire",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/2554BE2E-64AA-957D-188E-479B2161CBDA_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/2554BE2E-64AA-957D-188E-479B2161CBDA_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/2554BE2E-64AA-957D-188E-479B2161CBDA_cover.jpg",
+      "description": "يُقطع حفل زفاف \"ميرزا\" و\"ليلى\" فجأةً إثر اختفاء \"ليلى\" قبل ساعات قليلة من المراسم، لتمضي سبع سنوات دون أن ترد أي أخبار عنها. وبينما يقرر \"ميرزا\" المضي قدماً في حياته والاستعداد للزواج من \"ديستان\"، يُختطف ابن شقيقته الرضيع \"كيرم\" (البالغ من العمر سبعة أشهر) على يد والده الذي يعمل في مجال الاتجار بالبشر. يسافر \"ميرزا\" إلى حلب بحثاً عن ابن شقيقته وصهره الخاطف، لكن المدينة لا تعيد إليه \"كيرم\" فحسب، بل تعيد إليه أيضاً \"ليلى\" التي تركته يعاني لوعة الفراق طوال سبع سنوات. وفي حين يخوض \"ميرزا\" معركةً شاقة لإنقاذ \"ليلى\" والطفلة \"هوما\" -التي تبلغ من العمر ست سنوات ودون أن يعلم أنها ابنته- من سوريا، يجد نفسه في مواجهة صراعٍ شرس مع عائلته في \"كابادوكيا\".\n\nMirza and Leyla’s wedding is cut short when Leyla disappears just a few hours before the ceremony. For the next seven years, no one hears a word from Leyla. Just as Mirza decides to rebuild his life and is about to marry Destan, his seven-month-old nephew Kerem is kidnapped by his own father, a human trafficker. Mirza travels to Aleppo to find his nephew and the brother-in-law who abducted him. However, Aleppo will return to Mirza not only Kerem but also Leyla, who has left him in agony for seven years. As Mirza fights a grueling battle to rescue Leyla and 6-year-old Hüma—whom he does not know is his own daughter—from Syria, a fierce struggle against his own family awaits him in Cappadocia.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt38282411",
+      "imdb_id": "tt38282411",
+      "slug": "cinemana-1355387",
+      "type": "series",
+      "name": "اخي | A.B.I.",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/CBEC28F2-1E63-222C-EF8B-5416B79040BB_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/CBEC28F2-1E63-222C-EF8B-5416B79040BB_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/CBEC28F2-1E63-222C-EF8B-5416B79040BB_cover.jpg",
+      "description": "طبيب ناجح اختار الابتعاد عن عائلته لسنوات طويلة، محاولًا قطع صلته بماضٍ مثقل بالصراعات والقرارات المؤجلة. غير أن عودته إلى مدينته لحضور حفل زفاف شقيقته تتحول إلى نقطة تحوّل حاسمة، حيث يجد نفسه مجبرًا على مواجهة أسرار قديمة، وفتح ملفات عائلية ظنّ أنها طُويت مع الزمن.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.0",
+      "genres": [
+        "دراما | Drama"
+      ]
+    },
+    {
+      "id": "tt0118414",
+      "imdb_id": "tt0118414",
+      "slug": "cinemana-67257",
+      "type": "series",
+      "name": "The Odyssey",
+      "poster": "https://cnth2.shabakaty.cc/vascin-cover-images/6B5CCB79-FF1B-506C-0A59-3FF6E1BF025F_cover.jpg",
+      "posterShape": "poster",
+      "background": "https://cnth2.shabakaty.cc/vascin-cover-images/6B5CCB79-FF1B-506C-0A59-3FF6E1BF025F_cover.jpg",
+      "landscapePoster": "https://cnth2.shabakaty.cc/vascin-cover-images/6B5CCB79-FF1B-506C-0A59-3FF6E1BF025F_cover.jpg",
+      "description": "بعد انتهاء حرب طروادة، يخوض أوديسيوس رحلة مليئة بالمخاطر والأساطير في سعيه للعودة إلى موطنه، إيثاكا.\n\nFollows Odysseus on his wanderings back to Ithaca following the Trojan War.",
+      "releaseInfo": "1997",
+      "imdbRating": "7.1",
+      "genres": [
+        "مغامرة | Adventure",
+        "دراما | Drama",
+        "خيالي | Fantasy"
+      ]
+    }
+  ]
+}

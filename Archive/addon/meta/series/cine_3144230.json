@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "id": "cine_3144230",
+    "type": "series",
+    "name": "Tensei Shita Daiseijo",
+    "mal_id": "61153",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/971B5E73-9772-A7C6-34FF-86AEA5C6C028_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/971B5E73-9772-A7C6-34FF-86AEA5C6C028_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/971B5E73-9772-A7C6-34FF-86AEA5C6C028_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "قديسة عظيمة سابقة تدعى فيا؛ تبعث من جديد كفارس، وتحاول إخفاء قواها الحقيقية\n\nFia, a former Great Saint, is reincarnated as a knight and secretly tries to hide her true powers.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "genres": [
+      "اكشن | Action",
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "خيالي | Fantasy"
+    ],
+    "cast": [
+      "Hamano Daiki",
+      "Hatanaka Tasuku",
+      "Shimazaki Nobunaga",
+      "Tokutome Shinnosuke",
+      "Umehara Yūichirō",
+      "Wakayama Shion"
+    ],
+    "director": [
+      "Makino Tomoe",
+      "Murata Naoki"
+    ],
+    "videos": [
+      {
+        "id": "cine_3144230",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/971B5E73-9772-A7C6-34FF-86AEA5C6C028_poster.png",
+        "overview": "قديسة عظيمة سابقة تدعى فيا؛ تبعث من جديد كفارس، وتحاول إخفاء قواها الحقيقية\n\nFia, a former Great Saint, is reincarnated as a knight and secretly tries to hide her true powers.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tensei Shita Daiseijo S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8B19780B-AF47-781B-35DF-7FB5B365A1DB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480590&Signature=9NVC25W0FVM6uxk4BrsJIVf9mZY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144230-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=5qyMJ5%2BfliNnl0KrNwzz1Ht3%2F3Q%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=9KL21X%2F7Y%2FC%2BL4ZZtyLvBuMbZrE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADAA52F7-EDA8-9653-6400-8870FF09CCAE_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=b4wnwXbi7FFTbT6VQgG2qLw4Olo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tensei Shita Daiseijo S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/EFAEA28C-3631-DBE2-CF1D-5D4DB1F7C031_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480590&Signature=FKmHpRIo3L87QdgyLsaR%2FVHrGtY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144230-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=5qyMJ5%2BfliNnl0KrNwzz1Ht3%2F3Q%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=9KL21X%2F7Y%2FC%2BL4ZZtyLvBuMbZrE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADAA52F7-EDA8-9653-6400-8870FF09CCAE_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=b4wnwXbi7FFTbT6VQgG2qLw4Olo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tensei Shita Daiseijo S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3169BCB8-2063-3123-98EF-7D4244095CC2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480590&Signature=cFeOekEIaishsdVgnw6PcO2HT%2FQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144230-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=5qyMJ5%2BfliNnl0KrNwzz1Ht3%2F3Q%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=9KL21X%2F7Y%2FC%2BL4ZZtyLvBuMbZrE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADAA52F7-EDA8-9653-6400-8870FF09CCAE_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=b4wnwXbi7FFTbT6VQgG2qLw4Olo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tensei Shita Daiseijo S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D2C27844-7298-482C-294E-2BC7F83179C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480590&Signature=Q7YXsy32LAAplMWR64sRn8LBuno%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144230-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=5qyMJ5%2BfliNnl0KrNwzz1Ht3%2F3Q%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=9KL21X%2F7Y%2FC%2BL4ZZtyLvBuMbZrE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADAA52F7-EDA8-9653-6400-8870FF09CCAE_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=b4wnwXbi7FFTbT6VQgG2qLw4Olo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tensei Shita Daiseijo S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0E0DA10A-161C-F239-5524-E3E7EE16FBB7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480590&Signature=bkizindvQhc3CQQTOVxsMSdGa6M%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144230-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=5qyMJ5%2BfliNnl0KrNwzz1Ht3%2F3Q%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3B989449-54A1-8A68-D40F-F350C209E7A2_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=9KL21X%2F7Y%2FC%2BL4ZZtyLvBuMbZrE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144230-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADAA52F7-EDA8-9653-6400-8870FF09CCAE_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795593920&Signature=b4wnwXbi7FFTbT6VQgG2qLw4Olo%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144233",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/0279BDBB-AB7E-0E05-E0DE-D6DD691CAC00_poster.png",
+        "overview": "قديسة عظيمة سابقة تدعى فيا؛ تبعث من جديد كفارس، وتحاول إخفاء قواها الحقيقية\n\nFia, a former Great Saint, is reincarnated as a knight and secretly tries to hide her true powers.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tensei Shita Daiseijo S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/03C78188-BE9F-3A5B-C43E-53F02D4E9032_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480469&Signature=gLgx8emzWKAWdFobEZHsnkgPZcc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=ueY377oSE5qEWFHyYqPWwJVW2fk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=GY34JIJY4ZweXUiM8z%2FAVhBckrM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B1442B-449B-54AE-3E9E-D941BA3508A7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=iUyJLnkD3owT6tRJf6hkDxeV5Cs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tensei Shita Daiseijo S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/35B8A7D2-C7FC-8F4A-235F-B516FAA6B5B3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480469&Signature=HEFzljo5vl2aXofsaD%2BdRk%2BV4Qw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=ueY377oSE5qEWFHyYqPWwJVW2fk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=GY34JIJY4ZweXUiM8z%2FAVhBckrM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B1442B-449B-54AE-3E9E-D941BA3508A7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=iUyJLnkD3owT6tRJf6hkDxeV5Cs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tensei Shita Daiseijo S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/452D01E3-F87D-50B6-F990-4221AE1DB6D2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480469&Signature=sspsaLjrw%2BiWIbirdBwsddXIAQs%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=ueY377oSE5qEWFHyYqPWwJVW2fk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=GY34JIJY4ZweXUiM8z%2FAVhBckrM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B1442B-449B-54AE-3E9E-D941BA3508A7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=iUyJLnkD3owT6tRJf6hkDxeV5Cs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tensei Shita Daiseijo S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4C0745B9-00FF-9266-D430-4A9CC75025D9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480469&Signature=IOnR9xhrkMOF39Cvp8u6Q8cALyI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=ueY377oSE5qEWFHyYqPWwJVW2fk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=GY34JIJY4ZweXUiM8z%2FAVhBckrM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B1442B-449B-54AE-3E9E-D941BA3508A7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=iUyJLnkD3owT6tRJf6hkDxeV5Cs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tensei Shita Daiseijo S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0A773AA4-5EDD-9CDF-E2DD-5632C2CE4431_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480469&Signature=RPp5Sc3S9v%2BPKD%2FIPXvZEG3RvIk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=ueY377oSE5qEWFHyYqPWwJVW2fk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5819EA9B-646B-10F9-0E01-8C45667A59C1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=GY34JIJY4ZweXUiM8z%2FAVhBckrM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144233-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B1442B-449B-54AE-3E9E-D941BA3508A7_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795561363&Signature=iUyJLnkD3owT6tRJf6hkDxeV5Cs%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144236",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/0279BDBB-AB7E-0E05-E0DE-D6DD691CAC00_poster.png",
+        "overview": "قديسة عظيمة سابقة تدعى فيا؛ تبعث من جديد كفارس، وتحاول إخفاء قواها الحقيقية\n\nFia, a former Great Saint, is reincarnated as a knight and secretly tries to hide her true powers.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tensei Shita Daiseijo S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/22D49500-E77C-20F5-391E-5EA52A7E868B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394197&Signature=WH4XN62X9zywB8R4YgEBMB3NS6A%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144236-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=vlVHrf%2BFkpOoOk8ZkzvG2u6bLQA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=n2vtRfrh2HW1Yacofrm9JTFHOts%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/181B6DC6-210D-43DE-8D5E-642EF1A8B7BC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=d4MrCdDP2xX7cmdBf14eHdE%2BmCc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tensei Shita Daiseijo S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D507A4A0-ACAC-C0A9-160E-601A43743D04_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394197&Signature=XadI75qkVAxDpeJCKyaZj7SWEgc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144236-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=vlVHrf%2BFkpOoOk8ZkzvG2u6bLQA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=n2vtRfrh2HW1Yacofrm9JTFHOts%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/181B6DC6-210D-43DE-8D5E-642EF1A8B7BC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=d4MrCdDP2xX7cmdBf14eHdE%2BmCc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tensei Shita Daiseijo S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3A38245F-DD5A-F4EA-B99F-8FE33B8343FF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394197&Signature=uP8b3iCU%2FQjhNq1yb2N60EGJU2M%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144236-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=vlVHrf%2BFkpOoOk8ZkzvG2u6bLQA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=n2vtRfrh2HW1Yacofrm9JTFHOts%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/181B6DC6-210D-43DE-8D5E-642EF1A8B7BC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=d4MrCdDP2xX7cmdBf14eHdE%2BmCc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tensei Shita Daiseijo S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6AFBC7F2-F903-BA7F-1BA9-FD304B929290_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394197&Signature=ThhDoZGN9DtvnDzeLyoEIjGUhS4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144236-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=vlVHrf%2BFkpOoOk8ZkzvG2u6bLQA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=n2vtRfrh2HW1Yacofrm9JTFHOts%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/181B6DC6-210D-43DE-8D5E-642EF1A8B7BC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=d4MrCdDP2xX7cmdBf14eHdE%2BmCc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tensei Shita Daiseijo S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3509A575-0B4E-D2B4-3156-7831D840EF74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394197&Signature=1wGl0hx%2B1IVt0DmkgdC%2F8un3FNo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144236-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=vlVHrf%2BFkpOoOk8ZkzvG2u6bLQA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F03B918F-45E1-0A96-959C-3D12DAE9BC8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=n2vtRfrh2HW1Yacofrm9JTFHOts%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144236-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/181B6DC6-210D-43DE-8D5E-642EF1A8B7BC_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795565091&Signature=d4MrCdDP2xX7cmdBf14eHdE%2BmCc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144239",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/0279BDBB-AB7E-0E05-E0DE-D6DD691CAC00_poster.png",
+        "overview": "قديسة عظيمة سابقة تدعى فيا؛ تبعث من جديد كفارس، وتحاول إخفاء قواها الحقيقية\n\nFia, a former Great Saint, is reincarnated as a knight and secretly tries to hide her true powers.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tensei Shita Daiseijo S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1EF5C757-4149-EF64-9FA7-4BE67520879F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394814&Signature=cZ%2BH3dknJPGkK1c50iywlihC5Z0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=mVuxwz6Y2gbZAWSPGSMA3cxwTPU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=V93TmoJKNnx1rtjYvCAn3qc2drA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D8CE445-B781-EC30-22C3-DA0F1D333E19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=jWKgtjIXW6HtUOqLl34omal2R8A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tensei Shita Daiseijo S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/76642206-CA4A-11FC-4C01-C6AAAFEE3753_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394814&Signature=l8m9Gi3JuD4W1CHyElxTN%2Bv7ZFk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=mVuxwz6Y2gbZAWSPGSMA3cxwTPU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=V93TmoJKNnx1rtjYvCAn3qc2drA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D8CE445-B781-EC30-22C3-DA0F1D333E19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=jWKgtjIXW6HtUOqLl34omal2R8A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tensei Shita Daiseijo S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6D35CEF0-2445-5403-B126-752A262CEFA9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394814&Signature=0B0G0vUFVRDQxYNuBJuLlGBMC4E%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=mVuxwz6Y2gbZAWSPGSMA3cxwTPU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=V93TmoJKNnx1rtjYvCAn3qc2drA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D8CE445-B781-EC30-22C3-DA0F1D333E19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=jWKgtjIXW6HtUOqLl34omal2R8A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tensei Shita Daiseijo S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1C363DBF-481E-C16D-60E7-2E3E59A26DA9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394814&Signature=CPaYMwUDIvY0K1Efbh2a6ISiZMg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=mVuxwz6Y2gbZAWSPGSMA3cxwTPU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=V93TmoJKNnx1rtjYvCAn3qc2drA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D8CE445-B781-EC30-22C3-DA0F1D333E19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=jWKgtjIXW6HtUOqLl34omal2R8A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tensei Shita Daiseijo S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1B4A9EA9-F3C0-9B64-729C-5513013FF396_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394814&Signature=XDEyqCnq0JXkC3bqB05xZdDk2GI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=mVuxwz6Y2gbZAWSPGSMA3cxwTPU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCC48582-50BE-1148-33EE-ECF35CBEFF8D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=V93TmoJKNnx1rtjYvCAn3qc2drA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144239-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D8CE445-B781-EC30-22C3-DA0F1D333E19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795578839&Signature=jWKgtjIXW6HtUOqLl34omal2R8A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144242",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/0279BDBB-AB7E-0E05-E0DE-D6DD691CAC00_poster.png",
+        "overview": "قديسة عظيمة سابقة تدعى فيا؛ تبعث من جديد كفارس، وتحاول إخفاء قواها الحقيقية\n\nFia, a former Great Saint, is reincarnated as a knight and secretly tries to hide her true powers.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Tensei Shita Daiseijo S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/261A7268-7611-BD65-4D72-D188BE7029AC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461631&Signature=coJD3JMHksqYNduVzTaOAwkk5mA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144242-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=pZpyYcIaK%2Fsz%2BfW%2FczxRM%2ByGlO8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=1NWOja4RULcbZcLQgBIBNGnDTmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3DFCF527-369B-88FF-DFAD-4AE28726CEB5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=CF0Q1FCDvuA4UEDRveCe3EQJT1I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Tensei Shita Daiseijo S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D13A8263-5BC4-D3EA-0988-9EDF71B50DAE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461631&Signature=2KQ9yMFo80a3SVe4KcnLC0rzC0s%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144242-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=pZpyYcIaK%2Fsz%2BfW%2FczxRM%2ByGlO8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=1NWOja4RULcbZcLQgBIBNGnDTmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3DFCF527-369B-88FF-DFAD-4AE28726CEB5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=CF0Q1FCDvuA4UEDRveCe3EQJT1I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Tensei Shita Daiseijo S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8FDE1711-9BA7-A305-116D-8E90C76065DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461631&Signature=nl5Sge0qOWgpuTEBk5z0tsgqRLw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144242-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=pZpyYcIaK%2Fsz%2BfW%2FczxRM%2ByGlO8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=1NWOja4RULcbZcLQgBIBNGnDTmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3DFCF527-369B-88FF-DFAD-4AE28726CEB5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=CF0Q1FCDvuA4UEDRveCe3EQJT1I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Tensei Shita Daiseijo S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/9B410F61-7AF2-766B-0A97-79C1B599D60D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461631&Signature=gwkD%2FL1w068dI1J0ZXanmErM%2Bac%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144242-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=pZpyYcIaK%2Fsz%2BfW%2FczxRM%2ByGlO8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=1NWOja4RULcbZcLQgBIBNGnDTmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3DFCF527-369B-88FF-DFAD-4AE28726CEB5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=CF0Q1FCDvuA4UEDRveCe3EQJT1I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Tensei Shita Daiseijo S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B78447E1-0FEE-3E19-DB77-4CF02853A778_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793461631&Signature=G6%2FRlR0%2FUycx%2BjZmtmuY2GQUYBw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144242-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=pZpyYcIaK%2Fsz%2BfW%2FczxRM%2ByGlO8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/86ACECFE-CD19-5351-56BD-3AA99985C29C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=1NWOja4RULcbZcLQgBIBNGnDTmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144242-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3DFCF527-369B-88FF-DFAD-4AE28726CEB5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795579159&Signature=CF0Q1FCDvuA4UEDRveCe3EQJT1I%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

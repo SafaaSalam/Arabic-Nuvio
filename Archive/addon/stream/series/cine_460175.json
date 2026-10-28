@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "طيبة S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/B62F9D94-C5FF-6764-82AC-B9A14870FF23_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793222321&Signature=LHdir%2FneF%2F3vNH54JnIFHNLlrX0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "طيبة S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/64A4C1FB-3948-197A-E732-D7268BD06091_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793222321&Signature=y%2FHc4zWJHi83FFzh%2FLBKvE1pmVk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "طيبة S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/5126F79F-71F7-B190-F7E2-70E80633D5C1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048586&Signature=2jd%2FNYTkiOh3cmhbCX8bpKDW2HM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "طيبة S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/8FA485A3-8207-5A50-F1A9-41615A14B0FA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568836&Signature=wpvbrsmhHxT7rv7A8zuJgRIzJA4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "طيبة S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/ADD7A985-8EF0-3C71-7025-8FBD3A15EF0E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793568836&Signature=11T0dTvsljdwsl%2BqSLnT%2FhLRUIg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

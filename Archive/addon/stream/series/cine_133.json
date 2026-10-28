@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "حلاوة الروح S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/1940E2F9-4999-C965-25E4-11D3B0C52AEA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793310040&Signature=XFdd1a8we0KDr1D4wNLw1J6ewbY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "حلاوة الروح S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/2B524ED7-63D8-744C-643C-8D1FC9622B1A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793310040&Signature=pV%2FpvfT4z3qRNlRQa6SYhBjovwo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "حلاوة الروح S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/37C45C22-4F21-E38F-0461-05FC6B0D592A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793310040&Signature=OJHQ08cMqu69N0P9uc20fHjaHIg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "حلاوة الروح S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/8A928FD1-D65E-7A62-585F-FCEFDF7077F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793310040&Signature=Eq0%2F7s7g8JwaFGaI9CSYn0bMorQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "حلاوة الروح S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/083517E5-B5EB-280E-A9D4-B6983F971E09_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793310040&Signature=vUMIHIzFhUw2Zkb%2FBptf9a8wsM8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

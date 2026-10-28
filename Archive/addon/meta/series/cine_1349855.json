@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "id": "cine_1349855",
+    "type": "series",
+    "name": "The Architect",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/6EC0371A-902F-A932-1429-C2E4BF2E5422_poster.webp",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/6EC0371A-902F-A932-1429-C2E4BF2E5422_poster.webp",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/6EC0371A-902F-A932-1429-C2E4BF2E5422_poster.webp",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "The Architect (2025) • دراما | Drama، خيالي | Fantasy، تاريخي | History، رومانسي | Romance",
+    "releaseInfo": "2025",
+    "imdbRating": "6.2",
+    "genres": [
+      "دراما | Drama",
+      "خيالي | Fantasy",
+      "تاريخي | History",
+      "رومانسي | Romance"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_1349855",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6EC0371A-902F-A932-1429-C2E4BF2E5422_poster.webp",
+        "overview": "The Architect",
+        "streams": []
+      }
+    ]
+  }
+}

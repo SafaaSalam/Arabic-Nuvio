@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "5tv_series__this-city-is-ours",
+    "type": "series",
+    "name": "This City Is Ours",
+    "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/vfe1cSviBFnNcgk76jwgdb5Wyek-768x432.webp",
+    "posterShape": "poster",
+    "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/vfe1cSviBFnNcgk76jwgdb5Wyek-768x432.webp",
+    "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/vfe1cSviBFnNcgk76jwgdb5Wyek-768x432.webp",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+    "description": "This City Is Ours — 5TV Featured Series & Movies",
+    "videos": [
+      {
+        "id": "5tv_series__this-city-is-ours:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://new61.5tv.lol/wp-content/uploads/2026/10/vfe1cSviBFnNcgk76jwgdb5Wyek-768x432.webp"
+      }
+    ]
+  }
+}

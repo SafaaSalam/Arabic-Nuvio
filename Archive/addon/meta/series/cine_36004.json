@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_36004",
+    "type": "series",
+    "name": "The Hunt",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/4A1E4DA8-A0B0-94CA-75C8-29F05956EBDE_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/4A1E4DA8-A0B0-94CA-75C8-29F05956EBDE_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/4A1E4DA8-A0B0-94CA-75C8-29F05956EBDE_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "This major landmark series looks in detail at the fascinating relationship between predators and their prey. Rather than concentrating on 'the blood and guts' of predation, the series looks...",
+    "releaseInfo": "2015",
+    "imdbRating": "9.4",
+    "genres": [
+      "وثائقي | Documentary"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_36004",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4A1E4DA8-A0B0-94CA-75C8-29F05956EBDE_poster.jpg",
+        "overview": "The Hunt",
+        "streams": []
+      }
+    ]
+  }
+}

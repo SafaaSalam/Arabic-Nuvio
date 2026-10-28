@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "5tv_movie__the-last-10-years-2022",
+    "type": "series",
+    "name": "The Last 10 Years 2022",
+    "poster": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg",
+    "posterShape": "poster",
+    "background": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg",
+    "landscapePoster": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+    "description": "The Last 10 Years 2022 — 5TV Featured Series & Movies",
+    "videos": [
+      {
+        "id": "5tv_movie__the-last-10-years-2022:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://new61.5tv.lol/wp-content/uploads/2026/10/3TTSYnXJyDXEadiG1BMangdq3XV-768x1152.jpg"
+      }
+    ]
+  }
+}

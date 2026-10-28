@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_seasons__hotaru-no-yomeiri-season-1",
+    "type": "series",
+    "name": "Hotaru no Yomeiri",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/10/Auw2NxgGThu6XAO2pyRoipMIDHG.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/10/Auw2NxgGThu6XAO2pyRoipMIDHG.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/10/Auw2NxgGThu6XAO2pyRoipMIDHG.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Hotaru no Yomeiri — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_seasons__hotaru-no-yomeiri-season-1:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/10/Auw2NxgGThu6XAO2pyRoipMIDHG.jpg"
+      }
+    ]
+  }
+}

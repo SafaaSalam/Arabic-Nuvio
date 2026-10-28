@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "id": "cine_3144095",
+    "type": "series",
+    "name": "Keroro Gunsou☆",
+    "mal_id": "63157",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/76F465A3-2E4B-0EB3-DB06-16200B9065FD_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/76F465A3-2E4B-0EB3-DB06-16200B9065FD_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/76F465A3-2E4B-0EB3-DB06-16200B9065FD_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يأتي كيرورو، الجندي الفضائي، إلى الأرض لغزوها، لكن فويوكي و ناتسومي يأسرانه، فيعيش مع عائلتهما بينما يواصل سراً خططه لغزو الأرض\n\nKeroro, a frog-like alien soldier sent to invade Earth, is captured by Fuyuki and Natsumi and ends up living with their family while secretly continuing his invasion plans.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy",
+      "خيال علمي | Sci-Fi",
+      "Shounen"
+    ],
+    "cast": [
+      "Echigoya Kousuke",
+      "Inomata Satoshi",
+      "Koichi Makoto",
+      "Masuda Toshiki",
+      "Nagae Rika",
+      "Sakakibara Yuuki"
+    ],
+    "director": [
+      "Kondou Nobuhiro",
+      "Sano Toshihiko"
+    ],
+    "videos": [
+      {
+        "id": "cine_3144095",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/76F465A3-2E4B-0EB3-DB06-16200B9065FD_poster.png",
+        "overview": "يأتي كيرورو، الجندي الفضائي، إلى الأرض لغزوها، لكن فويوكي و ناتسومي يأسرانه، فيعيش مع عائلتهما بينما يواصل سراً خططه لغزو الأرض\n\nKeroro, a frog-like alien soldier sent to invade Earth, is captured by Fuyuki and Natsumi and ends up living with their family while secretly continuing his invasion plans.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Keroro Gunsou☆ S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/21F6433C-F2FD-6276-DDFE-150DD0F6D65B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394905&Signature=xeXDsO9933FR5OtJqZXFPbFGAq4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144095-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=LIc89fs7YfhCQG%2BvZkb15L9bNEM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=5VrYRE6rLEs5Mmrwpt6hK%2BcQyXE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9DFB24BB-F99F-4186-43C8-B14149740819_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=DDdBNztxrlF38mNyrl6PmyV3Cag%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Keroro Gunsou☆ S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/71E9BC96-3BD8-EBEE-6FCC-5CA2C61AE2DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394905&Signature=2pwVbInIj9Sx06Ykl45pOKGwh4w%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144095-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=LIc89fs7YfhCQG%2BvZkb15L9bNEM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=5VrYRE6rLEs5Mmrwpt6hK%2BcQyXE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9DFB24BB-F99F-4186-43C8-B14149740819_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=DDdBNztxrlF38mNyrl6PmyV3Cag%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Keroro Gunsou☆ S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F9ED7705-72B3-BD23-8C4C-F9137180B0EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394905&Signature=JFkJNn0xC0FKmw5L%2FvmbMi6udNc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144095-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=LIc89fs7YfhCQG%2BvZkb15L9bNEM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=5VrYRE6rLEs5Mmrwpt6hK%2BcQyXE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9DFB24BB-F99F-4186-43C8-B14149740819_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=DDdBNztxrlF38mNyrl6PmyV3Cag%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Keroro Gunsou☆ S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/958C6650-9340-7DC4-3150-160FD97FDB16_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394905&Signature=4OrJB4BdLCWYYvRXQXVEjiXhnms%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144095-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=LIc89fs7YfhCQG%2BvZkb15L9bNEM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=5VrYRE6rLEs5Mmrwpt6hK%2BcQyXE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9DFB24BB-F99F-4186-43C8-B14149740819_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=DDdBNztxrlF38mNyrl6PmyV3Cag%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Keroro Gunsou☆ S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8BA67A10-B034-8DFB-530D-ADCC8339C7AC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394905&Signature=fEPRqC%2BMBydBhDOLr4M%2F3MWI99c%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144095-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=LIc89fs7YfhCQG%2BvZkb15L9bNEM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8244324B-8DA3-4783-88F1-5BCCDC5F6FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=5VrYRE6rLEs5Mmrwpt6hK%2BcQyXE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144095-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9DFB24BB-F99F-4186-43C8-B14149740819_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795583496&Signature=DDdBNztxrlF38mNyrl6PmyV3Cag%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144098",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/09BCEF31-DA29-0815-D28C-0542A9A8E861_poster.png",
+        "overview": "يأتي كيرورو، الجندي الفضائي، إلى الأرض لغزوها، لكن فويوكي و ناتسومي يأسرانه، فيعيش مع عائلتهما بينما يواصل سراً خططه لغزو الأرض\n\nKeroro, a frog-like alien soldier sent to invade Earth, is captured by Fuyuki and Natsumi and ends up living with their family while secretly continuing his invasion plans.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Keroro Gunsou☆ S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B788808A-5092-F9F8-2130-191FCF92524B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963544&Signature=Asy5v126jtMXS675UeEExtv4CnE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144098-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=hzYMqucTqJis3e7X2%2BjcBTzK%2B1c%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=3IPToUhoGYVkBvNS1niY3nD6%2Be4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0801384-F52E-4994-EFDC-1FA862B26B54_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=Tz0GMSctetZKkmGkAFECctJEa2Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Keroro Gunsou☆ S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B5388DF9-D358-ED75-631D-1FC8FA267A6B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963544&Signature=FoAyGix4NWTvF9uuc%2BCToBE8ExU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144098-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=hzYMqucTqJis3e7X2%2BjcBTzK%2B1c%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=3IPToUhoGYVkBvNS1niY3nD6%2Be4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0801384-F52E-4994-EFDC-1FA862B26B54_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=Tz0GMSctetZKkmGkAFECctJEa2Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Keroro Gunsou☆ S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/A973A5FE-2315-F4FE-B4E6-7AC5B25670F7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963544&Signature=9sns9bsGFdzemBbH%2BmmLHIIR6xM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144098-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=hzYMqucTqJis3e7X2%2BjcBTzK%2B1c%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=3IPToUhoGYVkBvNS1niY3nD6%2Be4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0801384-F52E-4994-EFDC-1FA862B26B54_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=Tz0GMSctetZKkmGkAFECctJEa2Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Keroro Gunsou☆ S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4ABDFBB9-19F5-4CB7-4DFB-D4381CA51405_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963544&Signature=Hvto9tqAZHBmaNYA1My4vV1JvG4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144098-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=hzYMqucTqJis3e7X2%2BjcBTzK%2B1c%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=3IPToUhoGYVkBvNS1niY3nD6%2Be4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0801384-F52E-4994-EFDC-1FA862B26B54_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=Tz0GMSctetZKkmGkAFECctJEa2Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Keroro Gunsou☆ S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/523D1B11-D72F-DC70-244B-DB07C3C8E59E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1792963544&Signature=WuNf6D8Ci09u%2FT5rqK7byO2XkZQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144098-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=hzYMqucTqJis3e7X2%2BjcBTzK%2B1c%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2A1EE691-8857-0B4C-4C9B-8A50C0ECAB9C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=3IPToUhoGYVkBvNS1niY3nD6%2Be4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144098-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0801384-F52E-4994-EFDC-1FA862B26B54_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514656&Signature=Tz0GMSctetZKkmGkAFECctJEa2Y%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144101",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/09BCEF31-DA29-0815-D28C-0542A9A8E861_poster.png",
+        "overview": "يأتي كيرورو، الجندي الفضائي، إلى الأرض لغزوها، لكن فويوكي و ناتسومي يأسرانه، فيعيش مع عائلتهما بينما يواصل سراً خططه لغزو الأرض\n\nKeroro, a frog-like alien soldier sent to invade Earth, is captured by Fuyuki and Natsumi and ends up living with their family while secretly continuing his invasion plans.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Keroro Gunsou☆ S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D690A4EF-D704-7872-B060-54CB8BA7ABED_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=1I6Uq2D8k4g9Y%2FDUHzlZ0A29g%2BI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144101-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Keroro Gunsou☆ S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4E496163-26AE-405A-C313-9B637F1C24E4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=pJHFT1wmwnN5jNS9E7pXFvLNHtU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144101-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Keroro Gunsou☆ S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E9371351-EE74-17B1-4883-2B77A35BD983_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=EHeoGdD%2Bid%2BfPj%2BCKsCcluRInsw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144101-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Keroro Gunsou☆ S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/15114758-309E-F45F-F44B-B867F4498DA6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=N6w%2F2FWv8UdpQB1YJy9Gm2lclbY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144101-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Keroro Gunsou☆ S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/92F1FBA2-8FD5-BA26-5057-94A74E83F203_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=YdY2msVvcnKnlUbO4nwa9bhfIyk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144101-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144101-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3144104",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/09BCEF31-DA29-0815-D28C-0542A9A8E861_poster.png",
+        "overview": "يأتي كيرورو، الجندي الفضائي، إلى الأرض لغزوها، لكن فويوكي و ناتسومي يأسرانه، فيعيش مع عائلتهما بينما يواصل سراً خططه لغزو الأرض\n\nKeroro, a frog-like alien soldier sent to invade Earth, is captured by Fuyuki and Natsumi and ends up living with their family while secretly continuing his invasion plans.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Keroro Gunsou☆ S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1E0BC2AD-796A-7EB1-A124-E0C45F5F0953_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793458667&Signature=yXbNjqkWXnLRywJXwowZE0ems5g%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144104-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=RSeJJ5Az8WeR19NrT2LNIzrbsx0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=%2BfD66s0RJlI2jVsIivx4txoxIJI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6992AB2F-561E-8D2F-A7AE-674286D5B0B3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=FYnD5jQoT1rCdc0W3FS7J7CeXtU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Keroro Gunsou☆ S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/240512F7-C151-4216-C2AE-A7C965C619CA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793458667&Signature=pCQXbN6eXBiO8ApzDW60No0LwMo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144104-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=RSeJJ5Az8WeR19NrT2LNIzrbsx0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=%2BfD66s0RJlI2jVsIivx4txoxIJI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6992AB2F-561E-8D2F-A7AE-674286D5B0B3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=FYnD5jQoT1rCdc0W3FS7J7CeXtU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Keroro Gunsou☆ S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/08B2D37D-520B-50A3-FDF2-3C4602675D6F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793458667&Signature=xT%2BeqMMKhDUyJYntauR0PJ0PzqE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144104-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=RSeJJ5Az8WeR19NrT2LNIzrbsx0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=%2BfD66s0RJlI2jVsIivx4txoxIJI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6992AB2F-561E-8D2F-A7AE-674286D5B0B3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=FYnD5jQoT1rCdc0W3FS7J7CeXtU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Keroro Gunsou☆ S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/27897926-6E5E-9778-069A-BC54CBA44146_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793458667&Signature=NWYhLfAWp1K3V9hsrI90sr3f61E%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144104-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=RSeJJ5Az8WeR19NrT2LNIzrbsx0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=%2BfD66s0RJlI2jVsIivx4txoxIJI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6992AB2F-561E-8D2F-A7AE-674286D5B0B3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=FYnD5jQoT1rCdc0W3FS7J7CeXtU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Keroro Gunsou☆ S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/95030F56-CE43-CC62-200D-E5C454F07280_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793458667&Signature=CiG0RAGLSKif%2FqNvysyfgj2mwnU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3144104-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=RSeJJ5Az8WeR19NrT2LNIzrbsx0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/12DD6A29-CF24-A45A-4EA9-EBC39498F001_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=%2BfD66s0RJlI2jVsIivx4txoxIJI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3144104-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6992AB2F-561E-8D2F-A7AE-674286D5B0B3_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795519126&Signature=FYnD5jQoT1rCdc0W3FS7J7CeXtU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

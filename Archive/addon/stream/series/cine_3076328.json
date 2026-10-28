@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Rilakkuma S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6E7687E4-D666-F4A7-146B-1A13DD3561D5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394309&Signature=KW3rdT%2BMrsaY%2Bpa4Vn5%2F7MdiOOs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076328-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=mexcWnxr9SfYdyCsd3PrSQgNl0o%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=Q9HZ3hyjxc0sfUMc3L5ufOGH3LM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/52876782-71D2-E3A2-CF1C-BB6A3CE694E1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=sMgjh%2F3SdwNPItKUsB%2FygRzdbXU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Rilakkuma S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BEE92BF7-5DCD-A711-766D-D5A932C99FE2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394309&Signature=YXF%2B6MfzCnLfTKeHSe9pO%2BEB4tc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076328-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=mexcWnxr9SfYdyCsd3PrSQgNl0o%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=Q9HZ3hyjxc0sfUMc3L5ufOGH3LM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/52876782-71D2-E3A2-CF1C-BB6A3CE694E1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=sMgjh%2F3SdwNPItKUsB%2FygRzdbXU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Rilakkuma S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B062EFF8-8763-040D-F753-73236E66F9DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394309&Signature=rmvv8IX0jslyAlZ1KxUVTiEPIxs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076328-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=mexcWnxr9SfYdyCsd3PrSQgNl0o%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=Q9HZ3hyjxc0sfUMc3L5ufOGH3LM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/52876782-71D2-E3A2-CF1C-BB6A3CE694E1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=sMgjh%2F3SdwNPItKUsB%2FygRzdbXU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Rilakkuma S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2FE55DE1-E83E-60F2-D365-0B8F4DDDE5D3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394309&Signature=jXVEV6KlfxWqNFaunTnda0do1hY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076328-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=mexcWnxr9SfYdyCsd3PrSQgNl0o%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=Q9HZ3hyjxc0sfUMc3L5ufOGH3LM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/52876782-71D2-E3A2-CF1C-BB6A3CE694E1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=sMgjh%2F3SdwNPItKUsB%2FygRzdbXU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Rilakkuma S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C0EC90E0-A482-5330-1718-6A18C8D5C4B0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793394309&Signature=ZJWumpTC%2Bldccj2iBX%2FiZrTEHP0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076328-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=mexcWnxr9SfYdyCsd3PrSQgNl0o%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ABCEAB6-8FBD-46B3-2EC5-4FE120CFCEDB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=Q9HZ3hyjxc0sfUMc3L5ufOGH3LM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076328-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/52876782-71D2-E3A2-CF1C-BB6A3CE694E1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795591026&Signature=sMgjh%2F3SdwNPItKUsB%2FygRzdbXU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

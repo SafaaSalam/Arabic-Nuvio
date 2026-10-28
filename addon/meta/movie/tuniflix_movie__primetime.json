@@ -1,13 +1,1 @@
-{
-  "meta": {
-    "id": "tuniflix_movie__primetime",
-    "type": "movie",
-    "name": "Primetime",
-    "poster": "https://image.tmdb.org/t/p/w185/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "posterShape": "poster",
-    "background": "https://image.tmdb.org/t/p/w185/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "landscapePoster": "https://image.tmdb.org/t/p/w185/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
-    "description": "Primetime — TuniFlix Latest Movies"
-  }
-}
+{"meta":{"id":"tuniflix_movie__primetime","type":"movie","name":"Primetime","poster":"https://image.tmdb.org/t/p/w185/lmrulvLbmaejTix1YaMxo1oGhH1.jpg","posterShape":"poster","background":"https://image.tmdb.org/t/p/w185/lmrulvLbmaejTix1YaMxo1oGhH1.jpg","landscapePoster":"https://image.tmdb.org/t/p/w185/lmrulvLbmaejTix1YaMxo1oGhH1.jpg","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10","description":"Primetime — TuniFlix Latest Movies"}}

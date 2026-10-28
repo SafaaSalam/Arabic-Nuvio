@@ -205,45 +205,45 @@
     },
     "3isk_latest_episodes": {
       "provider": "3isk",
-      "items": 32,
-      "reachable": false,
+      "items": 37,
+      "reachable": true,
       "backfillDone": false,
-      "lastOk": null
+      "lastOk": "2026-10-28"
     },
     "3isk_turkish_series": {
       "provider": "3isk",
       "items": 31,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
     "alooy_latest_series": {
       "provider": "alooytv",
       "items": 24,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
-    },
-    "alooy_gulf_ramadan": {
-      "provider": "alooytv",
-      "items": 50,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
     "alooy_arabic_ramadan": {
       "provider": "alooytv",
       "items": 50,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
+    },
+    "alooy_gulf_ramadan": {
+      "provider": "alooytv",
+      "items": 50,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
     "alooy_turkish_series": {
       "provider": "alooytv",
       "items": 46,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
     "tuktukcima_recent": {
       "provider": "tuktukcima",
@@ -252,61 +252,40 @@
       "backfillDone": false,
       "lastOk": null
     },
-    "lodynet_latest": {
-      "provider": "lodynet",
-      "items": 28,
-      "reachable": false,
+    "akwam_latest_series": {
+      "provider": "akwam",
+      "items": 186,
+      "reachable": true,
       "backfillDone": false,
-      "lastOk": null
+      "lastOk": "2026-10-28"
     },
     "akwam_latest_movies": {
       "provider": "akwam",
-      "items": 30,
-      "reachable": false,
+      "items": 236,
+      "reachable": true,
       "backfillDone": false,
-      "lastOk": null
-    },
-    "akwam_latest_series": {
-      "provider": "akwam",
-      "items": 24,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
-    },
-    "akwam_arabic_movies": {
-      "provider": "akwam",
-      "items": 30,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
-    },
-    "akwam_arabic_series": {
-      "provider": "akwam",
-      "items": 24,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
-    },
-    "krmzy_series": {
-      "provider": "krmzy",
-      "items": 28,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+      "lastOk": "2026-10-28"
     },
     "eseek_series": {
       "provider": "eseek",
       "items": 0,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
-    "asia2tv_drama": {
-      "provider": "aia2tv",
-      "items": 28,
-      "reachable": false,
+    "krmzy_series": {
+      "provider": "krmzy",
+      "items": 192,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
+    },
+    "akwam_arabic_series": {
+      "provider": "akwam",
+      "items": 192,
+      "reachable": true,
       "backfillDone": false,
-      "lastOk": null
+      "lastOk": "2026-10-28"
     },
     "5tv_featured": {
       "provider": "5tv",
@@ -315,12 +294,12 @@
       "backfillDone": false,
       "lastOk": null
     },
-    "aflaam_movies": {
-      "provider": "aflaam",
-      "items": 24,
-      "reachable": false,
+    "akwam_arabic_movies": {
+      "provider": "akwam",
+      "items": 236,
+      "reachable": true,
       "backfillDone": false,
-      "lastOk": null
+      "lastOk": "2026-10-28"
     },
     "shahidwbas_latest": {
       "provider": "shahidwbas",
@@ -329,12 +308,12 @@
       "backfillDone": false,
       "lastOk": null
     },
-    "tuniflix_movies": {
-      "provider": "tuniflix",
-      "items": 28,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null
+    "lodynet_latest": {
+      "provider": "lodynet",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
     "anim3rb_latest": {
       "provider": "anim3rb",
@@ -342,6 +321,13 @@
       "reachable": false,
       "backfillDone": false,
       "lastOk": null
+    },
+    "aflaam_movies": {
+      "provider": "aflaam",
+      "items": 47,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-28"
     },
     "anime4up_latest": {
       "provider": "anime4up",
@@ -371,12 +357,26 @@
       "backfillDone": false,
       "lastOk": null
     },
+    "asia2tv_drama": {
+      "provider": "aia2tv",
+      "items": 299,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
     "replaymatch_latest": {
       "provider": "replaymatch",
-      "items": 14,
-      "reachable": false,
+      "items": 111,
+      "reachable": true,
       "backfillDone": false,
-      "lastOk": null
+      "lastOk": "2026-10-28"
+    },
+    "tuniflix_movies": {
+      "provider": "tuniflix",
+      "items": 432,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
     }
   }
 }

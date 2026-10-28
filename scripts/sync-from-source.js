@@ -16,6 +16,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const store = require("./lib/store.js");
 
 const ROOT_DIR = path.resolve(__dirname, "..");
 const ADDON_DIR = path.join(ROOT_DIR, "addon");
@@ -86,9 +87,9 @@ function ensureDir(dirPath) {
   fs.mkdirSync(dirPath, { recursive: true });
 }
 
-function writeJson(filePath, data) {
-  ensureDir(path.dirname(filePath));
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + "\n", "utf8");
+// Only touches the file when content really changed -> no pointless commits every 15 minutes.
+function writeJson(filePath, data, pretty = true) {
+  return store.writeJsonIfChanged(filePath, data, pretty);
 }
 
 function loadSeedData() {
@@ -400,7 +401,7 @@ async function main() {
   if (isCinemanaOnline) {
     console.log("🟢 Cinemana API is reachable! Fetching live catalogs and updating data/cinemana-seed.json...");
     seedData.videoGroups = liveGroupsProbe;
-    seedData.updatedAt = new Date().toISOString();
+    seedData.updatedAt = new Date().toISOString().slice(0, 10);
   } else {
     console.log("🟡 Cinemana API unreachable or rate-limited from current network; using real captured Cinemana data from data/cinemana-seed.json...");
   }
@@ -409,44 +410,65 @@ async function main() {
   const catalogDataMap = new Map();
   const customNbToBuild = new Map();
 
-  async function processCatalog(id, type, arTitle, enTitle, emoji, rawItems, showInHome = true) {
-    const metas = [];
-    const seenIds = new Set();
-    let coverImage = null;
+  const PAGE_SIZE = store.PAGE_SIZE;
+  const healthReport = {};
+  const rowItems = new Map(); // catalogId -> { type, metas }  (used to build the cross-source 'Latest' rows)
+  const latestCineNbs = new Set(); // cine_ items on the first page of any row (their meta/streams get refreshed)
 
-    for (const raw of (rawItems || [])) {
-      if (raw && raw.nb) {
-        seedData.itemsById = seedData.itemsById || {};
-        seedData.itemsById[String(raw.nb)] = Object.assign({}, seedData.itemsById[String(raw.nb)] || {}, raw);
+  /**
+   * Builds one Cinemana-API catalog row.
+   *   rawItems : items we already have for page 1 (live response or captured seed)
+   *   pager(n) : optional async (n>=2) -> raw array | null  (null = network problem, [] = end)
+   */
+  async function processCatalog(id, type, arTitle, enTitle, emoji, rawItems, showInHome = true, pager = null) {
+    const toPreviews = (arr) => {
+      const out = [];
+      for (const raw of (arr || [])) {
+        if (raw && raw.nb) {
+          seedData.itemsById = seedData.itemsById || {};
+          if (!seedData.itemsById[String(raw.nb)]) seedData.itemsById[String(raw.nb)] = raw;
+        }
+        const preview = toMetaPreview(raw, type);
+        if (!preview || preview.type !== type) continue;
+        out.push(preview);
       }
-      const preview = toMetaPreview(raw, type);
-      if (!preview) continue;
-      if (preview.type !== type) continue;
-      if (seenIds.has(preview.id)) continue;
-      seenIds.add(preview.id);
-      metas.push(preview);
+      return out;
+    };
 
-      if (!coverImage && preview.poster) {
-        coverImage = preview.poster;
-      }
-      if (preview.id.startsWith("cine_") && raw.nb) {
-        customNbToBuild.set(String(raw.nb), preview.type);
-      }
-    }
-
+    const st = store.loadStore(id, type);
+    const fetchPage = async (n) => {
+      if (n === 1) return { ok: true, items: toPreviews(rawItems), end: false };
+      if (!pager || !isCinemanaOnline) return { ok: false };
+      const arr = await pager(n);
+      if (!Array.isArray(arr)) return { ok: false };
+      await sleep(120);
+      return { ok: true, items: toPreviews(arr), end: arr.length === 0 };
+    };
+    const res = await store.crawl(st, fetchPage, { forwardPages: 1, backfillPages: pager ? 8 : 0, paginated: Boolean(pager) });
+    store.saveStore(st);
+    const metas = st.items;
     if (metas.length === 0) return null;
 
+    for (const m of metas.slice(0, PAGE_SIZE)) {
+      if (m.id.startsWith("cine_") && m.slug) latestCineNbs.add(m.slug.replace("cinemana-", ""));
+    }
+    for (const m of metas) {
+      if (m.id.startsWith("cine_") && m.slug) customNbToBuild.set(m.slug.replace("cinemana-", ""), m.type);
+    }
+
+    const coverImage = metas.find(m => m.poster) ? metas.find(m => m.poster).poster : null;
     const englishName = enTitle || arTitle;
     catalogDefinitions.push({
       type,
       id,
       name: englishName,
-      pageSize: metas.length,
+      pageSize: PAGE_SIZE,
+      extra: [{ name: "skip", isRequired: false }],
       showInHome
     });
-
-    const catalogPath = path.join(ADDON_DIR, "catalog", type, `${id}.json`);
-    writeJson(catalogPath, { metas });
+    store.writePagedCatalog(type, id, metas);
+    rowItems.set(id, { type, metas });
+    healthReport[id] = { provider: "cinemana", items: metas.length, reachable: res.reachable, backfillDone: res.done, lastOk: st.updatedAt };
 
     const info = {
       id,
@@ -509,9 +531,10 @@ async function main() {
       const enTitle = GROUP_TRANSLATIONS[arTitle] || firstCustomEn || `Cinemana Group ${groupId}`;
 
       let combined = [...group.content];
+      const groupPager = (n) => fetchJson(`${CINEMANA_API}/videoListPagination/groupID/${groupId}/level/0/itemsPerPage/30/page/${n - 1}/`, 5000);
       if (isCinemanaOnline) {
         await sleep(200);
-        const page0 = await fetchJson(`${CINEMANA_API}/videoListPagination/groupID/${groupId}/level/0/itemsPerPage/12/page/0/`, 3000);
+        const page0 = await fetchJson(`${CINEMANA_API}/videoListPagination/groupID/${groupId}/level/0/itemsPerPage/30/page/0/`, 5000);
         if (Array.isArray(page0)) combined.push(...page0);
       }
 
@@ -527,16 +550,18 @@ async function main() {
         enTitle,
         emoji,
         combined,
-        true
+        true,
+        groupPager
       );
       if (info) dynamicGroupInfos.push(info);
     }
   }
 
-  // 4.3 Newly Added (/newlyVideosItems/level/0/offset/12/page/0/)
+  // 4.3 Newly Added (/newlyVideosItems/level/0/offset/30/page/N/)
+  const newlyPager = (n) => fetchJson(`${CINEMANA_API}/newlyVideosItems/level/0/offset/30/page/${n - 1}/`, 5000);
   let newlyCombined = [];
   if (isCinemanaOnline) {
-    const newlyPage0 = await fetchJson(`${CINEMANA_API}/newlyVideosItems/level/0/offset/12/page/0/`, 3500);
+    const newlyPage0 = await fetchJson(`${CINEMANA_API}/newlyVideosItems/level/0/offset/30/page/0/`, 5000);
     if (Array.isArray(newlyPage0) && newlyPage0.length > 0) {
       newlyCombined = newlyPage0;
       seedData.newlyAdded = newlyCombined;
@@ -554,7 +579,8 @@ async function main() {
       "Newly Added Movies",
       "🆕",
       newlyCombined.filter(x => parseInt(x && x.kind, 10) === 1),
-      true
+      true,
+      newlyPager
     );
     await processCatalog(
       "cinemana_newly_series",
@@ -563,7 +589,8 @@ async function main() {
       "Newly Added Series",
       "🆕",
       newlyCombined.filter(x => parseInt(x && x.kind, 10) === 2),
-      true
+      true,
+      newlyPager
     );
   }
 
@@ -575,7 +602,7 @@ async function main() {
       arTitle: "أفلام - تاريخ الرفع - الأحدث",
       enTitle: "Movies - Latest Uploaded",
       emoji: "🎬",
-      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=desc`
     },
     {
       id: "cinemana_mov_release_desc",
@@ -583,7 +610,7 @@ async function main() {
       arTitle: "أفلام - تاريخ الإصدار - الأحدث",
       enTitle: "Movies - Newest Release",
       emoji: "🗓️",
-      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=r_desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=r_desc`
     },
     {
       id: "cinemana_mov_views_desc",
@@ -591,7 +618,7 @@ async function main() {
       arTitle: "أفلام - الأكثر مشاهدة",
       enTitle: "Movies - Most Viewed",
       emoji: "🔥",
-      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=views_desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=views_desc`
     },
     {
       id: "cinemana_mov_stars_desc",
@@ -599,7 +626,7 @@ async function main() {
       arTitle: "أفلام - أعلى تقييم IMDb",
       enTitle: "Movies - Top IMDb Rated",
       emoji: "⭐",
-      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=stars_desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=1&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=stars_desc`
     },
     {
       id: "cinemana_ser_upload_desc",
@@ -607,7 +634,7 @@ async function main() {
       arTitle: "مسلسلات - تاريخ الرفع - الأحدث",
       enTitle: "Series - Latest Uploaded",
       emoji: "📺",
-      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=desc`
     },
     {
       id: "cinemana_ser_release_desc",
@@ -615,7 +642,7 @@ async function main() {
       arTitle: "مسلسلات - تاريخ الإصدار - الأحدث",
       enTitle: "Series - Newest Release",
       emoji: "🗓️",
-      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=r_desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=r_desc`
     },
     {
       id: "cinemana_ser_views_desc",
@@ -623,7 +650,7 @@ async function main() {
       arTitle: "مسلسلات - الأكثر مشاهدة",
       enTitle: "Series - Most Viewed",
       emoji: "🔥",
-      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=views_desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=views_desc`
     },
     {
       id: "cinemana_ser_stars_desc",
@@ -631,7 +658,7 @@ async function main() {
       arTitle: "مسلسلات - أعلى تقييم IMDb",
       enTitle: "Series - Top IMDb Rated",
       emoji: "⭐",
-      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=0&level=0&sortParam=stars_desc`
+      url: `${CINEMANA_API}/video/V/2?videoKind=2&langNb=&itemsPerPage=30&pageNumber=@PAGE@&level=0&sortParam=stars_desc`
     }
   ];
 
@@ -640,7 +667,7 @@ async function main() {
     let items = null;
     if (isCinemanaOnline) {
       await sleep(200);
-      items = await fetchJson(sec.url, 3500);
+      items = await fetchJson(sec.url.replace("@PAGE@", "0"), 5000);
       if (Array.isArray(items) && items.length > 0) {
         seedData.staticSections[sec.id] = items;
       }
@@ -649,7 +676,8 @@ async function main() {
       items = seedData.staticSections[sec.id] || [];
     }
     if (Array.isArray(items) && items.length > 0) {
-      await processCatalog(sec.id, sec.type, sec.arTitle, sec.enTitle, sec.emoji, items, false);
+      await processCatalog(sec.id, sec.type, sec.arTitle, sec.enTitle, sec.emoji, items, false,
+        (n) => fetchJson(sec.url.replace("@PAGE@", String(n - 1)), 5000));
     }
   }
 
@@ -657,20 +685,31 @@ async function main() {
   customNbToBuild.set("3129755", "movie");
 
   // 4.5 Build static meta & stream files for non-IMDb items (`cine_{nb}`)
-  console.log(`🔍 Building static meta & stream files for ${customNbToBuild.size} custom Cinemana items...`);
+  // Incremental: items whose meta file already exists are skipped, except those on a first page
+  // (new episodes appear there). At most MAX_BUILDS_PER_RUN items are built per run; the rest follow next run.
+  const MAX_BUILDS_PER_RUN = parseInt(process.env.MAX_BUILDS_PER_RUN || "150", 10);
+  const buildQueue = [];
   for (const [nb, type] of customNbToBuild.entries()) {
+    const metaFile = path.join(ADDON_DIR, "meta", type, `cine_${nb}.json`);
+    const missing = !fs.existsSync(metaFile);
+    if (missing || (isCinemanaOnline && latestCineNbs.has(nb))) buildQueue.push({ nb, type, missing });
+  }
+  buildQueue.sort((a, b) => Number(b.missing) - Number(a.missing));
+  console.log(`🔍 Building static meta & stream files for ${Math.min(buildQueue.length, MAX_BUILDS_PER_RUN)} of ${buildQueue.length} queued Cinemana items (${customNbToBuild.size} total)...`);
+  for (const { nb, type } of buildQueue.slice(0, MAX_BUILDS_PER_RUN)) {
     await buildCustomItemMetaAndStreams(nb, type, cinemanaLogoUrl, isCinemanaOnline, seedData);
   }
 
   // Persist updated seed data if we fetched new data from Cinemana
   if (isCinemanaOnline) {
-    writeJson(SEED_PATH, seedData);
+    writeJson(SEED_PATH, seedData, false);
     console.log("💾 Updated data/cinemana-seed.json with fresh Cinemana API snapshot");
   }
 
   // 4.6 Scrape Priority #2..#42 Providers (CEE, 3isk, AlooyTv, Akwam, and the rest)
   const { scrapeAllExtraCatalogs } = require("./scrape-extra-catalogs.js");
   const extraData = await scrapeAllExtraCatalogs();
+  Object.assign(healthReport, extraData.health);
 
   const allExtraCatalogs = [
     ...extraData.ceeCatalogs,
@@ -695,11 +734,13 @@ async function main() {
       type: cat.type,
       id: cat.id,
       name: englishName,
-      pageSize: cat.metas.length,
+      pageSize: PAGE_SIZE,
+      extra: [{ name: "skip", isRequired: false }],
       showInHome: ["cee", "3isk", "alooytv", "akwam"].includes(cat.providerKey)
     });
 
-    writeJson(path.join(ADDON_DIR, "catalog", cat.type, `${cat.id}.json`), { metas: cat.metas });
+    store.writePagedCatalog(cat.type, cat.id, cat.metas);
+    rowItems.set(cat.id, { type: cat.type, metas: cat.metas });
 
     // Write static meta files for custom items so Nuvio can open their detail view and invoke the JS provider
     for (const m of cat.metas) {
@@ -729,7 +770,7 @@ async function main() {
           }
         ];
       }
-      writeJson(path.join(ADDON_DIR, "meta", m.type, `${safeId}.json`), { meta: metaObj });
+      writeJson(path.join(ADDON_DIR, "meta", m.type, `${safeId}.json`), { meta: metaObj }, false);
     }
 
     const info = {
@@ -747,10 +788,12 @@ async function main() {
     catalogDataMap.set(`${cat.type}/${cat.id}`, info);
     console.log(`   📦 Extra Catalog [${cat.type}] ${cat.id} (${englishName}): ${cat.metas.length} items`);
 
+    const bigFour = ["cee", "3isk", "alooytv", "akwam"].includes(cat.providerKey);
+    const tabTitle = bigFour ? String(info.enTitle).replace(/^(CEE|3isk|AlooyTv|Akwam)\s+/i, "") : info.enTitle;
     const folderObj = {
       id: `folder-${info.id}`,
-      title: info.enTitle,
-      name: info.enTitle,
+      title: tabTitle,
+      name: tabTitle,
       coverImageUrl: info.coverImage,
       focusGifEnabled: true,
       coverEmoji: info.emoji,
@@ -769,6 +812,24 @@ async function main() {
     else if (cat.group === "anime") animeFolders.push(folderObj);
     else if (cat.group === "sports") sportsFolders.push(folderObj);
     else dramaFolders.push(folderObj);
+  }
+
+  // 4.7 Cross-source "Latest" rows: round-robin the newest items of every source, de-duplicated across sources
+  const LATEST_ROW = /(latest|newly|recent|upload_desc)/;
+  const latestInfos = [];
+  for (const [type, id, enTitle, arTitle, emoji] of [
+    ["movie", "arabic_latest_movies", "Latest Movies — All Sources", "أحدث الأفلام — كل المصادر", "🆕"],
+    ["series", "arabic_latest_series", "Latest Series — All Sources", "أحدث المسلسلات — كل المصادر", "🆕"]
+  ]) {
+    const rows = [...rowItems.entries()].filter(([rid, r]) => r.type === type && LATEST_ROW.test(rid)).map(([, r]) => r.metas);
+    const mixed = [];
+    for (let rank = 0; rank < 60; rank++) for (const metas of rows) if (metas[rank]) mixed.push(metas[rank]);
+    const metas = store.dedupe(mixed).slice(0, 300);
+    if (metas.length === 0) continue;
+    catalogDefinitions.unshift({ type, id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+    store.writePagedCatalog(type, id, metas);
+    latestInfos.push({ id, type, enTitle, arTitle, emoji, coverImage: metas[0].poster, heroBackdrop: metas[0].background || metas[0].poster, count: metas.length });
+    console.log(`   📦 Aggregated [${type}] ${id}: ${metas.length} items from ${rows.length} rows`);
   }
 
   // 5. Write addon/manifest.json
@@ -808,9 +869,9 @@ async function main() {
       configurable: false,
       configurationRequired: false
     },
-    _timestamp: Date.now()
   };
   writeJson(path.join(ADDON_DIR, "manifest.json"), addonManifest);
+  writeJson(path.join(ROOT_DIR, "data", "health.json"), { sources: healthReport });
   console.log(`✅ Wrote addon/manifest.json with ${catalogDefinitions.length} catalogs`);
 
   // 6. Build nuvio-collections.json sequenced in strict priority order with English-only titles
@@ -870,11 +931,22 @@ async function main() {
 
   const nuvioCollections = [
     {
+      id: "arabic-latest-all-collection",
+      title: "Latest — All Sources",
+      name: "Latest — All Sources",
+      backdropImageUrl: (latestInfos[0] && latestInfos[0].heroBackdrop) || cinemanaLogoUrl,
+      pinToTop: true,
+      focusGlowEnabled: true,
+      viewMode: "TABBED_GRID",
+      showAllTab: true,
+      folders: latestInfos.map(i => makeFolder(i, "POSTER"))
+    },
+    {
       id: "cinemana-home-collection",
       title: "Shabakaty Cinemana Home (🇮🇶)",
       name: "Shabakaty Cinemana Home (🇮🇶)",
       backdropImageUrl: (featuredFolders[0] && featuredFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: true,
+      pinToTop: false,
       focusGlowEnabled: true,
       viewMode: "TABBED_GRID",
       showAllTab: true,

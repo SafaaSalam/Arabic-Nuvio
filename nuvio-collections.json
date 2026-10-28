@@ -1,10 +1,76 @@
 [
   {
+    "id": "arabic-latest-all-collection",
+    "title": "Latest — All Sources",
+    "name": "Latest — All Sources",
+    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+    "pinToTop": true,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-arabic_latest_movies",
+        "title": "Latest Movies — All Sources",
+        "name": "Latest Movies — All Sources",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🆕",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_latest_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_latest_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-arabic_latest_series",
+        "title": "Latest Series — All Sources",
+        "name": "Latest Series — All Sources",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🆕",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "arabic_latest_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "arabic_latest_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "cinemana-home-collection",
     "title": "Shabakaty Cinemana Home (🇮🇶)",
     "name": "Shabakaty Cinemana Home (🇮🇶)",
     "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
-    "pinToTop": true,
+    "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
     "showAllTab": true,
@@ -513,12 +579,39 @@
     "id": "cinemana-series-collection",
     "title": "Cinemana Series (🇮🇶)",
     "name": "Cinemana Series (🇮🇶)",
-    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
+    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
     "showAllTab": true,
     "folders": [
+      {
+        "id": "folder-cinemana_newly_series",
+        "title": "Newly Added Series",
+        "name": "Newly Added Series",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🆕",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "cinemana_newly_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "cinemana_newly_series"
+          }
+        ]
+      },
       {
         "id": "folder-cinemana_ser_upload_desc",
         "title": "Series - Latest Uploaded",
@@ -641,8 +734,8 @@
     "folders": [
       {
         "id": "folder-cee_newly_movies",
-        "title": "CEE Newly Added Movies",
-        "name": "CEE Newly Added Movies",
+        "title": "Newly Added Movies",
+        "name": "Newly Added Movies",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -668,8 +761,8 @@
       },
       {
         "id": "folder-cee_popular_movies",
-        "title": "CEE Most Viewed Movies",
-        "name": "CEE Most Viewed Movies",
+        "title": "Most Viewed Movies",
+        "name": "Most Viewed Movies",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/0A831473-8DEF-1225-0AEF-974F6041939C_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -695,8 +788,8 @@
       },
       {
         "id": "folder-cee_top_movies",
-        "title": "CEE Top Rated Movies",
-        "name": "CEE Top Rated Movies",
+        "title": "Top Rated Movies",
+        "name": "Top Rated Movies",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/FD951829-6199-8E3B-C98F-66EEBF90EA70_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⭐",
@@ -722,8 +815,8 @@
       },
       {
         "id": "folder-cee_popular_series",
-        "title": "CEE Most Viewed Series",
-        "name": "CEE Most Viewed Series",
+        "title": "Most Viewed Series",
+        "name": "Most Viewed Series",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
         "focusGifEnabled": true,
         "coverEmoji": "🔥",
@@ -749,8 +842,8 @@
       },
       {
         "id": "folder-cee_top_series",
-        "title": "CEE Top Rated Series",
-        "name": "CEE Top Rated Series",
+        "title": "Top Rated Series",
+        "name": "Top Rated Series",
         "coverImageUrl": "https://cnth2.cee.buzz/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "⭐",
@@ -788,8 +881,8 @@
     "folders": [
       {
         "id": "folder-3isk_latest_episodes",
-        "title": "3isk Latest Turkish Episodes",
-        "name": "3isk Latest Turkish Episodes",
+        "title": "Latest Turkish Episodes",
+        "name": "Latest Turkish Episodes",
         "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/yeralti.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
@@ -815,8 +908,8 @@
       },
       {
         "id": "folder-3isk_turkish_series",
-        "title": "3isk Featured Turkish Series",
-        "name": "3isk Featured Turkish Series",
+        "title": "Turkish Series",
+        "name": "Turkish Series",
         "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "❤️",
@@ -854,8 +947,8 @@
     "folders": [
       {
         "id": "folder-alooy_latest_series",
-        "title": "AlooyTv Latest Series",
-        "name": "AlooyTv Latest Series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://gg.alooytv16.xyz/uploads/video_thumb/2034.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -881,8 +974,8 @@
       },
       {
         "id": "folder-alooy_gulf_ramadan",
-        "title": "AlooyTv Gulf Series",
-        "name": "AlooyTv Gulf Series",
+        "title": "Gulf Series",
+        "name": "Gulf Series",
         "coverImageUrl": "https://gg.alooytv16.xyz/uploads/video_thumb/1857.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌙",
@@ -908,8 +1001,8 @@
       },
       {
         "id": "folder-alooy_arabic_ramadan",
-        "title": "AlooyTv Arabic Series",
-        "name": "AlooyTv Arabic Series",
+        "title": "Arabic Series",
+        "name": "Arabic Series",
         "coverImageUrl": "https://gg.alooytv16.xyz/uploads/video_thumb/1867.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌟",
@@ -935,8 +1028,8 @@
       },
       {
         "id": "folder-alooy_turkish_series",
-        "title": "AlooyTv Turkish Series",
-        "name": "AlooyTv Turkish Series",
+        "title": "Turkish Series",
+        "name": "Turkish Series",
         "coverImageUrl": "https://gg.alooytv16.xyz/uploads/video_thumb/2033.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
@@ -974,8 +1067,8 @@
     "folders": [
       {
         "id": "folder-akwam_latest_movies",
-        "title": "Akwam Latest Movies",
-        "name": "Akwam Latest Movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/JPj3S.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -1001,8 +1094,8 @@
       },
       {
         "id": "folder-akwam_latest_series",
-        "title": "Akwam Latest Series",
-        "name": "Akwam Latest Series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/g3Daz.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -1028,8 +1121,8 @@
       },
       {
         "id": "folder-akwam_arabic_movies",
-        "title": "Akwam Arabic Movies",
-        "name": "Akwam Arabic Movies",
+        "title": "Arabic Movies",
+        "name": "Arabic Movies",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/xQ7LS.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🎞️",
@@ -1055,8 +1148,8 @@
       },
       {
         "id": "folder-akwam_arabic_series",
-        "title": "Akwam Arabic Series",
-        "name": "Akwam Arabic Series",
+        "title": "Arabic Series",
+        "name": "Arabic Series",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/JvbgD.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🌙",

@@ -1,0 +1,382 @@
+{
+  "sources": {
+    "cinemana_banner_movies": {
+      "provider": "cinemana",
+      "items": 27,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_banner_series": {
+      "provider": "cinemana",
+      "items": 38,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_410": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_26": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_2": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_290": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_407": {
+      "provider": "cinemana",
+      "items": 10,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_311": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_392": {
+      "provider": "cinemana",
+      "items": 8,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_30": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_386": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_377": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_group_4": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_newly_movies": {
+      "provider": "cinemana",
+      "items": 12,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_newly_series": {
+      "provider": "cinemana",
+      "items": 57,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_mov_upload_desc": {
+      "provider": "cinemana",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_mov_release_desc": {
+      "provider": "cinemana",
+      "items": 29,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_mov_views_desc": {
+      "provider": "cinemana",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_mov_stars_desc": {
+      "provider": "cinemana",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_ser_upload_desc": {
+      "provider": "cinemana",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_ser_release_desc": {
+      "provider": "cinemana",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_ser_views_desc": {
+      "provider": "cinemana",
+      "items": 30,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cinemana_ser_stars_desc": {
+      "provider": "cinemana",
+      "items": 27,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-28"
+    },
+    "cee_newly_movies": {
+      "provider": "cee",
+      "items": 12,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "cee_newly_series": {
+      "provider": "cee",
+      "items": 0,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "cee_popular_movies": {
+      "provider": "cee",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "cee_top_movies": {
+      "provider": "cee",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "cee_popular_series": {
+      "provider": "cee",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "cee_top_series": {
+      "provider": "cee",
+      "items": 21,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "3isk_latest_episodes": {
+      "provider": "3isk",
+      "items": 32,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "3isk_turkish_series": {
+      "provider": "3isk",
+      "items": 31,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "alooy_latest_series": {
+      "provider": "alooytv",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "alooy_gulf_ramadan": {
+      "provider": "alooytv",
+      "items": 50,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "alooy_arabic_ramadan": {
+      "provider": "alooytv",
+      "items": 50,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "alooy_turkish_series": {
+      "provider": "alooytv",
+      "items": 46,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "tuktukcima_recent": {
+      "provider": "tuktukcima",
+      "items": 16,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "lodynet_latest": {
+      "provider": "lodynet",
+      "items": 28,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "akwam_latest_movies": {
+      "provider": "akwam",
+      "items": 30,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "akwam_latest_series": {
+      "provider": "akwam",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "akwam_arabic_movies": {
+      "provider": "akwam",
+      "items": 30,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "akwam_arabic_series": {
+      "provider": "akwam",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "krmzy_series": {
+      "provider": "krmzy",
+      "items": 28,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "eseek_series": {
+      "provider": "eseek",
+      "items": 0,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "asia2tv_drama": {
+      "provider": "aia2tv",
+      "items": 28,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "5tv_featured": {
+      "provider": "5tv",
+      "items": 28,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "aflaam_movies": {
+      "provider": "aflaam",
+      "items": 24,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "shahidwbas_latest": {
+      "provider": "shahidwbas",
+      "items": 0,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "tuniflix_movies": {
+      "provider": "tuniflix",
+      "items": 28,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "anim3rb_latest": {
+      "provider": "anim3rb",
+      "items": 28,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "anime4up_latest": {
+      "provider": "anime4up",
+      "items": 17,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "animerco_latest": {
+      "provider": "animerco",
+      "items": 25,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "witanime_latest": {
+      "provider": "witanime",
+      "items": 0,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "animephoenix_latest": {
+      "provider": "anime-phoenix",
+      "items": 19,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    },
+    "replaymatch_latest": {
+      "provider": "replaymatch",
+      "items": 14,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null
+    }
+  }
+}

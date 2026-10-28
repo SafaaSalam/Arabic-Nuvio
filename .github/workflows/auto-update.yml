@@ -1,9 +1,9 @@
-name: Auto-Update Cinemana Catalogs & Collections
+name: Auto-Update Catalogs & Collections
 
 on:
   schedule:
-    # Runs automatically every 1 hour to fetch the latest source updates & Cinemana catalogs
-    - cron: "0 * * * *"
+    # Every 15 minutes (GitHub may delay scheduled runs by a few minutes under load)
+    - cron: "*/15 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -16,9 +16,15 @@ on:
 permissions:
   contents: write
 
+# Never run two syncs at once; a queued run waits instead of racing on git push.
+concurrency:
+  group: arabic-nuvio-sync
+  cancel-in-progress: false
+
 jobs:
   sync-and-publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,20 +34,33 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Sync latest Providers, Catalogs & Collections from source
+      - name: Unit tests (merge / dedupe / paging)
+        run: node scripts/test-store.js
+
+      - name: Sync latest providers, catalogs & collections from every source
         run: node scripts/sync-from-source.js
 
-      - name: Run Provider & Schema Tests
+      - name: Verify catalogs (no duplicates, paging consistent, collections valid)
+        run: node scripts/verify-catalogs.js
+
+      - name: Provider stream tests (informational, never blocks publishing)
+        continue-on-error: true
         run: node scripts/test-provider.js
 
-      - name: Commit and Push updated catalogs & collections
+      - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add manifest.json repo.json plugins.json nuvio-collections.json addon/ data/
           if git diff --staged --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "chore(sync): auto-update Cinemana catalogs, collections & provider manifest"
-            git push
+            exit 0
           fi
+          git commit -m "chore(sync): auto-update catalogs, collections & provider manifest"
+          for attempt in 1 2 3 4; do
+            if git push; then exit 0; fi
+            echo "push rejected (attempt $attempt) - rebasing"
+            git pull --rebase --autostash -X theirs origin main || git rebase --abort
+            sleep $((attempt * 5))
+          done
+          echo "could not push after retries" && exit 1

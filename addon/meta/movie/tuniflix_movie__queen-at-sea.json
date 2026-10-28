@@ -1,13 +1,1 @@
-{
-  "meta": {
-    "id": "tuniflix_movie__queen-at-sea",
-    "type": "movie",
-    "name": "Queen at Sea",
-    "poster": "https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
-    "posterShape": "poster",
-    "background": "https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
-    "landscapePoster": "https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
-    "description": "Queen at Sea — TuniFlix Latest Movies"
-  }
-}
+{"meta":{"id":"tuniflix_movie__queen-at-sea","type":"movie","name":"Queen at Sea","poster":"https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg","posterShape":"poster","background":"https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg","landscapePoster":"https://image.tmdb.org/t/p/w185/ueYawr1nldKchzyP8Q9KJpn31SK.jpg","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10","description":"Queen at Sea — TuniFlix Latest Movies"}}

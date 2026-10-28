@@ -114,6 +114,7 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/repo.json
 
 ## 🗂️ Curated Collections (`nuvio-collections.json`)
 
+0. **Latest — All Sources** (pinned to top: newest movies and series from every source, no duplicates)
 1. **Shabakaty Cinemana — Featured & 4K**
 2. **Shabakaty Cinemana — Movies Library**
 3. **Shabakaty Cinemana — TV Series Library**
@@ -129,7 +130,16 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/repo.json
 
 ## 🛠️ Development & Auto-Sync
 
-Catalogs and collections are automatically synchronized every **1 hour** via GitHub Actions ([`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml)).
+Catalogs and collections are synchronized automatically **every 15 minutes** via GitHub Actions ([`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml)). GitHub may delay scheduled runs by a few minutes under load.
+
+**How a sync works**
+
+- Every source row keeps its full history in `data/store/<row>.json`, ordered **newest → oldest**. Each run re-reads the first pages of the source (new releases go to the top) and back-fills a few older pages (resuming where it stopped) until the whole back-catalog is loaded. Items are never dropped when a source's front page moves on.
+- Rows are published in pages of 100 (`addon/catalog/<type>/<row>.json`, then `addon/catalog/<type>/<row>/skip=100.json`, …), so Nuvio keeps loading older posters as you scroll — there is no item limit.
+- Duplicates are removed inside every row by id, IMDb id and normalised title (episode/“مترجم”/“مسلسل” decorations are ignored). The two **Latest — All Sources** rows mix the newest items of every source and are de-duplicated across sources.
+- Files are only rewritten when their content changes, so a quiet 15 minutes produces no commit.
+- `data/health.json` lists every row with its item count, whether the source was reachable on the last run, and the date it last succeeded. A source that is down simply keeps its last good data.
+- Cinemana only answers from Iraqi (Earthlink) networks. On GitHub it keeps using its captured data; run `npm run sync` from an Iraqi connection and push to refresh it live.
 
 To run or test locally (requires Node.js 18+):
 
@@ -139,6 +149,10 @@ npm run sync
 
 # Run automated verification and stream tests
 npm test
+
+# Offline unit tests (merge, de-duplication, paging) and structural check of the generated catalogs
+npm run test:store
+npm run verify
 
 # Start local CORS development server (http://localhost:3000)
 npm run serve

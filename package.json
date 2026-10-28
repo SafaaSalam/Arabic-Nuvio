@@ -10,6 +10,8 @@
   "scripts": {
     "sync": "node scripts/sync-from-source.js",
     "test": "node scripts/test-provider.js",
+    "test:store": "node scripts/test-store.js",
+    "verify": "node scripts/verify-catalogs.js",
     "serve": "node server.js",
     "deploy": "node scripts/deploy-to-github-dir.js"
   },

@@ -89,17 +89,6 @@
       "description": "مسلسل ورود و ذنوب — Krmzy Turkish Series"
     },
     {
-      "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%ae%d9%8a",
-      "type": "series",
-      "name": "مسلسل أخي",
-      "poster": "https://krmzi.org/wp-content/uploads/2025/12/abi-s02-genis.jpg",
-      "posterShape": "poster",
-      "background": "https://krmzi.org/wp-content/uploads/2025/12/abi-s02-genis.jpg",
-      "landscapePoster": "https://krmzi.org/wp-content/uploads/2025/12/abi-s02-genis.jpg",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
-      "description": "مسلسل أخي — Krmzy Turkish Series"
-    },
-    {
       "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%a3%d8%b1%d8%b6",
       "type": "series",
       "name": "مسلسل تحت الأرض",
@@ -109,6 +98,17 @@
       "landscapePoster": "https://krmzi.org/wp-content/uploads/2025/12/Yeralti-S02-genis.jpg",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
       "description": "مسلسل تحت الأرض — Krmzy Turkish Series"
+    },
+    {
+      "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a3%d8%ae%d9%8a",
+      "type": "series",
+      "name": "مسلسل أخي",
+      "poster": "https://krmzi.org/wp-content/uploads/2025/12/abi-s02-genis.jpg",
+      "posterShape": "poster",
+      "background": "https://krmzi.org/wp-content/uploads/2025/12/abi-s02-genis.jpg",
+      "landscapePoster": "https://krmzi.org/wp-content/uploads/2025/12/abi-s02-genis.jpg",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+      "description": "مسلسل أخي — Krmzy Turkish Series"
     },
     {
       "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%8a-%d8%a7%d9%84%d8%a8%d8%ad%d8%b1-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af",
@@ -155,6 +155,17 @@
       "description": "مسلسل حياة الآخرين — Krmzy Turkish Series"
     },
     {
+      "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%84%d9%85-%d8%a3%d8%b4%d8%b1%d9%81",
+      "type": "series",
+      "name": "مسلسل حلم أشرف",
+      "poster": "https://krmzi.org/wp-content/uploads/2025/09/Eshref_kl.jpg",
+      "posterShape": "poster",
+      "background": "https://krmzi.org/wp-content/uploads/2025/09/Eshref_kl.jpg",
+      "landscapePoster": "https://krmzi.org/wp-content/uploads/2025/09/Eshref_kl.jpg",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+      "description": "مسلسل حلم أشرف — Krmzy Turkish Series"
+    },
+    {
       "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%86%d8%b5%d9%81-%d8%a7%d9%84%d8%a3%d9%85",
       "type": "series",
       "name": "مسلسل نصف الأم",
@@ -166,15 +177,15 @@
       "description": "مسلسل نصف الأم — Krmzy Turkish Series"
     },
     {
-      "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d9%84%d9%85-%d8%a3%d8%b4%d8%b1%d9%81",
+      "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%82%d9%87%d9%88%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d8%ad%d8%a9",
       "type": "series",
-      "name": "مسلسل حلم أشرف",
-      "poster": "https://krmzi.org/wp-content/uploads/2025/09/Eshref_kl.jpg",
+      "name": "مسلسل القهوة المالحة",
+      "poster": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
       "posterShape": "poster",
-      "background": "https://krmzi.org/wp-content/uploads/2025/09/Eshref_kl.jpg",
-      "landscapePoster": "https://krmzi.org/wp-content/uploads/2025/09/Eshref_kl.jpg",
+      "background": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
+      "landscapePoster": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
-      "description": "مسلسل حلم أشرف — Krmzy Turkish Series"
+      "description": "مسلسل القهوة المالحة — Krmzy Turkish Series"
     },
     {
       "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%ad%d8%a8%d9%83-%d9%86%d8%a7%d8%b1",
@@ -197,17 +208,6 @@
       "landscapePoster": "https://krmzi.org/wp-content/uploads/2026/08/Haysiyet-genis.jpg",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
       "description": "مسلسل الكرامة — Krmzy Turkish Series"
-    },
-    {
-      "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%82%d9%87%d9%88%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d8%ad%d8%a9",
-      "type": "series",
-      "name": "مسلسل القهوة المالحة",
-      "poster": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
-      "posterShape": "poster",
-      "background": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
-      "landscapePoster": "https://krmzi.org/wp-content/uploads/2026/08/Tuzlu-kahve-tmp-genis.jpg",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
-      "description": "مسلسل القهوة المالحة — Krmzy Turkish Series"
     },
     {
       "id": "krmzy_series__%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%88%d9%84%d9%8a-%d8%a7%d9%84%d8%b9%d9%87%d8%af",

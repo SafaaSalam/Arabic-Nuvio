@@ -780,7 +780,7 @@
     "id": "3isk-turkish-collection",
     "title": "3isk Turkish Drama & Series",
     "name": "3isk Turkish Drama & Series",
-    "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+    "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -790,12 +790,12 @@
         "id": "folder-3isk_latest_episodes",
         "title": "3isk Latest Turkish Episodes",
         "name": "3isk Latest Turkish Episodes",
-        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇷",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/iXgalcTI4nBc4Dw0Ef4LevCz1Qp.jpg",
+        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/Mehmed-Fetihler-Sultani-4-l.jpg",
         "titleLogoUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
         "sources": [
           {
@@ -1123,12 +1123,12 @@
         "id": "folder-lodynet_latest",
         "title": "LodyNet Latest Drama & Series",
         "name": "LodyNet Latest Drama & Series",
-        "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حورية-220x220.webp",
+        "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/08/جودا-220x220.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حورية-220x220.webp",
+        "heroBackdropUrl": "https://lodynet.watch/wp-content/uploads/2026/08/جودا-220x220.webp",
         "titleLogoUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
         "sources": [
           {
@@ -1258,12 +1258,12 @@
         "id": "folder-tuniflix_movies",
         "title": "TuniFlix Latest Movies",
         "name": "TuniFlix Latest Movies",
-        "coverImageUrl": "https://image.tmdb.org/t/p/w185/1oaCfhtCedWJY7Vz0ncxq34fSUP.jpg",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w185/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🇹🇳",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://image.tmdb.org/t/p/w185/1oaCfhtCedWJY7Vz0ncxq34fSUP.jpg",
+        "heroBackdropUrl": "https://image.tmdb.org/t/p/w185/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
         "sources": [
           {

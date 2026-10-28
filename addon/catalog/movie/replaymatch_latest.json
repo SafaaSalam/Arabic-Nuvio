@@ -12,6 +12,17 @@
       "description": "Fleetwood Town vs Arsenal Full Match Replay 27 Oct 2026 — FullMatchShows Latest Football Replays"
     },
     {
+      "id": "replaymatch_borussia-dortmund-vs-werder-bremen-full-match-replay-27-oct-2026",
+      "type": "movie",
+      "name": "Borussia Dortmund vs Werder Bremen Full Match Replay 27 Oct 2026",
+      "poster": "https://fullmatchshows.com/wp-content/uploads/2026/10/Borussia-Dortmund-vs-Werder-Bremen.jpg",
+      "posterShape": "poster",
+      "background": "https://fullmatchshows.com/wp-content/uploads/2026/10/Borussia-Dortmund-vs-Werder-Bremen.jpg",
+      "landscapePoster": "https://fullmatchshows.com/wp-content/uploads/2026/10/Borussia-Dortmund-vs-Werder-Bremen.jpg",
+      "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+      "description": "Borussia Dortmund vs Werder Bremen Full Match Replay 27 Oct 2026 — FullMatchShows Latest Football Replays"
+    },
+    {
       "id": "replaymatch_torino-vs-como-full-match-replay-27-oct-2026",
       "type": "movie",
       "name": "Torino vs Como Full Match Replay 27 Oct 2026",
@@ -43,6 +54,17 @@
       "landscapePoster": "https://fullmatchshows.com/wp-content/uploads/2024/05/Lazio-vs-Sassuolo.jpg",
       "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
       "description": "Sassuolo vs Lazio Full Match Replay 27 Oct 2026 — FullMatchShows Latest Football Replays"
+    },
+    {
+      "id": "replaymatch_bradford-city-vs-peterborough-united-full-match-replay-27-oct-2026",
+      "type": "movie",
+      "name": "Bradford City vs Peterborough United Full Match Replay 27 Oct 2026",
+      "poster": "https://fullmatchshows.com/wp-content/uploads/2026/10/Bradford-City-vs-Peterborough-United.jpg",
+      "posterShape": "poster",
+      "background": "https://fullmatchshows.com/wp-content/uploads/2026/10/Bradford-City-vs-Peterborough-United.jpg",
+      "landscapePoster": "https://fullmatchshows.com/wp-content/uploads/2026/10/Bradford-City-vs-Peterborough-United.jpg",
+      "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+      "description": "Bradford City vs Peterborough United Full Match Replay 27 Oct 2026 — FullMatchShows Latest Football Replays"
     },
     {
       "id": "replaymatch_ballon-dor-ceremony-2026",
@@ -131,28 +153,6 @@
       "landscapePoster": "https://fullmatchshows.com/wp-content/uploads/2024/10/Milan-vs-Udinese.jpg",
       "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
       "description": "Udinese vs Milan Full Match Replay 25 Oct 2026 — FullMatchShows Latest Football Replays"
-    },
-    {
-      "id": "replaymatch_lecce-vs-juventus-full-match-replay-25-oct-2026",
-      "type": "movie",
-      "name": "Lecce vs Juventus Full Match Replay 25 Oct 2026",
-      "poster": "https://fullmatchshows.com/wp-content/uploads/2024/12/Lecce-vs-Juventus.jpg",
-      "posterShape": "poster",
-      "background": "https://fullmatchshows.com/wp-content/uploads/2024/12/Lecce-vs-Juventus.jpg",
-      "landscapePoster": "https://fullmatchshows.com/wp-content/uploads/2024/12/Lecce-vs-Juventus.jpg",
-      "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
-      "description": "Lecce vs Juventus Full Match Replay 25 Oct 2026 — FullMatchShows Latest Football Replays"
-    },
-    {
-      "id": "replaymatch_sunderland-vs-leeds-united-full-match-replay-25-oct-2026",
-      "type": "movie",
-      "name": "Sunderland vs Leeds United Full Match Replay 25 Oct 2026",
-      "poster": "https://fullmatchshows.com/wp-content/uploads/2025/12/Sunderland-vs-Leeds-United.jpg",
-      "posterShape": "poster",
-      "background": "https://fullmatchshows.com/wp-content/uploads/2025/12/Sunderland-vs-Leeds-United.jpg",
-      "landscapePoster": "https://fullmatchshows.com/wp-content/uploads/2025/12/Sunderland-vs-Leeds-United.jpg",
-      "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
-      "description": "Sunderland vs Leeds United Full Match Replay 25 Oct 2026 — FullMatchShows Latest Football Replays"
     }
   ]
 }

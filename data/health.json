@@ -232,6 +232,13 @@
       "lastOk": null,
       "error": "unreachable"
     },
+    "3isk_latest_episodes": {
+      "provider": "3isk",
+      "items": 44,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-29"
+    },
     "3isk_turkish_series": {
       "provider": "3isk",
       "items": 31,
@@ -239,11 +246,11 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "3isk_latest_episodes": {
-      "provider": "3isk",
-      "items": 44,
+    "alooy_gulf_ramadan": {
+      "provider": "alooytv",
+      "items": 50,
       "reachable": true,
-      "backfillDone": false,
+      "backfillDone": true,
       "lastOk": "2026-10-29"
     },
     "alooy_latest_series": {
@@ -260,7 +267,7 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "alooy_gulf_ramadan": {
+    "alooy_arabic_ramadan": {
       "provider": "alooytv",
       "items": 50,
       "reachable": true,
@@ -303,9 +310,9 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "akwam_latest_series": {
+    "akwam_latest_movies": {
       "provider": "akwam",
-      "items": 1300,
+      "items": 1769,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
@@ -314,14 +321,14 @@
       "provider": "lodynet",
       "items": 30,
       "reachable": true,
-      "backfillDone": false,
+      "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "akwam_latest_movies": {
-      "provider": "akwam",
-      "items": 1612,
+    "aflaam_movies": {
+      "provider": "aflaam",
+      "items": 47,
       "reachable": true,
-      "backfillDone": false,
+      "backfillDone": true,
       "lastOk": "2026-10-29"
     },
     "5tv_featured": {
@@ -332,27 +339,6 @@
       "lastOk": null,
       "error": 403
     },
-    "akwam_latest_movies": {
-      "provider": "akwam",
-      "items": 1612,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-29"
-    },
-    "akwam_arabic_series": {
-      "provider": "akwam",
-      "items": 1340,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-29"
-    },
-    "aflaam_movies": {
-      "provider": "aflaam",
-      "items": 47,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-10-29"
-    },
     "shahidwbas_latest": {
       "provider": "shahidwbas",
       "items": 0,
@@ -360,6 +346,20 @@
       "backfillDone": false,
       "lastOk": null,
       "error": 403
+    },
+    "akwam_arabic_series": {
+      "provider": "akwam",
+      "items": 1484,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-29"
+    },
+    "asia2tv_drama": {
+      "provider": "aia2tv",
+      "items": 2112,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-29"
     },
     "anim3rb_latest": {
       "provider": "anim3rb",
@@ -369,9 +369,9 @@
       "lastOk": null,
       "error": 403
     },
-    "akwam_arabic_series": {
+    "akwam_latest_series": {
       "provider": "akwam",
-      "items": 1340,
+      "items": 1444,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
@@ -392,14 +392,6 @@
       "lastOk": null,
       "error": 403
     },
-    "witanime_latest": {
-      "provider": "witanime",
-      "items": 0,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null,
-      "error": 403
-    },
     "animephoenix_latest": {
       "provider": "anime-phoenix",
       "items": 19,
@@ -408,57 +400,57 @@
       "lastOk": null,
       "error": 403
     },
-    "asia2tv_drama": {
-      "provider": "aia2tv",
-      "items": 2099,
-      "reachable": true,
+    "witanime_latest": {
+      "provider": "witanime",
+      "items": 0,
+      "reachable": false,
       "backfillDone": false,
-      "lastOk": "2026-10-29"
+      "lastOk": null,
+      "error": 403
     },
     "replaymatch_latest": {
       "provider": "replaymatch",
-      "items": 777,
+      "items": 861,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "tuniflix_movies": {
       "provider": "tuniflix",
-      "items": 3007,
+      "items": 3325,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "_streams": {
       "attempted": 700,
-      "playable": 342,
-      "none": 358,
+      "playable": 298,
+      "none": 402,
       "failures": {
         "tuktukcima": {
           "page-unreachable": 16
         },
         "3isk": {
-          "no-embeds": 85,
-          "page-unreachable": 1
+          "no-embeds": 97
         },
         "lodynet": {
           "embeds-failed:lodynet.watch,www.vidlo.us": 4,
-          "embeds-failed:lodynet.watch,www.vidlo.us,megamax.me,vidmoly.org": 51,
-          "embeds-failed:lodynet.watch": 31
+          "embeds-failed:lodynet.watch,www.vidlo.us,megamax.me,vidmoly.org": 60,
+          "embeds-failed:lodynet.watch": 33
         },
         "tuniflix": {
-          "embeds-failed:tuniflix.site": 84,
-          "embeds-failed:tuniflix.site,m.media-amazon.com": 1
+          "embeds-failed:tuniflix.site": 96
         },
         "replaymatch": {
-          "embeds-failed:playmogo.com,vixeo.io,vidaraa.cc,bysekoze.com": 56,
+          "embeds-failed:playmogo.com,vixeo.io,vidaraa.cc,bysekoze.com": 65,
           "embeds-failed:vixeo.io,bysekoze.com,vidaraa.cc,playmogo.com": 3,
           "embeds-failed:playmogo.com,vidaraa.cc,vixeo.io,bysekoze.com": 3,
           "embeds-failed:playmogo.com,vidaraa.cc,bysekoze.com,t.me": 1,
           "embeds-failed:vidaraa.cc,playmogo.com,vixeo.io,bysekoze.com": 1,
-          "embeds-failed:playmogo.com,bysekoze.com,vidaraa.cc,t.me": 19,
+          "embeds-failed:playmogo.com,bysekoze.com,vidaraa.cc,t.me": 20,
           "embeds-failed:playmogo.com,bysekoze.com,t.me,ko-fi.com": 1,
-          "embeds-failed:playmogo.com,bysekoze.com,vidaraa.cc,vixeo.io": 1
+          "embeds-failed:playmogo.com,bysekoze.com,vidaraa.cc,vixeo.io": 1,
+          "embeds-failed:playmogo.com,playmate.to,vixeo.io,vidaraa.cc": 1
         }
       }
     },

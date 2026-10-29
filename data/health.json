@@ -246,9 +246,9 @@
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
-    "alooy_turkish_series": {
+    "alooy_gulf_ramadan": {
       "provider": "alooytv",
-      "items": 46,
+      "items": 50,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-29"
@@ -260,9 +260,9 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "alooy_gulf_ramadan": {
+    "alooy_turkish_series": {
       "provider": "alooytv",
-      "items": 50,
+      "items": 46,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-29"
@@ -289,11 +289,11 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "akwam_latest_movies": {
-      "provider": "akwam",
-      "items": 1109,
+    "eseek_series": {
+      "provider": "eseek",
+      "items": 0,
       "reachable": true,
-      "backfillDone": false,
+      "backfillDone": true,
       "lastOk": "2026-10-29"
     },
     "akwam_latest_series": {
@@ -310,11 +310,11 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "eseek_series": {
-      "provider": "eseek",
-      "items": 0,
+    "akwam_latest_movies": {
+      "provider": "akwam",
+      "items": 1109,
       "reachable": true,
-      "backfillDone": true,
+      "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "5tv_featured": {
@@ -325,11 +325,25 @@
       "lastOk": null,
       "error": 403
     },
+    "akwam_arabic_movies": {
+      "provider": "akwam",
+      "items": 1128,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-29"
+    },
     "aflaam_movies": {
       "provider": "aflaam",
       "items": 47,
       "reachable": true,
       "backfillDone": true,
+      "lastOk": "2026-10-29"
+    },
+    "akwam_arabic_series": {
+      "provider": "akwam",
+      "items": 910,
+      "reachable": true,
+      "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "shahidwbas_latest": {
@@ -339,20 +353,6 @@
       "backfillDone": false,
       "lastOk": null,
       "error": 403
-    },
-    "akwam_arabic_series": {
-      "provider": "akwam",
-      "items": 910,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-29"
-    },
-    "akwam_arabic_movies": {
-      "provider": "akwam",
-      "items": 1128,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-29"
     },
     "anim3rb_latest": {
       "provider": "anim3rb",

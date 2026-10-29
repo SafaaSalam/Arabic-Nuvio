@@ -232,18 +232,18 @@
       "lastOk": null,
       "error": "unreachable"
     },
-    "3isk_latest_episodes": {
-      "provider": "3isk",
-      "items": 44,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-29"
-    },
     "3isk_turkish_series": {
       "provider": "3isk",
       "items": 31,
       "reachable": true,
       "backfillDone": true,
+      "lastOk": "2026-10-29"
+    },
+    "3isk_latest_episodes": {
+      "provider": "3isk",
+      "items": 44,
+      "reachable": true,
+      "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "alooy_turkish_series": {
@@ -253,9 +253,9 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "alooy_arabic_ramadan": {
+    "alooy_latest_series": {
       "provider": "alooytv",
-      "items": 50,
+      "items": 24,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-29"
@@ -267,9 +267,9 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "alooy_latest_series": {
+    "alooy_arabic_ramadan": {
       "provider": "alooytv",
-      "items": 24,
+      "items": 50,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-29"
@@ -282,25 +282,25 @@
       "lastOk": null,
       "error": 403
     },
+    "krmzy_series": {
+      "provider": "krmzy",
+      "items": 192,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-29"
+    },
     "akwam_latest_movies": {
       "provider": "akwam",
-      "items": 938,
+      "items": 1109,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "akwam_latest_series": {
       "provider": "akwam",
-      "items": 740,
+      "items": 873,
       "reachable": true,
       "backfillDone": false,
-      "lastOk": "2026-10-29"
-    },
-    "krmzy_series": {
-      "provider": "krmzy",
-      "items": 192,
-      "reachable": true,
-      "backfillDone": true,
       "lastOk": "2026-10-29"
     },
     "lodynet_latest": {
@@ -315,13 +315,6 @@
       "items": 0,
       "reachable": true,
       "backfillDone": true,
-      "lastOk": "2026-10-29"
-    },
-    "akwam_arabic_series": {
-      "provider": "akwam",
-      "items": 766,
-      "reachable": true,
-      "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "5tv_featured": {
@@ -339,13 +332,6 @@
       "backfillDone": true,
       "lastOk": "2026-10-29"
     },
-    "akwam_arabic_movies": {
-      "provider": "akwam",
-      "items": 950,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-29"
-    },
     "shahidwbas_latest": {
       "provider": "shahidwbas",
       "items": 0,
@@ -354,17 +340,31 @@
       "lastOk": null,
       "error": 403
     },
-    "anime4up_latest": {
-      "provider": "anime4up",
-      "items": 17,
+    "akwam_arabic_series": {
+      "provider": "akwam",
+      "items": 910,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-29"
+    },
+    "akwam_arabic_movies": {
+      "provider": "akwam",
+      "items": 1128,
+      "reachable": true,
+      "backfillDone": false,
+      "lastOk": "2026-10-29"
+    },
+    "anim3rb_latest": {
+      "provider": "anim3rb",
+      "items": 28,
       "reachable": false,
       "backfillDone": false,
       "lastOk": null,
       "error": 403
     },
-    "anim3rb_latest": {
-      "provider": "anim3rb",
-      "items": 28,
+    "anime4up_latest": {
+      "provider": "anime4up",
+      "items": 17,
       "reachable": false,
       "backfillDone": false,
       "lastOk": null,
@@ -396,35 +396,35 @@
     },
     "asia2tv_drama": {
       "provider": "aia2tv",
-      "items": 1208,
+      "items": 1454,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "replaymatch_latest": {
       "provider": "replaymatch",
-      "items": 442,
+      "items": 526,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "tuniflix_movies": {
       "provider": "tuniflix",
-      "items": 1720,
+      "items": 2040,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-29"
     },
     "_streams": {
       "attempted": 300,
-      "playable": 103,
-      "none": 197
+      "playable": 164,
+      "none": 136
     },
     "_episodes": {
       "checked": 120,
-      "updated": 27,
-      "noEpisodes": 1,
-      "unreachable": 19
+      "updated": 14,
+      "noEpisodes": 0,
+      "unreachable": 0
     }
   }
 }

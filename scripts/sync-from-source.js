@@ -959,10 +959,11 @@ async function main() {
       const STREAM_STATE_FILE = path.join(ROOT_DIR, "data", "stream-state.json");
       let sState = {};
       try { sState = JSON.parse(fs.readFileSync(STREAM_STATE_FILE, "utf8")); } catch (_) {}
-      const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "300", 10);
-      const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "420000", 10);
+      const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "700", 10);
+      const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "480000", 10);
       const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
       const embeds = require("./lib/embeds.js");
+      const RESOLVER_V = 3; // bump when stream resolution improves, so earlier failures are retried at once
       const provCache = new Map();
       function loadProvider(prefix) {
         if (provCache.has(prefix)) return provCache.get(prefix);
@@ -974,7 +975,8 @@ async function main() {
       const keyOf = (j) => path.relative(ADDON_DIR, j.file);
       const due = (j) => {
         const st = sState[keyOf(j)];
-        if (!st) return 0;                                   // never tried: highest priority
+        if (!st) return 0;
+        if (!st.ok && st.v !== RESOLVER_V) return 0;              // resolver improved since the last failure: retry now                                   // never tried: highest priority
         if (st.ok && Date.now() - st.t > (st.exp ? 5 * 3600000 : 2 * 86400000)) return 1; // refresh (signed links expire)
         if (!st.ok && Date.now() - st.t > 12 * 3600000) return 2;  // retry failures later
         return -1;
@@ -1020,10 +1022,10 @@ async function main() {
           try { ext = (JSON.parse(fs.readFileSync(j.file, "utf8")).streams || []).filter(x => x && x.externalUrl); } catch (_) {}
           if (direct.length) { writeJson(j.file, { streams: direct }, false); resolvedOk++; }
           else resolvedNone++;
-          sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0, exp: direct.some(x => embeds.isExpiring(x.url)) };
+          sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0, exp: direct.some(x => embeds.isExpiring(x.url)), v: RESOLVER_V };
         }
       }
-      await Promise.all(Array.from({ length: 8 }, resWorker));
+      await Promise.all(Array.from({ length: 14 }, resWorker));
       for (const k of Object.keys(sState)) if (!streamExpected.has(path.join(ADDON_DIR, k))) delete sState[k];
       try { fs.writeFileSync(STREAM_STATE_FILE, JSON.stringify(sState)); } catch (_) {}
       console.log(`🎬 Direct streams: ${rc} resolved via provider plugins (${resolvedOk} playable, ${resolvedNone} without links), ${queue.length} queued`);

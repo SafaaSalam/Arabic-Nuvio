@@ -147,13 +147,17 @@ async function resolveEmbed(url, referer) {
 }
 
 /** Page URL -> direct media links (max `limit` embeds tried). */
+const lastReason = new Map(); // pageUrl -> why nothing was found (diagnostics in data/health.json)
 async function resolvePage(pageUrl, limit = 4) {
   const page = await fetchText(pageUrl);
-  if (!page) return [];
+  if (!page) { lastReason.set(pageUrl, "page-unreachable"); return []; }
   const direct = mediaUrlsIn(page.text + unpackAll(page.text)).map((u) => ({ url: u, host: "", headers: { "User-Agent": UA, Referer: new URL(page.url).origin + "/" } }));
   if (direct.length) return direct;
   const out = [];
-  for (const e of embedsIn(page.text, page.url).slice(0, Math.max(limit, 8))) {
+  const cands = embedsIn(page.text, page.url);
+  if (!cands.length) lastReason.set(pageUrl, "no-embeds");
+  else lastReason.set(pageUrl, "embeds-failed:" + [...new Set(cands.map((c) => { try { return new URL(c).hostname; } catch (_) { return "?"; } }))].slice(0, 4).join(","));
+  for (const e of cands.slice(0, Math.max(limit, 8))) {
     const r = await resolveEmbed(e, page.url);
     for (const x of r) if (!out.some((o) => o.url === x.url)) out.push(x);
     if (out.length >= 3) break;
@@ -166,4 +170,4 @@ function isExpiring(u) {
   return /[?&](?:e|exp|expires|Expires|token|t|s|sig|signature|hash|md5)=/i.test(String(u));
 }
 
-module.exports = { unpack, unpackAll, mediaUrlsIn, embedsIn, resolveEmbed, resolvePage, isExpiring, QESEN_SERVERS };
+module.exports = { lastReason, unpack, unpackAll, mediaUrlsIn, embedsIn, resolveEmbed, resolvePage, isExpiring, QESEN_SERVERS };

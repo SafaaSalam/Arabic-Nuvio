@@ -833,9 +833,25 @@ async function main() {
     const { extractEpisodes, nextEpisodesPage } = require("./lib/episodes.js");
     const { alooyDomain } = require("./scrape-extra-catalogs.js");
     const MAX_EP_FETCH = parseInt(process.env.MAX_EPISODE_FETCHES || "120", 10);
-    epJobs.sort((x, y) => Number(x.scraped) - Number(y.scraped));
+    // state: remember failures so dead sources / items do not starve the queue
+    const EP_STATE_FILE = path.join(ROOT_DIR, "data", "episode-state.json");
+    let epState = {};
+    try { epState = JSON.parse(fs.readFileSync(EP_STATE_FILE, "utf8")); } catch (_) {}
+    const nowMs = Date.now(), RETRY_MS = 6 * 3600 * 1000;
     const seenJob = new Set();
-    const jobs = epJobs.filter(j => !seenJob.has(j.m.id) && seenJob.add(j.m.id)).slice(0, MAX_EP_FETCH);
+    const eligible = epJobs
+      .filter(j => !seenJob.has(j.m.id) && seenJob.add(j.m.id))
+      .filter(j => !(epState[j.m.id] && nowMs - epState[j.m.id] < RETRY_MS))
+      .sort((x, y) => Number(x.scraped) - Number(y.scraped));
+    // interleave providers (round-robin) so every source gets a share of the budget
+    const byProv = new Map();
+    for (const j of eligible) { const k = j.cat.idPrefix; if (!byProv.has(k)) byProv.set(k, []); byProv.get(k).push(j); }
+    const jobs = [];
+    for (let i = 0; jobs.length < MAX_EP_FETCH; i++) {
+      let any = false;
+      for (const list of byProv.values()) if (list[i]) { any = true; jobs.push(list[i]); if (jobs.length >= MAX_EP_FETCH) break; }
+      if (!any) break;
+    }
     let scrapedNow = 0, noEpisodes = 0, unreachable = 0;
     let cursor = 0;
     async function fetchHtml(url) {
@@ -854,8 +870,12 @@ async function main() {
         const bases = [];
         for (const b of (cat.bases || [])) bases.push(b === "@alooy" ? await alooyDomain() : b);
         let page = null;
-        for (const b of bases) { page = await fetchHtml(`${b.replace(/\/+$/, "")}/${slug}`); if (page) break; }
-        if (!page) { unreachable++; continue; }
+        for (const b of bases) {
+          const root = b.replace(/\/+$/, "");
+          const target = cat.idPrefix === "alooy" ? `${root}/watch/${slug.replace(/\.html$/, "")}.html` : `${root}/${slug}`;
+          page = await fetchHtml(target); if (page) break;
+        }
+        if (!page) { unreachable++; epState[m.id] = Date.now(); continue; }
         const origin = new URL(page.url).origin;
         let episodes = extractEpisodes(page.text, origin, { selfUrl: page.url });
         let next = nextEpisodesPage(page.text, origin), guard = 0, allHtml = page.text;
@@ -866,7 +886,8 @@ async function main() {
           next = nextEpisodesPage(more.text, origin);
         }
         if (guard > 0) episodes = extractEpisodes(allHtml, origin, { selfUrl: page.url });
-        if (episodes.length === 0) { noEpisodes++; continue; }
+        if (episodes.length === 0) { noEpisodes++; epState[m.id] = Date.now(); continue; }
+        delete epState[m.id];
         const metaObj = Object.assign({}, job.metaObj, {
           website: page.url,
           episodesScraped: true,
@@ -876,6 +897,8 @@ async function main() {
       }
     }
     await Promise.all(Array.from({ length: 6 }, worker));
+    for (const k of Object.keys(epState)) if (nowMs - epState[k] > 7 * 86400000) delete epState[k];
+    try { fs.writeFileSync(EP_STATE_FILE, JSON.stringify(epState)); } catch (_) {}
     console.log(`🎞️  Episodes: ${jobs.length} series checked (${scrapedNow} updated, ${noEpisodes} without episode links, ${unreachable} unreachable)`);
     healthReport._episodes = { checked: jobs.length, updated: scrapedNow, noEpisodes, unreachable };
 

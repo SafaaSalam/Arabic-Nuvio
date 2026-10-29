@@ -926,7 +926,7 @@ async function main() {
         const provName = PROVIDER_NAMES[cat.providerKey] || cat.providerKey || cat.idPrefix;
         if (!pageUrl) continue;
         if (m.type === "movie") {
-          const f = path.join(ADDON_DIR, "stream", "movie", `${store.asciiId(m.id)}.json`);
+          const f = path.join(ADDON_DIR, "stream", "movie", `${m.id}.json`);
           streamExpected.add(f);
           if (writeJson(f, mk(`${provName} (open source page)`, pageUrl, `${m.name} • ${provName}`, f), false)) streamFiles++;
           resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "movie", season: null, episode: null, label: m.name, provName });
@@ -935,7 +935,7 @@ async function main() {
           for (const v of meta.videos) {
             const nid = `${m.id}_s${v.season}e${v.episode}`;
             if (v.id !== nid) { v.id = nid; changed = true; }
-            const f = path.join(ADDON_DIR, "stream", "series", `${store.asciiId(nid)}.json`);
+            const f = path.join(ADDON_DIR, "stream", "series", `${nid}.json`);
             streamExpected.add(f);
             if (writeJson(f, mk(`${provName} (open episode page)`, v.episodeUrl || pageUrl, `${m.name} S${v.season}E${v.episode} • ${provName}`, f), false)) streamFiles++;
             if (meta.episodesScraped) resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "tv", season: v.season, episode: v.episode, label: `${m.name} S${v.season}E${v.episode}`, provName });

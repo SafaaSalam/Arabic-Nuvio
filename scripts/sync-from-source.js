@@ -910,7 +910,13 @@ async function main() {
         if (b === "@alooy") { if (!baseCache.has(b)) baseCache.set(b, await alooyDomain()); return baseCache.get(b); }
         return b;
       }
-      const mk = (name, url, label) => ({ streams: [{ name, title: label, externalUrl: url }] });
+      // keep direct (playable) streams resolved earlier, refresh the "open page" fallback entry
+      const mk = (name, url, label, file) => {
+        let direct = [];
+        try { direct = (JSON.parse(fs.readFileSync(file, "utf8")).streams || []).filter(x => x && x.url); } catch (_) {}
+        return { streams: [...direct, { name, title: label, externalUrl: url }] };
+      };
+      const resolveJobs = [];
       let streamFiles = 0;
       for (const { m, cat, metaPath } of customItems) {
         let meta; try { meta = JSON.parse(fs.readFileSync(metaPath, "utf8")).meta; } catch (_) { continue; }
@@ -922,7 +928,8 @@ async function main() {
         if (m.type === "movie") {
           const f = path.join(ADDON_DIR, "stream", "movie", `${store.asciiId(m.id)}.json`);
           streamExpected.add(f);
-          if (writeJson(f, mk(`${provName} (open source page)`, pageUrl, `${m.name} • ${provName}`), false)) streamFiles++;
+          if (writeJson(f, mk(`${provName} (open source page)`, pageUrl, `${m.name} • ${provName}`, f), false)) streamFiles++;
+          resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "movie", season: null, episode: null, label: m.name, provName });
         } else if (Array.isArray(meta.videos)) {
           let changed = false;
           for (const v of meta.videos) {
@@ -930,7 +937,8 @@ async function main() {
             if (v.id !== nid) { v.id = nid; changed = true; }
             const f = path.join(ADDON_DIR, "stream", "series", `${store.asciiId(nid)}.json`);
             streamExpected.add(f);
-            if (writeJson(f, mk(`${provName} (open episode page)`, v.episodeUrl || pageUrl, `${m.name} S${v.season}E${v.episode} • ${provName}`), false)) streamFiles++;
+            if (writeJson(f, mk(`${provName} (open episode page)`, v.episodeUrl || pageUrl, `${m.name} S${v.season}E${v.episode} • ${provName}`, f), false)) streamFiles++;
+            if (meta.episodesScraped) resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "tv", season: v.season, episode: v.episode, label: `${m.name} S${v.season}E${v.episode}`, provName });
           }
           if (changed) writeJson(metaPath, { meta }, false);
         }
@@ -945,6 +953,73 @@ async function main() {
         }
       }
       console.log(`▶️  Stream files for custom sources: ${streamExpected.size} (${streamFiles} written)`);
+
+      // 4.6d Resolve direct, in-app playable video links with the source's own provider plugin
+      //      (same code Nuvio runs). Bounded per run; new items first, then refresh links older than 2 days.
+      const STREAM_STATE_FILE = path.join(ROOT_DIR, "data", "stream-state.json");
+      let sState = {};
+      try { sState = JSON.parse(fs.readFileSync(STREAM_STATE_FILE, "utf8")); } catch (_) {}
+      const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "300", 10);
+      const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "420000", 10);
+      const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
+      const provCache = new Map();
+      function loadProvider(prefix) {
+        if (provCache.has(prefix)) return provCache.get(prefix);
+        let mod = null;
+        try { mod = require(path.join(ROOT_DIR, "providers", `${PROVIDER_FILE[prefix] || prefix}.js`)); } catch (_) {}
+        provCache.set(prefix, mod && typeof mod.getStreams === "function" ? mod : null);
+        return provCache.get(prefix);
+      }
+      const keyOf = (j) => path.relative(ADDON_DIR, j.file);
+      const due = (j) => {
+        const st = sState[keyOf(j)];
+        if (!st) return 0;                                   // never tried: highest priority
+        if (st.ok && Date.now() - st.t > 2 * 86400000) return 1;   // refresh old links
+        if (!st.ok && Date.now() - st.t > 12 * 3600000) return 2;  // retry failures later
+        return -1;
+      };
+      const byP = new Map();
+      for (const j of resolveJobs) {
+        const d = due(j); if (d < 0 || !loadProvider(j.prefix)) continue;
+        if (!byP.has(j.prefix)) byP.set(j.prefix, [[], [], []]);
+        byP.get(j.prefix)[d].push(j);
+      }
+      const queue = [];
+      for (let tier = 0; tier < 3; tier++) {
+        const lists = [...byP.values()].map(t => t[tier]);
+        for (let i = 0; queue.length < MAX_RES; i++) {
+          let any = false;
+          for (const l of lists) if (l[i]) { any = true; queue.push(l[i]); if (queue.length >= MAX_RES) break; }
+          if (!any) break;
+        }
+      }
+      const withTimeout = (p, ms) => Promise.race([p, new Promise(r => setTimeout(() => r(null), ms))]);
+      let rc = 0, resolvedOk = 0, resolvedNone = 0;
+      async function resWorker() {
+        while (rc < queue.length && Date.now() < DEADLINE) {
+          const j = queue[rc++];
+          const prov = loadProvider(j.prefix);
+          let list = null;
+          try { list = await withTimeout(prov.getStreams(j.id, j.type, j.season, j.episode), 30000); } catch (_) { list = null; }
+          const direct = (Array.isArray(list) ? list : []).filter(x => x && typeof x.url === "string" && /^https?:\/\//.test(x.url)).slice(0, 8).map(x => {
+            const hdr = x.headers && typeof x.headers === "object" ? x.headers : null;
+            const out = { name: x.name || `${j.provName}`, title: x.title || j.label, url: x.url };
+            if (x.subtitles && x.subtitles.length) out.subtitles = x.subtitles;
+            out.behaviorHints = Object.assign({ notWebReady: true, bingeGroup: `arabic-nuvio-${j.prefix}` }, hdr ? { proxyHeaders: { request: hdr } } : {});
+            return out;
+          });
+          let ext = [];
+          try { ext = (JSON.parse(fs.readFileSync(j.file, "utf8")).streams || []).filter(x => x && x.externalUrl); } catch (_) {}
+          if (direct.length) { writeJson(j.file, { streams: [...direct, ...ext] }, false); resolvedOk++; }
+          else resolvedNone++;
+          sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0 };
+        }
+      }
+      await Promise.all(Array.from({ length: 8 }, resWorker));
+      for (const k of Object.keys(sState)) if (!streamExpected.has(path.join(ADDON_DIR, k))) delete sState[k];
+      try { fs.writeFileSync(STREAM_STATE_FILE, JSON.stringify(sState)); } catch (_) {}
+      console.log(`🎬 Direct streams: ${rc} resolved via provider plugins (${resolvedOk} playable, ${resolvedNone} without links), ${queue.length} queued`);
+      healthReport._streams = { attempted: rc, playable: resolvedOk, none: resolvedNone };
     }
 
     for (const k of Object.keys(epState)) if (nowMs - epState[k] > 7 * 86400000) delete epState[k];
@@ -994,7 +1069,7 @@ async function main() {
   const addonManifest = {
     id: ADDON_ID,
     name: "Arabic Nuvio",
-    version: "2.0.0",
+    version: "2.1.0",
     description: "Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam & 36+ Arabic Movie, Series, Anime & Live TV Catalogs",
     logo: cinemanaLogoUrl,
     background: firstBannerPoster,

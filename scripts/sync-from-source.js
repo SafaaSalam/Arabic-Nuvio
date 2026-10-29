@@ -929,7 +929,7 @@ async function main() {
           const f = path.join(ADDON_DIR, "stream", "movie", `${m.id}.json`);
           streamExpected.add(f);
           if (writeJson(f, mk(`${provName} (open source page)`, pageUrl, `${m.name} • ${provName}`, f), false)) streamFiles++;
-          resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "movie", season: null, episode: null, label: m.name, provName });
+          resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "movie", season: null, episode: null, label: m.name, provName, pageUrl });
         } else if (Array.isArray(meta.videos)) {
           let changed = false;
           for (const v of meta.videos) {
@@ -938,7 +938,7 @@ async function main() {
             const f = path.join(ADDON_DIR, "stream", "series", `${nid}.json`);
             streamExpected.add(f);
             if (writeJson(f, mk(`${provName} (open episode page)`, v.episodeUrl || pageUrl, `${m.name} S${v.season}E${v.episode} • ${provName}`, f), false)) streamFiles++;
-            if (meta.episodesScraped) resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "tv", season: v.season, episode: v.episode, label: `${m.name} S${v.season}E${v.episode}`, provName });
+            if (meta.episodesScraped) resolveJobs.push({ file: f, prefix: cat.idPrefix, id: m.id, type: "tv", season: v.season, episode: v.episode, label: `${m.name} S${v.season}E${v.episode}`, provName, pageUrl: v.episodeUrl || null });
           }
           if (changed) writeJson(metaPath, { meta }, false);
         }
@@ -962,6 +962,7 @@ async function main() {
       const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "300", 10);
       const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "420000", 10);
       const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
+      const embeds = require("./lib/embeds.js");
       const provCache = new Map();
       function loadProvider(prefix) {
         if (provCache.has(prefix)) return provCache.get(prefix);
@@ -974,13 +975,13 @@ async function main() {
       const due = (j) => {
         const st = sState[keyOf(j)];
         if (!st) return 0;                                   // never tried: highest priority
-        if (st.ok && Date.now() - st.t > 2 * 86400000) return 1;   // refresh old links
+        if (st.ok && Date.now() - st.t > (st.exp ? 5 * 3600000 : 2 * 86400000)) return 1; // refresh (signed links expire)
         if (!st.ok && Date.now() - st.t > 12 * 3600000) return 2;  // retry failures later
         return -1;
       };
       const byP = new Map();
       for (const j of resolveJobs) {
-        const d = due(j); if (d < 0 || !loadProvider(j.prefix)) continue;
+        const d = due(j); if (d < 0 || (!loadProvider(j.prefix) && !j.pageUrl)) continue;
         if (!byP.has(j.prefix)) byP.set(j.prefix, [[], [], []]);
         byP.get(j.prefix)[d].push(j);
       }
@@ -1000,7 +1001,14 @@ async function main() {
           const j = queue[rc++];
           const prov = loadProvider(j.prefix);
           let list = null;
-          try { list = await withTimeout(prov.getStreams(j.id, j.type, j.season, j.episode), 30000); } catch (_) { list = null; }
+          if (prov) { try { list = await withTimeout(prov.getStreams(j.id, j.type, j.season, j.episode), 30000); } catch (_) { list = null; } }
+          // fallback: follow the page's embedded players (iframes, server lists, packed JS) to the media file
+          if ((!Array.isArray(list) || !list.some(x => x && x.url)) && j.pageUrl) {
+            try {
+              const found = await withTimeout(embeds.resolvePage(j.pageUrl), 40000);
+              list = (found || []).map((x, i) => ({ name: `${j.provName}${x.host ? " • " + x.host.replace(/^www\./, "").split(".")[0] : ""}`, title: `${j.label} • ${/\.m3u8/i.test(x.url) ? "HLS" : "MP4"} ${i + 1}`, url: x.url, headers: x.headers }));
+            } catch (_) {}
+          }
           const direct = (Array.isArray(list) ? list : []).filter(x => x && typeof x.url === "string" && /^https?:\/\//.test(x.url)).slice(0, 8).map(x => {
             const hdr = x.headers && typeof x.headers === "object" ? x.headers : null;
             const out = { name: x.name || `${j.provName}`, title: x.title || j.label, url: x.url };
@@ -1012,7 +1020,7 @@ async function main() {
           try { ext = (JSON.parse(fs.readFileSync(j.file, "utf8")).streams || []).filter(x => x && x.externalUrl); } catch (_) {}
           if (direct.length) { writeJson(j.file, { streams: direct }, false); resolvedOk++; }
           else resolvedNone++;
-          sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0 };
+          sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0, exp: direct.some(x => embeds.isExpiring(x.url)) };
         }
       }
       await Promise.all(Array.from({ length: 8 }, resWorker));

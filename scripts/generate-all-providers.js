@@ -63,7 +63,7 @@ const PROVIDERS_CATALOG = [
     name: "Akwam | أكوام",
     description: "Akwam — Arabic & Foreign Movies, Series, Ramadan & TV Shows in 1080p/720p/480p",
     version: "1.3.0",
-    mainUrl: "https://ak.sv",
+    mainUrl: "https://akwam.ss",
     logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
     supportedTypes: ["movie", "tv"],
     tvTypes: ["Movie", "TvSeries"],

@@ -963,7 +963,7 @@ async function main() {
       const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "480000", 10);
       const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
       const embeds = require("./lib/embeds.js");
-      const RESOLVER_V = 3; // bump when stream resolution improves, so earlier failures are retried at once
+      const RESOLVER_V = 4; // bump when stream resolution improves, so earlier failures are retried at once
       const provCache = new Map();
       function loadProvider(prefix) {
         if (provCache.has(prefix)) return provCache.get(prefix);
@@ -998,6 +998,7 @@ async function main() {
       }
       const withTimeout = (p, ms) => Promise.race([p, new Promise(r => setTimeout(() => r(null), ms))]);
       let rc = 0, resolvedOk = 0, resolvedNone = 0;
+      const failWhy = {};
       async function resWorker() {
         while (rc < queue.length && Date.now() < DEADLINE) {
           const j = queue[rc++];
@@ -1021,7 +1022,12 @@ async function main() {
           let ext = [];
           try { ext = (JSON.parse(fs.readFileSync(j.file, "utf8")).streams || []).filter(x => x && x.externalUrl); } catch (_) {}
           if (direct.length) { writeJson(j.file, { streams: direct }, false); resolvedOk++; }
-          else resolvedNone++;
+          else {
+            resolvedNone++;
+            const why = (j.pageUrl && embeds.lastReason.get(j.pageUrl)) || (j.pageUrl ? "plugin-empty" : "no-page-url");
+            failWhy[j.prefix] = failWhy[j.prefix] || {};
+            failWhy[j.prefix][why] = (failWhy[j.prefix][why] || 0) + 1;
+          }
           sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0, exp: direct.some(x => embeds.isExpiring(x.url)), v: RESOLVER_V };
         }
       }
@@ -1029,7 +1035,7 @@ async function main() {
       for (const k of Object.keys(sState)) if (!streamExpected.has(path.join(ADDON_DIR, k))) delete sState[k];
       try { fs.writeFileSync(STREAM_STATE_FILE, JSON.stringify(sState)); } catch (_) {}
       console.log(`🎬 Direct streams: ${rc} resolved via provider plugins (${resolvedOk} playable, ${resolvedNone} without links), ${queue.length} queued`);
-      healthReport._streams = { attempted: rc, playable: resolvedOk, none: resolvedNone };
+      healthReport._streams = { attempted: rc, playable: resolvedOk, none: resolvedNone, failures: failWhy };
     }
 
     for (const k of Object.keys(epState)) if (nowMs - epState[k] > 7 * 86400000) delete epState[k];

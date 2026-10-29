@@ -42,6 +42,7 @@ jobs:
           node scripts/test-episodes.js
           node scripts/test-episode-streams.js
           node scripts/test-direct-streams.js
+          node scripts/test-embeds.js
 
       - name: Sync latest providers, catalogs & collections from every source
         run: node scripts/sync-from-source.js

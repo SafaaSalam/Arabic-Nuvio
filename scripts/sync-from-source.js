@@ -914,7 +914,7 @@ async function main() {
       const mk = (name, url, label, file) => {
         let direct = [];
         try { direct = (JSON.parse(fs.readFileSync(file, "utf8")).streams || []).filter(x => x && x.url); } catch (_) {}
-        return { streams: [...direct, { name, title: label, externalUrl: url }] };
+        return { streams: direct }; // in-app playable links only (no external browser)
       };
       const resolveJobs = [];
       let streamFiles = 0;
@@ -1010,7 +1010,7 @@ async function main() {
           });
           let ext = [];
           try { ext = (JSON.parse(fs.readFileSync(j.file, "utf8")).streams || []).filter(x => x && x.externalUrl); } catch (_) {}
-          if (direct.length) { writeJson(j.file, { streams: [...direct, ...ext] }, false); resolvedOk++; }
+          if (direct.length) { writeJson(j.file, { streams: direct }, false); resolvedOk++; }
           else resolvedNone++;
           sState[keyOf(j)] = { t: Date.now(), ok: direct.length > 0 };
         }

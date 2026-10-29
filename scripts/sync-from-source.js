@@ -738,6 +738,7 @@ async function main() {
   const homeProviders = new Set();
   const providerFolders = new Map(); // providerKey -> folders (one Nuvio collection per source)
   const epJobs = [];
+  const customItems = [];
   let metaTotal = 0;
   const metaFileId = (id) => store.asciiId(id);
 
@@ -766,6 +767,7 @@ async function main() {
       const safeId = metaFileId(m.id);
       const metaPath = path.join(ADDON_DIR, "meta", m.type, `${safeId}.json`);
       expectedMetaFiles.add(metaPath);
+      if (cat.idPrefix) customItems.push({ m, cat, metaPath });
       let existing = null;
       try { existing = JSON.parse(fs.readFileSync(metaPath, "utf8")).meta; } catch (_) {}
       const metaObj = {
@@ -783,7 +785,7 @@ async function main() {
       };
       const scraped = existing && existing.episodesScraped && Array.isArray(existing.videos) && existing.videos.length > 0;
       if (m.type === "series") {
-        metaObj.videos = scraped ? existing.videos : [{ id: `${m.id}:1:1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
+        metaObj.videos = scraped ? existing.videos : [{ id: `${m.id}_s1e1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
         if (scraped) { metaObj.episodesScraped = true; metaObj.website = existing.website; }
         if (cat.idPrefix && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
       }
@@ -891,12 +893,60 @@ async function main() {
         const metaObj = Object.assign({}, job.metaObj, {
           website: page.url,
           episodesScraped: true,
-          videos: episodes.map(e => ({ id: `${m.id}:${e.season}:${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
+          videos: episodes.map(e => ({ id: `${m.id}_s${e.season}e${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
         });
         if (writeJson(job.metaPath, { meta: metaObj }, false)) scrapedNow++;
       }
     }
     await Promise.all(Array.from({ length: 6 }, worker));
+    // 4.6c Stream files for custom-id items: Nuvio only lists an addon for streams if it answers /stream/<type>/<id>.json.
+    //      We return the exact episode/movie page (externalUrl) so the item is playable/openable from the source site.
+    {
+      const streamExpected = new Set();
+      const baseCache = new Map();
+      async function firstBase(cat) {
+        const b = (cat.bases || [])[0];
+        if (!b) return null;
+        if (b === "@alooy") { if (!baseCache.has(b)) baseCache.set(b, await alooyDomain()); return baseCache.get(b); }
+        return b;
+      }
+      const mk = (name, url, label) => ({ streams: [{ name, title: label, externalUrl: url }] });
+      let streamFiles = 0;
+      for (const { m, cat, metaPath } of customItems) {
+        let meta; try { meta = JSON.parse(fs.readFileSync(metaPath, "utf8")).meta; } catch (_) { continue; }
+        const slug = store.decodeIdSlug(m.id.slice(cat.idPrefix.length + 1).split(":")[0].replace(/__/g, "/"));
+        const base = await firstBase(cat);
+        let pageUrl = meta.website || (base ? (cat.idPrefix === "alooy" ? `${base.replace(/\/+$/, "")}/watch/${slug.replace(/\.html$/, "")}.html` : `${base.replace(/\/+$/, "")}/${slug}`) : null);
+        const provName = PROVIDER_NAMES[cat.providerKey] || cat.providerKey || cat.idPrefix;
+        if (!pageUrl) continue;
+        if (m.type === "movie") {
+          const f = path.join(ADDON_DIR, "stream", "movie", `${store.asciiId(m.id)}.json`);
+          streamExpected.add(f);
+          if (writeJson(f, mk(`${provName} (open source page)`, pageUrl, `${m.name} • ${provName}`), false)) streamFiles++;
+        } else if (Array.isArray(meta.videos)) {
+          let changed = false;
+          for (const v of meta.videos) {
+            const nid = `${m.id}_s${v.season}e${v.episode}`;
+            if (v.id !== nid) { v.id = nid; changed = true; }
+            const f = path.join(ADDON_DIR, "stream", "series", `${store.asciiId(nid)}.json`);
+            streamExpected.add(f);
+            if (writeJson(f, mk(`${provName} (open episode page)`, v.episodeUrl || pageUrl, `${m.name} S${v.season}E${v.episode} • ${provName}`), false)) streamFiles++;
+          }
+          if (changed) writeJson(metaPath, { meta }, false);
+        }
+      }
+      for (const type of ["movie", "series"]) {
+        const dir = path.join(ADDON_DIR, "stream", type);
+        if (!fs.existsSync(dir)) continue;
+        for (const f of fs.readdirSync(dir)) {
+          if (f.startsWith("cine_")) continue;
+          const full = path.join(dir, f);
+          if (!streamExpected.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
+        }
+      }
+      console.log(`▶️  Stream files for custom sources: ${streamExpected.size} (${streamFiles} written)`);
+    }
+
     for (const k of Object.keys(epState)) if (nowMs - epState[k] > 7 * 86400000) delete epState[k];
     try { fs.writeFileSync(EP_STATE_FILE, JSON.stringify(epState)); } catch (_) {}
     console.log(`🎞️  Episodes: ${jobs.length} series checked (${scrapedNow} updated, ${noEpisodes} without episode links, ${unreachable} unreachable)`);
@@ -961,7 +1011,7 @@ async function main() {
       {
         name: "stream",
         types: ["movie", "series"],
-        idPrefixes: ["cine_"]
+        idPrefixes: supportedPrefixes
       }
     ],
     catalogs: catalogDefinitions,

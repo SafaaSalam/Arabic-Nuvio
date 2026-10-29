@@ -7,7 +7,7 @@
  * - NuvioMobile (QuickJS 1.0.15)
  */
 
-var DEFAULT_MAIN_URL = "https://ak.sv";
+var DEFAULT_MAIN_URL = "https://akwam.ss";
 var DEFAULT_TMDB_API_KEY = "8265bd1679663a7ea12ac168da84d2e8";
 var PROVIDER_NAME = "Akwam | \u0623\u0643\u0648\u0627\u0645";
 var USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";

@@ -26,7 +26,7 @@ jobs:
     # Set the repository variable SYNC_RUNNER to "self-hosted" to run on your own (e.g. Iraqi) machine,
     # which can reach sites that block GitHub's servers (Cinemana, CEE and several anime sites).
     runs-on: ${{ vars.SYNC_RUNNER || 'ubuntu-latest' }}
-    timeout-minutes: 12
+    timeout-minutes: 25
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -41,6 +41,7 @@ jobs:
           node scripts/test-store.js
           node scripts/test-episodes.js
           node scripts/test-episode-streams.js
+          node scripts/test-direct-streams.js
 
       - name: Sync latest providers, catalogs & collections from every source
         run: node scripts/sync-from-source.js

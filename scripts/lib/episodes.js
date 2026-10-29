@@ -6,7 +6,7 @@
  */
 const EP_WORD = "(?:الحلقة|الحلقه|حلقة|حلقه|episode|episodes|ep)";
 const SEASON_WORD = "(?:الموسم|موسم|season)";
-const EP_RE = new RegExp(`${EP_WORD}[\\s\\-_.:/]*0*(\\d{1,4})(?!\\d)`, "i");
+const EP_RE = new RegExp(`${EP_WORD}[\\s\\-_.:/#]*0*(\\d{1,4})(?!\\d)`, "i");
 const SEASON_RE = new RegExp(`${SEASON_WORD}[\\s\\-_.:/]*0*(\\d{1,2})(?!\\d)`, "i");
 const SXXEXX_RE = /(?:^|[^a-z])s0*(\d{1,2})[\s._-]*e0*(\d{1,4})(?!\d)/i;
 

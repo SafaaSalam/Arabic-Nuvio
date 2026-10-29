@@ -40,13 +40,41 @@ function asciiId(id) {
   // Allowed: A-Z a-z 0-9 _ - . ~     Everything else (incl. %xx and non-ASCII) becomes ~xx (UTF-8 bytes, lower-case hex).
   // Idempotent: running it on an already converted id changes nothing. "%" is avoided on purpose because
   // clients and GitHub treat %xx in URLs as escapes, which would break meta file lookups.
-  return String(id)
+  const enc = String(id)
     .replace(/%([0-9a-fA-F]{2})/g, (_, h) => "~" + h.toLowerCase())
     .replace(/[^A-Za-z0-9_\-.~]+/g, (run) =>
       Array.from(run).map((ch) => {
         const e = encodeURIComponent(ch);
         return (e.length > 1 ? e : "%" + ch.charCodeAt(0).toString(16).padStart(2, "0")).toLowerCase().replace(/%/g, "~");
       }).join(""));
+  return fitIdLength(enc);
+}
+
+/**
+ * File systems cap names at 255 bytes; long Arabic slugs (6 chars per letter) overflow that and crashed the sync.
+ * Long ids are cut on a whole-character boundary and get a short hash so they stay unique. Idempotent (short ids unchanged).
+ * Sites such as Akwam route by the numeric id, so a shortened slug still opens the right page; the full page URL is kept
+ * in the meta "website" field for everything else.
+ */
+const MAX_ID_LEN = 200;
+function fitIdLength(enc) {
+  if (enc.length <= MAX_ID_LEN) return enc;
+  const hash = require("crypto").createHash("sha1").update(enc).digest("hex").slice(0, 8);
+  const tokens = enc.match(/~[0-9a-f]{2}|[\s\S]/g) || [];
+  const out = [];
+  let len = 0;
+  const limit = MAX_ID_LEN - hash.length - 1;
+  for (let i = 0; i < tokens.length; i++) {
+    // a character starts at any token that is not a UTF-8 continuation byte (~80..~bf)
+    if (!/^~[89ab][0-9a-f]$/.test(tokens[i])) {
+      let j = i + 1;
+      while (j < tokens.length && /^~[89ab][0-9a-f]$/.test(tokens[j])) j++;
+      const chunk = tokens.slice(i, j).join("");
+      if (len + chunk.length > limit) break;
+      out.push(chunk); len += chunk.length; i = j - 1;
+    } else if (len + 3 <= limit) { out.push(tokens[i]); len += 3; } else break;
+  }
+  return out.join("").replace(/[-_.~]+$/, "") + "-" + hash;
 }
 /** Inverse of asciiId for the URL part of an id: "~d9~85" -> "%d9%85" -> real characters. */
 function decodeIdSlug(slug) {

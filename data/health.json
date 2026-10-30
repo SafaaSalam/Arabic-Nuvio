@@ -253,6 +253,13 @@
       "backfillDone": true,
       "lastOk": "2026-10-30"
     },
+    "alooy_turkish_series": {
+      "provider": "alooytv",
+      "items": 46,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-30"
+    },
     "alooy_arabic_ramadan": {
       "provider": "alooytv",
       "items": 50,
@@ -267,13 +274,6 @@
       "backfillDone": true,
       "lastOk": "2026-10-30"
     },
-    "alooy_turkish_series": {
-      "provider": "alooytv",
-      "items": 46,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-10-30"
-    },
     "tuktukcima_recent": {
       "provider": "tuktukcima",
       "items": 16,
@@ -284,21 +284,7 @@
     },
     "akwam_arabic_series": {
       "provider": "akwam",
-      "items": 1639,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-10-30"
-    },
-    "akwam_arabic_movies": {
-      "provider": "akwam",
-      "items": 1146,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-10-30"
-    },
-    "krmzy_series": {
-      "provider": "krmzy",
-      "items": 192,
+      "items": 1640,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-30"
@@ -306,6 +292,13 @@
     "eseek_series": {
       "provider": "eseek",
       "items": 0,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-30"
+    },
+    "akwam_arabic_movies": {
+      "provider": "akwam",
+      "items": 1146,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-30"
@@ -318,6 +311,13 @@
       "lastOk": null,
       "error": 403
     },
+    "krmzy_series": {
+      "provider": "krmzy",
+      "items": 192,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-10-30"
+    },
     "asia2tv_drama": {
       "provider": "aia2tv",
       "items": 2112,
@@ -325,11 +325,11 @@
       "backfillDone": true,
       "lastOk": "2026-10-30"
     },
-    "aflaam_movies": {
-      "provider": "aflaam",
-      "items": 47,
+    "akwam_latest_series": {
+      "provider": "akwam",
+      "items": 2305,
       "reachable": true,
-      "backfillDone": true,
+      "backfillDone": false,
       "lastOk": "2026-10-30"
     },
     "shahidwbas_latest": {
@@ -340,23 +340,16 @@
       "lastOk": null,
       "error": 403
     },
-    "akwam_latest_series": {
-      "provider": "akwam",
-      "items": 2162,
-      "reachable": true,
-      "backfillDone": false,
-      "lastOk": "2026-10-30"
-    },
-    "lodynet_latest": {
-      "provider": "lodynet",
-      "items": 33,
+    "aflaam_movies": {
+      "provider": "aflaam",
+      "items": 47,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-10-30"
     },
     "akwam_latest_movies": {
       "provider": "akwam",
-      "items": 2638,
+      "items": 2815,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-30"
@@ -410,47 +403,60 @@
     },
     "replaymatch_latest": {
       "provider": "replaymatch",
-      "items": 1280,
+      "items": 1364,
       "reachable": true,
       "backfillDone": false,
       "lastOk": "2026-10-30"
     },
+    "lodynet_latest": {
+      "provider": "lodynet",
+      "items": 33,
+      "reachable": false,
+      "backfillDone": true,
+      "lastOk": "2026-10-30",
+      "error": "network"
+    },
     "_streams": {
       "attempted": 700,
-      "playable": 320,
-      "none": 380,
+      "playable": 267,
+      "none": 433,
       "failures": {
         "3isk": {
-          "no-embeds": 145
+          "no-embeds": 136
         },
         "tuniflix": {
-          "embeds-failed:tuniflix.site": 165,
+          "embeds-failed:tuniflix.site": 169,
           "embeds-failed:tuniflix.site,web6.topcinema.cam": 1
         },
         "replaymatch": {
-          "embeds-failed:playmogo.com,t.me,ko-fi.com": 9,
-          "embeds-failed:playmogo.com,mixdrop.top,t.me,ko-fi.com": 9,
-          "embeds-failed:playmogo.com,mixdrop.top,playmate.to,t.me": 1,
-          "embeds-failed:t.me,ko-fi.com": 3,
-          "embeds-failed:playmogo.com,playmate.to,mixdrop.top,t.me": 3,
-          "embeds-failed:mixdrop.top,t.me,ko-fi.com": 2,
-          "embeds-failed:playmogo.com,mixdrop.top,streamtape.com,t.me": 1,
-          "embeds-failed:mixdrop.top,playmogo.com,t.me,ko-fi.com": 1,
-          "embeds-failed:playmogo.com,miiixdrop.net,t.me,ko-fi.com": 1,
           "embeds-failed:app.videas.fr,playmogo.com,t.me,ko-fi.com": 2,
-          "embeds-failed:app.videas.fr,t.me,ko-fi.com": 1
+          "embeds-failed:app.videas.fr,t.me,ko-fi.com": 2,
+          "embeds-failed:t.me,ko-fi.com": 38,
+          "embeds-failed:playmogo.com,t.me,ko-fi.com": 31,
+          "embeds-failed:exe.io,t.me,ko-fi.com": 9,
+          "embeds-failed:ouo.io,t.me,ko-fi.com": 3,
+          "embeds-failed:playmogo.com,morencius.com,t.me,ko-fi.com": 8,
+          "embeds-failed:playmogo.com,hgcloud.to,t.me,ko-fi.com": 2,
+          "embeds-failed:playmogo.com,mixdrop.top,t.me,ko-fi.com": 2,
+          "embeds-failed:playmogo.com,morencius.com,mixdrop.top,t.me": 2,
+          "embeds-failed:playmogo.com,morencius.com,gofile.io,t.me": 1,
+          "embeds-failed:playmogo.com,hgcloud.to,morencius.com,gofile.io": 1,
+          "embeds-failed:playmogo.com,hgcloud.to,morencius.com,mixdrop.top": 2,
+          "embeds-failed:playmogo.com,mixdrop.top,morencius.com,t.me": 1,
+          "embeds-failed:playmogo.com,hgcloud.to,morencius.com,t.me": 1,
+          "embeds-failed:morencius.com,playmogo.com,t.me,ko-fi.com": 1,
+          "embeds-failed:hgcloud.to,t.me,ko-fi.com": 1
         },
         "lodynet": {
-          "embeds-failed:lodynet.watch": 21,
-          "embeds-failed:lodynet.watch,www.vidlo.us,megamax.me,vidmoly.org": 15
+          "embeds-failed:lodynet.watch,www.vidlo.us,megamax.me,vidmoly.org": 20
         }
       }
     },
     "_episodes": {
       "checked": 120,
-      "updated": 7,
+      "updated": 8,
       "noEpisodes": 1,
-      "unreachable": 48
+      "unreachable": 55
     }
   }
 }

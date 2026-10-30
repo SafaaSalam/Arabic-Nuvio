@@ -174,7 +174,7 @@
     "id": "alooytv-collection",
     "title": "AlooyTv — Gulf, Arabic & Turkish Series",
     "name": "AlooyTv — Gulf, Arabic & Turkish Series",
-    "backdropImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2023.jpg",
+    "backdropImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2011.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -184,12 +184,12 @@
         "id": "folder-src_alooytv_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2023.jpg",
+        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2011.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2023.jpg",
+        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2011.jpg",
         "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
         "sources": [
           {

@@ -746,6 +746,7 @@ async function main() {
 
   for (const cat of allExtraCatalogs) {
     if (!cat || !Array.isArray(cat.metas) || cat.metas.length === 0) continue;
+    if (cat.group === "anime") continue; // anime sources are not offered in the catalogs / collections
     const englishName = cat.enTitle || cat.arTitle;
     const firstRowOfProvider = !homeProviders.has(cat.providerKey);
     homeProviders.add(cat.providerKey);

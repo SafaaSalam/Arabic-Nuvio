@@ -586,5 +586,203 @@
         ]
       }
     ]
+  },
+  {
+    "id": "moviesmod-collection",
+    "title": "Moviesmod — Hindi & English Movies",
+    "name": "Moviesmod — Hindi & English Movies",
+    "backdropImageUrl": "https://moviesmod.meme/wp-content/uploads/2026/10/Download-A-Love-Story-of-Assassin-Hindi.webp",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_moviesmod_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://moviesmod.meme/wp-content/uploads/2026/10/Download-A-Love-Story-of-Assassin-Hindi.webp",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://moviesmod.meme/wp-content/uploads/2026/10/Download-A-Love-Story-of-Assassin-Hindi.webp",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_moviesmod_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_moviesmod_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_moviesmod_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://moviesmod.meme/wp-content/uploads/2026/10/Download-Hercai-Hindi-Turkish.webp",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://moviesmod.meme/wp-content/uploads/2026/10/Download-Hercai-Hindi-Turkish.webp",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_moviesmod_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_moviesmod_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bollyflix-collection",
+    "title": "Bollyflix — Hindi & English Movies",
+    "name": "Bollyflix — Hindi & English Movies",
+    "backdropImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-stunt-driver-2026-english-movie.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_bollyflix_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-stunt-driver-2026-english-movie.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-stunt-driver-2026-english-movie.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_bollyflix_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_bollyflix_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_bollyflix_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-glory-chinese-web-series.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-glory-chinese-web-series.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_bollyflix_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_bollyflix_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moviesdrive-collection",
+    "title": "MoviesDrive — Hindi & English Movies",
+    "name": "MoviesDrive — Hindi & English Movies",
+    "backdropImageUrl": "https://image.tmdb.org/t/p/w400/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_moviesdrive_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w400/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://image.tmdb.org/t/p/w400/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_moviesdrive_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_moviesdrive_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_moviesdrive_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://image.tmdb.org/t/p/original/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://image.tmdb.org/t/p/original/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_moviesdrive_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_moviesdrive_series"
+          }
+        ]
+      }
+    ]
   }
 ]

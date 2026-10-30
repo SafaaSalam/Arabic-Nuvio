@@ -30,7 +30,11 @@
     "animerco_",
     "witanime_",
     "animephoenix_",
-    "replaymatch_"
+    "replaymatch_",
+    "moviesmod_",
+    "vegamovies_",
+    "bollyflix_",
+    "moviesdrive_"
   ],
   "resources": [
     "catalog",
@@ -60,7 +64,11 @@
         "animerco_",
         "witanime_",
         "animephoenix_",
-        "replaymatch_"
+        "replaymatch_",
+        "moviesmod_",
+        "vegamovies_",
+        "bollyflix_",
+        "moviesdrive_"
       ]
     },
     {
@@ -89,7 +97,11 @@
         "animerco_",
         "witanime_",
         "animephoenix_",
-        "replaymatch_"
+        "replaymatch_",
+        "moviesmod_",
+        "vegamovies_",
+        "bollyflix_",
+        "moviesdrive_"
       ]
     }
   ],
@@ -293,6 +305,84 @@
       "type": "movie",
       "id": "src_replaymatch_movies",
       "name": "FullMatchShows — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_moviesmod_movies",
+      "name": "Moviesmod — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_moviesmod_series",
+      "name": "Moviesmod — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_bollyflix_movies",
+      "name": "Bollyflix — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_bollyflix_series",
+      "name": "Bollyflix — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_moviesdrive_movies",
+      "name": "MoviesDrive — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_moviesdrive_series",
+      "name": "MoviesDrive — Latest Series",
       "pageSize": 50,
       "extra": [
         {

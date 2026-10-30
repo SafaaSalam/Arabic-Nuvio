@@ -15,7 +15,9 @@ const path = require("path");
 const ROOT_DIR = path.resolve(__dirname, "..");
 const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
+const fav = (d) => `https://www.google.com/s2/favicons?domain=${d}&sz=128`;
 const LOGOS = {
+  moviesmod: fav("moviesmod.meme"), vegamovies: fav("1vegamovies.shop"), bollyflix: fav("bollyflix.church"), moviesdrive: fav("moviesdrive.cyou"),
   cee: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
   "3isk": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
   alooytv: "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
@@ -200,8 +202,9 @@ function parseGeneric(html, base, cfg) {
     }
     if (!aM || !titleM || !poster) continue;
     const href = fixUrl(aM[1], base);
-    const title = cleanHtmlText(titleM[1] || titleM[2]);
+    const title = cleanHtmlText(titleM[1] || titleM[2]).replace(/^Download\s+/i, "");
     if (!href || !title || title.length < 2) continue;
+    if (cfg.keep && !cfg.keep(title)) continue;
     const meta = makeMetaItem({ id: `${cfg.prefix}_${slugOf(href)}`, type: cfg.type, name: title, poster, description: `${title} — ${cfg.enTitle}`, logo: cfg.logo });
     if (meta) list.push(meta);
   }
@@ -263,6 +266,7 @@ async function htmlSource(fetchPageUrls, parse) {
   return { ok: false, status: lastStatus };
 }
 
+const SERIES_RE = /season|series|\bS\d{1,2}\b|\bE\d{1,3}\b|episode/i;
 const GENERIC_SOURCES = [
   { id: "tuktukcima_recent", providerKey: "tuktukcima", prefix: "tuktukcima", group: "drama", type: "movie", base: "https://tuktukcinemas.com", bases: ["https://tuktukcinemas.com", "https://tuktukhd.com"], pageUrl: (n) => `/recent/page/${n}`,
     arTitle: "توك توك سيما - المضاف حديثاً", enTitle: "TukTukcima Recently Added", emoji: "🎬", logo: LOGOS.tuktukcima,
@@ -323,6 +327,33 @@ const GENERIC_SOURCES = [
     arTitle: "إعادة المباريات الكاملة - FullMatchShows", enTitle: "FullMatchShows Latest Football Replays", emoji: "⚽", logo: LOGOS.replaymatch,
     itemRegex: /<article[^>]*class=["'][^"']*bloglo-article[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
     titleRegex: /<h4[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i },
+  // ---- Hindi / English movie sites from the CSX Cloudstream repository (github.com/SaurabhKaperwan/CSX, GPL-3.0).
+  // Domains and page layouts follow that repository. These sites have no direct in-app links (download hosts only),
+  // so they are browse-only (noResolve) and their detail pages are searched by the provider plugins.
+  { id: "moviesmod_movies", providerKey: "moviesmod", prefix: "moviesmod", group: "hindi", noResolve: true, type: "movie", base: "https://moviesmod.meme", pageUrl: (n) => `/movies/page/${n}/`,
+    arTitle: "موفيز مود - أحدث الأفلام", enTitle: "Moviesmod Latest Movies", emoji: "🎬", logo: LOGOS.moviesmod,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi },
+  { id: "moviesmod_series", providerKey: "moviesmod", prefix: "moviesmod", group: "hindi", noResolve: true, type: "series", base: "https://moviesmod.meme", pageUrl: (n) => `/web-series/on-going/page/${n}/`,
+    arTitle: "موفيز مود - أحدث المسلسلات", enTitle: "Moviesmod Latest Web Series", emoji: "📺", logo: LOGOS.moviesmod,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi },
+  { id: "vegamovies_movies", providerKey: "vegamovies", prefix: "vegamovies", group: "hindi", noResolve: true, type: "movie", base: "https://1vegamovies.shop", pageUrl: (n) => `/page/${n}/`,
+    arTitle: "فيغا موفيز - أحدث الأفلام", enTitle: "VegaMovies Latest Movies", emoji: "🎬", logo: LOGOS.vegamovies,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<img[^>]*alt=["']([^"']+)["']/i, keep: (t) => !SERIES_RE.test(t) },
+  { id: "vegamovies_series", providerKey: "vegamovies", prefix: "vegamovies", group: "hindi", noResolve: true, type: "series", base: "https://1vegamovies.shop", pageUrl: (n) => `/category/web-series/page/${n}/`,
+    arTitle: "فيغا موفيز - أحدث المسلسلات", enTitle: "VegaMovies Latest Web Series", emoji: "📺", logo: LOGOS.vegamovies,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<img[^>]*alt=["']([^"']+)["']/i },
+  { id: "bollyflix_movies", providerKey: "bollyflix", prefix: "bollyflix", group: "hindi", noResolve: true, type: "movie", base: "https://bollyflix.church", pageUrl: (n) => (n > 1 ? `/movies/hollywood/page/${n}/` : "/movies/hollywood/"),
+    arTitle: "بولي فليكس - أحدث الأفلام", enTitle: "Bollyflix Latest Movies", emoji: "🎬", logo: LOGOS.bollyflix,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi, keep: (t) => !SERIES_RE.test(t) },
+  { id: "bollyflix_series", providerKey: "bollyflix", prefix: "bollyflix", group: "hindi", noResolve: true, type: "series", base: "https://bollyflix.church", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
+    arTitle: "بولي فليكس - أحدث المسلسلات", enTitle: "Bollyflix Latest Series", emoji: "📺", logo: LOGOS.bollyflix,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi, keep: (t) => SERIES_RE.test(t) },
+  { id: "moviesdrive_movies", providerKey: "moviesdrive", prefix: "moviesdrive", group: "hindi", noResolve: true, type: "movie", base: "https://new1.moviesdrive.cyou", pageUrl: (n) => `/page/${n}`,
+    arTitle: "موفيز درايف - أحدث الأفلام", enTitle: "MoviesDrive Latest Movies", emoji: "🎬", logo: LOGOS.moviesdrive,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<p[^>]*>([\s\S]*?)<\/p>/i, keep: (t) => !SERIES_RE.test(t) },
+  { id: "moviesdrive_series", providerKey: "moviesdrive", prefix: "moviesdrive", group: "hindi", noResolve: true, type: "series", base: "https://new1.moviesdrive.cyou", pageUrl: (n) => `/page/${n}`,
+    arTitle: "موفيز درايف - أحدث المسلسلات", enTitle: "MoviesDrive Latest Series", emoji: "📺", logo: LOGOS.moviesdrive,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<p[^>]*>([\s\S]*?)<\/p>/i, keep: (t) => SERIES_RE.test(t) },
 ];
 
 function buildSources() {
@@ -378,7 +409,7 @@ function buildSources() {
   for (const cfg of GENERIC_SOURCES) {
     S.push({
       id: cfg.id, idPrefix: cfg.prefix, bases: cfg.bases || [cfg.base], type: cfg.type, arTitle: cfg.arTitle, enTitle: cfg.enTitle, emoji: cfg.emoji, providerKey: cfg.providerKey, group: cfg.group, logo: cfg.logo,
-      paginated: cfg.paginated,
+      paginated: cfg.paginated, noResolve: cfg.noResolve,
       fetchPage: (n) => htmlSource([cfg.base + cfg.pageUrl(n)], (h, o) => parseGeneric(h, o, cfg)),
     });
   }

@@ -51,13 +51,15 @@ const PROVIDER_NAMES = {
   cinemana: "Cinemana", cee: "CEE", "3isk": "3isk", alooytv: "AlooyTv", akwam: "Akwam", tuktukcima: "TukTukcima", lodynet: "LodyNet",
   krmzy: "Krmzy", eseek: "Eseek", aia2tv: "Asia2TV", "5tv": "5TV", aflaam: "Aflaam", shahidwbas: "ShahidWBas",
   tuniflix: "TuniFlix", anim3rb: "Anime3rb", anime4up: "Anime4Up", animerco: "Animerco", witanime: "WitAnime",
-  "anime-phoenix": "Anime Phoenix", replaymatch: "FullMatchShows"
+  "anime-phoenix": "Anime Phoenix", replaymatch: "FullMatchShows",
+  moviesmod: "Moviesmod", vegamovies: "VegaMovies", bollyflix: "Bollyflix", moviesdrive: "MoviesDrive"
 };
 const PROVIDER_SUBTITLES = {
   cinemana: "Movies & Series (🇮🇶)", cee: "Movies & Series (🇮🇶)", "3isk": "Turkish Drama", alooytv: "Gulf, Arabic & Turkish Series", akwam: "Movies & Series",
   tuktukcima: "Movies", lodynet: "Turkish & Asian Series", krmzy: "Turkish Series", eseek: "Turkish Series", aia2tv: "Asian Drama",
   "5tv": "Movies & Series", aflaam: "Arabic Movies", shahidwbas: "Arabic Series", tuniflix: "Movies", anim3rb: "Anime",
-  anime4up: "Anime", animerco: "Anime", witanime: "Anime", "anime-phoenix": "Anime", replaymatch: "Football Replays"
+  anime4up: "Anime", animerco: "Anime", witanime: "Anime", "anime-phoenix": "Anime", replaymatch: "Football Replays",
+  moviesmod: "Hindi & English Movies", vegamovies: "Hindi & English Movies", bollyflix: "Hindi & English Movies", moviesdrive: "Hindi & English Movies"
 };
 
 function sleep(ms) {
@@ -791,7 +793,7 @@ async function main() {
       if (m.type === "series") {
         metaObj.videos = scraped ? existing.videos : [{ id: `${m.id}_s1e1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
         if (scraped) { metaObj.episodesScraped = true; metaObj.website = existing.website; }
-        if (cat.idPrefix && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
+        if (cat.idPrefix && !cat.noResolve && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
       }
       writeJson(metaPath, { meta: metaObj }, false);
     });
@@ -923,6 +925,7 @@ async function main() {
       const resolveJobs = [];
       let streamFiles = 0;
       for (const { m, cat, metaPath } of customItems) {
+        if (cat.noResolve) continue; // browse-only sources (no direct in-app links)
         let meta; try { meta = JSON.parse(fs.readFileSync(metaPath, "utf8")).meta; } catch (_) { continue; }
         const slug = store.decodeIdSlug(m.id.slice(cat.idPrefix.length + 1).split(":")[0].replace(/__/g, "/"));
         const base = await firstBase(cat);
@@ -1052,7 +1055,7 @@ async function main() {
       const dir = path.join(ADDON_DIR, "meta", type);
       if (!fs.existsSync(dir)) continue;
       for (const f of fs.readdirSync(dir)) {
-        if (f.startsWith("cine_") || !/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch)_/.test(f)) continue;
+        if (f.startsWith("cine_") || !/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch|moviesmod|vegamovies|bollyflix|moviesdrive)_/.test(f)) continue;
         const full = path.join(dir, f);
         if (!expectedMetaFiles.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
       }
@@ -1144,7 +1147,7 @@ async function main() {
     "tuktukcima_", "lodynet_", "krmzy_", "eseek_", "aia2tv_",
     "5tv_", "aflaam_", "shahidwbas_", "tuniflix_",
     "anim3rb_", "anime4up_", "animerco_", "witanime_", "animephoenix_",
-    "replaymatch_"
+    "replaymatch_", "moviesmod_", "vegamovies_", "bollyflix_", "moviesdrive_"
   ];
   const addonManifest = {
     id: ADDON_ID,

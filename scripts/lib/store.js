@@ -17,7 +17,7 @@ const path = require("path");
 const ROOT_DIR = path.resolve(__dirname, "..", "..");
 const STORE_DIR = path.join(ROOT_DIR, "data", "store");
 const ADDON_DIR = path.join(ROOT_DIR, "addon");
-const PAGE_SIZE = 100;
+const PAGE_SIZE = 50;
 
 // ---------------------------------------------------------------- io helpers
 function ensureDir(p) { fs.mkdirSync(p, { recursive: true }); }

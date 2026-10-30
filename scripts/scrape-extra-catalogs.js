@@ -328,12 +328,16 @@ const GENERIC_SOURCES = [
 function buildSources() {
   const S = [];
   // ---- Priority 2: CEE
-  S.push(ceeSource("cee_newly_movies", "movie", "أحدث أفلام CEE", "CEE Newly Added Movies", "🎬", ceeNewly, 1));
-  S.push(ceeSource("cee_newly_series", "series", "أحدث مسلسلات CEE", "CEE Newly Added Series", "📺", ceeNewly, 2));
-  S.push(ceeSource("cee_popular_movies", "movie", "الأكثر مشاهدة - أفلام CEE", "CEE Most Viewed Movies", "🔥", ceeVideo(1, "views_desc"), 1));
-  S.push(ceeSource("cee_top_movies", "movie", "أعلى تقييم - أفلام CEE", "CEE Top Rated Movies", "⭐", ceeVideo(1, "stars_desc"), 1));
-  S.push(ceeSource("cee_popular_series", "series", "الأكثر مشاهدة - مسلسلات CEE", "CEE Most Viewed Series", "🔥", ceeVideo(2, "views_desc"), 2));
-  S.push(ceeSource("cee_top_series", "series", "أعلى تقييم - مسلسلات CEE", "CEE Top Rated Series", "⭐", ceeVideo(2, "stars_desc"), 2));
+  // CEE rows are turned off: cee.buzz only answers from Iraq, so they never updated from GitHub.
+  // CEE is served live by the CNCVerse Bridge addon instead. Set SYNC_CEE=1 to bring these rows back.
+  if (process.env.SYNC_CEE === "1") {
+    S.push(ceeSource("cee_newly_movies", "movie", "أحدث أفلام CEE", "CEE Newly Added Movies", "🎬", ceeNewly, 1));
+    S.push(ceeSource("cee_newly_series", "series", "أحدث مسلسلات CEE", "CEE Newly Added Series", "📺", ceeNewly, 2));
+    S.push(ceeSource("cee_popular_movies", "movie", "الأكثر مشاهدة - أفلام CEE", "CEE Most Viewed Movies", "🔥", ceeVideo(1, "views_desc"), 1));
+    S.push(ceeSource("cee_top_movies", "movie", "أعلى تقييم - أفلام CEE", "CEE Top Rated Movies", "⭐", ceeVideo(1, "stars_desc"), 1));
+    S.push(ceeSource("cee_popular_series", "series", "الأكثر مشاهدة - مسلسلات CEE", "CEE Most Viewed Series", "🔥", ceeVideo(2, "views_desc"), 2));
+    S.push(ceeSource("cee_top_series", "series", "أعلى تقييم - مسلسلات CEE", "CEE Top Rated Series", "⭐", ceeVideo(2, "stars_desc"), 2));
+  }
 
   // ---- Priority 3: 3isk
   const eishkBases = ["https://3iskk.xyz", "https://3esk.onl"];

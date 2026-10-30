@@ -812,5 +812,85 @@
     "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/youtube.jpg",
     "mainUrl": "https://www.youtube.com",
     "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/youtube.js"
+  },
+  {
+    "id": "moviesmod",
+    "name": "Moviesmod",
+    "internalName": "Moviesmod",
+    "description": "Moviesmod (incl. TopMovies) — Hindi & English Movies and Web Series (from the CSX Cloudstream repo)",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
+    "mainUrl": "https://moviesmod.meme",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/moviesmod.js"
+  },
+  {
+    "id": "vegamovies",
+    "name": "VegaMovies",
+    "internalName": "VegaMovies",
+    "description": "VegaMovies — Hindi & English Movies and Web Series (from the CSX Cloudstream repo)",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+    "mainUrl": "https://1vegamovies.shop",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/vegamovies.js"
+  },
+  {
+    "id": "bollyflix",
+    "name": "Bollyflix",
+    "internalName": "Bollyflix",
+    "description": "Bollyflix — Bollywood & Hollywood Movies and Series (from the CSX Cloudstream repo)",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
+    "mainUrl": "https://bollyflix.church",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/bollyflix.js"
+  },
+  {
+    "id": "moviesdrive",
+    "name": "MoviesDrive",
+    "internalName": "MoviesDrive",
+    "description": "MoviesDrive — High Quality Movies and TV Shows (from the CSX Cloudstream repo)",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
+    "mainUrl": "https://new1.moviesdrive.cyou",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/moviesdrive.js"
   }
 ]

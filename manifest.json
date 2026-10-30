@@ -969,6 +969,98 @@
         "m3u8"
       ],
       "supportsExternalPlayer": true
+    },
+    {
+      "id": "moviesmod",
+      "name": "Moviesmod",
+      "description": "Moviesmod (incl. TopMovies) — Hindi & English Movies and Web Series (from the CSX Cloudstream repo)",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/moviesmod.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "vegamovies",
+      "name": "VegaMovies",
+      "description": "VegaMovies — Hindi & English Movies and Web Series (from the CSX Cloudstream repo)",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/vegamovies.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "bollyflix",
+      "name": "Bollyflix",
+      "description": "Bollyflix — Bollywood & Hollywood Movies and Series (from the CSX Cloudstream repo)",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/bollyflix.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "moviesdrive",
+      "name": "MoviesDrive",
+      "description": "MoviesDrive — High Quality Movies and TV Shows (from the CSX Cloudstream repo)",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/moviesdrive.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
     }
   ]
 }

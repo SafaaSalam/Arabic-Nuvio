@@ -428,28 +428,6 @@ const PROVIDERS_CATALOG = [
 
   // === LIVE TV & SPORTS PROVIDERS ===
   {
-    id: "yacintv",
-    name: "Yacine TV | ياسين تيفي",
-    description: "Yacine TV — Live Sports, News & Arabic TV Channels",
-    version: "1.1.0",
-    mainUrl: "https://def11.ycnapi.com/api",
-    logo: "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
-    supportedTypes: ["movie", "tv"],
-    tvTypes: ["Live"],
-    searchPath: "/channels",
-  },
-  {
-    id: "syria-live",
-    name: "SyriaLive | سوريا لايف",
-    description: "SyriaLive — Live Football Matches & Sports Broadcasts",
-    version: "1.1.0",
-    mainUrl: "https://www.syrlive.com",
-    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF607wnarFL8Ob8KLPahUPJzcLjbtg1pEH0A&s",
-    supportedTypes: ["movie", "tv"],
-    tvTypes: ["Live", "Movie"],
-    searchPath: "/?s={query}",
-  },
-  {
     id: "replaymatch",
     name: "FullMatchShows | ReplayMatch",
     description: "FullMatchShows — Full Football Match Replays & Highlights (Premier League, La Liga, UCL)",
@@ -459,17 +437,6 @@ const PROVIDERS_CATALOG = [
     supportedTypes: ["movie", "tv"],
     tvTypes: ["Movie"],
     searchPath: "/?s={query}",
-  },
-  {
-    id: "tvgarden",
-    name: "TVgarden (Famelack)",
-    description: "TVgarden (Famelack) — Worldwide & Arabic Live TV Channels",
-    version: "1.1.0",
-    mainUrl: "https://famelack.com",
-    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lci-tXtOtWaHcEp9An7bqIkXs4yzH7EcfA&s",
-    supportedTypes: ["movie", "tv"],
-    tvTypes: ["Live"],
-    searchPath: "/tv",
   },
   {
     id: "youtube",

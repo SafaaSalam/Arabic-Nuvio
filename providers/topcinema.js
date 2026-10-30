@@ -148,30 +148,51 @@ function findEpisodeUrl(html, baseUrl, season, episode) {
   return best;
 }
 
+// True when the page URL itself is the page of episode N (e.g. ".../series-ep-5/").
+function urlIsEpisode(url, episode) {
+  var wantEp = parseInt(episode, 10);
+  if (isNaN(wantEp)) return false;
+  var path = safeDecodeUri(String(url || "")).replace(/^https?:\/\/[^\/]+/i, "");
+  var re = new RegExp(EP_WORD_RE + "[\\s\\-_.:/]*0*(\\d{1,4})(?!\\d)", "i");
+  var m = path.match(re);
+  if (m) return parseInt(m[1], 10) === wantEp;
+  var sx = path.match(/(?:^|[^a-z])s0*\d{1,2}[\s._-]*e0*(\d{1,4})(?!\d)/i);
+  return !!sx && parseInt(sx[1], 10) === wantEp;
+}
+
 // Picks the search result whose title/URL best matches one of the wanted titles.
+// An exact title match beats a whole-word match, which beats a plain substring match.
+// With no match at all it returns null (a wrong show is worse than no result), except when the
+// search returned exactly one candidate.
 function pickBestSearchResult(html, pageUrl, titles) {
   var host = "";
   try { host = new URL(pageUrl).hostname; } catch (e) {}
-  var norm = function (s) { return safeDecodeUri(String(s || "")).toLowerCase().replace(/[^a-z0-9؀-ۿ]+/g, " ").trim(); };
+  var norm = function (s) { return safeDecodeUri(String(s || "")).toLowerCase().replace(/[^a-z0-9\u0600-\u06ff]+/g, " ").trim(); };
   var wanted = [];
   for (var t = 0; t < titles.length; t++) { var n = norm(titles[t]); if (n.length > 1) wanted.push(n); }
   var re = /<a\b[^>]*?href=["'](https?:\/\/[^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
   var m;
   var bestUrl = null;
   var bestScore = 0;
-  var first = null;
+  var cands = [];
   while ((m = re.exec(html)) !== null) {
     var href = m[1];
     if (host && href.indexOf(host) === -1) continue;
     if (/\/(?:category|tag|genre|page|search|login|register|contact|wp-content|wp-admin|feed|author)\b/i.test(href)) continue;
     if (href.replace(/\/+$/, "") === String(pageUrl).replace(/\/+$/, "")) continue;
-    if (!first) first = href;
+    if (cands.indexOf(href) === -1) cands.push(href);
+    var label = norm(stripTagsText(m[2]));
     var hay = norm(stripTagsText(m[2]) + " " + href);
     for (var w = 0; w < wanted.length; w++) {
-      if (hay.indexOf(wanted[w]) !== -1 && wanted[w].length > bestScore) { bestScore = wanted[w].length; bestUrl = href; }
+      var score = 0;
+      if (label === wanted[w]) score = 3000 + wanted[w].length;
+      else if ((" " + hay + " ").indexOf(" " + wanted[w] + " ") !== -1) score = 2000 + wanted[w].length;
+      else if (hay.indexOf(wanted[w]) !== -1) score = 1000 + wanted[w].length;
+      if (score > bestScore) { bestScore = score; bestUrl = href; }
     }
   }
-  return bestUrl || first;
+  if (bestUrl) return bestUrl;
+  return cands.length === 1 ? cands[0] : null;
 }
 
 
@@ -433,15 +454,16 @@ async function getStreams(tmdbId, mediaType, season, episode) {
         ? targetInfo.customSlug
         : fixUrl(targetInfo.customSlug, mainUrl);
     } else {
-      for (var i = 0; i < targetInfo.titles.length; i++) {
-        var q = targetInfo.titles[i];
+      // Search every title variant (Arabic / English / original) in parallel instead of one after another.
+      var searchTitles = targetInfo.titles.slice(0, 3);
+      var found = await Promise.all(searchTitles.map(function (q) {
         var sUrl = mainUrl + SEARCH_PATH.replace("{query}", encodeURIComponent(q));
-        var sRes = await safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } });
-        if (!sRes || !sRes.text) continue;
-
-        targetUrl = pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
-        if (targetUrl) break;
-      }
+        return safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } }).then(function (sRes) {
+          if (!sRes || !sRes.text) return null;
+          return pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
+        }).catch(function () { return null; });
+      }));
+      for (var fi = 0; fi < found.length; fi++) { if (found[fi]) { targetUrl = found[fi]; break; } }
     }
 
     if (!targetUrl) return [];
@@ -471,6 +493,9 @@ async function getStreams(tmdbId, mediaType, season, episode) {
           html = epRes.text;
           finalPageUrl = epRes.url || epUrl;
         }
+      } else if (!urlIsEpisode(finalPageUrl, episode)) {
+        // The requested episode was not found: never return the series page's links (wrong episode).
+        return [];
       }
     }
 

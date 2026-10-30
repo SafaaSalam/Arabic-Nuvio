@@ -822,15 +822,16 @@ async function getStreams(tmdbId, mediaType, season, episode) {
         ? targetInfo.customSlug
         : fixUrl(targetInfo.customSlug, mainUrl);
     } else {
-      for (var i = 0; i < targetInfo.titles.length; i++) {
-        var q = targetInfo.titles[i];
+      // Search every title variant (Arabic / English / original) in parallel instead of one after another.
+      var searchTitles = targetInfo.titles.slice(0, 3);
+      var found = await Promise.all(searchTitles.map(function (q) {
         var sUrl = mainUrl + SEARCH_PATH.replace("{query}", encodeURIComponent(q));
-        var sRes = await safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } });
-        if (!sRes || !sRes.text) continue;
-
-        targetUrl = pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
-        if (targetUrl) break;
-      }
+        return safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } }).then(function (sRes) {
+          if (!sRes || !sRes.text) return null;
+          return pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
+        }).catch(function () { return null; });
+      }));
+      for (var fi = 0; fi < found.length; fi++) { if (found[fi]) { targetUrl = found[fi]; break; } }
     }
 
     if (!targetUrl) return [];
@@ -860,6 +861,9 @@ async function getStreams(tmdbId, mediaType, season, episode) {
           html = epRes.text;
           finalPageUrl = epRes.url || epUrl;
         }
+      } else if (!urlIsEpisode(finalPageUrl, episode)) {
+        // The requested episode was not found: never return the series page's links (wrong episode).
+        return [];
       }
     }
 

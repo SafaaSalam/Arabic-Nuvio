@@ -66,372 +66,9 @@
     ]
   },
   {
-    "id": "cinemana-home-collection",
-    "title": "Shabakaty Cinemana Home (🇮🇶)",
-    "name": "Shabakaty Cinemana Home (🇮🇶)",
-    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": true,
-    "folders": [
-      {
-        "id": "folder-cinemana_banner_movies",
-        "title": "Featured Movies (Cinemana)",
-        "name": "Featured Movies (Cinemana)",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🌟",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_banner_movies"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_banner_movies"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_banner_series",
-        "title": "Featured Series (Cinemana)",
-        "name": "Featured Series (Cinemana)",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/2EDFC3A2-0802-D8FC-4D2E-A0F4C7A59B95_cover.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🌟",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-cover-images/2EDFC3A2-0802-D8FC-4D2E-A0F4C7A59B95_cover.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_banner_series"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_banner_series"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_410",
-        "title": "Currently Airing Turkish",
-        "name": "Currently Airing Turkish",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/BFDF541A-9568-6DC0-EA00-E22C941C63E4_poster.jpeg",
-        "focusGifEnabled": true,
-        "coverEmoji": "📺",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/BFDF541A-9568-6DC0-EA00-E22C941C63E4_poster.jpeg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_410"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_410"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_26",
-        "title": "Featured Movies",
-        "name": "Featured Movies",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/304B0856-37FB-6110-D889-B19563D95760_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🎬",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/304B0856-37FB-6110-D889-B19563D95760_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_26"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_26"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_2",
-        "title": "Featured Series",
-        "name": "Featured Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "📺",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_2"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_2"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_290",
-        "title": "4K Movies",
-        "name": "4K Movies",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/304B0856-37FB-6110-D889-B19563D95760_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "💎",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/304B0856-37FB-6110-D889-B19563D95760_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_290"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_290"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_407",
-        "title": "Garden of Sinners Movies",
-        "name": "Garden of Sinners Movies",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/F4321F24-C119-EAEC-614A-78978529F685_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "🎬",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/F4321F24-C119-EAEC-614A-78978529F685_poster.png",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_407"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_407"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_311",
-        "title": "4K Most Popular Series",
-        "name": "4K Most Popular Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/2CCA1AD0-4316-8362-6D00-40255C73D36D_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "💎",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/2CCA1AD0-4316-8362-6D00-40255C73D36D_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_311"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_311"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_392",
-        "title": "4K Mission: Impossible",
-        "name": "4K Mission: Impossible",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/29C1CC76-923C-9DD9-0BA6-6AD215DE408B_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "💎",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/29C1CC76-923C-9DD9-0BA6-6AD215DE408B_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_392"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_392"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_30",
-        "title": "4K Marvel Universe",
-        "name": "4K Marvel Universe",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/D0CAFE55-F0FC-C30C-A958-028E5A5C1EC5_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "💎",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/D0CAFE55-F0FC-C30C-A958-028E5A5C1EC5_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_30"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_30"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_386",
-        "title": "4K James Bond",
-        "name": "4K James Bond",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/FBE41933-F21E-A6E3-97F8-109C5B55D4F4_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "💎",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/FBE41933-F21E-A6E3-97F8-109C5B55D4F4_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_386"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_group_386"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_377",
-        "title": "Latest Asian Series",
-        "name": "Latest Asian Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/B594963B-560D-E159-5877-56387CFF258C_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "📺",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/B594963B-560D-E159-5877-56387CFF258C_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_377"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_377"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_group_4",
-        "title": "Latest Series",
-        "name": "Latest Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "📺",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/DD43678C-3A28-7A10-518D-3D4EE913C575_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_4"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_group_4"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "cinemana-movies-collection",
-    "title": "Cinemana Movies (🇮🇶)",
-    "name": "Cinemana Movies (🇮🇶)",
+    "id": "cinemana-collection",
+    "title": "Cinemana — Movies & Series (🇮🇶)",
+    "name": "Cinemana — Movies & Series (🇮🇶)",
     "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
     "pinToTop": false,
     "focusGlowEnabled": true,
@@ -439,12 +76,12 @@
     "showAllTab": true,
     "folders": [
       {
-        "id": "folder-cinemana_newly_movies",
-        "title": "Newly Added Movies",
-        "name": "Newly Added Movies",
+        "id": "folder-src_cinemana_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
         "focusGifEnabled": true,
-        "coverEmoji": "🆕",
+        "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
@@ -454,144 +91,24 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "cinemana_newly_movies"
+            "catalogId": "src_cinemana_movies"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "cinemana_newly_movies"
+            "catalogId": "src_cinemana_movies"
           }
         ]
       },
       {
-        "id": "folder-cinemana_mov_upload_desc",
-        "title": "Movies - Latest Uploaded",
-        "name": "Movies - Latest Uploaded",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🎬",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/A43624DD-FBDD-41AB-56A7-2F117AE5C9D5_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_upload_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_upload_desc"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_mov_release_desc",
-        "title": "Movies - Newest Release",
-        "name": "Movies - Newest Release",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/54858168-8ACC-A810-1951-93FD6332D1B5_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🗓️",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/54858168-8ACC-A810-1951-93FD6332D1B5_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_release_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_release_desc"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_mov_views_desc",
-        "title": "Movies - Most Viewed",
-        "name": "Movies - Most Viewed",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0A831473-8DEF-1225-0AEF-974F6041939C_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🔥",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0A831473-8DEF-1225-0AEF-974F6041939C_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_views_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_views_desc"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_mov_stars_desc",
-        "title": "Movies - Top IMDb Rated",
-        "name": "Movies - Top IMDb Rated",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/FD951829-6199-8E3B-C98F-66EEBF90EA70_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "⭐",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/FD951829-6199-8E3B-C98F-66EEBF90EA70_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_stars_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "cinemana_mov_stars_desc"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "cinemana-series-collection",
-    "title": "Cinemana Series (🇮🇶)",
-    "name": "Cinemana Series (🇮🇶)",
-    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": true,
-    "folders": [
-      {
-        "id": "folder-cinemana_newly_series",
-        "title": "Newly Added Series",
-        "name": "Newly Added Series",
+        "id": "folder-src_cinemana_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
         "focusGifEnabled": true,
-        "coverEmoji": "🆕",
+        "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
@@ -601,122 +118,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "cinemana_newly_series"
+            "catalogId": "src_cinemana_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "cinemana_newly_series"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_ser_upload_desc",
-        "title": "Series - Latest Uploaded",
-        "name": "Series - Latest Uploaded",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "📺",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/13CDB23E-A6E3-623D-5A67-A15A056B5105_poster.png",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_upload_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_upload_desc"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_ser_release_desc",
-        "title": "Series - Newest Release",
-        "name": "Series - Newest Release",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/1416FD25-A4CB-9A82-CDF3-C5ACBB9902EE_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "🗓️",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/1416FD25-A4CB-9A82-CDF3-C5ACBB9902EE_poster.png",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_release_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_release_desc"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_ser_views_desc",
-        "title": "Series - Most Viewed",
-        "name": "Series - Most Viewed",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "🔥",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/09670EAA-54CB-B0A4-E0CE-079688FF6E84_poster.png",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_views_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_views_desc"
-          }
-        ]
-      },
-      {
-        "id": "folder-cinemana_ser_stars_desc",
-        "title": "Series - Top IMDb Rated",
-        "name": "Series - Top IMDb Rated",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "⭐",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_stars_desc"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "cinemana_ser_stars_desc"
+            "catalogId": "src_cinemana_series"
           }
         ]
       }
@@ -730,15 +139,15 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
-        "id": "folder-3isk_latest_episodes",
-        "title": "Latest Turkish Episodes",
-        "name": "Latest Turkish Episodes",
+        "id": "folder-src_3isk_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2025/12/Khalaf-.jpg",
         "focusGifEnabled": true,
-        "coverEmoji": "🇹🇷",
+        "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2025/12/Khalaf-.jpg",
@@ -748,41 +157,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "3isk_latest_episodes"
+            "catalogId": "src_3isk_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "3isk_latest_episodes"
-          }
-        ]
-      },
-      {
-        "id": "folder-3isk_turkish_series",
-        "title": "Turkish Series",
-        "name": "Turkish Series",
-        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "❤️",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
-        "titleLogoUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "3isk_turkish_series"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "3isk_turkish_series"
+            "catalogId": "src_3isk_series"
           }
         ]
       }
@@ -792,117 +174,36 @@
     "id": "alooytv-collection",
     "title": "AlooyTv — Gulf, Arabic & Turkish Series",
     "name": "AlooyTv — Gulf, Arabic & Turkish Series",
-    "backdropImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1971.jpg",
+    "backdropImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2023.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": true,
+    "showAllTab": false,
     "folders": [
       {
-        "id": "folder-alooy_latest_series",
+        "id": "folder-src_alooytv_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1971.jpg",
+        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2023.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1971.jpg",
+        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2023.jpg",
         "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
         "sources": [
           {
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "alooy_latest_series"
+            "catalogId": "src_alooytv_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "alooy_latest_series"
-          }
-        ]
-      },
-      {
-        "id": "folder-alooy_gulf_ramadan",
-        "title": "Gulf Series",
-        "name": "Gulf Series",
-        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1857.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🌙",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1857.jpg",
-        "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "alooy_gulf_ramadan"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "alooy_gulf_ramadan"
-          }
-        ]
-      },
-      {
-        "id": "folder-alooy_arabic_ramadan",
-        "title": "Arabic Series",
-        "name": "Arabic Series",
-        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1867.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🌟",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1867.jpg",
-        "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "alooy_arabic_ramadan"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "alooy_arabic_ramadan"
-          }
-        ]
-      },
-      {
-        "id": "folder-alooy_turkish_series",
-        "title": "Turkish Series",
-        "name": "Turkish Series",
-        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2033.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🇹🇷",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/2033.jpg",
-        "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "alooy_turkish_series"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "alooy_turkish_series"
+            "catalogId": "src_alooytv_series"
           }
         ]
       }
@@ -919,7 +220,7 @@
     "showAllTab": true,
     "folders": [
       {
-        "id": "folder-akwam_latest_movies",
+        "id": "folder-src_akwam_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/DXQD1.jpg",
@@ -934,19 +235,19 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "akwam_latest_movies"
+            "catalogId": "src_akwam_movies"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "akwam_latest_movies"
+            "catalogId": "src_akwam_movies"
           }
         ]
       },
       {
-        "id": "folder-akwam_latest_series",
+        "id": "folder-src_akwam_series",
         "title": "Latest Series",
         "name": "Latest Series",
         "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/YXyDY.webp",
@@ -961,68 +262,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "akwam_latest_series"
+            "catalogId": "src_akwam_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "akwam_latest_series"
-          }
-        ]
-      },
-      {
-        "id": "folder-akwam_arabic_movies",
-        "title": "Arabic Movies",
-        "name": "Arabic Movies",
-        "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/xQ7LS.webp",
-        "focusGifEnabled": true,
-        "coverEmoji": "🎞️",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://img.downet.net/thumb/178x260/uploads/xQ7LS.webp",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "akwam_arabic_movies"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "akwam_arabic_movies"
-          }
-        ]
-      },
-      {
-        "id": "folder-akwam_arabic_series",
-        "title": "Arabic Series",
-        "name": "Arabic Series",
-        "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/YXyDY.webp",
-        "focusGifEnabled": true,
-        "coverEmoji": "🌙",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://img.downet.net/thumb/178x260/uploads/YXyDY.webp",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "akwam_arabic_series"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "akwam_arabic_series"
+            "catalogId": "src_akwam_series"
           }
         ]
       }
@@ -1039,9 +286,9 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-tuktukcima_recent",
-        "title": "Recently Added",
-        "name": "Recently Added",
+        "id": "folder-src_tuktukcima_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
         "coverImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
@@ -1054,14 +301,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "tuktukcima_recent"
+            "catalogId": "src_tuktukcima_movies"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "tuktukcima_recent"
+            "catalogId": "src_tuktukcima_movies"
           }
         ]
       }
@@ -1078,9 +325,9 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-lodynet_latest",
-        "title": "Latest Drama & Series",
-        "name": "Latest Drama & Series",
+        "id": "folder-src_lodynet_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حب-220x220.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
@@ -1093,14 +340,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "lodynet_latest"
+            "catalogId": "src_lodynet_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "lodynet_latest"
+            "catalogId": "src_lodynet_series"
           }
         ]
       }
@@ -1117,12 +364,12 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-krmzy_series",
-        "title": "Turkish Series",
-        "name": "Turkish Series",
+        "id": "folder-src_krmzy_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://krmzi.org/wp-content/uploads/2025/11/Deniz-S02-genis.jpg",
         "focusGifEnabled": true,
-        "coverEmoji": "🇹🇷",
+        "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://krmzi.org/wp-content/uploads/2025/11/Deniz-S02-genis.jpg",
@@ -1132,14 +379,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "krmzy_series"
+            "catalogId": "src_krmzy_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "krmzy_series"
+            "catalogId": "src_krmzy_series"
           }
         ]
       }
@@ -1156,12 +403,12 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-asia2tv_drama",
-        "title": "Korean & Asian Drama",
-        "name": "Korean & Asian Drama",
+        "id": "folder-src_aia2tv_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/5v3OJe_3f-238x320.jpg",
         "focusGifEnabled": true,
-        "coverEmoji": "🇰🇷",
+        "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/5v3OJe_3f-238x320.jpg",
@@ -1171,14 +418,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "asia2tv_drama"
+            "catalogId": "src_aia2tv_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "asia2tv_drama"
+            "catalogId": "src_aia2tv_series"
           }
         ]
       }
@@ -1195,12 +442,12 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-5tv_featured",
-        "title": "Featured Series & Movies",
-        "name": "Featured Series & Movies",
+        "id": "folder-src_5tv_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
         "coverImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
         "focusGifEnabled": true,
-        "coverEmoji": "🌟",
+        "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
@@ -1210,14 +457,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "5tv_featured"
+            "catalogId": "src_5tv_series"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "5tv_featured"
+            "catalogId": "src_5tv_series"
           }
         ]
       }
@@ -1234,12 +481,12 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-aflaam_movies",
-        "title": "Arabic Movies",
-        "name": "Arabic Movies",
+        "id": "folder-src_aflaam_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
         "coverImageUrl": "https://aflaam.com/login",
         "focusGifEnabled": true,
-        "coverEmoji": "🎞️",
+        "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://aflaam.com/login",
@@ -1249,14 +496,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "aflaam_movies"
+            "catalogId": "src_aflaam_movies"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "aflaam_movies"
+            "catalogId": "src_aflaam_movies"
           }
         ]
       }
@@ -1273,12 +520,12 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-tuniflix_movies",
+        "id": "folder-src_tuniflix_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
         "coverImageUrl": "https://image.tmdb.org/t/p/w185/f93YifnOBJxKX3ViMDbcJZlFgv6.jpg",
         "focusGifEnabled": true,
-        "coverEmoji": "🇹🇳",
+        "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://image.tmdb.org/t/p/w185/f93YifnOBJxKX3ViMDbcJZlFgv6.jpg",
@@ -1288,170 +535,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "tuniflix_movies"
+            "catalogId": "src_tuniflix_movies"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "tuniflix_movies"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "anim3rb-collection",
-    "title": "Anime3rb — Anime",
-    "name": "Anime3rb — Anime",
-    "backdropImageUrl": "https://images.anime3rb.com/514289/158595.jpg",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "folders": [
-      {
-        "id": "folder-anim3rb_latest",
-        "title": "Latest Anime",
-        "name": "Latest Anime",
-        "coverImageUrl": "https://images.anime3rb.com/514289/158595.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "⛩️",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://images.anime3rb.com/514289/158595.jpg",
-        "titleLogoUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "anim3rb_latest"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "anim3rb_latest"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "anime4up-collection",
-    "title": "Anime4Up — Anime",
-    "name": "Anime4Up — Anime",
-    "backdropImageUrl": "https://w1.anime4up.rest/wp-content/uploads/2026/10/bx209562-kQQbTKDuql9p.jpg",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "folders": [
-      {
-        "id": "folder-anime4up_latest",
-        "title": "Latest Anime",
-        "name": "Latest Anime",
-        "coverImageUrl": "https://w1.anime4up.rest/wp-content/uploads/2026/10/bx209562-kQQbTKDuql9p.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "⚔️",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://w1.anime4up.rest/wp-content/uploads/2026/10/bx209562-kQQbTKDuql9p.jpg",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "anime4up_latest"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "anime4up_latest"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "animerco-collection",
-    "title": "Animerco — Anime",
-    "name": "Animerco — Anime",
-    "backdropImageUrl": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "folders": [
-      {
-        "id": "folder-animerco_latest",
-        "title": "Featured Anime",
-        "name": "Featured Anime",
-        "coverImageUrl": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-        "focusGifEnabled": true,
-        "coverEmoji": "🔥",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://eva.animerco.org/wp-content/uploads/2026/10/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-        "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "animerco_latest"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "animerco_latest"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "anime-phoenix-collection",
-    "title": "Anime Phoenix — Anime",
-    "name": "Anime Phoenix — Anime",
-    "backdropImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QfzeiEiDAmg13_LCzxq_7lKGhiZFFdk42j7h8FY4YM39kOQupcwSXyyNxhshHQlGTTy6HXArQ0XwxLheT3IjyWZPxIQvih7hwyn-17PEpdVAa0yViP-sL-zr43OfZSAkNCKcF_CTsa5NUX1f-bVUmh0WcTqA2VaL-ltOTEDqPbrnPs4_m0GPn_myxLY/s800-q60-rw/yugioh_1998_poster.png",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": false,
-    "folders": [
-      {
-        "id": "folder-animephoenix_latest",
-        "title": "Latest Episodes",
-        "name": "Latest Episodes",
-        "coverImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QfzeiEiDAmg13_LCzxq_7lKGhiZFFdk42j7h8FY4YM39kOQupcwSXyyNxhshHQlGTTy6HXArQ0XwxLheT3IjyWZPxIQvih7hwyn-17PEpdVAa0yViP-sL-zr43OfZSAkNCKcF_CTsa5NUX1f-bVUmh0WcTqA2VaL-ltOTEDqPbrnPs4_m0GPn_myxLY/s800-q60-rw/yugioh_1998_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "🦅",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1QfzeiEiDAmg13_LCzxq_7lKGhiZFFdk42j7h8FY4YM39kOQupcwSXyyNxhshHQlGTTy6HXArQ0XwxLheT3IjyWZPxIQvih7hwyn-17PEpdVAa0yViP-sL-zr43OfZSAkNCKcF_CTsa5NUX1f-bVUmh0WcTqA2VaL-ltOTEDqPbrnPs4_m0GPn_myxLY/s800-q60-rw/yugioh_1998_poster.png",
-        "titleLogoUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "animephoenix_latest"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "animephoenix_latest"
+            "catalogId": "src_tuniflix_movies"
           }
         ]
       }
@@ -1468,12 +559,12 @@
     "showAllTab": false,
     "folders": [
       {
-        "id": "folder-replaymatch_latest",
-        "title": "Latest Football Replays",
-        "name": "Latest Football Replays",
+        "id": "folder-src_replaymatch_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
         "coverImageUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/Newcastle-United-vs-Everton.jpg",
         "focusGifEnabled": true,
-        "coverEmoji": "⚽",
+        "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
         "heroBackdropUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/Newcastle-United-vs-Everton.jpg",
@@ -1483,14 +574,14 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "replaymatch_latest"
+            "catalogId": "src_replaymatch_movies"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
-            "catalogId": "replaymatch_latest"
+            "catalogId": "src_replaymatch_movies"
           }
         ]
       }

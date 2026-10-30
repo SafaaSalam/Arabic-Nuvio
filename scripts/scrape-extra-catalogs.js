@@ -437,13 +437,80 @@ async function runPool(tasks, concurrency) {
   return results;
 }
 
+/* ----------------------------------------------------------------------------
+ * Continuous sync with the CSX Cloudstream repository (github.com/SaurabhKaperwan/CSX, GPL-3.0).
+ * Every run: read its current site domains (Utils/urls.json) and its extension list (builds/plugins.json),
+ * point the CSX sources at the new domains, keep the provider plugins / plugins.json in step and report
+ * new or updated extensions. When GitHub cannot be read the last saved copy in data/csx-sync.json is used.
+ * -------------------------------------------------------------------------- */
+const CSX_UTILS_URL = "https://raw.githubusercontent.com/SaurabhKaperwan/Utils/refs/heads/main/urls.json";
+const CSX_PLUGINS_URL = "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json";
+const CSX_SITES = ["moviesmod", "vegamovies", "bollyflix", "moviesdrive"];
+const CSX_KNOWN_EXTENSIONS = ["Bollyflix", "CineStream", "MoviesDrive", "Moviesmod", "VegaMovies"];
+
+async function refreshCsxDomains() {
+  const file = path.join(ROOT_DIR, "data", "csx-sync.json");
+  let saved = {};
+  try { saved = JSON.parse(fs.readFileSync(file, "utf8")); } catch (_) {}
+  const u = await fetchJson(CSX_UTILS_URL, 8000);
+  const p = await fetchJson(CSX_PLUGINS_URL, 8000);
+  const live = u.ok && u.data && typeof u.data === "object" && !Array.isArray(u.data);
+  const src = live ? u.data : (saved.domains || {});
+  const domains = {};
+  for (const key of CSX_SITES) {
+    const v = String(src[key] || "").trim().replace(/\/+$/, "");
+    if (/^https?:\/\/[^\s"']+$/.test(v)) domains[key] = v;
+  }
+  const plugins = p.ok && Array.isArray(p.data)
+    ? p.data.map((x) => ({ name: x.internalName || x.name, version: x.version, status: x.status })).sort((a, b) => String(a.name).localeCompare(String(b.name)))
+    : (saved.plugins || []);
+
+  const changed = [];
+  const pluginsJsonPath = path.join(ROOT_DIR, "plugins.json");
+  let pluginsJson = null;
+  try { pluginsJson = JSON.parse(fs.readFileSync(pluginsJsonPath, "utf8")); } catch (_) {}
+  let pluginsJsonDirty = false;
+  for (const [key, base] of Object.entries(domains)) {
+    for (const cfg of GENERIC_SOURCES) {
+      if (cfg.providerKey !== key) continue;
+      if (cfg.base !== base) changed.push(`${cfg.id}: ${cfg.base} -> ${base}`);
+      cfg.base = base;
+      if (cfg.bases) cfg.bases = [base];
+    }
+    // keep the provider plugin's default site and the plugin list in step
+    const pf = path.join(ROOT_DIR, "providers", `${key}.js`);
+    try {
+      const code = fs.readFileSync(pf, "utf8");
+      const next = code.replace(/var DEFAULT_MAIN_URL = "[^"]*";/, `var DEFAULT_MAIN_URL = "${base}";`);
+      if (next !== code) fs.writeFileSync(pf, next, "utf8");
+    } catch (_) {}
+    if (pluginsJson) {
+      const entry = (Array.isArray(pluginsJson) ? pluginsJson : []).find((e) => e && e.id === key);
+      if (entry && entry.mainUrl !== base) { entry.mainUrl = base; pluginsJsonDirty = true; }
+    }
+  }
+  if (pluginsJsonDirty) fs.writeFileSync(pluginsJsonPath, JSON.stringify(pluginsJson, null, 2) + "\n", "utf8");
+
+  const state = { domains, plugins };
+  const text = JSON.stringify(state, null, 2) + "\n";
+  try {
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    if (!fs.existsSync(file) || fs.readFileSync(file, "utf8") !== text) fs.writeFileSync(file, text, "utf8");
+  } catch (_) {}
+  const newExtensions = plugins.filter((x) => x.name && !CSX_KNOWN_EXTENSIONS.includes(x.name)).map((x) => x.name);
+  console.log(`🔄 CSX sync: domains ${live ? "read from GitHub" : "from saved copy"}${changed.length ? ", changed: " + changed.join("; ") : ", unchanged"}${newExtensions.length ? ", NEW extensions: " + newExtensions.join(", ") : ""}`);
+  return { live, changed, newExtensions, plugins };
+}
+
 /**
  * Crawl every source, merge into data/store/*.json and return full (deduplicated, newest-first)
  * item lists plus a per-source health report.
  */
 async function scrapeAllExtraCatalogs(options = {}) {
+  const csx = await refreshCsxDomains();
   const sources = buildSources();
   const health = {};
+  health._csx = { domainsFromGitHub: csx.live, domainsChanged: csx.changed, newExtensions: csx.newExtensions, extensions: csx.plugins.map((x) => `${x.name}@${x.version}`) };
   const catalogs = await runPool(sources.map((src) => async () => {
     const store = loadStore(src.id, src.type);
     const forwardPages = src.paginated === false ? 1 : 2;

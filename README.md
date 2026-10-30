@@ -104,10 +104,7 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/repo.json
 ### Live TV, Sports & Video Providers (`38–42`)
 | # | Provider | ID | Category |
 | :---: | :--- | :--- | :--- |
-| 38 | **YacineTV \| ياسين تي في** | `yacintv` | Live Sports & TV Channels |
-| 39 | **Syria Live \| سوريا لايف** | `syria-live` | Live Football Matches |
 | 40 | **FullMatchShows** | `replaymatch` | Full Football Match Replays & Shows |
-| 41 | **TVGarden** | `tvgarden` | Worldwide & Arabic Live IPTV Channels |
 | 42 | **YouTube** | `youtube` | YouTube Streams & Trailers |
 
 ---

@@ -722,43 +722,6 @@
     "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/dima-toon.js"
   },
   {
-    "id": "yacintv",
-    "name": "Yacine TV | ياسين تيفي",
-    "internalName": "Yacine TV | ياسين تيفي",
-    "description": "Yacine TV — Live Sports, News & Arabic TV Channels",
-    "version": 2,
-    "authors": [
-      "SafaaSalam"
-    ],
-    "language": "ar",
-    "status": 1,
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
-    "mainUrl": "https://def11.ycnapi.com/api",
-    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/yacintv.js"
-  },
-  {
-    "id": "syria-live",
-    "name": "SyriaLive | سوريا لايف",
-    "internalName": "SyriaLive | سوريا لايف",
-    "description": "SyriaLive — Live Football Matches & Sports Broadcasts",
-    "version": 2,
-    "authors": [
-      "SafaaSalam"
-    ],
-    "language": "ar",
-    "status": 1,
-    "tvTypes": [
-      "Live",
-      "Movie"
-    ],
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF607wnarFL8Ob8KLPahUPJzcLjbtg1pEH0A&s",
-    "mainUrl": "https://www.syrlive.com",
-    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/syria-live.js"
-  },
-  {
     "id": "replaymatch",
     "name": "FullMatchShows | ReplayMatch",
     "internalName": "FullMatchShows | ReplayMatch",
@@ -775,24 +738,6 @@
     "iconUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
     "mainUrl": "https://fullmatchshows.com",
     "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/replaymatch.js"
-  },
-  {
-    "id": "tvgarden",
-    "name": "TVgarden (Famelack)",
-    "internalName": "TVgarden (Famelack)",
-    "description": "TVgarden (Famelack) — Worldwide & Arabic Live TV Channels",
-    "version": 2,
-    "authors": [
-      "SafaaSalam"
-    ],
-    "language": "ar",
-    "status": 1,
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lci-tXtOtWaHcEp9An7bqIkXs4yzH7EcfA&s",
-    "mainUrl": "https://famelack.com",
-    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/tvgarden.js"
   },
   {
     "id": "youtube",

@@ -856,52 +856,6 @@
       "supportsExternalPlayer": true
     },
     {
-      "id": "yacintv",
-      "name": "Yacine TV | ياسين تيفي",
-      "description": "Yacine TV — Live Sports, News & Arabic TV Channels",
-      "version": "1.1.0",
-      "author": "SafaaSalam",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/yacintv.js",
-      "enabled": true,
-      "logo": "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
-      "contentLanguage": [
-        "ar"
-      ],
-      "formats": [
-        "mp4",
-        "hls",
-        "m3u8"
-      ],
-      "supportsExternalPlayer": true
-    },
-    {
-      "id": "syria-live",
-      "name": "SyriaLive | سوريا لايف",
-      "description": "SyriaLive — Live Football Matches & Sports Broadcasts",
-      "version": "1.1.0",
-      "author": "SafaaSalam",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/syria-live.js",
-      "enabled": true,
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF607wnarFL8Ob8KLPahUPJzcLjbtg1pEH0A&s",
-      "contentLanguage": [
-        "ar"
-      ],
-      "formats": [
-        "mp4",
-        "hls",
-        "m3u8"
-      ],
-      "supportsExternalPlayer": true
-    },
-    {
       "id": "replaymatch",
       "name": "FullMatchShows | ReplayMatch",
       "description": "FullMatchShows — Full Football Match Replays & Highlights (Premier League, La Liga, UCL)",
@@ -914,29 +868,6 @@
       "filename": "providers/replaymatch.js",
       "enabled": true,
       "logo": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
-      "contentLanguage": [
-        "ar"
-      ],
-      "formats": [
-        "mp4",
-        "hls",
-        "m3u8"
-      ],
-      "supportsExternalPlayer": true
-    },
-    {
-      "id": "tvgarden",
-      "name": "TVgarden (Famelack)",
-      "description": "TVgarden (Famelack) — Worldwide & Arabic Live TV Channels",
-      "version": "1.1.0",
-      "author": "SafaaSalam",
-      "supportedTypes": [
-        "movie",
-        "tv"
-      ],
-      "filename": "providers/tvgarden.js",
-      "enabled": true,
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lci-tXtOtWaHcEp9An7bqIkXs4yzH7EcfA&s",
       "contentLanguage": [
         "ar"
       ],

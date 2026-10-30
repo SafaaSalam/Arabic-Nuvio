@@ -1,0 +1,35 @@
+{
+  "domains": {
+    "moviesmod": "https://moviesmod.meme",
+    "vegamovies": "https://1vegamovies.shop",
+    "bollyflix": "https://bollyflix.church",
+    "moviesdrive": "https://new1.moviesdrive.cyou"
+  },
+  "plugins": [
+    {
+      "name": "Bollyflix",
+      "version": 33,
+      "status": 1
+    },
+    {
+      "name": "CineStream",
+      "version": 487,
+      "status": 1
+    },
+    {
+      "name": "MoviesDrive",
+      "version": 33,
+      "status": 1
+    },
+    {
+      "name": "Moviesmod",
+      "version": 33,
+      "status": 1
+    },
+    {
+      "name": "VegaMovies",
+      "version": 82,
+      "status": 1
+    }
+  ]
+}

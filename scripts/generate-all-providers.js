@@ -428,28 +428,6 @@ const PROVIDERS_CATALOG = [
 
   // === LIVE TV & SPORTS PROVIDERS ===
   {
-    id: "yacintv",
-    name: "Yacine TV | ياسين تيفي",
-    description: "Yacine TV — Live Sports, News & Arabic TV Channels",
-    version: "1.1.0",
-    mainUrl: "https://def11.ycnapi.com/api",
-    logo: "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
-    supportedTypes: ["movie", "tv"],
-    tvTypes: ["Live"],
-    searchPath: "/channels",
-  },
-  {
-    id: "syria-live",
-    name: "SyriaLive | سوريا لايف",
-    description: "SyriaLive — Live Football Matches & Sports Broadcasts",
-    version: "1.1.0",
-    mainUrl: "https://www.syrlive.com",
-    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF607wnarFL8Ob8KLPahUPJzcLjbtg1pEH0A&s",
-    supportedTypes: ["movie", "tv"],
-    tvTypes: ["Live", "Movie"],
-    searchPath: "/?s={query}",
-  },
-  {
     id: "replaymatch",
     name: "FullMatchShows | ReplayMatch",
     description: "FullMatchShows — Full Football Match Replays & Highlights (Premier League, La Liga, UCL)",
@@ -461,17 +439,6 @@ const PROVIDERS_CATALOG = [
     searchPath: "/?s={query}",
   },
   {
-    id: "tvgarden",
-    name: "TVgarden (Famelack)",
-    description: "TVgarden (Famelack) — Worldwide & Arabic Live TV Channels",
-    version: "1.1.0",
-    mainUrl: "https://famelack.com",
-    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lci-tXtOtWaHcEp9An7bqIkXs4yzH7EcfA&s",
-    supportedTypes: ["movie", "tv"],
-    tvTypes: ["Live"],
-    searchPath: "/tv",
-  },
-  {
     id: "youtube",
     name: "YouTube Arabic",
     description: "YouTube — Live Streams, Movies & Arabic Channels",
@@ -481,6 +448,50 @@ const PROVIDERS_CATALOG = [
     supportedTypes: ["movie", "tv"],
     tvTypes: ["Movie", "Live"],
     searchPath: "/results?search_query={query}",
+  },
+  {
+    id: "moviesmod",
+    name: "Moviesmod",
+    description: "Moviesmod (incl. TopMovies) — Hindi & English Movies and Web Series (from the CSX Cloudstream repo)",
+    version: "1.0.0",
+    mainUrl: "https://moviesmod.meme",
+    logo: "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries", "AsianDrama"],
+    searchPath: "/search/{query}",
+  },
+  {
+    id: "vegamovies",
+    name: "VegaMovies",
+    description: "VegaMovies — Hindi & English Movies and Web Series (from the CSX Cloudstream repo)",
+    version: "1.0.0",
+    mainUrl: "https://1vegamovies.shop",
+    logo: "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries", "AsianDrama"],
+    searchPath: "/search.php?q={query}",
+  },
+  {
+    id: "bollyflix",
+    name: "Bollyflix",
+    description: "Bollyflix — Bollywood & Hollywood Movies and Series (from the CSX Cloudstream repo)",
+    version: "1.0.0",
+    mainUrl: "https://bollyflix.church",
+    logo: "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries", "AsianDrama"],
+    searchPath: "/search/{query}/page/1/",
+  },
+  {
+    id: "moviesdrive",
+    name: "MoviesDrive",
+    description: "MoviesDrive — High Quality Movies and TV Shows (from the CSX Cloudstream repo)",
+    version: "1.0.0",
+    mainUrl: "https://new1.moviesdrive.cyou",
+    logo: "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries", "AsianDrama"],
+    searchPath: "/search.php?q={query}",
   },
 ];
 
@@ -822,15 +833,16 @@ async function getStreams(tmdbId, mediaType, season, episode) {
         ? targetInfo.customSlug
         : fixUrl(targetInfo.customSlug, mainUrl);
     } else {
-      for (var i = 0; i < targetInfo.titles.length; i++) {
-        var q = targetInfo.titles[i];
+      // Search every title variant (Arabic / English / original) in parallel instead of one after another.
+      var searchTitles = targetInfo.titles.slice(0, 3);
+      var found = await Promise.all(searchTitles.map(function (q) {
         var sUrl = mainUrl + SEARCH_PATH.replace("{query}", encodeURIComponent(q));
-        var sRes = await safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } });
-        if (!sRes || !sRes.text) continue;
-
-        targetUrl = pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
-        if (targetUrl) break;
-      }
+        return safeTextFetch(sUrl, { headers: { Referer: mainUrl + "/" } }).then(function (sRes) {
+          if (!sRes || !sRes.text) return null;
+          return pickBestSearchResult(sRes.text, sRes.url || mainUrl, targetInfo.titles);
+        }).catch(function () { return null; });
+      }));
+      for (var fi = 0; fi < found.length; fi++) { if (found[fi]) { targetUrl = found[fi]; break; } }
     }
 
     if (!targetUrl) return [];
@@ -860,6 +872,9 @@ async function getStreams(tmdbId, mediaType, season, episode) {
           html = epRes.text;
           finalPageUrl = epRes.url || epUrl;
         }
+      } else if (!urlIsEpisode(finalPageUrl, episode)) {
+        // The requested episode was not found: never return the series page's links (wrong episode).
+        return [];
       }
     }
 

@@ -48,16 +48,18 @@ const GROUP_TRANSLATIONS = {
 
 // Display names for the one-collection-per-source layout
 const PROVIDER_NAMES = {
-  cee: "CEE", "3isk": "3isk", alooytv: "AlooyTv", akwam: "Akwam", tuktukcima: "TukTukcima", lodynet: "LodyNet",
+  cinemana: "Cinemana", cee: "CEE", "3isk": "3isk", alooytv: "AlooyTv", akwam: "Akwam", tuktukcima: "TukTukcima", lodynet: "LodyNet",
   krmzy: "Krmzy", eseek: "Eseek", aia2tv: "Asia2TV", "5tv": "5TV", aflaam: "Aflaam", shahidwbas: "ShahidWBas",
   tuniflix: "TuniFlix", anim3rb: "Anime3rb", anime4up: "Anime4Up", animerco: "Animerco", witanime: "WitAnime",
-  "anime-phoenix": "Anime Phoenix", replaymatch: "FullMatchShows"
+  "anime-phoenix": "Anime Phoenix", replaymatch: "FullMatchShows",
+  moviesmod: "Moviesmod", vegamovies: "VegaMovies", bollyflix: "Bollyflix", moviesdrive: "MoviesDrive"
 };
 const PROVIDER_SUBTITLES = {
-  cee: "Movies & Series (🇮🇶)", "3isk": "Turkish Drama", alooytv: "Gulf, Arabic & Turkish Series", akwam: "Movies & Series",
+  cinemana: "Movies & Series (🇮🇶)", cee: "Movies & Series (🇮🇶)", "3isk": "Turkish Drama", alooytv: "Gulf, Arabic & Turkish Series", akwam: "Movies & Series",
   tuktukcima: "Movies", lodynet: "Turkish & Asian Series", krmzy: "Turkish Series", eseek: "Turkish Series", aia2tv: "Asian Drama",
   "5tv": "Movies & Series", aflaam: "Arabic Movies", shahidwbas: "Arabic Series", tuniflix: "Movies", anim3rb: "Anime",
-  anime4up: "Anime", animerco: "Anime", witanime: "Anime", "anime-phoenix": "Anime", replaymatch: "Football Replays"
+  anime4up: "Anime", animerco: "Anime", witanime: "Anime", "anime-phoenix": "Anime", replaymatch: "Football Replays",
+  moviesmod: "Hindi & English Movies", vegamovies: "Hindi & English Movies", bollyflix: "Hindi & English Movies", moviesdrive: "Hindi & English Movies"
 };
 
 function sleep(ms) {
@@ -426,6 +428,7 @@ async function main() {
 
   const PAGE_SIZE = store.PAGE_SIZE;
   const healthReport = {};
+  const rowMeta = new Map(); // catalogId -> { provider, logo }
   const rowItems = new Map(); // catalogId -> { type, metas }  (used to build the cross-source 'Latest' rows)
   const latestCineNbs = new Set(); // cine_ items on the first page of any row (their meta/streams get refreshed)
 
@@ -482,6 +485,7 @@ async function main() {
     });
     store.writePagedCatalog(type, id, metas);
     rowItems.set(id, { type, metas });
+    rowMeta.set(id, { provider: "cinemana", logo: cinemanaLogoUrl });
     healthReport[id] = { provider: "cinemana", items: metas.length, reachable: isCinemanaOnline, backfillDone: res.done, lastOk: isCinemanaOnline ? st.updatedAt : (seedData.updatedAt || null), ...(isCinemanaOnline ? {} : { error: "saved snapshot (Cinemana only answers from Iraq)" }) };
 
     const info = {
@@ -744,6 +748,7 @@ async function main() {
 
   for (const cat of allExtraCatalogs) {
     if (!cat || !Array.isArray(cat.metas) || cat.metas.length === 0) continue;
+    if (cat.group === "anime") continue; // anime sources are not offered in the catalogs / collections
     const englishName = cat.enTitle || cat.arTitle;
     const firstRowOfProvider = !homeProviders.has(cat.providerKey);
     homeProviders.add(cat.providerKey);
@@ -758,6 +763,7 @@ async function main() {
 
     store.writePagedCatalog(cat.type, cat.id, cat.metas);
     rowItems.set(cat.id, { type: cat.type, metas: cat.metas });
+    rowMeta.set(cat.id, { provider: cat.providerKey, logo: cat.logo || cinemanaLogoUrl });
 
     // Static meta files so Nuvio can open the detail view. File name == the id Nuvio requests
     // (only characters that are illegal in file names are replaced; "%" is kept for percent-encoded slugs).
@@ -787,7 +793,7 @@ async function main() {
       if (m.type === "series") {
         metaObj.videos = scraped ? existing.videos : [{ id: `${m.id}_s1e1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
         if (scraped) { metaObj.episodesScraped = true; metaObj.website = existing.website; }
-        if (cat.idPrefix && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
+        if (cat.idPrefix && !cat.noResolve && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
       }
       writeJson(metaPath, { meta: metaObj }, false);
     });
@@ -893,7 +899,7 @@ async function main() {
         const metaObj = Object.assign({}, job.metaObj, {
           website: page.url,
           episodesScraped: true,
-          videos: episodes.map(e => ({ id: `${m.id}_s${e.season}e${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
+          videos: episodes.map(e => ({ id: `${m.id}:${e.season}:${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
         });
         if (writeJson(job.metaPath, { meta: metaObj }, false)) scrapedNow++;
       }
@@ -914,11 +920,15 @@ async function main() {
       const mk = (name, url, label, file) => {
         let direct = [];
         try { direct = (JSON.parse(fs.readFileSync(file, "utf8")).streams || []).filter(x => x && x.url); } catch (_) {}
+        if (!direct.length) { // migrate links resolved under the legacy "<id>_sNeM" file name
+          try { direct = (JSON.parse(fs.readFileSync(file.replace(/:(\d+):(\d+)\.json$/, "_s$1e$2.json"), "utf8")).streams || []).filter(x => x && x.url); } catch (_) {}
+        }
         return { streams: direct }; // in-app playable links only (no external browser)
       };
       const resolveJobs = [];
       let streamFiles = 0;
       for (const { m, cat, metaPath } of customItems) {
+        if (cat.noResolve) continue; // browse-only sources (no direct in-app links)
         let meta; try { meta = JSON.parse(fs.readFileSync(metaPath, "utf8")).meta; } catch (_) { continue; }
         const slug = store.decodeIdSlug(m.id.slice(cat.idPrefix.length + 1).split(":")[0].replace(/__/g, "/"));
         const base = await firstBase(cat);
@@ -933,7 +943,7 @@ async function main() {
         } else if (Array.isArray(meta.videos)) {
           let changed = false;
           for (const v of meta.videos) {
-            const nid = `${m.id}_s${v.season}e${v.episode}`;
+            const nid = `${m.id}:${v.season}:${v.episode}`;
             if (v.id !== nid) { v.id = nid; changed = true; }
             const f = path.join(ADDON_DIR, "stream", "series", `${nid}.json`);
             streamExpected.add(f);
@@ -959,6 +969,7 @@ async function main() {
       const STREAM_STATE_FILE = path.join(ROOT_DIR, "data", "stream-state.json");
       let sState = {};
       try { sState = JSON.parse(fs.readFileSync(STREAM_STATE_FILE, "utf8")); } catch (_) {}
+      for (const k of Object.keys(sState)) { const nk = k.replace(/_s(\d+)e(\d+)\.json$/, ":$1:$2.json"); if (nk !== k) { sState[nk] = sState[k]; delete sState[k]; } }
       const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "700", 10);
       const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "480000", 10);
       const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
@@ -1048,7 +1059,7 @@ async function main() {
       const dir = path.join(ADDON_DIR, "meta", type);
       if (!fs.existsSync(dir)) continue;
       for (const f of fs.readdirSync(dir)) {
-        if (f.startsWith("cine_") || !/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch)_/.test(f)) continue;
+        if (f.startsWith("cine_") || !/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch|moviesmod|vegamovies|bollyflix|moviesdrive)_/.test(f)) continue;
         const full = path.join(dir, f);
         if (!expectedMetaFiles.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
       }
@@ -1073,6 +1084,66 @@ async function main() {
     console.log(`   📦 Aggregated [${type}] ${id}: ${metas.length} items from ${rows.length} rows`);
   }
 
+  // 4.8 One pair of rows per source: latest movies + latest series.
+  // Every row holds PAGE_SIZE (50) posters per page and older pages load as the user scrolls back (skip=N).
+  {
+    const ONLY_ROWS = { cinemana: /^cinemana_(newly_movies|newly_series|mov_upload_desc|ser_upload_desc)$/ };
+    const groups = new Map();
+    for (const [rid, r] of rowItems.entries()) {
+      const rm = rowMeta.get(rid);
+      if (!rm) continue;
+      if (ONLY_ROWS[rm.provider] && !ONLY_ROWS[rm.provider].test(rid)) continue;
+      const k = `${rm.provider}|${r.type}`;
+      if (!groups.has(k)) groups.set(k, { provider: rm.provider, type: r.type, logo: rm.logo, rows: [] });
+      groups.get(k).rows.push(r.metas);
+    }
+    const provOrder = [];
+    for (const g of groups.values()) if (!provOrder.includes(g.provider)) provOrder.push(g.provider);
+    const ordered = [...groups.values()].sort((a, b) => provOrder.indexOf(a.provider) - provOrder.indexOf(b.provider) || (a.type === "movie" ? -1 : 1) - (b.type === "movie" ? -1 : 1));
+
+    const keepIds = new Set(latestInfos.map(i => i.id));
+    const keepDefs = catalogDefinitions.filter(d => keepIds.has(d.id));
+    catalogDefinitions.length = 0;
+    catalogDefinitions.push(...keepDefs);
+    providerFolders.clear();
+    const newIds = new Set();
+    for (const g of ordered) {
+      const longest = Math.max(...g.rows.map(r => r.length));
+      const mixed = [];
+      for (let rank = 0; rank < longest; rank++) for (const metas of g.rows) if (metas[rank]) mixed.push(metas[rank]);
+      const metas = store.dedupe(mixed);
+      if (metas.length === 0) continue;
+      const isMovie = g.type === "movie";
+      const id = `src_${g.provider.replace(/[^a-z0-9]/gi, "").toLowerCase()}_${isMovie ? "movies" : "series"}`;
+      const pName = PROVIDER_NAMES[g.provider] || g.provider;
+      const tabTitle = isMovie ? "Latest Movies" : "Latest Series";
+      const emoji = isMovie ? "🎬" : "📺";
+      newIds.add(id);
+      catalogDefinitions.push({ type: g.type, id, name: `${pName} — ${tabTitle}`, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+      store.writePagedCatalog(g.type, id, metas);
+      const cover = (metas.find(m => m.poster) || {}).poster || g.logo;
+      const backdrop = (metas[0] && (metas[0].background || metas[0].poster)) || cover;
+      if (!providerFolders.has(g.provider)) providerFolders.set(g.provider, { emoji, folders: [] });
+      providerFolders.get(g.provider).folders.push({
+        id: `folder-${id}`, title: tabTitle, name: tabTitle, coverImageUrl: cover, focusGifEnabled: true, coverEmoji: emoji,
+        tileShape: "POSTER", hideTitle: false, heroBackdropUrl: backdrop, titleLogoUrl: g.logo,
+        sources: [{ provider: "addon", addonId: ADDON_ID, type: g.type, catalogId: id }],
+        catalogSources: [{ addonId: ADDON_ID, type: g.type, catalogId: id }]
+      });
+      console.log(`   📦 Source row [${g.type}] ${id}: ${metas.length} items from ${g.rows.length} list(s)`);
+    }
+    // drop the old per-category catalog files (they are no longer listed in the manifest)
+    const keepAll = new Set([...keepIds, ...newIds]);
+    for (const type of ["movie", "series"]) {
+      const dir = path.join(ADDON_DIR, "catalog", type);
+      if (!fs.existsSync(dir)) continue;
+      for (const f of fs.readdirSync(dir)) {
+        if (keepAll.has(f.replace(/\.json$/, ""))) continue;
+        try { fs.rmSync(path.join(dir, f), { recursive: true, force: true }); } catch (_) {}
+      }
+    }
+  }
+
   // 5. Write addon/manifest.json
   const firstBannerPoster = (catalogDataMap.get("movie/cinemana_banner_movies") || {}).heroBackdrop || cinemanaLogoUrl;
   const supportedPrefixes = [
@@ -1080,7 +1151,7 @@ async function main() {
     "tuktukcima_", "lodynet_", "krmzy_", "eseek_", "aia2tv_",
     "5tv_", "aflaam_", "shahidwbas_", "tuniflix_",
     "anim3rb_", "anime4up_", "animerco_", "witanime_", "animephoenix_",
-    "replaymatch_"
+    "replaymatch_", "moviesmod_", "vegamovies_", "bollyflix_", "moviesdrive_"
   ];
   const addonManifest = {
     id: ADDON_ID,
@@ -1102,7 +1173,7 @@ async function main() {
       {
         name: "stream",
         types: ["movie", "series"],
-        idPrefixes: supportedPrefixes
+        idPrefixes: [...supportedPrefixes, "tt"]
       }
     ],
     catalogs: catalogDefinitions,
@@ -1147,29 +1218,6 @@ async function main() {
     };
   }
 
-  // Priority 1: Cinemana Featured, Movies, Series
-  const featuredFolders = [
-    makeFolder(catalogDataMap.get("movie/cinemana_banner_movies"), "POSTER"),
-    makeFolder(catalogDataMap.get("series/cinemana_banner_series"), "POSTER"),
-    ...dynamicGroupInfos.map(g => makeFolder(g, "POSTER"))
-  ].filter(Boolean);
-
-  const movieFolders = [
-    makeFolder(catalogDataMap.get("movie/cinemana_newly_movies"), "POSTER"),
-    makeFolder(catalogDataMap.get("movie/cinemana_mov_upload_desc"), "POSTER"),
-    makeFolder(catalogDataMap.get("movie/cinemana_mov_release_desc"), "POSTER"),
-    makeFolder(catalogDataMap.get("movie/cinemana_mov_views_desc"), "POSTER"),
-    makeFolder(catalogDataMap.get("movie/cinemana_mov_stars_desc"), "POSTER")
-  ].filter(Boolean);
-
-  const seriesFolders = [
-    makeFolder(catalogDataMap.get("series/cinemana_newly_series"), "POSTER"),
-    makeFolder(catalogDataMap.get("series/cinemana_ser_upload_desc"), "POSTER"),
-    makeFolder(catalogDataMap.get("series/cinemana_ser_release_desc"), "POSTER"),
-    makeFolder(catalogDataMap.get("series/cinemana_ser_views_desc"), "POSTER"),
-    makeFolder(catalogDataMap.get("series/cinemana_ser_stars_desc"), "POSTER")
-  ].filter(Boolean);
-
   const nuvioCollections = [
     {
       id: "arabic-latest-all-collection",
@@ -1181,39 +1229,6 @@ async function main() {
       viewMode: "TABBED_GRID",
       showAllTab: true,
       folders: latestInfos.map(i => makeFolder(i, "POSTER"))
-    },
-    {
-      id: "cinemana-home-collection",
-      title: "Shabakaty Cinemana Home (🇮🇶)",
-      name: "Shabakaty Cinemana Home (🇮🇶)",
-      backdropImageUrl: (featuredFolders[0] && featuredFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: featuredFolders
-    },
-    {
-      id: "cinemana-movies-collection",
-      title: "Cinemana Movies (🇮🇶)",
-      name: "Cinemana Movies (🇮🇶)",
-      backdropImageUrl: (movieFolders[0] && movieFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: movieFolders
-    },
-    {
-      id: "cinemana-series-collection",
-      title: "Cinemana Series (🇮🇶)",
-      name: "Cinemana Series (🇮🇶)",
-      backdropImageUrl: (seriesFolders[0] && seriesFolders[0].heroBackdropUrl) || cinemanaLogoUrl,
-      pinToTop: false,
-      focusGlowEnabled: true,
-      viewMode: "TABBED_GRID",
-      showAllTab: true,
-      folders: seriesFolders
     },
     ...[...providerFolders.entries()].map(([key, v]) => ({
       id: `${key}-collection`,

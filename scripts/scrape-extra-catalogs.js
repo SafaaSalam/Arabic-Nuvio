@@ -15,7 +15,9 @@ const path = require("path");
 const ROOT_DIR = path.resolve(__dirname, "..");
 const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
+const fav = (d) => `https://www.google.com/s2/favicons?domain=${d}&sz=128`;
 const LOGOS = {
+  moviesmod: fav("moviesmod.meme"), vegamovies: fav("1vegamovies.shop"), bollyflix: fav("bollyflix.church"), moviesdrive: fav("moviesdrive.cyou"),
   cee: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
   "3isk": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
   alooytv: "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
@@ -200,8 +202,9 @@ function parseGeneric(html, base, cfg) {
     }
     if (!aM || !titleM || !poster) continue;
     const href = fixUrl(aM[1], base);
-    const title = cleanHtmlText(titleM[1] || titleM[2]);
+    const title = cleanHtmlText(titleM[1] || titleM[2]).replace(/^Download\s+/i, "");
     if (!href || !title || title.length < 2) continue;
+    if (cfg.keep && !cfg.keep(title)) continue;
     const meta = makeMetaItem({ id: `${cfg.prefix}_${slugOf(href)}`, type: cfg.type, name: title, poster, description: `${title} — ${cfg.enTitle}`, logo: cfg.logo });
     if (meta) list.push(meta);
   }
@@ -263,6 +266,7 @@ async function htmlSource(fetchPageUrls, parse) {
   return { ok: false, status: lastStatus };
 }
 
+const SERIES_RE = /season|series|\bS\d{1,2}\b|\bE\d{1,3}\b|episode/i;
 const GENERIC_SOURCES = [
   { id: "tuktukcima_recent", providerKey: "tuktukcima", prefix: "tuktukcima", group: "drama", type: "movie", base: "https://tuktukcinemas.com", bases: ["https://tuktukcinemas.com", "https://tuktukhd.com"], pageUrl: (n) => `/recent/page/${n}`,
     arTitle: "توك توك سيما - المضاف حديثاً", enTitle: "TukTukcima Recently Added", emoji: "🎬", logo: LOGOS.tuktukcima,
@@ -323,17 +327,48 @@ const GENERIC_SOURCES = [
     arTitle: "إعادة المباريات الكاملة - FullMatchShows", enTitle: "FullMatchShows Latest Football Replays", emoji: "⚽", logo: LOGOS.replaymatch,
     itemRegex: /<article[^>]*class=["'][^"']*bloglo-article[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
     titleRegex: /<h4[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i },
+  // ---- Hindi / English movie sites from the CSX Cloudstream repository (github.com/SaurabhKaperwan/CSX, GPL-3.0).
+  // Domains and page layouts follow that repository. These sites have no direct in-app links (download hosts only),
+  // so they are browse-only (noResolve) and their detail pages are searched by the provider plugins.
+  { id: "moviesmod_movies", providerKey: "moviesmod", prefix: "moviesmod", group: "hindi", noResolve: true, type: "movie", base: "https://moviesmod.meme", pageUrl: (n) => `/movies/page/${n}/`,
+    arTitle: "موفيز مود - أحدث الأفلام", enTitle: "Moviesmod Latest Movies", emoji: "🎬", logo: LOGOS.moviesmod,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi },
+  { id: "moviesmod_series", providerKey: "moviesmod", prefix: "moviesmod", group: "hindi", noResolve: true, type: "series", base: "https://moviesmod.meme", pageUrl: (n) => `/web-series/on-going/page/${n}/`,
+    arTitle: "موفيز مود - أحدث المسلسلات", enTitle: "Moviesmod Latest Web Series", emoji: "📺", logo: LOGOS.moviesmod,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi },
+  { id: "vegamovies_movies", providerKey: "vegamovies", prefix: "vegamovies", group: "hindi", noResolve: true, type: "movie", base: "https://1vegamovies.shop", pageUrl: (n) => `/page/${n}/`,
+    arTitle: "فيغا موفيز - أحدث الأفلام", enTitle: "VegaMovies Latest Movies", emoji: "🎬", logo: LOGOS.vegamovies,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<img[^>]*alt=["']([^"']+)["']/i, keep: (t) => !SERIES_RE.test(t) },
+  { id: "vegamovies_series", providerKey: "vegamovies", prefix: "vegamovies", group: "hindi", noResolve: true, type: "series", base: "https://1vegamovies.shop", pageUrl: (n) => `/category/web-series/page/${n}/`,
+    arTitle: "فيغا موفيز - أحدث المسلسلات", enTitle: "VegaMovies Latest Web Series", emoji: "📺", logo: LOGOS.vegamovies,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<img[^>]*alt=["']([^"']+)["']/i },
+  { id: "bollyflix_movies", providerKey: "bollyflix", prefix: "bollyflix", group: "hindi", noResolve: true, type: "movie", base: "https://bollyflix.church", pageUrl: (n) => (n > 1 ? `/movies/hollywood/page/${n}/` : "/movies/hollywood/"),
+    arTitle: "بولي فليكس - أحدث الأفلام", enTitle: "Bollyflix Latest Movies", emoji: "🎬", logo: LOGOS.bollyflix,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi, keep: (t) => !SERIES_RE.test(t) },
+  { id: "bollyflix_series", providerKey: "bollyflix", prefix: "bollyflix", group: "hindi", noResolve: true, type: "series", base: "https://bollyflix.church", pageUrl: (n) => (n > 1 ? `/page/${n}/` : "/"),
+    arTitle: "بولي فليكس - أحدث المسلسلات", enTitle: "Bollyflix Latest Series", emoji: "📺", logo: LOGOS.bollyflix,
+    itemRegex: /<article\b[\s\S]*?<\/article>/gi, keep: (t) => SERIES_RE.test(t) },
+  { id: "moviesdrive_movies", providerKey: "moviesdrive", prefix: "moviesdrive", group: "hindi", noResolve: true, type: "movie", base: "https://new1.moviesdrive.cyou", pageUrl: (n) => `/page/${n}`,
+    arTitle: "موفيز درايف - أحدث الأفلام", enTitle: "MoviesDrive Latest Movies", emoji: "🎬", logo: LOGOS.moviesdrive,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<p[^>]*>([\s\S]*?)<\/p>/i, keep: (t) => !SERIES_RE.test(t) },
+  { id: "moviesdrive_series", providerKey: "moviesdrive", prefix: "moviesdrive", group: "hindi", noResolve: true, type: "series", base: "https://new1.moviesdrive.cyou", pageUrl: (n) => `/page/${n}`,
+    arTitle: "موفيز درايف - أحدث المسلسلات", enTitle: "MoviesDrive Latest Series", emoji: "📺", logo: LOGOS.moviesdrive,
+    itemRegex: /<a\b[^>]*>(?:(?!<\/a>)[\s\S])*?<img[\s\S]*?<\/a>/gi, titleRegex: /<p[^>]*>([\s\S]*?)<\/p>/i, keep: (t) => SERIES_RE.test(t) },
 ];
 
 function buildSources() {
   const S = [];
   // ---- Priority 2: CEE
-  S.push(ceeSource("cee_newly_movies", "movie", "أحدث أفلام CEE", "CEE Newly Added Movies", "🎬", ceeNewly, 1));
-  S.push(ceeSource("cee_newly_series", "series", "أحدث مسلسلات CEE", "CEE Newly Added Series", "📺", ceeNewly, 2));
-  S.push(ceeSource("cee_popular_movies", "movie", "الأكثر مشاهدة - أفلام CEE", "CEE Most Viewed Movies", "🔥", ceeVideo(1, "views_desc"), 1));
-  S.push(ceeSource("cee_top_movies", "movie", "أعلى تقييم - أفلام CEE", "CEE Top Rated Movies", "⭐", ceeVideo(1, "stars_desc"), 1));
-  S.push(ceeSource("cee_popular_series", "series", "الأكثر مشاهدة - مسلسلات CEE", "CEE Most Viewed Series", "🔥", ceeVideo(2, "views_desc"), 2));
-  S.push(ceeSource("cee_top_series", "series", "أعلى تقييم - مسلسلات CEE", "CEE Top Rated Series", "⭐", ceeVideo(2, "stars_desc"), 2));
+  // CEE rows are turned off: cee.buzz only answers from Iraq, so they never updated from GitHub.
+  // CEE is served live by the CNCVerse Bridge addon instead. Set SYNC_CEE=1 to bring these rows back.
+  if (process.env.SYNC_CEE === "1") {
+    S.push(ceeSource("cee_newly_movies", "movie", "أحدث أفلام CEE", "CEE Newly Added Movies", "🎬", ceeNewly, 1));
+    S.push(ceeSource("cee_newly_series", "series", "أحدث مسلسلات CEE", "CEE Newly Added Series", "📺", ceeNewly, 2));
+    S.push(ceeSource("cee_popular_movies", "movie", "الأكثر مشاهدة - أفلام CEE", "CEE Most Viewed Movies", "🔥", ceeVideo(1, "views_desc"), 1));
+    S.push(ceeSource("cee_top_movies", "movie", "أعلى تقييم - أفلام CEE", "CEE Top Rated Movies", "⭐", ceeVideo(1, "stars_desc"), 1));
+    S.push(ceeSource("cee_popular_series", "series", "الأكثر مشاهدة - مسلسلات CEE", "CEE Most Viewed Series", "🔥", ceeVideo(2, "views_desc"), 2));
+    S.push(ceeSource("cee_top_series", "series", "أعلى تقييم - مسلسلات CEE", "CEE Top Rated Series", "⭐", ceeVideo(2, "stars_desc"), 2));
+  }
 
   // ---- Priority 3: 3isk
   const eishkBases = ["https://3iskk.xyz", "https://3esk.onl"];
@@ -374,7 +409,7 @@ function buildSources() {
   for (const cfg of GENERIC_SOURCES) {
     S.push({
       id: cfg.id, idPrefix: cfg.prefix, bases: cfg.bases || [cfg.base], type: cfg.type, arTitle: cfg.arTitle, enTitle: cfg.enTitle, emoji: cfg.emoji, providerKey: cfg.providerKey, group: cfg.group, logo: cfg.logo,
-      paginated: cfg.paginated,
+      paginated: cfg.paginated, noResolve: cfg.noResolve,
       fetchPage: (n) => htmlSource([cfg.base + cfg.pageUrl(n)], (h, o) => parseGeneric(h, o, cfg)),
     });
   }
@@ -402,13 +437,80 @@ async function runPool(tasks, concurrency) {
   return results;
 }
 
+/* ----------------------------------------------------------------------------
+ * Continuous sync with the CSX Cloudstream repository (github.com/SaurabhKaperwan/CSX, GPL-3.0).
+ * Every run: read its current site domains (Utils/urls.json) and its extension list (builds/plugins.json),
+ * point the CSX sources at the new domains, keep the provider plugins / plugins.json in step and report
+ * new or updated extensions. When GitHub cannot be read the last saved copy in data/csx-sync.json is used.
+ * -------------------------------------------------------------------------- */
+const CSX_UTILS_URL = "https://raw.githubusercontent.com/SaurabhKaperwan/Utils/refs/heads/main/urls.json";
+const CSX_PLUGINS_URL = "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json";
+const CSX_SITES = ["moviesmod", "vegamovies", "bollyflix", "moviesdrive"];
+const CSX_KNOWN_EXTENSIONS = ["Bollyflix", "CineStream", "MoviesDrive", "Moviesmod", "VegaMovies"];
+
+async function refreshCsxDomains() {
+  const file = path.join(ROOT_DIR, "data", "csx-sync.json");
+  let saved = {};
+  try { saved = JSON.parse(fs.readFileSync(file, "utf8")); } catch (_) {}
+  const u = await fetchJson(CSX_UTILS_URL, 8000);
+  const p = await fetchJson(CSX_PLUGINS_URL, 8000);
+  const live = u.ok && u.data && typeof u.data === "object" && !Array.isArray(u.data);
+  const src = live ? u.data : (saved.domains || {});
+  const domains = {};
+  for (const key of CSX_SITES) {
+    const v = String(src[key] || "").trim().replace(/\/+$/, "");
+    if (/^https?:\/\/[^\s"']+$/.test(v)) domains[key] = v;
+  }
+  const plugins = p.ok && Array.isArray(p.data)
+    ? p.data.map((x) => ({ name: x.internalName || x.name, version: x.version, status: x.status })).sort((a, b) => String(a.name).localeCompare(String(b.name)))
+    : (saved.plugins || []);
+
+  const changed = [];
+  const pluginsJsonPath = path.join(ROOT_DIR, "plugins.json");
+  let pluginsJson = null;
+  try { pluginsJson = JSON.parse(fs.readFileSync(pluginsJsonPath, "utf8")); } catch (_) {}
+  let pluginsJsonDirty = false;
+  for (const [key, base] of Object.entries(domains)) {
+    for (const cfg of GENERIC_SOURCES) {
+      if (cfg.providerKey !== key) continue;
+      if (cfg.base !== base) changed.push(`${cfg.id}: ${cfg.base} -> ${base}`);
+      cfg.base = base;
+      if (cfg.bases) cfg.bases = [base];
+    }
+    // keep the provider plugin's default site and the plugin list in step
+    const pf = path.join(ROOT_DIR, "providers", `${key}.js`);
+    try {
+      const code = fs.readFileSync(pf, "utf8");
+      const next = code.replace(/var DEFAULT_MAIN_URL = "[^"]*";/, `var DEFAULT_MAIN_URL = "${base}";`);
+      if (next !== code) fs.writeFileSync(pf, next, "utf8");
+    } catch (_) {}
+    if (pluginsJson) {
+      const entry = (Array.isArray(pluginsJson) ? pluginsJson : []).find((e) => e && e.id === key);
+      if (entry && entry.mainUrl !== base) { entry.mainUrl = base; pluginsJsonDirty = true; }
+    }
+  }
+  if (pluginsJsonDirty) fs.writeFileSync(pluginsJsonPath, JSON.stringify(pluginsJson, null, 2) + "\n", "utf8");
+
+  const state = { domains, plugins };
+  const text = JSON.stringify(state, null, 2) + "\n";
+  try {
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    if (!fs.existsSync(file) || fs.readFileSync(file, "utf8") !== text) fs.writeFileSync(file, text, "utf8");
+  } catch (_) {}
+  const newExtensions = plugins.filter((x) => x.name && !CSX_KNOWN_EXTENSIONS.includes(x.name)).map((x) => x.name);
+  console.log(`🔄 CSX sync: domains ${live ? "read from GitHub" : "from saved copy"}${changed.length ? ", changed: " + changed.join("; ") : ", unchanged"}${newExtensions.length ? ", NEW extensions: " + newExtensions.join(", ") : ""}`);
+  return { live, changed, newExtensions, plugins };
+}
+
 /**
  * Crawl every source, merge into data/store/*.json and return full (deduplicated, newest-first)
  * item lists plus a per-source health report.
  */
 async function scrapeAllExtraCatalogs(options = {}) {
+  const csx = await refreshCsxDomains();
   const sources = buildSources();
   const health = {};
+  health._csx = { domainsFromGitHub: csx.live, domainsChanged: csx.changed, newExtensions: csx.newExtensions, extensions: csx.plugins.map((x) => `${x.name}@${x.version}`) };
   const catalogs = await runPool(sources.map((src) => async () => {
     const store = loadStore(src.id, src.type);
     const forwardPages = src.paginated === false ? 1 : 2;

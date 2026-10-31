@@ -899,7 +899,7 @@ async function main() {
         const metaObj = Object.assign({}, job.metaObj, {
           website: page.url,
           episodesScraped: true,
-          videos: episodes.map(e => ({ id: `${m.id}_s${e.season}e${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
+          videos: episodes.map(e => ({ id: `${m.id}:${e.season}:${e.episode}`, title: e.title, season: e.season, episode: e.episode, thumbnail: m.poster, episodeUrl: e.url }))
         });
         if (writeJson(job.metaPath, { meta: metaObj }, false)) scrapedNow++;
       }
@@ -920,6 +920,9 @@ async function main() {
       const mk = (name, url, label, file) => {
         let direct = [];
         try { direct = (JSON.parse(fs.readFileSync(file, "utf8")).streams || []).filter(x => x && x.url); } catch (_) {}
+        if (!direct.length) { // migrate links resolved under the legacy "<id>_sNeM" file name
+          try { direct = (JSON.parse(fs.readFileSync(file.replace(/:(\d+):(\d+)\.json$/, "_s$1e$2.json"), "utf8")).streams || []).filter(x => x && x.url); } catch (_) {}
+        }
         return { streams: direct }; // in-app playable links only (no external browser)
       };
       const resolveJobs = [];
@@ -940,7 +943,7 @@ async function main() {
         } else if (Array.isArray(meta.videos)) {
           let changed = false;
           for (const v of meta.videos) {
-            const nid = `${m.id}_s${v.season}e${v.episode}`;
+            const nid = `${m.id}:${v.season}:${v.episode}`;
             if (v.id !== nid) { v.id = nid; changed = true; }
             const f = path.join(ADDON_DIR, "stream", "series", `${nid}.json`);
             streamExpected.add(f);
@@ -966,6 +969,7 @@ async function main() {
       const STREAM_STATE_FILE = path.join(ROOT_DIR, "data", "stream-state.json");
       let sState = {};
       try { sState = JSON.parse(fs.readFileSync(STREAM_STATE_FILE, "utf8")); } catch (_) {}
+      for (const k of Object.keys(sState)) { const nk = k.replace(/_s(\d+)e(\d+)\.json$/, ":$1:$2.json"); if (nk !== k) { sState[nk] = sState[k]; delete sState[k]; } }
       const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "700", 10);
       const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "480000", 10);
       const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
@@ -1169,7 +1173,7 @@ async function main() {
       {
         name: "stream",
         types: ["movie", "series"],
-        idPrefixes: supportedPrefixes
+        idPrefixes: [...supportedPrefixes, "tt"]
       }
     ],
     catalogs: catalogDefinitions,

@@ -30,7 +30,11 @@
     "animerco_",
     "witanime_",
     "animephoenix_",
-    "replaymatch_"
+    "replaymatch_",
+    "moviesmod_",
+    "vegamovies_",
+    "bollyflix_",
+    "moviesdrive_"
   ],
   "resources": [
     "catalog",
@@ -60,7 +64,11 @@
         "animerco_",
         "witanime_",
         "animephoenix_",
-        "replaymatch_"
+        "replaymatch_",
+        "moviesmod_",
+        "vegamovies_",
+        "bollyflix_",
+        "moviesdrive_"
       ]
     },
     {
@@ -89,7 +97,11 @@
         "animerco_",
         "witanime_",
         "animephoenix_",
-        "replaymatch_"
+        "replaymatch_",
+        "moviesmod_",
+        "vegamovies_",
+        "bollyflix_",
+        "moviesdrive_"
       ]
     }
   ],
@@ -98,7 +110,7 @@
       "type": "series",
       "id": "arabic_latest_series",
       "name": "Latest Series — All Sources",
-      "pageSize": 100,
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -111,7 +123,7 @@
       "type": "movie",
       "id": "arabic_latest_movies",
       "name": "Latest Movies — All Sources",
-      "pageSize": 100,
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -122,9 +134,9 @@
     },
     {
       "type": "movie",
-      "id": "cinemana_banner_movies",
-      "name": "Featured Movies (Cinemana)",
-      "pageSize": 100,
+      "id": "src_cinemana_movies",
+      "name": "Cinemana — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -135,9 +147,9 @@
     },
     {
       "type": "series",
-      "id": "cinemana_banner_series",
-      "name": "Featured Series (Cinemana)",
-      "pageSize": 100,
+      "id": "src_cinemana_series",
+      "name": "Cinemana — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -148,9 +160,22 @@
     },
     {
       "type": "series",
-      "id": "cinemana_group_410",
-      "name": "Currently Airing Turkish",
-      "pageSize": 100,
+      "id": "src_3isk_series",
+      "name": "3isk — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_alooytv_series",
+      "name": "AlooyTv — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -161,9 +186,9 @@
     },
     {
       "type": "movie",
-      "id": "cinemana_group_26",
-      "name": "Featured Movies",
-      "pageSize": 100,
+      "id": "src_akwam_movies",
+      "name": "Akwam — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -174,22 +199,9 @@
     },
     {
       "type": "series",
-      "id": "cinemana_group_2",
-      "name": "Featured Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_group_290",
-      "name": "4K Movies",
-      "pageSize": 100,
+      "id": "src_akwam_series",
+      "name": "Akwam — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -200,9 +212,9 @@
     },
     {
       "type": "movie",
-      "id": "cinemana_group_407",
-      "name": "Garden of Sinners Movies",
-      "pageSize": 100,
+      "id": "src_tuktukcima_movies",
+      "name": "TukTukcima — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -213,48 +225,9 @@
     },
     {
       "type": "series",
-      "id": "cinemana_group_311",
-      "name": "4K Most Popular Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_group_392",
-      "name": "4K Mission: Impossible",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_group_30",
-      "name": "4K Marvel Universe",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_group_386",
-      "name": "4K James Bond",
-      "pageSize": 100,
+      "id": "src_lodynet_series",
+      "name": "LodyNet — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -265,9 +238,9 @@
     },
     {
       "type": "series",
-      "id": "cinemana_group_377",
-      "name": "Latest Asian Series",
-      "pageSize": 100,
+      "id": "src_krmzy_series",
+      "name": "Krmzy — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -278,9 +251,22 @@
     },
     {
       "type": "series",
-      "id": "cinemana_group_4",
-      "name": "Latest Series",
-      "pageSize": 100,
+      "id": "src_aia2tv_series",
+      "name": "Asia2TV — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_5tv_series",
+      "name": "5TV — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -291,22 +277,9 @@
     },
     {
       "type": "movie",
-      "id": "cinemana_newly_movies",
-      "name": "Newly Added Movies",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "cinemana_newly_series",
-      "name": "Newly Added Series",
-      "pageSize": 100,
+      "id": "src_aflaam_movies",
+      "name": "Aflaam — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -317,113 +290,9 @@
     },
     {
       "type": "movie",
-      "id": "cinemana_mov_upload_desc",
-      "name": "Movies - Latest Uploaded",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_mov_release_desc",
-      "name": "Movies - Newest Release",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_mov_views_desc",
-      "name": "Movies - Most Viewed",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "cinemana_mov_stars_desc",
-      "name": "Movies - Top IMDb Rated",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "cinemana_ser_upload_desc",
-      "name": "Series - Latest Uploaded",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "cinemana_ser_release_desc",
-      "name": "Series - Newest Release",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "cinemana_ser_views_desc",
-      "name": "Series - Most Viewed",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "cinemana_ser_stars_desc",
-      "name": "Series - Top IMDb Rated",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "cee_newly_movies",
-      "name": "CEE Newly Added Movies",
-      "pageSize": 100,
+      "id": "src_tuniflix_movies",
+      "name": "TuniFlix — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -434,243 +303,9 @@
     },
     {
       "type": "movie",
-      "id": "cee_popular_movies",
-      "name": "CEE Most Viewed Movies",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "cee_top_movies",
-      "name": "CEE Top Rated Movies",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "cee_popular_series",
-      "name": "CEE Most Viewed Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "cee_top_series",
-      "name": "CEE Top Rated Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "3isk_latest_episodes",
-      "name": "3isk Latest Turkish Episodes",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "3isk_turkish_series",
-      "name": "3isk Turkish Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "alooy_latest_series",
-      "name": "AlooyTv Latest Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "alooy_gulf_ramadan",
-      "name": "AlooyTv Gulf Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "alooy_arabic_ramadan",
-      "name": "AlooyTv Arabic Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "alooy_turkish_series",
-      "name": "AlooyTv Turkish Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "akwam_latest_movies",
-      "name": "Akwam Latest Movies",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "akwam_latest_series",
-      "name": "Akwam Latest Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "akwam_arabic_movies",
-      "name": "Akwam Arabic Movies",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "series",
-      "id": "akwam_arabic_series",
-      "name": "Akwam Arabic Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": false
-    },
-    {
-      "type": "movie",
-      "id": "tuktukcima_recent",
-      "name": "TukTukcima Recently Added",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "lodynet_latest",
-      "name": "LodyNet Latest Drama & Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "krmzy_series",
-      "name": "Krmzy Turkish Series",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "asia2tv_drama",
-      "name": "Asia2TV Korean & Asian Drama",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "5tv_featured",
-      "name": "5TV Featured Series & Movies",
-      "pageSize": 100,
+      "id": "src_replaymatch_movies",
+      "name": "FullMatchShows — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -681,9 +316,22 @@
     },
     {
       "type": "movie",
-      "id": "aflaam_movies",
-      "name": "Aflaam Arabic Movies",
-      "pageSize": 100,
+      "id": "src_moviesmod_movies",
+      "name": "Moviesmod — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_moviesmod_series",
+      "name": "Moviesmod — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -694,9 +342,9 @@
     },
     {
       "type": "movie",
-      "id": "tuniflix_movies",
-      "name": "TuniFlix Latest Movies",
-      "pageSize": 100,
+      "id": "src_bollyflix_movies",
+      "name": "Bollyflix — Latest Movies",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -707,48 +355,9 @@
     },
     {
       "type": "series",
-      "id": "anim3rb_latest",
-      "name": "Anime3rb Latest Anime",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "anime4up_latest",
-      "name": "Anime4Up Latest Anime",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "animerco_latest",
-      "name": "Animerco Featured Anime",
-      "pageSize": 100,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "series",
-      "id": "animephoenix_latest",
-      "name": "Anime Phoenix Latest Episodes",
-      "pageSize": 100,
+      "id": "src_bollyflix_series",
+      "name": "Bollyflix — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",
@@ -759,9 +368,22 @@
     },
     {
       "type": "movie",
-      "id": "replaymatch_latest",
-      "name": "FullMatchShows Latest Football Replays",
-      "pageSize": 100,
+      "id": "src_moviesdrive_movies",
+      "name": "MoviesDrive — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_moviesdrive_series",
+      "name": "MoviesDrive — Latest Series",
+      "pageSize": 50,
       "extra": [
         {
           "name": "skip",

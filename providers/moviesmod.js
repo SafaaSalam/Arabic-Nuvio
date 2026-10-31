@@ -7,7 +7,7 @@
  * - NuvioMobile (QuickJS 1.0.15)
  */
 
-var DEFAULT_MAIN_URL = "https://moviesmod.meme";
+var DEFAULT_MAIN_URL = "https://moviesmod.tw";
 var DEFAULT_TMDB_API_KEY = "8265bd1679663a7ea12ac168da84d2e8";
 var PROVIDER_ID = "moviesmod";
 var PROVIDER_NAME = "Moviesmod";

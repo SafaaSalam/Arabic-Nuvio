@@ -135,7 +135,7 @@
     "id": "3isk-collection",
     "title": "3isk — Turkish Drama",
     "name": "3isk — Turkish Drama",
-    "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/Omur-Usta-2.jpg",
+    "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -145,12 +145,12 @@
         "id": "folder-src_3isk_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/Omur-Usta-2.jpg",
+        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/09/Omur-Usta-2.jpg",
+        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/06/alti-ustu-istanbul-1.jpg",
         "titleLogoUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
         "sources": [
           {

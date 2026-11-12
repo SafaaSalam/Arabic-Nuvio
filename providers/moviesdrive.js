@@ -7,7 +7,7 @@
  * - NuvioMobile (QuickJS 1.0.15)
  */
 
-var DEFAULT_MAIN_URL = "https://new2.moviesdrive.cyou";
+var DEFAULT_MAIN_URL = "https://new3.moviesdrive.cyou";
 var DEFAULT_TMDB_API_KEY = "8265bd1679663a7ea12ac168da84d2e8";
 var PROVIDER_ID = "moviesdrive";
 var PROVIDER_NAME = "MoviesDrive";

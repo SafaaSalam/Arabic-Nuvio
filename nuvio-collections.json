@@ -591,7 +591,7 @@
     "id": "moviesmod-collection",
     "title": "Moviesmod — Hindi & English Movies",
     "name": "Moviesmod — Hindi & English Movies",
-    "backdropImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/11/Download-Never-Surrender-English-Hindi.webp",
+    "backdropImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/10/Download-Hope-Korean-1.webp",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -601,12 +601,12 @@
         "id": "folder-src_moviesmod_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/11/Download-Never-Surrender-English-Hindi.webp",
+        "coverImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/10/Download-Hope-Korean-1.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://moviesmod.tw/wp-content/uploads/2026/11/Download-Never-Surrender-English-Hindi.webp",
+        "heroBackdropUrl": "https://moviesmod.tw/wp-content/uploads/2026/10/Download-Hope-Korean-1.webp",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
         "sources": [
           {

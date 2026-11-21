@@ -203,13 +203,6 @@
         "VegaMovies@82"
       ]
     },
-    "3isk_turkish_series": {
-      "provider": "3isk",
-      "items": 31,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-11-21"
-    },
     "3isk_latest_episodes": {
       "provider": "3isk",
       "items": 214,
@@ -217,16 +210,9 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "alooy_arabic_ramadan": {
-      "provider": "alooytv",
-      "items": 50,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-11-21"
-    },
-    "alooy_gulf_ramadan": {
-      "provider": "alooytv",
-      "items": 51,
+    "3isk_turkish_series": {
+      "provider": "3isk",
+      "items": 31,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -245,9 +231,9 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "akwam_latest_movies": {
-      "provider": "akwam",
-      "items": 10826,
+    "alooy_arabic_ramadan": {
+      "provider": "alooytv",
+      "items": 50,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -259,13 +245,19 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "tuktukcima_recent": {
-      "provider": "tuktukcima",
-      "items": 16,
-      "reachable": false,
-      "backfillDone": false,
-      "lastOk": null,
-      "error": 403
+    "alooy_gulf_ramadan": {
+      "provider": "alooytv",
+      "items": 51,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-11-21"
+    },
+    "akwam_latest_movies": {
+      "provider": "akwam",
+      "items": 10828,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-11-21"
     },
     "akwam_arabic_series": {
       "provider": "akwam",
@@ -281,12 +273,13 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "lodynet_latest": {
-      "provider": "lodynet",
-      "items": 80,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-11-21"
+    "tuktukcima_recent": {
+      "provider": "tuktukcima",
+      "items": 16,
+      "reachable": false,
+      "backfillDone": false,
+      "lastOk": null,
+      "error": 403
     },
     "eseek_series": {
       "provider": "eseek",
@@ -295,9 +288,9 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "krmzy_series": {
-      "provider": "krmzy",
-      "items": 192,
+    "aflaam_movies": {
+      "provider": "aflaam",
+      "items": 47,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -310,13 +303,6 @@
       "lastOk": "2026-11-12",
       "error": 403
     },
-    "aflaam_movies": {
-      "provider": "aflaam",
-      "items": 47,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-11-21"
-    },
     "shahidwbas_latest": {
       "provider": "shahidwbas",
       "items": 0,
@@ -324,6 +310,27 @@
       "backfillDone": false,
       "lastOk": null,
       "error": 403
+    },
+    "krmzy_series": {
+      "provider": "krmzy",
+      "items": 193,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-11-21"
+    },
+    "asia2tv_drama": {
+      "provider": "aia2tv",
+      "items": 2139,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-11-21"
+    },
+    "lodynet_latest": {
+      "provider": "lodynet",
+      "items": 81,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-11-21"
     },
     "anim3rb_latest": {
       "provider": "anim3rb",
@@ -357,9 +364,9 @@
       "lastOk": null,
       "error": 403
     },
-    "asia2tv_drama": {
-      "provider": "aia2tv",
-      "items": 2139,
+    "replaymatch_latest": {
+      "provider": "replaymatch",
+      "items": 2712,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -372,9 +379,9 @@
       "lastOk": null,
       "error": 403
     },
-    "moviesmod_movies": {
-      "provider": "moviesmod",
-      "items": 7929,
+    "vegamovies_movies": {
+      "provider": "vegamovies",
+      "items": 0,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -382,20 +389,6 @@
     "vegamovies_series": {
       "provider": "vegamovies",
       "items": 0,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-11-21"
-    },
-    "tuniflix_movies": {
-      "provider": "tuniflix",
-      "items": 3471,
-      "reachable": true,
-      "backfillDone": true,
-      "lastOk": "2026-11-21"
-    },
-    "moviesmod_series": {
-      "provider": "moviesmod",
-      "items": 441,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -414,23 +407,23 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "vegamovies_movies": {
-      "provider": "vegamovies",
-      "items": 0,
+    "tuniflix_movies": {
+      "provider": "tuniflix",
+      "items": 3471,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "replaymatch_latest": {
-      "provider": "replaymatch",
-      "items": 2698,
+    "moviesmod_series": {
+      "provider": "moviesmod",
+      "items": 441,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
-    "moviesdrive_series": {
-      "provider": "moviesdrive",
-      "items": 167,
+    "moviesmod_movies": {
+      "provider": "moviesmod",
+      "items": 7933,
       "reachable": true,
       "backfillDone": true,
       "lastOk": "2026-11-21"
@@ -442,24 +435,35 @@
       "backfillDone": true,
       "lastOk": "2026-11-21"
     },
+    "moviesdrive_series": {
+      "provider": "moviesdrive",
+      "items": 167,
+      "reachable": true,
+      "backfillDone": true,
+      "lastOk": "2026-11-21"
+    },
     "_streams": {
       "attempted": 700,
-      "playable": 165,
-      "none": 535,
+      "playable": 2,
+      "none": 698,
       "failures": {
         "3isk": {
-          "no-embeds": 534
+          "no-embeds": 666
+        },
+        "replaymatch": {
+          "embeds-failed:t.me": 14
         },
         "lodynet": {
-          "embeds-failed:lodynet.watch": 1
+          "embeds-failed:lodynet.watch,www.vidlo.us,megamax.me,vidmoly.org": 12,
+          "embeds-failed:lodynet.watch": 6
         }
       }
     },
     "_episodes": {
       "checked": 120,
-      "updated": 23,
-      "noEpisodes": 1,
-      "unreachable": 18
+      "updated": 7,
+      "noEpisodes": 3,
+      "unreachable": 20
     }
   }
 }

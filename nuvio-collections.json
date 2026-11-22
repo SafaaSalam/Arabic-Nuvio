@@ -318,7 +318,7 @@
     "id": "lodynet-collection",
     "title": "LodyNet — Turkish & Asian Series",
     "name": "LodyNet — Turkish & Asian Series",
-    "backdropImageUrl": "https://lodynet.watch/wp-content/uploads/2026/11/العروس-220x220.jpg",
+    "backdropImageUrl": "https://lodynet.watch/wp-content/uploads/2026/11/al_arous_al_sahera_400x400-220x220.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -328,12 +328,12 @@
         "id": "folder-src_lodynet_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/11/العروس-220x220.jpg",
+        "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/11/al_arous_al_sahera_400x400-220x220.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://lodynet.watch/wp-content/uploads/2026/11/العروس-220x220.jpg",
+        "heroBackdropUrl": "https://lodynet.watch/wp-content/uploads/2026/11/al_arous_al_sahera_400x400-220x220.jpg",
         "titleLogoUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
         "sources": [
           {
@@ -628,12 +628,12 @@
         "id": "folder-src_moviesmod_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://moviesmod.fi/wp-content/uploads/2025/09/Download-Dexter_-Resurrection-Hindi-English.webp",
+        "coverImageUrl": "https://moviesmod.fi/wp-content/uploads/2025/03/Download-Doc-MoviesMod.jpeg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://moviesmod.fi/wp-content/uploads/2025/09/Download-Dexter_-Resurrection-Hindi-English.webp",
+        "heroBackdropUrl": "https://moviesmod.fi/wp-content/uploads/2025/03/Download-Doc-MoviesMod.jpeg",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
         "sources": [
           {

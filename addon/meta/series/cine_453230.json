@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_453230",
+    "type": "series",
+    "name": "ملوك الجدعنة",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/B7640423-0BD7-3ED2-708C-1023B596FE19_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/B7640423-0BD7-3ED2-708C-1023B596FE19_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/B7640423-0BD7-3ED2-708C-1023B596FE19_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "مسلحان بقوتهما وذكائهما، ينطلق صديقان ينتميان إلى منطقة شعبية في رحلة ملحمية ضد أحد أباطرة تجارة الشر.",
+    "releaseInfo": "2021",
+    "imdbRating": "6.0",
+    "genres": [
+      "دراما | Drama",
+      "اثارة | Thriller"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_453230",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/B7640423-0BD7-3ED2-708C-1023B596FE19_poster.jpg",
+        "overview": "ملوك الجدعنة",
+        "streams": []
+      }
+    ]
+  }
+}

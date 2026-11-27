@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_681622",
+    "type": "series",
+    "name": "المشوار",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/96F846C1-7E14-960A-8DD2-F0E8282E2C73_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/96F846C1-7E14-960A-8DD2-F0E8282E2C73_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/96F846C1-7E14-960A-8DD2-F0E8282E2C73_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يواجه عاملان في شركة ملاحة بحرية تحديات أكبر من عالمها البسيط. فما بين تجارة الآثار والصعود الطبقي المفاجئ والحب، تأخذهما الحياة في منعطفات لا تنتهي.",
+    "releaseInfo": "2022",
+    "imdbRating": "7.1",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_681622",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/96F846C1-7E14-960A-8DD2-F0E8282E2C73_poster.jpg",
+        "overview": "المشوار",
+        "streams": []
+      }
+    ]
+  }
+}

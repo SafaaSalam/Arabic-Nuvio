@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_736",
+    "type": "series",
+    "name": "صاحب السعادة",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/34496FFE-4A60-4D94-707A-1AA5E91AF4A2_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/34496FFE-4A60-4D94-707A-1AA5E91AF4A2_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/34496FFE-4A60-4D94-707A-1AA5E91AF4A2_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور أحداث المسلسل في إطار كوميدي حول حياة بهجت (عادل إمام) بعد تقاعده من عمله، مع زوجته وأبناءه وأحفاده، وما يلاقيه من مشاكل بسبب غيرة زوجته الشديدة عليه، ومشاكل مع أبناءه وأزواجهم، وأحفاده بسبب اختلاف الأجيال بينهم.",
+    "releaseInfo": "2014",
+    "imdbRating": "6.0",
+    "genres": [
+      "كوميدي | Comedy",
+      "دراما | Drama",
+      "عائلي | Family"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_736",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/34496FFE-4A60-4D94-707A-1AA5E91AF4A2_poster.jpg",
+        "overview": "صاحب السعادة",
+        "streams": []
+      }
+    ]
+  }
+}

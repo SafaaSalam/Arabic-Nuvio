@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_286330",
+    "type": "series",
+    "name": "العرضحالجي",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/ACC01616-E27F-7851-8B3C-A857BAA501A8_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/ACC01616-E27F-7851-8B3C-A857BAA501A8_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/ACC01616-E27F-7851-8B3C-A857BAA501A8_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "في إطار كوميدي لايت تدور الأحداث حول العرضحالجي سراج الذي يعمل أمام المحكمة، ووقوعه في العديد من المشاكل والمفارقات الكوميدية.",
+    "releaseInfo": "2019",
+    "imdbRating": "6.0",
+    "genres": [
+      "كوميدي | Comedy",
+      "دراما | Drama",
+      "بالعراقي | Iraqi"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_286330",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/ACC01616-E27F-7851-8B3C-A857BAA501A8_poster.jpg",
+        "overview": "العرضحالجي",
+        "streams": []
+      }
+    ]
+  }
+}

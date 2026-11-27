@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_350222",
+    "type": "series",
+    "name": "واحد زائد واحد",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/F68184F7-273E-A1F7-C59A-D6B9BC0C0238_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/F68184F7-273E-A1F7-C59A-D6B9BC0C0238_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/F68184F7-273E-A1F7-C59A-D6B9BC0C0238_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يطرح العمل حكاية الاخوين التوام \" سامر و عامر\" اللذين افترقا منذ الصغر وعاشا في منزلين مختلفين, و التقيا مجددا بعد عدة اعوام تنفيذا لوصية والدهما التي اجبرتهما على العيش معا في بيت واحد",
+    "releaseInfo": "2020",
+    "imdbRating": "6.5",
+    "genres": [
+      "دراما | Drama",
+      "عائلي | Family"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_350222",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/F68184F7-273E-A1F7-C59A-D6B9BC0C0238_poster.png",
+        "overview": "واحد زائد واحد",
+        "streams": []
+      }
+    ]
+  }
+}

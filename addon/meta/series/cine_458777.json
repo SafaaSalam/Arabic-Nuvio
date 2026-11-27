@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_458777",
+    "type": "series",
+    "name": "النمر",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/2B8C1BBB-5D46-9B02-ACBD-5CDF9B6DF5B9_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/2B8C1BBB-5D46-9B02-ACBD-5CDF9B6DF5B9_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/2B8C1BBB-5D46-9B02-ACBD-5CDF9B6DF5B9_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد أن كلفه حادث ذاكرته، يجد نمر نفسه متورطا وقد أصبحت حياته جزءا من حياة أكبر تجار الذهب في مصر في الوقت الذي يحاول فيه اكتشاف هويته.",
+    "releaseInfo": "2021",
+    "imdbRating": "6.0",
+    "genres": [
+      "اكشن | Action",
+      "اثارة | Thriller"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_458777",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/2B8C1BBB-5D46-9B02-ACBD-5CDF9B6DF5B9_poster.jpg",
+        "overview": "النمر",
+        "streams": []
+      }
+    ]
+  }
+}

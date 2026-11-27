@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_3114029",
+    "type": "series",
+    "name": "Mebius Dust",
+    "mal_id": "63802",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/BF10850D-71DA-8824-9B0A-9A299916C998_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/BF10850D-71DA-8824-9B0A-9A299916C998_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/BF10850D-71DA-8824-9B0A-9A299916C998_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "أراكي و ستيلا و أولغا طالبات عاديات في المرحلة الثانوية يعشن في مدينة شكّلها غبار «ميبيوس» الغامض. وبين ألعاب الفيديو والمشي بهدوء في طريق العودة إلى المنزل، تمضي أيامهن بسلام، لكن تقنيات غريبة واضطرابات متزايدة تبدأ تدريجيًا في تشويه حياتهن اليومية\n\nAraki, Stella, and Olga are ordinary high-schoolers living in a city shaped by the mysterious Mebius Dust. Between gaming, bathhouse trips, and quiet walks home, their days pass peacefully—yet strange technology and rising unrest begin to quietly distort their everyday lives.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.0",
+    "genres": [
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "خيالي | Fantasy",
+      "خيال علمي | Sci-Fi"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_3114029",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/BF10850D-71DA-8824-9B0A-9A299916C998_poster.png",
+        "overview": "Mebius Dust",
+        "streams": []
+      }
+    ]
+  }
+}

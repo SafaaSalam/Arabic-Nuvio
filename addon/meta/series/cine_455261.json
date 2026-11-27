@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_455261",
+    "type": "series",
+    "name": "موسى",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/33D45E88-FDDD-E4BB-22CA-D2EC127C3BE9_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/33D45E88-FDDD-E4BB-22CA-D2EC127C3BE9_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/33D45E88-FDDD-E4BB-22CA-D2EC127C3BE9_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد أن يفقد شقيقه في الحرب ضد البريطانيين، يأخذ شاب مصري يدعى موسى على نفسه عهدا بالانتقام، الأمر الذي يجعله مطلوبا من قبل جنود الإنجليز وبطلا في نفس الوقت.",
+    "releaseInfo": "2021",
+    "imdbRating": "7.0",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_455261",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/33D45E88-FDDD-E4BB-22CA-D2EC127C3BE9_poster.jpg",
+        "overview": "موسى",
+        "streams": []
+      }
+    ]
+  }
+}

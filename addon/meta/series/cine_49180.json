@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "id": "cine_49180",
+    "type": "series",
+    "name": "Tokyo Ghoul",
+    "mal_id": "22319",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/82544401-43E2-1123-18B2-65DEDFAC4E98_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/82544401-43E2-1123-18B2-65DEDFAC4E98_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/82544401-43E2-1123-18B2-65DEDFAC4E98_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "Ghouls are terrifying creatures which feed on human flesh. When Kaneki is almost killed in an attack, he transforms into a half-ghoul, half-human hybrid and is forced to adapt to their lifestyle in order to survive.",
+    "releaseInfo": "2014",
+    "imdbRating": "8.2",
+    "genres": [
+      "اكشن | Action",
+      "دراما | Drama",
+      "رسوم متحركة | Animation"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_49180",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/82544401-43E2-1123-18B2-65DEDFAC4E98_poster.png",
+        "overview": "Tokyo Ghoul",
+        "streams": []
+      }
+    ]
+  }
+}

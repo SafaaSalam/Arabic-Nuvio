@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_800158",
+    "type": "series",
+    "name": "ستيلتو",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/4164935A-E13B-9B21-B3CD-A5DC99556975_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/4164935A-E13B-9B21-B3CD-A5DC99556975_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/4164935A-E13B-9B21-B3CD-A5DC99556975_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "عندما تهوي جثة من الطابق الأعلى لبيت فخم أثناء حفل كبير، يستجوب رامي، الضابط المسؤول، كل الشهود للعثور على القاتل، ولكنه يكشف ماضٍ يتخلله الكراهية والخيانة.",
+    "releaseInfo": "2022",
+    "imdbRating": "6.9",
+    "genres": [
+      "دراما | Drama",
+      "غموض | Mystery",
+      "رومانسي | Romance"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_800158",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4164935A-E13B-9B21-B3CD-A5DC99556975_poster.jpg",
+        "overview": "ستيلتو",
+        "streams": []
+      }
+    ]
+  }
+}

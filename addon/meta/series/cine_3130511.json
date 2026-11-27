@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "cine_3130511",
+    "type": "series",
+    "name": "False Memory (2026)",
+    "mal_id": "60568",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/6CA5492B-2F37-5787-33B4-74E09AC33DE0_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/6CA5492B-2F37-5787-33B4-74E09AC33DE0_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/6CA5492B-2F37-5787-33B4-74E09AC33DE0_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد أن يجد جوان تشاو نفسه في مكتب إدارة الذاكرة عن طريق الخطأ، يجب عليه التغلب على العقبات عبر طبقات الذاكرة للعودة إلى الواقع ومواصلة سعيه وراء الحجر المحترق\n\nAfter accidentally falling into the Memory Management Bureau, Guan Chao must overcome obstacles across memory layers to return to reality and continue his quest for the “burning stone”.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "genres": [
+      "اكشن | Action",
+      "رسوم متحركة | Animation",
+      "غموض | Mystery",
+      "نفسي | Psychological",
+      "Super Power"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_3130511",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6CA5492B-2F37-5787-33B4-74E09AC33DE0_poster.jpg",
+        "overview": "False Memory (2026)",
+        "streams": []
+      }
+    ]
+  }
+}

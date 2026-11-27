@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_420094",
+    "type": "series",
+    "name": "بودي جارد",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/467CBF2A-E59F-42EF-B748-DDA9864FBF01_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/467CBF2A-E59F-42EF-B748-DDA9864FBF01_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/467CBF2A-E59F-42EF-B748-DDA9864FBF01_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "سجين يعقد صفقة داخل السجن مع أحد رجال الأعمال ليعمل كحارس شخصى لدى زوجته بعد خروجه، لكن الزوجة تقع في غرامه، ويحاول رجل الأعمال جاهداً إعادته إلى السجن.",
+    "releaseInfo": "2021",
+    "imdbRating": "8.8",
+    "genres": [
+      "كوميدي | Comedy",
+      "برنامج حواري | Talk-Show"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_420094",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/467CBF2A-E59F-42EF-B748-DDA9864FBF01_poster.png",
+        "overview": "بودي جارد",
+        "streams": []
+      }
+    ]
+  }
+}

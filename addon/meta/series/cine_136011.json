@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_136011",
+    "type": "series",
+    "name": "ذا فويس | the voice",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/4F1560F5-F234-C05D-AC1B-6121B0840F96_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/4F1560F5-F234-C05D-AC1B-6121B0840F96_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/4F1560F5-F234-C05D-AC1B-6121B0840F96_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يعمل المدربون عاصي الحلاني وأحلام وإليسا ومحمد حماقي في الموسم الرابع من برنامج أحلى صوت على اختيار أجمل الأصوات وتدريبها وتطويرها لتولد أحلى المواهب.",
+    "releaseInfo": "2018",
+    "imdbRating": "7.0",
+    "genres": [
+      "غنائي | Musical"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_136011",
+        "title": "الموسم 4 - الحلقة 1 | Season 4 Episode 1",
+        "season": 4,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4F1560F5-F234-C05D-AC1B-6121B0840F96_poster.jpg",
+        "overview": "ذا فويس | the voice",
+        "streams": []
+      }
+    ]
+  }
+}

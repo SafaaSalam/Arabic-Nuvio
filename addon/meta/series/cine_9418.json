@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_9418",
+    "type": "series",
+    "name": "Slam Dunk | Slam Dunk: Suramu danku",
+    "mal_id": "170",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/5F05B9AB-29CF-91BE-E63B-7BD35BE4ABAF_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/5F05B9AB-29CF-91BE-E63B-7BD35BE4ABAF_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/5F05B9AB-29CF-91BE-E63B-7BD35BE4ABAF_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "About Sakuragi Hanamichi, a freshman of Shohoku High School who joins the basketball team because of the girl he has a crush on, Haruko. Although he is newbie in this sport, he is no ordinary basketball player.",
+    "releaseInfo": "1993",
+    "imdbRating": "8.8",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy",
+      "دراما | Drama",
+      "رياضي | Sport"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_9418",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/5F05B9AB-29CF-91BE-E63B-7BD35BE4ABAF_poster.jpg",
+        "overview": "Slam Dunk | Slam Dunk: Suramu danku",
+        "streams": []
+      }
+    ]
+  }
+}

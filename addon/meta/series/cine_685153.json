@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_685153",
+    "type": "series",
+    "name": "جزيرة غمام",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/90ED5C8F-7461-3503-7CE6-0AB0FD7B4EB0_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/90ED5C8F-7461-3503-7CE6-0AB0FD7B4EB0_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/90ED5C8F-7461-3503-7CE6-0AB0FD7B4EB0_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يعيش سكان جزيرة غمام سلسلة من الأحداث التي تهز واقع حياتهم عندما تصل مجموعة غامضة من الأغراب إلى ديارهم.",
+    "releaseInfo": "2022",
+    "imdbRating": "6.0",
+    "genres": [
+      "غموض | Mystery"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_685153",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/90ED5C8F-7461-3503-7CE6-0AB0FD7B4EB0_poster.jpg",
+        "overview": "جزيرة غمام",
+        "streams": []
+      }
+    ]
+  }
+}

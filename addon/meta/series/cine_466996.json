@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_466996",
+    "type": "series",
+    "name": "بروانة",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/D34E6251-1BF7-C036-2AB3-0AD3260BA9BB_poster.jpeg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/D34E6251-1BF7-C036-2AB3-0AD3260BA9BB_poster.jpeg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/D34E6251-1BF7-C036-2AB3-0AD3260BA9BB_poster.jpeg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بروانة، مسلسل حروب ودراما وأكشن،  احداثه الحقيقية في سنتي ٢٠١٤ و٢٠١٥..والتخيلية في ٢٠٢٦.\nيحكي قصة أب يلبي فتوى الدفاع عن الوطن فوق جبال مكحول حتى نيل الشهادة..في مواقف وأحداث  تكشف معدن العراقي الأصيل وشجاعته، مما يلقي بظلاله على إبنه الذي يكبر بعد 12 سنة ويعمل صحفياً ويسعى لتبرئة سمعة والده بعد اتهامات له بالاشتراك في مجزرة بروانة،  ويكتشف خلال رحلته مدى الخطر الذي تشكله الطائفية على وحدة العراق واستقراره، وأن عصابات الفساد تلعب على هذا الوتر لمصالح خاصة.",
+    "releaseInfo": "2021",
+    "imdbRating": "9.0",
+    "genres": [
+      "دراما | Drama",
+      "بالعراقي | Iraqi",
+      "حروب | War"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_466996",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/D34E6251-1BF7-C036-2AB3-0AD3260BA9BB_poster.jpeg",
+        "overview": "بروانة",
+        "streams": []
+      }
+    ]
+  }
+}

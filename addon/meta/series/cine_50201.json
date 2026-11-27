@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_50201",
+    "type": "series",
+    "name": "نيللي وشريهان",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/E542E81C-A551-0FBF-20E4-150DA66DB18C_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/E542E81C-A551-0FBF-20E4-150DA66DB18C_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/E542E81C-A551-0FBF-20E4-150DA66DB18C_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور أحداث المسلسل في إطار كوميدي اجتماعي، حيث تُجسّد (دنيا) دور فتاة ثرية تُدعى نيللي، وتجسد \"إيمي\" شخصية فتاة فقيرة تُدعى \"شريهان\"، إلى جانب كونهما ابنتا عم، فهما شخصيتان متنافراتان تمامًا، لكنهما تضطران لتنحية الخلافات جنبًا، لحل لغز ميكي، الذي يوصلهم إلى ميراث جدهما ميكاوي أبو الخير.",
+    "releaseInfo": "2016",
+    "imdbRating": "8.7",
+    "genres": [
+      "كوميدي | Comedy",
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_50201",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/E542E81C-A551-0FBF-20E4-150DA66DB18C_poster.jpg",
+        "overview": "نيللي وشريهان",
+        "streams": []
+      }
+    ]
+  }
+}

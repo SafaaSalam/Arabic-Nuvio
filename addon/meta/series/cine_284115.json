@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_284115",
+    "type": "series",
+    "name": "خمسة ونص",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/9A1866D8-94E2-CEE2-F3BA-6E37443DC3DC_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/9A1866D8-94E2-CEE2-F3BA-6E37443DC3DC_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/9A1866D8-94E2-CEE2-F3BA-6E37443DC3DC_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تتناول أحداث المسلسل قصة حب غير مألوفة بين حبيبين، تحاول فيها المرأة ترويض حبيب يشتهي مجد المال ويعاني من الحقد وصراعات على السلطة، وقدرتها على لعب دور نافذ في حياته.",
+    "releaseInfo": "2019",
+    "imdbRating": "6.0",
+    "genres": [
+      "دراما | Drama",
+      "رومانسي | Romance"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_284115",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/9A1866D8-94E2-CEE2-F3BA-6E37443DC3DC_poster.jpg",
+        "overview": "خمسة ونص",
+        "streams": []
+      }
+    ]
+  }
+}

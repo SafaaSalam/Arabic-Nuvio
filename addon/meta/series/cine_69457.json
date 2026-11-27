@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "id": "cine_69457",
+    "type": "series",
+    "name": "Hajime no Ippo",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/45E5EEB2-8D68-F1C4-98C1-58FD5DF2FE85_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/45E5EEB2-8D68-F1C4-98C1-58FD5DF2FE85_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/45E5EEB2-8D68-F1C4-98C1-58FD5DF2FE85_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تبدأ قصة إيبو عندما تعرض له مجموعة من الشباب الذين يعرفونه فضربوه كثيرا وأهانوا أمه أمامه ، تأثر إيبو لكنه لم يفعل أي شيء سوى الإعتذار ، عند هذه النقطة تدخل لاعب ملاكمة معروف وساعده ، بعد أن شاهد إيبو هذا الملاكم وكيف ساعده تأثر إيبو كثيرا وأخذ يردد كلمات منها أنه يريد أن يصبح قويا ويدافع عن نفسه ويدافع عن من يحب",
+    "releaseInfo": "2000",
+    "imdbRating": "8.8",
+    "genres": [],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_69457",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/45E5EEB2-8D68-F1C4-98C1-58FD5DF2FE85_poster.jpg",
+        "overview": "Hajime no Ippo",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_683212",
+    "type": "series",
+    "name": "رامز موفي ستار | رامز موفى ستار",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/297A8A99-F6F0-CAA6-B949-46413D2D2FF5_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/297A8A99-F6F0-CAA6-B949-46413D2D2FF5_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/297A8A99-F6F0-CAA6-B949-46413D2D2FF5_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "برنامج كوميدي، هو عبارة عن محاكاة مقالب الفنان رامز جلال، والمشاركة في مغامرة جديدة ومختلفة من المغامرات المثيرة والمضحكة",
+    "releaseInfo": "2022",
+    "imdbRating": "7.2",
+    "genres": [
+      "كوميدي | Comedy"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_683212",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/297A8A99-F6F0-CAA6-B949-46413D2D2FF5_poster.jpg",
+        "overview": "رامز موفي ستار | رامز موفى ستار",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_259713",
+    "type": "series",
+    "name": "The Promised Neverland | Yakusoku no Neverland",
+    "mal_id": "37779",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/B9B3AE73-D228-460E-D67F-0D52BE2BE1B4_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/B9B3AE73-D228-460E-D67F-0D52BE2BE1B4_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/B9B3AE73-D228-460E-D67F-0D52BE2BE1B4_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "At Grace Field House, life couldn't be better for the orphans! Though they have no parents, together with the other kids and a kind \"Mama\" who cares for them, they form one big, happy family. No child is ever overlooked, especially since they are all adopted by the age of 12. Their daily lives involve rigorous tests, but afterwards, they are allowed to play outside.",
+    "releaseInfo": "2019",
+    "imdbRating": "8.8",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "رعب | Horror",
+      "غموض | Mystery",
+      "خيال علمي | Sci-Fi"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_259713",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/B9B3AE73-D228-460E-D67F-0D52BE2BE1B4_poster.jpg",
+        "overview": "The Promised Neverland | Yakusoku no Neverland",
+        "streams": []
+      }
+    ]
+  }
+}

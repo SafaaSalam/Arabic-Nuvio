@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_47925",
+    "type": "series",
+    "name": "Sword Art Online",
+    "mal_id": "11757",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/D3474AF9-618D-C230-A97C-70C6937C4F1A_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/D3474AF9-618D-C230-A97C-70C6937C4F1A_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/D3474AF9-618D-C230-A97C-70C6937C4F1A_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "In the year 2022, thousands of people get trapped in a new virtual MMORPG and the lone wolf player, Kirito, works to escape.",
+    "releaseInfo": "2012",
+    "imdbRating": "8.0",
+    "genres": [
+      "اكشن | Action",
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "رومانسي | Romance"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_47925",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/D3474AF9-618D-C230-A97C-70C6937C4F1A_poster.png",
+        "overview": "Sword Art Online",
+        "streams": []
+      }
+    ]
+  }
+}

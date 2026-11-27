@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_284062",
+    "type": "series",
+    "name": "زلزال",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/46941C3E-CAFB-8330-5C76-A270EABEF513_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/46941C3E-CAFB-8330-5C76-A270EABEF513_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/46941C3E-CAFB-8330-5C76-A270EABEF513_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "على الرغم من انتمائه لعائلة بسيطة، إلا أن طموح الطالب الجامعي محمد حربي يتعدى حدود السماء ولا يكسره الفقر، إذ يمتلك حلماً غامضاً يسعى بشغف لتحقيقه.",
+    "releaseInfo": "2019",
+    "imdbRating": "7.0",
+    "genres": [
+      "اكشن | Action",
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_284062",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/46941C3E-CAFB-8330-5C76-A270EABEF513_poster.jpg",
+        "overview": "زلزال",
+        "streams": []
+      }
+    ]
+  }
+}

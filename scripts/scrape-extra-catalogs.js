@@ -418,9 +418,6 @@ const GENERIC_SOURCES = [
   { id: "starzplay_movies", providerKey: "starzplay", prefix: "starzplay", group: "drama", type: "movie", base: "https://starzplay.com/ar", pageUrl: () => "/", paginated: false,
     arTitle: "ستارزبلاي - أحدث الأفلام", enTitle: "Starzplay Latest Movies", emoji: "🎬", logo: LOGOS.starzplay,
     itemRegex: /<article\b[\s\S]*?<\/article>/gi },
-  { id: "flixmomo_movies", providerKey: "flixmomo", prefix: "flixmomo", group: "drama", type: "movie", base: "https://flixmomo.city", pageUrl: () => "/", paginated: false,
-    arTitle: "فليكس مومو - أحدث الأفلام", enTitle: "FlixMomo Latest Movies", emoji: "🎬", logo: LOGOS.flixmomo,
-    itemRegex: /<article\b[\s\S]*?<\/article>/gi },
 ];
 
 function buildSources() {
@@ -480,6 +477,39 @@ function buildSources() {
       fetchPage: (n) => htmlSource([cfg.base + cfg.pageUrl(n)], (h, o) => parseGeneric(h, o, cfg)),
     });
   }
+  // ---- FlixMomo JSON API (https://e.danbooru.top/v1)
+  const flixmomoSource = (id, type, endpoint, arTitle, enTitle, emoji) => ({
+    id, idPrefix: "flixmomo", bases: ["https://flixmomo.city"], type, arTitle, enTitle, emoji,
+    providerKey: "flixmomo", logo: LOGOS.flixmomo, noResolve: true,
+    fetchPage: async (n) => {
+      const r = await fetchJson(`https://e.danbooru.top/v1/${endpoint}/page-${n}.json`, 8000);
+      if (!r.ok) return { ok: false };
+      const arr = Array.isArray(r.data && r.data.results) ? r.data.results : [];
+      const items = arr.map((x) => {
+        if (!x || !x.id || !x.poster_path) return null;
+        const title = x.title || x.name || x.original_title || x.original_name;
+        const poster = `https://image.tmdb.org/t/p/w500${x.poster_path}`;
+        const bg = x.backdrop_path ? `https://image.tmdb.org/t/p/original${x.backdrop_path}` : poster;
+        const year = (x.release_date || x.first_air_date || "").slice(0, 4);
+        const meta = makeMetaItem({
+          id: `flixmomo_${x.id}`,
+          type,
+          name: title,
+          poster,
+          description: x.overview || title,
+          releaseInfo: year || undefined,
+          imdbRating: x.vote_average ? Number(x.vote_average).toFixed(1) : undefined,
+          logo: LOGOS.flixmomo,
+        });
+        if (meta) meta.background = bg;
+        return meta;
+      }).filter(Boolean);
+      return { ok: true, items, end: arr.length === 0 };
+    },
+  });
+  S.push(flixmomoSource("flixmomo_movies", "movie", "movie/popular", "فليكس مومو - أحدث الأفلام", "FlixMomo Latest Movies", "🎬"));
+  S.push(flixmomoSource("flixmomo_series", "series", "tv/popular", "فليكس مومو - أحدث المسلسلات", "FlixMomo Latest Series", "📺"));
+
   return S;
 }
 

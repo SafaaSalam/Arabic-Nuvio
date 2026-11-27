@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الواد سيد الشغال • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/08123E2D-EF3C-E08C-3645-A181DC3DF90F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072761&Signature=dXySDdfgqdlLKkVHJ1OpSQ0dfCw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الواد سيد الشغال • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/19417DC0-7775-4873-BE27-1D30ABE83161_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245272&Signature=DQtY2t%2BWS8C2vA%2BmSqrLe8LA4Po%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الواد سيد الشغال • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/3E0AE868-FCF6-97BE-653B-1A1B07695E93_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072761&Signature=ml3eKHx4mt4MArCELARwXIE1Xhc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الواد سيد الشغال • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/A7155F0B-708C-07C0-9E05-25791A99D62D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986617&Signature=VR0dsYlVq6IB7D%2F3RqFY%2BLcLBpY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الواد سيد الشغال • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/DB4044DB-A781-7286-EF6A-9BB84885AD8D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986617&Signature=H6DacJbIgPKW95d6Xn1sLbct%2B5o%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

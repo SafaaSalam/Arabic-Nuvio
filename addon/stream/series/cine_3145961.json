@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Battle Spirits [Re] Zekkai no Kuu S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B5554EB6-9A85-5518-DB70-6DCFBE0F413A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245368&Signature=BQlz5IAnccqW4OdrVra1335bkiU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145961-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=VLE3QEUt0r09pb5umms%2BBOcXyig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=UOIIUfZIZvBxcqVxk4BQL7DCk58%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17CC2A5F-D156-A9F5-BDAE-047A29FA45BF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=hsx84DQPC1YVYFf3UjUZPqYR1OY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Battle Spirits [Re] Zekkai no Kuu S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9A595CDE-E171-5505-0173-D14C62810699_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245368&Signature=b8fFXnjmO7oEN6VGZTFEEWpGbDA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145961-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=VLE3QEUt0r09pb5umms%2BBOcXyig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=UOIIUfZIZvBxcqVxk4BQL7DCk58%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17CC2A5F-D156-A9F5-BDAE-047A29FA45BF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=hsx84DQPC1YVYFf3UjUZPqYR1OY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Battle Spirits [Re] Zekkai no Kuu S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/313C6353-46F8-7804-28DC-4E5BAEC268DA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245368&Signature=98BzqVRufx2mngZ%2FPDSTsnbTs%2Fo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145961-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=VLE3QEUt0r09pb5umms%2BBOcXyig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=UOIIUfZIZvBxcqVxk4BQL7DCk58%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17CC2A5F-D156-A9F5-BDAE-047A29FA45BF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=hsx84DQPC1YVYFf3UjUZPqYR1OY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Battle Spirits [Re] Zekkai no Kuu S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6753FEB5-128F-A7DE-FB15-7957E3D8C6C7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245368&Signature=00yHFIudc0M3%2FRtX%2BEc66ZlIB5Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145961-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=VLE3QEUt0r09pb5umms%2BBOcXyig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=UOIIUfZIZvBxcqVxk4BQL7DCk58%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17CC2A5F-D156-A9F5-BDAE-047A29FA45BF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=hsx84DQPC1YVYFf3UjUZPqYR1OY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Battle Spirits [Re] Zekkai no Kuu S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/65FF6E31-445C-51CB-6DC7-761D852FD892_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245368&Signature=p77bOeNd7X550uRcPDBupbezQVQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145961-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=VLE3QEUt0r09pb5umms%2BBOcXyig%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F8EE8565-406A-436D-F933-D483A7F85116_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=UOIIUfZIZvBxcqVxk4BQL7DCk58%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145961-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17CC2A5F-D156-A9F5-BDAE-047A29FA45BF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392396&Signature=hsx84DQPC1YVYFf3UjUZPqYR1OY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

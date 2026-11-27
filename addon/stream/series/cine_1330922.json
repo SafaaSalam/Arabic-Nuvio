@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "يوم اخر S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CD9A0ACD-09A0-86D7-4ECB-E2FA155BCD98_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334633&Signature=hTP7XGzGPLdg3m7IoqgG6HrIjls%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "يوم اخر S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FFD180A1-A5D4-13C5-5CB3-6BA98050B8E0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334633&Signature=LD4VFzhjVdJcxzaVQEDLv4tcleE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "يوم اخر S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0CC48EFA-4624-B92A-FDB2-51544AA7A4D8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334633&Signature=BKW3qyodLSP4p6x528b5p8eBtMQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "يوم اخر S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/61FC51BC-BF9B-3D57-04DE-1A0CA2736293_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334633&Signature=yqTuRCuOw1V0BftQrLvopVS3q7c%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "يوم اخر S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BEF2FE97-1FB3-8FCF-E4ED-74E0B1722813_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334633&Signature=J0ougB9TUbRnDrFIsLFaxy3msCc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

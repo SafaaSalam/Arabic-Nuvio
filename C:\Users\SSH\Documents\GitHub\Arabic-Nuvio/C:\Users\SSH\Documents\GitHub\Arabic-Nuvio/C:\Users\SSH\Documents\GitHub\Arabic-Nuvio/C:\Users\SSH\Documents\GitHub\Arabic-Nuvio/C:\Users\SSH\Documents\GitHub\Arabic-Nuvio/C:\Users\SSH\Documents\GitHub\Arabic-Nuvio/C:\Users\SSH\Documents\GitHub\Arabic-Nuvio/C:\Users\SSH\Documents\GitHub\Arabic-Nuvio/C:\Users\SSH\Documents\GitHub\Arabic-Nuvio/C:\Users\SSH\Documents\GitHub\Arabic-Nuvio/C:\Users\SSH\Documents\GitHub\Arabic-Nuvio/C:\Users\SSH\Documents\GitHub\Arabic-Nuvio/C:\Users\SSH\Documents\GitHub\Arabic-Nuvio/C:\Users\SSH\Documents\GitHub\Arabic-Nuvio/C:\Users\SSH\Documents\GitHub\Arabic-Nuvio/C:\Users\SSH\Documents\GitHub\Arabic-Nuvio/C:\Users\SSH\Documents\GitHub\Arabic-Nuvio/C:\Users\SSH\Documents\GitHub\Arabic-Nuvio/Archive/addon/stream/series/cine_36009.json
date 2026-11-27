@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Hunt S01E06 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/CF1198D5-17A7-CFAF-A03D-4F8C17E06DA0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573589&Signature=PsEcpRtrNrLULfjslFPwSR%2BRjRo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-36009-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=%2FMA0n7AFYuObFRnNgpIwvyttBz4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-36009-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=joWOn3lK%2BGJ71YsaqU9xOJJEdUg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Hunt S01E06 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/25C514C4-A591-38B5-47DB-B1B096A1F787_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573589&Signature=t2DvhYbK6v3l2vWCf7rbqF6VFhI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-36009-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=%2FMA0n7AFYuObFRnNgpIwvyttBz4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-36009-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=joWOn3lK%2BGJ71YsaqU9xOJJEdUg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Hunt S01E06 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/0CF303F2-7A28-A8FF-1789-F24A5E302791_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573589&Signature=%2Bd8p1i%2Fqiitfb2q7OsBalULDNHM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-36009-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=%2FMA0n7AFYuObFRnNgpIwvyttBz4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-36009-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=joWOn3lK%2BGJ71YsaqU9xOJJEdUg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Hunt S01E06 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/B17124B2-BE51-6883-27A1-29891BFDE03A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573589&Signature=hRKNOQ3jFLyGX4xLb35Z4ndxo3w%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-36009-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=%2FMA0n7AFYuObFRnNgpIwvyttBz4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-36009-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=joWOn3lK%2BGJ71YsaqU9xOJJEdUg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Hunt S01E06 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/22C3D25F-14E5-E90A-8B5C-B0E5EAC84B14_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793573589&Signature=NN3AucsiS5urLCHxJo1IySXe7gY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-36009-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=%2FMA0n7AFYuObFRnNgpIwvyttBz4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-36009-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83504485-7720-8DA7-F364-028C606ED362_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795597608&Signature=joWOn3lK%2BGJ71YsaqU9xOJJEdUg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

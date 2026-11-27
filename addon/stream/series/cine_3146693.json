@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S02E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B3418335-8622-D731-B5A1-37BD94563889_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795881362&Signature=sC3CY1F7F0sinHZEVsfJvTDhzSQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146693-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=uIGTy2u8Dp90mZD1zC9UipS68i8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=RQ8HCY9NXWWTqrzcxG52xQPlW7g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C088C606-54E3-E333-4264-268E034BD0E9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=ZBoIkdRm6IBInwElfjYBUxhteGs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S02E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8E9B4745-06E6-A8F0-363B-55362A485BB5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795881362&Signature=2%2FEdSo%2BCrYn50ZLkKq4RLX8EJY0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146693-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=uIGTy2u8Dp90mZD1zC9UipS68i8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=RQ8HCY9NXWWTqrzcxG52xQPlW7g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C088C606-54E3-E333-4264-268E034BD0E9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=ZBoIkdRm6IBInwElfjYBUxhteGs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S02E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A6923557-6E16-D5E4-9308-9703B05CA83E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795881362&Signature=%2F3MxP0ERFiXndX2y8lzdk71kicU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146693-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=uIGTy2u8Dp90mZD1zC9UipS68i8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=RQ8HCY9NXWWTqrzcxG52xQPlW7g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C088C606-54E3-E333-4264-268E034BD0E9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=ZBoIkdRm6IBInwElfjYBUxhteGs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S02E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D11A2548-6E81-6CB2-9EB8-426173FADEB9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795881362&Signature=Lkjxr3iEWrmdVVYJW0DpjLlFzKE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146693-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=uIGTy2u8Dp90mZD1zC9UipS68i8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=RQ8HCY9NXWWTqrzcxG52xQPlW7g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C088C606-54E3-E333-4264-268E034BD0E9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=ZBoIkdRm6IBInwElfjYBUxhteGs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S02E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B3548549-9018-5581-659B-EDF14D713F1F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795881362&Signature=4%2BVfH1QNpkPR0YrOiF8bj9NGl%2Bw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3146693-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=uIGTy2u8Dp90mZD1zC9UipS68i8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13D58004-EE51-D296-9876-9F2B350F3BCB_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=RQ8HCY9NXWWTqrzcxG52xQPlW7g%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3146693-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C088C606-54E3-E333-4264-268E034BD0E9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391062&Signature=ZBoIkdRm6IBInwElfjYBUxhteGs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

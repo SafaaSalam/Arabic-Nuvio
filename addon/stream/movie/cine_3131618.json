@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Vampire Hunter D • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/01806B09-5B9B-AED2-9EED-4982B194D98A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245456&Signature=vCQGGannjU998QT2yWXd2JYr4rI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3131618-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=B8i7lP3nrcQx4EKsG610gCiKbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=eyERrh2jIhEAFXi%2BTEWGQworuiY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4A243FCB-3468-9076-7582-1CAEA39D8ED0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=DpiBy5NouHvY5cOss4EfOtAZtGE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Vampire Hunter D • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1E71E7AA-FE9D-EFF3-E914-A803BDAD6BFA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245456&Signature=6L9CZAkV43t83379aPN%2FrDTdPgg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3131618-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=B8i7lP3nrcQx4EKsG610gCiKbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=eyERrh2jIhEAFXi%2BTEWGQworuiY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4A243FCB-3468-9076-7582-1CAEA39D8ED0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=DpiBy5NouHvY5cOss4EfOtAZtGE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Vampire Hunter D • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/93B28028-A4CC-6BB3-C7C9-3631CF13A383_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245456&Signature=MD9Tcr4mkammuLLexh32e3hygH8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3131618-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=B8i7lP3nrcQx4EKsG610gCiKbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=eyERrh2jIhEAFXi%2BTEWGQworuiY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4A243FCB-3468-9076-7582-1CAEA39D8ED0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=DpiBy5NouHvY5cOss4EfOtAZtGE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Vampire Hunter D • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C66CBD2D-9E38-6AB1-7319-1627C5863199_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245456&Signature=9bnZxtTzr%2Bko7CATvXvN5Qe6Tpw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3131618-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=B8i7lP3nrcQx4EKsG610gCiKbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=eyERrh2jIhEAFXi%2BTEWGQworuiY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4A243FCB-3468-9076-7582-1CAEA39D8ED0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=DpiBy5NouHvY5cOss4EfOtAZtGE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Vampire Hunter D • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3296FCB4-EC5B-7F92-A9EF-72CD9C3A566D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245456&Signature=%2F8Isc4eAwdeXVmRKIfigMmFj5To%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3131618-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=B8i7lP3nrcQx4EKsG610gCiKbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AEFF6B1-253F-B7B9-9829-D4D0688D61EC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=eyERrh2jIhEAFXi%2BTEWGQworuiY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3131618-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4A243FCB-3468-9076-7582-1CAEA39D8ED0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390530&Signature=DpiBy5NouHvY5cOss4EfOtAZtGE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "معركة النجف • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4DA13ED3-0774-D98C-34EA-A6C531C791FF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333141&Signature=n9rJJki%2BfLLx3DdrdRd%2FA4YAbDA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "معركة النجف • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7AD7B8EE-D050-6E18-6900-E3F6C4779656_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333141&Signature=rY%2BMZgQin2Zk7SwnKbsNp5CKEb8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "معركة النجف • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6296EA40-B837-1E46-C7F1-7C7AA493849F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333141&Signature=7uk9xVQVnnxSclXkFqA5t7lzkl4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "معركة النجف • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/983DD629-7D90-1767-E236-9D90A54E9059_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333141&Signature=0thWiXoqU%2FSDYoGvqi35gRUsFMQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "معركة النجف • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0AD19F07-99E3-A660-53DF-ADFFB01ABE00_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333141&Signature=1D%2BMYRDamk10lXN08qTuS1rh2g8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

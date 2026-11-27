@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "محمد حسين • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/47F539DA-111C-E740-1A82-FF1E1D0EEA13_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245485&Signature=NofjScjM%2Fx3tij%2BEcY7PqbHbc1M%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "محمد حسين • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/94AB15BC-5C87-282D-CBA1-45DD0948BA44_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900212&Signature=B3YBiPz56NWP9jrdC6%2Fyx1OMDlQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "محمد حسين • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/E4505B05-74B7-DE3E-07EE-998B9F1B3830_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072729&Signature=XwkFSFNvM9XHGqXXNJtpEEuaCNc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "محمد حسين • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/7ABC445F-289C-B613-8970-3436FE8EC596_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986897&Signature=QYhav%2BE%2BkIDUJZGPmi2Ipaxa0Q4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "محمد حسين • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/203754E4-ABB5-BC47-249C-F3D92E3E2886_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986897&Signature=QjJKAOTThriEJiHOMoOenTkEFKA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

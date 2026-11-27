@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Miser • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/807BDC89-5D3D-B87F-9E76-047DE584E245_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=OEPJfCjFyaQfDKReunVeIQVz4c0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297460-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=syS5nLu9Upthx7AVujaefiv%2Fo%2Bw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=RH4qU0cGdq%2BQ03A5db9Yjb33OP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=g4zstdRAdo3kbwVLj%2BC3B8zf45s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297460-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=Mu263z3k9k1oXhp94dfBSbWvBmg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Miser • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A6395F95-89E6-03AD-BBA0-F2E22380863B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=RYXwIb5LifTYBhkjkGHR285rBd0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297460-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=syS5nLu9Upthx7AVujaefiv%2Fo%2Bw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=RH4qU0cGdq%2BQ03A5db9Yjb33OP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=g4zstdRAdo3kbwVLj%2BC3B8zf45s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297460-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=Mu263z3k9k1oXhp94dfBSbWvBmg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Miser • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/73C8F858-6F93-2334-F0D8-00B9DFAEC827_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=EDqRqt%2BeJdY133%2FGJc72w1kn5Ts%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297460-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=syS5nLu9Upthx7AVujaefiv%2Fo%2Bw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=RH4qU0cGdq%2BQ03A5db9Yjb33OP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=g4zstdRAdo3kbwVLj%2BC3B8zf45s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297460-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=Mu263z3k9k1oXhp94dfBSbWvBmg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Miser • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E0EDFDC5-F7CF-8B77-AE04-35E34CE795EA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=%2BU9knoHxtKntWZiN%2BJtCsicVzSc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297460-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=syS5nLu9Upthx7AVujaefiv%2Fo%2Bw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=RH4qU0cGdq%2BQ03A5db9Yjb33OP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=g4zstdRAdo3kbwVLj%2BC3B8zf45s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297460-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=Mu263z3k9k1oXhp94dfBSbWvBmg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Miser • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AA106B5B-BB9A-A992-905E-54A01FB907A5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=a4PqmapV%2FsvF9ELNf9iWrZ9a6FQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297460-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=syS5nLu9Upthx7AVujaefiv%2Fo%2Bw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8F1E88DD-31D0-755B-0493-EE17F5F374F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=RH4qU0cGdq%2BQ03A5db9Yjb33OP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297460-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=g4zstdRAdo3kbwVLj%2BC3B8zf45s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297460-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D26202F-46C4-D4E2-A3F8-3026DF1690BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798315970&Signature=Mu263z3k9k1oXhp94dfBSbWvBmg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

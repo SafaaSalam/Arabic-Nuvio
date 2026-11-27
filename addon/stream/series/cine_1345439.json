@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Dragon King's Decree S01E17 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E133CAEB-6745-D31A-9514-6CCACBEA6120_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163997&Signature=vRSv6MjHhnxSw6YJCZhDLhKInZo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1345439-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=CW2gFYLtqgp9FdJ60LF49JLP3MU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=9jEfI8dqSw8Jshcv9Lx%2FGDHnL5s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=uHiASgu%2FSHsNSzuTK2QHv2fv3MU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1345439-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=kp6YJwV4sBerPG3O1S0UKkWoax4%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Dragon King's Decree S01E17 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8669E476-7AA7-4780-8CFE-DF28CCF909DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163997&Signature=QDc7FVcYDztHK6enE%2BNQ6OtzppA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1345439-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=CW2gFYLtqgp9FdJ60LF49JLP3MU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=9jEfI8dqSw8Jshcv9Lx%2FGDHnL5s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=uHiASgu%2FSHsNSzuTK2QHv2fv3MU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1345439-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=kp6YJwV4sBerPG3O1S0UKkWoax4%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Dragon King's Decree S01E17 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D6EFE207-4A13-FFBC-D675-8F8AD5D8BC56_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163997&Signature=w0%2B9k3lwXuPffNIGGRyWvxAEeIE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1345439-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=CW2gFYLtqgp9FdJ60LF49JLP3MU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=9jEfI8dqSw8Jshcv9Lx%2FGDHnL5s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=uHiASgu%2FSHsNSzuTK2QHv2fv3MU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1345439-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=kp6YJwV4sBerPG3O1S0UKkWoax4%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Dragon King's Decree S01E17 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D35BE891-0FC2-F8FC-7137-2D7094E95681_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163997&Signature=kKGcrjwZ2LXg1IShrgzgjUL3Fl0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1345439-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=CW2gFYLtqgp9FdJ60LF49JLP3MU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=9jEfI8dqSw8Jshcv9Lx%2FGDHnL5s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=uHiASgu%2FSHsNSzuTK2QHv2fv3MU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1345439-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=kp6YJwV4sBerPG3O1S0UKkWoax4%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Dragon King's Decree S01E17 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2AB6642F-33E5-CA27-2794-E7AA608E9F79_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163997&Signature=gX6rgYILUQLlCe%2FyGgIH1ieqFjk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1345439-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=CW2gFYLtqgp9FdJ60LF49JLP3MU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0C865172-C336-8B96-E846-F77CBEDAB626_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=9jEfI8dqSw8Jshcv9Lx%2FGDHnL5s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1345439-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=uHiASgu%2FSHsNSzuTK2QHv2fv3MU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1345439-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F60E87C3-C28E-3E0F-2EC2-2750872FED89_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394439&Signature=kp6YJwV4sBerPG3O1S0UKkWoax4%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

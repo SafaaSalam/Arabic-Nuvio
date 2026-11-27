@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "HUANG JIN GUI SHI LU FILM SERIES • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FE8F3CC0-2930-9F7B-2ED5-34127C568399_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073816&Signature=EQOp8SHruCiCRS6h36DmriX1w1E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296557-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=%2F4CDr86h3Fg6mVgXfoLxlLzMyWo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=Qgr9dD9UptE2duXVsVyLcpDsmVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=RwGDa1XTcTtghXJgid3n8XDtczo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296557-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=59YAyMEzjhzLt54ABIMFcELb6ZA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "HUANG JIN GUI SHI LU FILM SERIES • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0AAD20D2-7316-78C6-665F-4CA9D89CF28E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073816&Signature=dJTDj1aOLhvC8r1WqkDzjA40zgQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296557-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=%2F4CDr86h3Fg6mVgXfoLxlLzMyWo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=Qgr9dD9UptE2duXVsVyLcpDsmVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=RwGDa1XTcTtghXJgid3n8XDtczo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296557-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=59YAyMEzjhzLt54ABIMFcELb6ZA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "HUANG JIN GUI SHI LU FILM SERIES • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D8CB9215-FEC5-69A0-ECD4-9B99354E40BF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073816&Signature=zsAQ8S9b9TFdHMpxHSijGG0Haao%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296557-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=%2F4CDr86h3Fg6mVgXfoLxlLzMyWo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=Qgr9dD9UptE2duXVsVyLcpDsmVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=RwGDa1XTcTtghXJgid3n8XDtczo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296557-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=59YAyMEzjhzLt54ABIMFcELb6ZA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "HUANG JIN GUI SHI LU FILM SERIES • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/90C9EFE1-3E60-25B4-0B9F-5B9FD805285F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073816&Signature=BYjDKDxXnuZMYyTsfWmIYHQSO0s%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296557-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=%2F4CDr86h3Fg6mVgXfoLxlLzMyWo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=Qgr9dD9UptE2duXVsVyLcpDsmVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=RwGDa1XTcTtghXJgid3n8XDtczo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296557-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=59YAyMEzjhzLt54ABIMFcELb6ZA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "HUANG JIN GUI SHI LU FILM SERIES • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B33074FE-183F-090B-9A3B-C5A86AA5701B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073816&Signature=tSb3K1K3ECuTMh1faOW7oYQj5kA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296557-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=%2F4CDr86h3Fg6mVgXfoLxlLzMyWo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AAF4AFD-45C7-3C58-D2AB-C7DB6FB0B10B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=Qgr9dD9UptE2duXVsVyLcpDsmVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296557-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=RwGDa1XTcTtghXJgid3n8XDtczo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296557-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/294CABAC-9D81-905E-3936-0EFA05F54D82_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393602&Signature=59YAyMEzjhzLt54ABIMFcELb6ZA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

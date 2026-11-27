@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الممر • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/CCF9E86E-C761-A7B0-2B6C-D448F05E9A37_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074811&Signature=X0cWjcVO9wHSGvRyNkWWnDKQMbA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الممر • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/F4AE0267-52BB-A577-357B-A99ED03E2C0C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074811&Signature=V2R8F6%2BQzqjid6A%2Fd19t4C%2B6Ock%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الممر • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/E670C089-3377-5235-BE42-A31BDA2F4DD9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074811&Signature=H0inA0Pj3xwJjzvLI%2FDczgqQ0es%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الممر • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/D004D046-3C69-B62F-766D-5933E4D9F638_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074811&Signature=6830bPoqfcZGm9RSEaSr3IG%2BmWk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الممر • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/95BE49CE-DF7A-3C8E-7C88-3674888FB168_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074811&Signature=kZ2%2B%2FfFMaNqO4Z%2BWIR%2BAzWsUQj8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

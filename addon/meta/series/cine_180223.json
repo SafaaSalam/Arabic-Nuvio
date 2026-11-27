@@ -1,0 +1,1004 @@
+{
+  "meta": {
+    "id": "cine_180223",
+    "type": "series",
+    "name": "Baki | Grappler Baki",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/B19EF7EC-E898-CB98-F68F-C78A6B410BA6_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/B19EF7EC-E898-CB98-F68F-C78A6B410BA6_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/B19EF7EC-E898-CB98-F68F-C78A6B410BA6_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+    "releaseInfo": "2001",
+    "imdbRating": "7.4",
+    "genres": [
+      "اكشن | Action",
+      "رسوم متحركة | Animation",
+      "رياضي | Sport"
+    ],
+    "cast": [
+      "nostaff"
+    ],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_180223",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/B19EF7EC-E898-CB98-F68F-C78A6B410BA6_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/BE51B098-2C4C-F0C7-3988-367C6BCE49BA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796331724&Signature=mIYMzu2QC0ggR%2BpnL818m2medhY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180223-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0BCE4C2-EE97-39BE-E8D5-B25494BC572C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383291&Signature=qF0XUSQboKW2fS6wwBu1gIIQvcc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180223-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0BCE4C2-EE97-39BE-E8D5-B25494BC572C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383291&Signature=x8YGYFgNJNRY4t5GZEgpYCkqHGY%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/31C69AF4-419D-A109-DB44-8CE9F84C2491_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796331724&Signature=MWDU0JT%2FjuKmrAbbZkNKI0mMusc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180223-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0BCE4C2-EE97-39BE-E8D5-B25494BC572C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383291&Signature=qF0XUSQboKW2fS6wwBu1gIIQvcc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180223-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0BCE4C2-EE97-39BE-E8D5-B25494BC572C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383291&Signature=x8YGYFgNJNRY4t5GZEgpYCkqHGY%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180227",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1F2B23EE-50E9-9E6C-6F06-91F8C1C69E79_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075112&Signature=sB2ClXprofK6fsX6P0useKHEpCM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180227-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7151387F-80C9-6890-588B-7B3C93B357B5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798370693&Signature=G37hu3jERk37IiFTJnvBRlGQEuk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180227-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7151387F-80C9-6890-588B-7B3C93B357B5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798370693&Signature=ePfwKc78rdrO9fzkpZ6K4pBOmaU%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/C10E73A5-B936-43AA-1C54-C20EBAB68057_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075112&Signature=JL4p1G5FnfqkB0OzEBOKGB%2FNDEY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180227-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7151387F-80C9-6890-588B-7B3C93B357B5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798370693&Signature=G37hu3jERk37IiFTJnvBRlGQEuk%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180227-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7151387F-80C9-6890-588B-7B3C93B357B5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798370693&Signature=ePfwKc78rdrO9fzkpZ6K4pBOmaU%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180229",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/D2787075-E4B5-BE8B-FD58-E2A0900488D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073469&Signature=Emga20vWiUyMImOgqH5V4Nc1gds%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180229-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60C02DE4-67AC-C5D0-4558-EE99876F22C9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=%2FyrSJtOMegc%2FAhFQli7pvijIaMM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180229-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60C02DE4-67AC-C5D0-4558-EE99876F22C9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=GJPm%2BEYnPMapILCViJLUeNrlhnc%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/594C69AD-F0CB-B472-42FA-0B4123B0BAE6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073469&Signature=zaB%2F9tGHghMhg1ChqpIRNaGKnPo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180229-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60C02DE4-67AC-C5D0-4558-EE99876F22C9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=%2FyrSJtOMegc%2FAhFQli7pvijIaMM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180229-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/60C02DE4-67AC-C5D0-4558-EE99876F22C9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=GJPm%2BEYnPMapILCViJLUeNrlhnc%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180231",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/423A7DF3-379C-F7A6-AED4-02C9BBE21A36_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075230&Signature=KEgcuPUdQeyiO3FxiMPxc40gXXQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180231-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F40C6049-C286-E535-ADC1-F9BFDA168CF5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=YlRmCHnIwUWSg5W28CQbYcwLK00%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180231-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F40C6049-C286-E535-ADC1-F9BFDA168CF5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=qwyBy6h9eKA9ukpc73jI%2BUu1dzQ%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/1715D04F-29C5-704E-ABC4-83B1A165CD72_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075230&Signature=aRcwiyy4JKQDAQZLTRjjeXb7zck%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180231-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F40C6049-C286-E535-ADC1-F9BFDA168CF5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=YlRmCHnIwUWSg5W28CQbYcwLK00%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180231-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F40C6049-C286-E535-ADC1-F9BFDA168CF5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394399&Signature=qwyBy6h9eKA9ukpc73jI%2BUu1dzQ%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180233",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/2C8B454A-B8FA-7CDC-EF3E-66D608482F9F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075834&Signature=Fexntqg6zs%2BuhPpLpZTfbBVex2c%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/09D91062-18F3-06D0-A181-27CF1F1FD39D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=9%2FJ5%2B3SEK%2B59J2XWoLq1Eui7SS4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/09D91062-18F3-06D0-A181-27CF1F1FD39D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=zb5sJKkmfONfV9fnuBOcEcnFm8k%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/29806818-824C-1B15-1BEC-2332814FD609_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075834&Signature=DOcbo6ulJVOuwGpop3Wg27nukmY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180233-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/09D91062-18F3-06D0-A181-27CF1F1FD39D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=9%2FJ5%2B3SEK%2B59J2XWoLq1Eui7SS4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180233-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/09D91062-18F3-06D0-A181-27CF1F1FD39D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=zb5sJKkmfONfV9fnuBOcEcnFm8k%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180235",
+        "title": "الموسم 1 - الحلقة 6 | Season 1 Episode 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E06 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/A4F296F2-BFB2-77D6-3C1A-0DA9C5D76DE3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075960&Signature=79fUbMTLSeDQqku%2Bzyai4aQ%2BAKI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180235-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=4IOfpn5dy2Bm0Sm1ZXQfOolGha0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180235-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=vHdkn9Nb2FqvxIlJ%2Bl8iWC3o3tg%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E06 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/3F316273-144F-16AB-0CA5-1944114BA2C2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075960&Signature=lOQC32XMJoNs5aynPbykiE55x3I%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180235-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=4IOfpn5dy2Bm0Sm1ZXQfOolGha0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180235-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=vHdkn9Nb2FqvxIlJ%2Bl8iWC3o3tg%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180237",
+        "title": "الموسم 1 - الحلقة 7 | Season 1 Episode 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E07 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/DE5463B9-3D96-6AE7-40B2-EA9D8DFBAA4F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076043&Signature=9PlaT5n%2FbKcvvviy4Rp1es2qFqs%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180237-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/395CDF91-013D-B0C0-AC61-74C63ED959BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=%2Fma%2FxFIya7H4e%2FAL4XXo9S7p9to%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180237-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/395CDF91-013D-B0C0-AC61-74C63ED959BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=CwWD%2BOReUIouiU4wJKiD%2FV39QiM%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E07 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/84C1944C-DC80-7026-F4CB-FF6E5AABB1D8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076043&Signature=Fgj5ZtLPgD9gsF7hIKufxXtpwas%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180237-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/395CDF91-013D-B0C0-AC61-74C63ED959BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=%2Fma%2FxFIya7H4e%2FAL4XXo9S7p9to%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180237-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/395CDF91-013D-B0C0-AC61-74C63ED959BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394400&Signature=CwWD%2BOReUIouiU4wJKiD%2FV39QiM%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180239",
+        "title": "الموسم 1 - الحلقة 8 | Season 1 Episode 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E08 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/97F378A0-ABB4-22FE-3783-97D0DD5548DD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072762&Signature=J5D8uRv4NgPw9%2BfG2J7QgWrzYH8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3D689D4-2B81-BFB6-708B-7FC77A68517C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798326235&Signature=aFypwqW6ADWzW03KsNw0yZOo88k%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3D689D4-2B81-BFB6-708B-7FC77A68517C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798326235&Signature=p5vI7f9sUI8XP3gZE87maE1qmII%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E08 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/AE8F0E2F-A6A6-770A-E5DF-21C2FE40FFD1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072762&Signature=BPVDLZLz32xpXvnWjmN0tt74w7k%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180239-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3D689D4-2B81-BFB6-708B-7FC77A68517C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798326235&Signature=aFypwqW6ADWzW03KsNw0yZOo88k%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180239-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3D689D4-2B81-BFB6-708B-7FC77A68517C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798326235&Signature=p5vI7f9sUI8XP3gZE87maE1qmII%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180241",
+        "title": "الموسم 1 - الحلقة 9 | Season 1 Episode 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E09 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/14F481FA-C75F-F7F6-F276-FDFA3507F26B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076485&Signature=xGwxQbEfXiHq5py97QZLk53Pc%2Bs%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E09 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/125692E3-C64B-0243-EDE4-D8A69F03021F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076485&Signature=wHmQS3FIIca6qlFJSP8kgCPL6Zg%3D",
+            "subtitles": [],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180243",
+        "title": "الموسم 1 - الحلقة 10 | Season 1 Episode 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E10 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/89D86931-8094-5169-1521-64407737FB06_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076510&Signature=0rL9nZ9MPWx7dPcEUEIrB2MDsOI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180243-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CF9F945-4EC1-D4E3-4F46-DF023B069EA0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=svybDxrhxYm%2FbIHNLqcB7zNJCog%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180243-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CF9F945-4EC1-D4E3-4F46-DF023B069EA0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=LklqvKkMRHIXuPhMTa9ajr%2FbrdY%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E10 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/58F41896-2C74-026A-E313-73D1B508D4AA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076510&Signature=CLmNFGraX9K8uxr71gI5K7DCsTc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180243-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CF9F945-4EC1-D4E3-4F46-DF023B069EA0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=svybDxrhxYm%2FbIHNLqcB7zNJCog%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180243-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CF9F945-4EC1-D4E3-4F46-DF023B069EA0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=LklqvKkMRHIXuPhMTa9ajr%2FbrdY%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180245",
+        "title": "الموسم 1 - الحلقة 11 | Season 1 Episode 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E11 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/43DF029E-7439-2D1D-BBCD-6842959FA6A9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076528&Signature=i8y%2BIbFQHgLKFV0LONcZV9M1v4c%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180245-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65A21D8C-E054-CF1C-EBFC-44A2E63A6DC4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=1JsGMnsc6vZPA3o6%2F2jfEn56YA0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180245-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65A21D8C-E054-CF1C-EBFC-44A2E63A6DC4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=F6F9wsgeyVWDU8HMqj61vmv873w%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E11 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/27B0801E-5C07-64F8-E49D-78459AE43361_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076528&Signature=RA%2Fbhuq%2F7LDfjYPdGGpLpnwV3xg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180245-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65A21D8C-E054-CF1C-EBFC-44A2E63A6DC4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=1JsGMnsc6vZPA3o6%2F2jfEn56YA0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180245-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65A21D8C-E054-CF1C-EBFC-44A2E63A6DC4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=F6F9wsgeyVWDU8HMqj61vmv873w%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180247",
+        "title": "الموسم 1 - الحلقة 12 | Season 1 Episode 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E12 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/829C783B-0756-2397-2AA1-E7499E53F63A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076546&Signature=p9sMAAe%2FP6lQEaM97lme2me5T8I%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2084DAEC-210D-1EC5-46EB-0EA9207E0D7C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=86Qhyz7TM3yOLuAUAgJ0xSRLpHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2084DAEC-210D-1EC5-46EB-0EA9207E0D7C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=cIPwi%2BWyLLisDBGZkPRu89%2FAEnE%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E12 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/EF637ABC-853B-13E2-89AE-9359E0D096BF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076546&Signature=AtM4gF1Xs5h8Vq%2FA3Q9EcpQZdbo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180247-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2084DAEC-210D-1EC5-46EB-0EA9207E0D7C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=86Qhyz7TM3yOLuAUAgJ0xSRLpHE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180247-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2084DAEC-210D-1EC5-46EB-0EA9207E0D7C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=cIPwi%2BWyLLisDBGZkPRu89%2FAEnE%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180249",
+        "title": "الموسم 1 - الحلقة 13 | Season 1 Episode 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E13 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/2E06510F-CBF0-02BB-B9B1-C24C59E2BF52_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076783&Signature=ZgDMpuDQN6Oyp5sonGTAg8tsqfA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180249-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/314BC64D-BEB7-64D6-F18E-079937BBA42E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=mPQX6O3%2Fya9MNg0nVdlGxFpcYt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180249-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/314BC64D-BEB7-64D6-F18E-079937BBA42E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=9e5%2FOdZMi6jnNwyCWDIBnW%2FBvog%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E13 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/9F6AC594-66A0-7E89-3790-38BBAD646B6E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076783&Signature=L%2Bms98AR4H1fbIhuBqXQZizOEdk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180249-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/314BC64D-BEB7-64D6-F18E-079937BBA42E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=mPQX6O3%2Fya9MNg0nVdlGxFpcYt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180249-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/314BC64D-BEB7-64D6-F18E-079937BBA42E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394401&Signature=9e5%2FOdZMi6jnNwyCWDIBnW%2FBvog%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180251",
+        "title": "الموسم 1 - الحلقة 14 | Season 1 Episode 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E14 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B6036D3D-2E8F-F7DC-3334-76B9CC76FDCB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076865&Signature=OKliF0sM0d13YT4nYoVIkYol2Ow%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180251-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/34569BA9-4A66-C33C-E364-AD2773A49F18_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368506&Signature=FkLe353wF6VWq8x62jIzQxYqlDo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180251-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/34569BA9-4A66-C33C-E364-AD2773A49F18_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368506&Signature=5hwvqKr3hgXs4fBnEP%2B2SySYi5w%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E14 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/766AD1C5-C752-2B7F-B934-73FE2B21D0AF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076865&Signature=vAgV%2BAW2WpAdbqy9pqYMWd%2Fdt2Q%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180251-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/34569BA9-4A66-C33C-E364-AD2773A49F18_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368506&Signature=FkLe353wF6VWq8x62jIzQxYqlDo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180251-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/34569BA9-4A66-C33C-E364-AD2773A49F18_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368506&Signature=5hwvqKr3hgXs4fBnEP%2B2SySYi5w%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180253",
+        "title": "الموسم 1 - الحلقة 15 | Season 1 Episode 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E15 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/8BE82D31-F98C-4DD0-7F43-597FE0B5A2EB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077076&Signature=GXLa5YDCwK6hmCYvaTm9trJTJxI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4F84BC39-BB0B-F0E9-30D6-2DFEC0D8B00F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368505&Signature=lxgkTXxh5iSmJ9rSweXHkTOiono%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4F84BC39-BB0B-F0E9-30D6-2DFEC0D8B00F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368505&Signature=dIiHfNpdLaCOYaV7MxSXkpE%2F7OQ%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E15 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E010A9A6-6B71-B28F-43FA-7F9F1410BE26_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077076&Signature=RoFd9QVW6ox6Xjt85jYQfD9Wq3U%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180253-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4F84BC39-BB0B-F0E9-30D6-2DFEC0D8B00F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368505&Signature=lxgkTXxh5iSmJ9rSweXHkTOiono%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180253-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4F84BC39-BB0B-F0E9-30D6-2DFEC0D8B00F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368505&Signature=dIiHfNpdLaCOYaV7MxSXkpE%2F7OQ%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180255",
+        "title": "الموسم 1 - الحلقة 16 | Season 1 Episode 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E16 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/0363AE03-4B6D-E4D2-C337-3765A57083C2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077120&Signature=9GVibAtXCTTl4k7pFKlmozDu4IU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180255-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77EAC214-DFF7-BFD7-DD8B-EF7B374AA486_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389567&Signature=2hD%2BCH3WEk8MG9g60BTwaegMWsA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180255-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77EAC214-DFF7-BFD7-DD8B-EF7B374AA486_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389567&Signature=SXRyqEcF2MtRheT0aS94136Ef%2Fk%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E16 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/FBBDDE8D-21AF-E5B9-145E-7648AF6844F0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077120&Signature=XplEzwlWihPRznDJ1sa5ZRlxJW4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180255-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77EAC214-DFF7-BFD7-DD8B-EF7B374AA486_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389567&Signature=2hD%2BCH3WEk8MG9g60BTwaegMWsA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180255-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/77EAC214-DFF7-BFD7-DD8B-EF7B374AA486_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389567&Signature=SXRyqEcF2MtRheT0aS94136Ef%2Fk%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180257",
+        "title": "الموسم 1 - الحلقة 17 | Season 1 Episode 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E17 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/ED581C70-EC17-26A8-34A4-48AA3633AF28_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077147&Signature=CvnToE6KCDpbRpX6Pvwtb3AtTsk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180257-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B08C6328-08DA-8EB2-4134-2EAD39E95BC4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798325370&Signature=%2Fh9WKdepzTIVZMfakr2I%2FLp1pvM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180257-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B08C6328-08DA-8EB2-4134-2EAD39E95BC4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798325370&Signature=Os%2BeLRtiosuG6IwRg6BZajuUbIw%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E17 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/E098BB1B-147F-0820-E7F3-8BB9937B2B3E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077147&Signature=ovzm%2F%2FiT8IIMhSaZDbNm%2Fpwg2ro%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180257-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B08C6328-08DA-8EB2-4134-2EAD39E95BC4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798325370&Signature=%2Fh9WKdepzTIVZMfakr2I%2FLp1pvM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180257-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B08C6328-08DA-8EB2-4134-2EAD39E95BC4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798325370&Signature=Os%2BeLRtiosuG6IwRg6BZajuUbIw%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180259",
+        "title": "الموسم 1 - الحلقة 18 | Season 1 Episode 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E18 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/345AEF2E-1637-B4A1-B36F-8DA2217BA69E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073149&Signature=AkkvSI9tnx4M7SA1vR6swbTeZ%2BY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180259-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/434BE022-4B4D-7E41-BEA4-C1FCDD72D5B3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388172&Signature=q4SeNbiMd2Pq12RVltvL7hBTqsM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180259-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/434BE022-4B4D-7E41-BEA4-C1FCDD72D5B3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388172&Signature=w3M7JYV5YxuKjhLH7xzi61o0aC0%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E18 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/59B60DFD-8074-0156-CC9B-D6254FAF1280_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073149&Signature=g35h4B%2FAv8JvN0E%2FD9%2BX2BYuuYo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180259-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/434BE022-4B4D-7E41-BEA4-C1FCDD72D5B3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388172&Signature=q4SeNbiMd2Pq12RVltvL7hBTqsM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180259-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/434BE022-4B4D-7E41-BEA4-C1FCDD72D5B3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388172&Signature=w3M7JYV5YxuKjhLH7xzi61o0aC0%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180261",
+        "title": "الموسم 1 - الحلقة 19 | Season 1 Episode 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E19 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/07BCC805-7889-4FB7-1234-5B945454B2A3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077424&Signature=1O1oDXOyNH8h61lRgqW%2FhwRw9W0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180261-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3759D72B-349D-53B4-CB1A-41CF3A1461AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389630&Signature=isR2MjP%2FITVtYeySxgo1haeXJhY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180261-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3759D72B-349D-53B4-CB1A-41CF3A1461AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389630&Signature=1mbOI6LWBPLLu%2FCCYdnXNe4uq1E%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E19 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/CD68DC8F-0951-0CBF-48F6-C0FC5708F8C0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077424&Signature=k5T220lZEWxB0pDINIrC1peAE6I%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180261-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3759D72B-349D-53B4-CB1A-41CF3A1461AE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389630&Signature=isR2MjP%2FITVtYeySxgo1haeXJhY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180261-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3759D72B-349D-53B4-CB1A-41CF3A1461AE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389630&Signature=1mbOI6LWBPLLu%2FCCYdnXNe4uq1E%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_180263",
+        "title": "الموسم 1 - الحلقة 20 | Season 1 Episode 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FF7A7D6E-5512-2B18-ED6F-A4613125DDBC_poster.jpg",
+        "overview": "تدور أحداث القصة حول شاب شرس يدعى باكي. متعة باكي الوحيدة هي القتال والقتال فقط، وأقصى ما يتمناه هو أن يقاتل شخصا ما يكون قويا جدا لدرجة أنه قد يقتله أثناء المعركة",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Baki | Grappler Baki S01E20 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/57806E54-B144-FCCB-1545-3FA64EFEC3E2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077802&Signature=3J0jANaWg3rkG2J%2FLrJs6IPnQbY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180263-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3B9314C-71B6-ABD5-FA81-1034B2B7C04F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391724&Signature=aKO4LvSySsOzO8gHbDj1dGwB1oQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180263-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3B9314C-71B6-ABD5-FA81-1034B2B7C04F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391724&Signature=L%2FHZAX74MsUtduut1Hu8IwhA3ik%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Baki | Grappler Baki S01E20 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin18-mp4/B9788317-11BC-15BF-3DDB-329AFB89B251_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796077802&Signature=%2B85He7oHtOE%2BwknRT7%2FHc1NjFdE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-180263-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3B9314C-71B6-ABD5-FA81-1034B2B7C04F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391724&Signature=aKO4LvSySsOzO8gHbDj1dGwB1oQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-180263-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C3B9314C-71B6-ABD5-FA81-1034B2B7C04F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391724&Signature=L%2FHZAX74MsUtduut1Hu8IwhA3ik%3D",
+                "lang": "ar"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "أقنعة | Persona S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FE76009B-339C-7C64-CF2F-05A381D0732E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796084772&Signature=722MphwQlAwTSg7qd9D%2BON7vtho%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3102986-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=NZ2yiBdqOSXjcG0wp3UgpCWwHrY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=68CjOtUlF7jxExJpiDKT1veYTNI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=v1gPGId2Akeu2%2BapvIo9kAFxu4M%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3102986-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=8%2FzLqk90%2BKUf23oCyiQnViRhP6Q%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "أقنعة | Persona S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1C5614B5-95B0-D6CD-FF09-64CE9F3E9B40_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796084772&Signature=WvXNZng5fJAPPDUJpq1U3zYDBcY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3102986-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=NZ2yiBdqOSXjcG0wp3UgpCWwHrY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=68CjOtUlF7jxExJpiDKT1veYTNI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=v1gPGId2Akeu2%2BapvIo9kAFxu4M%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3102986-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=8%2FzLqk90%2BKUf23oCyiQnViRhP6Q%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "أقنعة | Persona S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DB44EA55-FA93-581B-4BA7-DF70294F754C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796084772&Signature=F1wsE38wfoLuyqvOQGoy5Z3MNFQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3102986-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=NZ2yiBdqOSXjcG0wp3UgpCWwHrY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=68CjOtUlF7jxExJpiDKT1veYTNI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=v1gPGId2Akeu2%2BapvIo9kAFxu4M%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3102986-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=8%2FzLqk90%2BKUf23oCyiQnViRhP6Q%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "أقنعة | Persona S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/02BDF8EF-7EF6-4632-CCCE-54392FAC56E4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796084772&Signature=c7CuUMo%2BR5Fgv%2BDnPa4k47uYwN0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3102986-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=NZ2yiBdqOSXjcG0wp3UgpCWwHrY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=68CjOtUlF7jxExJpiDKT1veYTNI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=v1gPGId2Akeu2%2BapvIo9kAFxu4M%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3102986-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=8%2FzLqk90%2BKUf23oCyiQnViRhP6Q%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "أقنعة | Persona S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3061B38F-5A58-C43E-5A1B-1B1E6FB62CEA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796084772&Signature=qkbvqMcSJnqeXIW5nutl4lMqt7c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3102986-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=NZ2yiBdqOSXjcG0wp3UgpCWwHrY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3C9E129F-F76F-13EC-4738-6091516F82C4_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=68CjOtUlF7jxExJpiDKT1veYTNI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3102986-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=v1gPGId2Akeu2%2BapvIo9kAFxu4M%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3102986-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1255AF05-E4E7-9874-5497-32BF46B55CA4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394409&Signature=8%2FzLqk90%2BKUf23oCyiQnViRhP6Q%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

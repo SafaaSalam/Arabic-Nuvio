@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Fool Night DUBBED S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4FC08A30-96B5-1486-43D0-100F57FB1EC1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407305&Signature=Ha%2BkDWu9Qmi3dx3w1e%2BB9edAC5Q%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Fool Night DUBBED S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FBE325CE-71A8-9780-1F0A-296135FAC47C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407305&Signature=2%2BUyv81DOSJtHeEtoD5XZ1jclkI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Fool Night DUBBED S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9825E3CA-E04C-144C-AEF9-DBDDFD0ABDB2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407305&Signature=YqzXljH9i4qyPPowVn%2BNQ5XPXSE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Fool Night DUBBED S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E65EAF3E-2C8B-F156-16AA-C460248E8FE8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407305&Signature=AAb1fQm5ErC4rlghaHazq2sXDdE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Fool Night DUBBED S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4D1856CC-BD55-FB18-D39C-1D2273E23664_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407305&Signature=yycPw2jTu9dHZelCq1DAvlK2FEw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الدحيح S01E17 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/39EAF28A-F755-3A4E-B54F-541B5B1937C2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813619&Signature=bZhgDC0plHYO%2FL7bjciKOk%2F9Rcw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الدحيح S01E17 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1D434241-5EBB-6253-C4A2-F91BDAC4C208_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813619&Signature=NZQOhQzV71%2B0R%2FB22XEFEpYC4W0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الدحيح S01E17 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E632FD0B-AC1E-27D4-46FE-41B8D41DA656_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813619&Signature=RpOkKMH5asGL0daIKZNdzln7k7o%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الدحيح S01E17 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/2A5D3FB2-9D1C-8040-5257-604F376D5829_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813619&Signature=sLW6ZsPefC1xB33PAzzJIj9Vu5E%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الدحيح S01E17 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/6A48969A-7BDE-7B2E-4F21-E07386710CE1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813619&Signature=BS1rO7%2B5bB6FN85fZRzrTpWcv%2Bw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

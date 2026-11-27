@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The cure of the rabbit deity • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/14A6F81F-7DB9-26D2-678D-C70AE0A53848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074188&Signature=op%2FIKS7hwSWnEFOTRZgudpi4hW4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300688-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=QccJxdMabMnf81QnC8Ok4pmQmX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=J3m6Z4WcN84AtBawQaixMKDCZrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=afitWXg4mvcxYRMDd6%2FotgJX4ak%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300688-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=k4rYn4ioPLZvA9j0I0iQ1FsXos0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The cure of the rabbit deity • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/ADB77915-A1EB-B553-0441-3DEB3ADEF106_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074188&Signature=BNHBwqkmsrAVGORzny44YzdKJAQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300688-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=QccJxdMabMnf81QnC8Ok4pmQmX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=J3m6Z4WcN84AtBawQaixMKDCZrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=afitWXg4mvcxYRMDd6%2FotgJX4ak%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300688-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=k4rYn4ioPLZvA9j0I0iQ1FsXos0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The cure of the rabbit deity • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/18F1C827-2648-1BB1-56D8-CFAEAA02582B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074188&Signature=tDXOIWnpw%2F8aHmwXXwgAVm%2FE4LM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300688-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=QccJxdMabMnf81QnC8Ok4pmQmX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=J3m6Z4WcN84AtBawQaixMKDCZrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=afitWXg4mvcxYRMDd6%2FotgJX4ak%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300688-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=k4rYn4ioPLZvA9j0I0iQ1FsXos0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The cure of the rabbit deity • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A098480A-4246-409B-4937-EB1A9F20CF6C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074188&Signature=ihoVy8%2B9iqmWIRAcz%2Fw0xg4qwg0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300688-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=QccJxdMabMnf81QnC8Ok4pmQmX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=J3m6Z4WcN84AtBawQaixMKDCZrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=afitWXg4mvcxYRMDd6%2FotgJX4ak%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300688-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=k4rYn4ioPLZvA9j0I0iQ1FsXos0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The cure of the rabbit deity • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AFEEA39E-8EB7-9AD3-D832-338B1DD88589_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074188&Signature=UdNx7MLPfXj8pWRAzIhPdek3acI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300688-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=QccJxdMabMnf81QnC8Ok4pmQmX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9C717730-89DE-1831-4280-6C2BC02D866E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=J3m6Z4WcN84AtBawQaixMKDCZrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300688-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=afitWXg4mvcxYRMDd6%2FotgJX4ak%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300688-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C622656F-511A-59EA-2395-AACD26E65B15_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391198&Signature=k4rYn4ioPLZvA9j0I0iQ1FsXos0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

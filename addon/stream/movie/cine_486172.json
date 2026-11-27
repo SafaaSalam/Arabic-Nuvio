@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "أسمك • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/23E01145-7AF2-4C10-2FA4-8ED89917F9D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073304&Signature=Z3OYVtKdE%2B4TVqkc2pcYdrsHVYE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "أسمك • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/455A0577-7A8E-4182-1282-FA19130C0DE7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245729&Signature=2cy7FIKoy%2B%2FNRHukYw4KxgfRWr4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "أسمك • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/0AA0E646-19C2-1C77-0E30-F248C3A35889_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073304&Signature=fA2yfeRr3ONEj%2B%2ByEGnxSDD1Slk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "أسمك • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/048E4F4E-C244-EF43-1C64-408AA3E6571F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986965&Signature=8HWgV5KknIrFk88j9lTk8W6N18s%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "أسمك • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/BC9369F5-A2BF-1DBC-1499-96221EAD360F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986965&Signature=RO4KSVaxaTYfr%2F2JP2oIi8PcuCE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Pirates of the Caribbean: On Stranger Tides • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/68928DEC-C244-275F-1DCB-999EB6C1BD5F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158819&Signature=OtCcv34ODh5DCf8kzo4qKL6SJOk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33487-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=Dz33WSeAfY8GOlBrDFqng2zSbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33487-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=tmsLDgzLPXCgm%2BUioBjVlfFAW8w%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Pirates of the Caribbean: On Stranger Tides • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/99B37635-EF82-04CD-7BD9-546EF0563D66_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158819&Signature=F%2BNtgqEcldekl177IFeoPZvdHdk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33487-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=Dz33WSeAfY8GOlBrDFqng2zSbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33487-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=tmsLDgzLPXCgm%2BUioBjVlfFAW8w%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Pirates of the Caribbean: On Stranger Tides • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/C86EE93D-C549-E80A-BF57-8AAC2ADA174A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072998&Signature=eWbmvSsGuC0zx2MssdwY%2FC1aKLw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33487-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=Dz33WSeAfY8GOlBrDFqng2zSbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33487-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=tmsLDgzLPXCgm%2BUioBjVlfFAW8w%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Pirates of the Caribbean: On Stranger Tides • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/C2A6B65D-5A6E-728A-5705-8343F715E0D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072998&Signature=okmdfqONXIzOj1uN2nldUOKJgUI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33487-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=Dz33WSeAfY8GOlBrDFqng2zSbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33487-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=tmsLDgzLPXCgm%2BUioBjVlfFAW8w%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Pirates of the Caribbean: On Stranger Tides • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/C3F53FC7-C307-0475-DB1C-3015789B923F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072998&Signature=ik6rXWos%2B66ebq0kZN3MvzhRnwM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33487-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=Dz33WSeAfY8GOlBrDFqng2zSbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33487-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A938B41-E991-F2E8-DFEB-095D85C9A513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392755&Signature=tmsLDgzLPXCgm%2BUioBjVlfFAW8w%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

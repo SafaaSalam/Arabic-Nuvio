@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Baiyun Ghost House • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/45834D87-F1A8-8989-B7C2-B2B8FB03E373_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796079816&Signature=23x2I5KYvohipvNvIHy338A4iWc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299521-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=rSbJjTLBHMfGC7HAjpPTyfBoMco%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=HcPDHuI7bdPE53ZHejtuvUls8BQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=x47Tn58I7%2BwB83ICD1HDgrBRF9I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299521-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=MvAqj1qdRcfqsj2rkes%2FxO1hTWQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Baiyun Ghost House • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4140FE40-2A28-B002-93AA-699FA7D4C231_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796079816&Signature=T15PwjzqrjH%2BndNZfzPLs2gRslo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299521-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=rSbJjTLBHMfGC7HAjpPTyfBoMco%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=HcPDHuI7bdPE53ZHejtuvUls8BQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=x47Tn58I7%2BwB83ICD1HDgrBRF9I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299521-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=MvAqj1qdRcfqsj2rkes%2FxO1hTWQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Baiyun Ghost House • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4D654D68-B173-4554-95B2-D2FB9AD0B026_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796079816&Signature=Qah2XRkvPcx4eAkgq2%2Bl2hQ1W2U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299521-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=rSbJjTLBHMfGC7HAjpPTyfBoMco%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=HcPDHuI7bdPE53ZHejtuvUls8BQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=x47Tn58I7%2BwB83ICD1HDgrBRF9I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299521-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=MvAqj1qdRcfqsj2rkes%2FxO1hTWQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Baiyun Ghost House • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E9A5A522-E4CF-7E61-E298-B58254AD07DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796079816&Signature=SPvRptDC%2FdUFPdWmzZhf3YP24WM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299521-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=rSbJjTLBHMfGC7HAjpPTyfBoMco%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=HcPDHuI7bdPE53ZHejtuvUls8BQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=x47Tn58I7%2BwB83ICD1HDgrBRF9I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299521-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=MvAqj1qdRcfqsj2rkes%2FxO1hTWQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Baiyun Ghost House • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/08CA898E-E656-F68E-A37E-7B4817561142_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796079816&Signature=Q%2FwhVB7bhpl3ZiYjvFIKHfJ86bo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299521-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=rSbJjTLBHMfGC7HAjpPTyfBoMco%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/71C1EA2D-A02C-651C-97DA-C934497A9767_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=HcPDHuI7bdPE53ZHejtuvUls8BQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299521-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=x47Tn58I7%2BwB83ICD1HDgrBRF9I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299521-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3CD43D07-5C20-E1A9-EF61-74DFC3C3FBF1_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394164&Signature=MvAqj1qdRcfqsj2rkes%2FxO1hTWQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Baki | Grappler Baki S01E06 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/A4F296F2-BFB2-77D6-3C1A-0DA9C5D76DE3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075960&Signature=79fUbMTLSeDQqku%2Bzyai4aQ%2BAKI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-180235-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=4IOfpn5dy2Bm0Sm1ZXQfOolGha0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-180235-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=vHdkn9Nb2FqvxIlJ%2Bl8iWC3o3tg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Baki | Grappler Baki S01E06 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/3F316273-144F-16AB-0CA5-1944114BA2C2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075960&Signature=lOQC32XMJoNs5aynPbykiE55x3I%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-180235-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=4IOfpn5dy2Bm0Sm1ZXQfOolGha0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-180235-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6B563356-D19A-0CC2-1199-D7BE1A5F505E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798340636&Signature=vHdkn9Nb2FqvxIlJ%2Bl8iWC3o3tg%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

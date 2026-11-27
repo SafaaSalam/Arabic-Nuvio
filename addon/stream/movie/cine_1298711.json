@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Black Building • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/01E57FCB-129A-138B-A84D-AF00E36678CD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813743&Signature=kgap6ESl0%2FEFsgd1Jk%2FR6WBhwfk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298711-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=tnUa7yRJxdfC5H1XnIOcOnaNdsA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=sbH6lINBNLu92zsZa%2FmOSq%2FPuwQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=111Icrc9p0yXJpIR223e6yFpw3w%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298711-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=dJESM%2FO2fY6L5ITbb8CF7%2FCshqc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Black Building • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/56321148-8D8C-46CE-F095-CB0EA01D8663_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813743&Signature=ex2sJ%2FBojQTmyXvvV15z0x1VmKw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298711-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=tnUa7yRJxdfC5H1XnIOcOnaNdsA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=sbH6lINBNLu92zsZa%2FmOSq%2FPuwQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=111Icrc9p0yXJpIR223e6yFpw3w%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298711-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=dJESM%2FO2fY6L5ITbb8CF7%2FCshqc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Black Building • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2F15D8E-7799-5242-3C52-3B57441456BC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813743&Signature=g91tvjRCGMXy%2BjIJNQ0k%2F89Oopg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298711-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=tnUa7yRJxdfC5H1XnIOcOnaNdsA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=sbH6lINBNLu92zsZa%2FmOSq%2FPuwQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=111Icrc9p0yXJpIR223e6yFpw3w%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298711-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=dJESM%2FO2fY6L5ITbb8CF7%2FCshqc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Black Building • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/73BE0793-7758-F9D1-DFAB-6E7DD9E95338_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813743&Signature=ZbDi%2Bcw6HJrHOTZuR1F6yYe837g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298711-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=tnUa7yRJxdfC5H1XnIOcOnaNdsA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=sbH6lINBNLu92zsZa%2FmOSq%2FPuwQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=111Icrc9p0yXJpIR223e6yFpw3w%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298711-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=dJESM%2FO2fY6L5ITbb8CF7%2FCshqc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Black Building • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BF1F54FA-FDD8-8971-C1E5-8ED62C48A902_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813743&Signature=L7f4HrlRCQ3atPOm3v4GPWasBr4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298711-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=tnUa7yRJxdfC5H1XnIOcOnaNdsA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5845EF6-88A1-EC4B-9FE3-829F3F20B54E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=sbH6lINBNLu92zsZa%2FmOSq%2FPuwQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298711-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=111Icrc9p0yXJpIR223e6yFpw3w%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298711-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93936523-78B4-4814-817E-1B482974A489_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391680&Signature=dJESM%2FO2fY6L5ITbb8CF7%2FCshqc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

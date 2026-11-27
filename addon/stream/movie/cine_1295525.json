@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Longmen Town • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E9E371FF-2BAD-A3C7-D9D2-9C66A1B107B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899623&Signature=K95C2bNMue4SDbKqvlUaLlBbxVI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295525-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=fvtNExhqBJ1AgnnBbjAH8UE%2FsX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=Xk5GBPkIHVZ0MZPgTRe4zPNe9z4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=3e5wkCCT752ME%2BBOLraLp9vQzzQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295525-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=EzTClmGsYK2dghhU2gqi0qH97wM%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Longmen Town • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AAAC1A25-5C47-6064-94E2-3C969D38A11B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899623&Signature=GILAEbhLH%2FmEQssXA1fZ%2Bog7K9U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295525-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=fvtNExhqBJ1AgnnBbjAH8UE%2FsX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=Xk5GBPkIHVZ0MZPgTRe4zPNe9z4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=3e5wkCCT752ME%2BBOLraLp9vQzzQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295525-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=EzTClmGsYK2dghhU2gqi0qH97wM%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Longmen Town • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/19A6316C-5382-73BE-E890-7116257451A0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899623&Signature=VQ82CNlhH%2BI4dAjrCXZUelVEK%2Fw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295525-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=fvtNExhqBJ1AgnnBbjAH8UE%2FsX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=Xk5GBPkIHVZ0MZPgTRe4zPNe9z4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=3e5wkCCT752ME%2BBOLraLp9vQzzQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295525-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=EzTClmGsYK2dghhU2gqi0qH97wM%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Longmen Town • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/92A2898C-DD0A-BF2D-FE2C-2170E3BC2502_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899623&Signature=76IJ1kdysNW8c9JwK3oEeCbCMkw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295525-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=fvtNExhqBJ1AgnnBbjAH8UE%2FsX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=Xk5GBPkIHVZ0MZPgTRe4zPNe9z4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=3e5wkCCT752ME%2BBOLraLp9vQzzQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295525-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=EzTClmGsYK2dghhU2gqi0qH97wM%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Longmen Town • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DDAF7203-144A-BE55-6AFC-D2B13DB3D6BE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899623&Signature=xHljBZwzVOzEMu5PnqT6D3zCyY4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295525-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=fvtNExhqBJ1AgnnBbjAH8UE%2FsX0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/87365CAA-6510-38C6-8DA3-7F188D201269_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=Xk5GBPkIHVZ0MZPgTRe4zPNe9z4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295525-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=3e5wkCCT752ME%2BBOLraLp9vQzzQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295525-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/254164FB-3C57-80BC-9D43-00D37AC7E385_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389807&Signature=EzTClmGsYK2dghhU2gqi0qH97wM%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

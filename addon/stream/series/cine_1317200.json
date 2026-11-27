@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Digimon Beatbreak S01E13 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0827D5DA-9E7A-01B9-8451-A881D6F6D38C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171374&Signature=L%2Bq5BmtfwBIKpjkveucI9FU6mLg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317200-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=GJkF%2BDqTEEYJumSEQka4pAHQapc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=a4vcToJK9GZEOTAoA%2FCDLHiVurA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/244C3F73-5A91-189C-E595-F474B0E64E22_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=6EZZ6izy2zA0%2FxdCzSUFxoPraHk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Digimon Beatbreak S01E13 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D40BBF32-4F5B-2735-DDDE-F1AEE5378CFF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171374&Signature=W7H5jxZADnTx9%2BpM74r7Glew3iI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317200-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=GJkF%2BDqTEEYJumSEQka4pAHQapc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=a4vcToJK9GZEOTAoA%2FCDLHiVurA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/244C3F73-5A91-189C-E595-F474B0E64E22_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=6EZZ6izy2zA0%2FxdCzSUFxoPraHk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Digimon Beatbreak S01E13 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DCE34F8E-2CDB-AA07-7F80-89DF7371131A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171374&Signature=wO2z7btbbXENr6oeVOOgNWC%2B9%2FY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317200-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=GJkF%2BDqTEEYJumSEQka4pAHQapc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=a4vcToJK9GZEOTAoA%2FCDLHiVurA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/244C3F73-5A91-189C-E595-F474B0E64E22_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=6EZZ6izy2zA0%2FxdCzSUFxoPraHk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Digimon Beatbreak S01E13 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B800A1E3-E29D-D2DB-3300-3E1F9E3738CF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171374&Signature=faLUMtaT2hspCtn6ivwF2hC8Di8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317200-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=GJkF%2BDqTEEYJumSEQka4pAHQapc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=a4vcToJK9GZEOTAoA%2FCDLHiVurA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/244C3F73-5A91-189C-E595-F474B0E64E22_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=6EZZ6izy2zA0%2FxdCzSUFxoPraHk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Digimon Beatbreak S01E13 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5270E1D8-F3DF-D63A-CE58-35595F01F28E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171374&Signature=%2Fw7v5%2FMOpbov%2FBsNdvoYaRGi%2Bxo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317200-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=GJkF%2BDqTEEYJumSEQka4pAHQapc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/276E271B-9C07-3795-9148-0E2BCE9016B6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=a4vcToJK9GZEOTAoA%2FCDLHiVurA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317200-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/244C3F73-5A91-189C-E595-F474B0E64E22_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394366&Signature=6EZZ6izy2zA0%2FxdCzSUFxoPraHk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

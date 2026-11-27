@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "ماروكو الصغيرة S01E20 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B79C1301-757A-7D1D-8624-51E0C78CEA14_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796247554&Signature=wST4Cmx8hIoX570ttD4wv3d7bJA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "ماروكو الصغيرة S01E20 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/815E1209-34A5-3CA8-6AD2-5BF7DE3861C4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796247554&Signature=Mxlrt9SJ508eIsRJ4Rp9OQYgImM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "ماروكو الصغيرة S01E20 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E44803A5-699E-C146-D49B-63712D6D09F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796247554&Signature=bVMNE4rZxcZzgnPO%2FprnuhNZqFY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "ماروكو الصغيرة S01E20 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B2F39AE6-1A7A-3064-47A1-D86D751BC005_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796247554&Signature=LkDJ65ovJTmN54a3RW5v8ZXZb88%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "ماروكو الصغيرة S01E20 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7051D4F0-4E07-80ED-C5B6-1349DA381427_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796247554&Signature=T%2BfOVTL72Qi6bRGGQJAH8vhhPKo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

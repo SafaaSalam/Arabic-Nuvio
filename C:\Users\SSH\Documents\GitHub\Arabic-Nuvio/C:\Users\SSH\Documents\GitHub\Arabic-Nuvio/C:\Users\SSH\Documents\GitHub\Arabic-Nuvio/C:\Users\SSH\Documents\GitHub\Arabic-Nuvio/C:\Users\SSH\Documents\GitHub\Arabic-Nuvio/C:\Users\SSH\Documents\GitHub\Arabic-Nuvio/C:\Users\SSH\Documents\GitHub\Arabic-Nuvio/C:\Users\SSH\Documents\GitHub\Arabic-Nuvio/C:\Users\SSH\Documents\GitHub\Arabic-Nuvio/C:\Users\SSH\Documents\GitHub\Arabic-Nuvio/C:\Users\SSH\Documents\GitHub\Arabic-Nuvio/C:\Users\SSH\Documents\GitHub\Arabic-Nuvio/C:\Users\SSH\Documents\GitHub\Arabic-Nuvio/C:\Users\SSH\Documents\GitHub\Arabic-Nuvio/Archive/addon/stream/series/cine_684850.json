@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "ألماس مكسور S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0A136CF9-FD5A-FF17-3292-6BC4B36513F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051228&Signature=22X3GQGL1XQsIod4vtcV1grYrCg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "ألماس مكسور S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1FFEBBB0-3139-241F-2745-E3B538F45EE2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793308994&Signature=%2BduPcsW%2FH6dCjWGdFh6uf59UK4Y%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "ألماس مكسور S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/47C72EF9-EE0B-00A6-A508-05FA42DB59A9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793051228&Signature=ZBOpokKQ7g%2F5AOll8blvkeR3XX0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "ألماس مكسور S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/BC531646-2E5F-58F1-E719-E076598B39F3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572856&Signature=0W4FsKo%2BYd3AW%2FvujII%2FQ9JLY0c%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "ألماس مكسور S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/39FED58B-3548-0B37-C09F-CFF7694D5AB7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572856&Signature=EGXwbdp2WQJ2j%2B3rXLHdguF3wN0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

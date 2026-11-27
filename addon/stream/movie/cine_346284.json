@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "سبع البرمبة • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/3D94649B-60E9-A02E-025F-4ECDDF9D2501_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073353&Signature=YQ9KujVjcSjEsxv0TPv9vxqlnRo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "سبع البرمبة • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/F62C61CA-1282-CAAB-3217-BFFFBE477A57_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073353&Signature=K0ByjNNKqrvE4AECA%2BJerG97qe0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "سبع البرمبة • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/7258BE42-AD76-ACAD-0C74-DF5E23680DB9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073353&Signature=7mGdpBnXmuFHybH4%2F6S7wxCPtjM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "سبع البرمبة • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/D262DDF6-59D2-BCC1-FCD4-783D5E503AD3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073353&Signature=3nvI9%2B1%2B6Sa7YFx5wp7vx6gmys8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "سبع البرمبة • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/4ECB37D5-EF0B-0D46-A777-41F6A17961F6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073353&Signature=Ae8l820vlo%2B66nGS7uJBcW4J5QY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

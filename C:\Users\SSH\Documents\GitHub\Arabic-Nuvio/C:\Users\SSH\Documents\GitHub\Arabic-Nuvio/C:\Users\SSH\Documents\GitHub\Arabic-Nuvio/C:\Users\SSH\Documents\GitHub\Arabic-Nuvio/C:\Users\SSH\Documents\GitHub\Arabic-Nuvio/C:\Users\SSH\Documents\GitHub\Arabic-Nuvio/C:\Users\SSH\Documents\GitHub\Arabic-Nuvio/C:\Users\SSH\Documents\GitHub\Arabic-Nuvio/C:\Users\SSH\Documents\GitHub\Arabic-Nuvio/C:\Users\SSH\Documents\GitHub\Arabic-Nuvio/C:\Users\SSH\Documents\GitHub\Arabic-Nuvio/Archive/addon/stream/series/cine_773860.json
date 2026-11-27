@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "انتقام مشروع S01E18 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/2E972D8C-6691-41DD-7EA4-FA59B728BFA1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793139923&Signature=xXBYqaDc5eFbILGvPiNkM8I882s%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "انتقام مشروع S01E18 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/BDB80347-8FBD-642A-774F-4FEA854118D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570391&Signature=NhRIx2NMSKtQc0HBWOFZJDWx9oQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "انتقام مشروع S01E18 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/305751B8-31BE-B7F7-F6CE-CA39AAE92848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793052380&Signature=gQ8gMK3HY4PTi9%2Feb65pbKt%2Bwqw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "انتقام مشروع S01E18 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/2BC19299-0451-EF29-98F0-D2D0C7E59AD6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570391&Signature=3rsSXJGjOiZknuPmMgfxVHpp5k4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "انتقام مشروع S01E18 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/5FD89D7F-8EDB-2088-2102-B2EE12EE20A6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793570391&Signature=oARyOoYmQZ%2BvcdZagcChns1xNoo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

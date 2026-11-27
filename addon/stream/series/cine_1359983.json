@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Spring Night S01E16 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/908DF54F-6BB5-AF91-B77B-ED6B9EFA7048_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255947&Signature=kNsp1P0pm%2B1o%2BBAale4i3F8JWKI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359983-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=xXJT7SBl8EUoBlxVbRy46IHl1FI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=GomDnUbJPsC4u7PpjrCew9h5gWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=UihRiRlAvtRPrOrpX61a4EjiLGQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359983-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=ONRHl9ouotTs3ffo2gQE1OVwAtQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Spring Night S01E16 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/22796EB2-0BF7-0DB7-7D82-1855AD54354D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255947&Signature=M7I1iJ7bA%2BZzurWbk5rdJh7PelQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359983-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=xXJT7SBl8EUoBlxVbRy46IHl1FI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=GomDnUbJPsC4u7PpjrCew9h5gWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=UihRiRlAvtRPrOrpX61a4EjiLGQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359983-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=ONRHl9ouotTs3ffo2gQE1OVwAtQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Spring Night S01E16 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D4187BF3-91B3-1993-81B8-E169CE9131EB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255947&Signature=k4RQgDenY0Ja4pOF4D%2Bnc52oJwY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359983-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=xXJT7SBl8EUoBlxVbRy46IHl1FI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=GomDnUbJPsC4u7PpjrCew9h5gWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=UihRiRlAvtRPrOrpX61a4EjiLGQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359983-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=ONRHl9ouotTs3ffo2gQE1OVwAtQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Spring Night S01E16 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/06F51D3C-8FDF-B5DB-4401-8800EF085277_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255947&Signature=tkVPlu9%2BX0Ly7SGKKhDh1WZCyF4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359983-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=xXJT7SBl8EUoBlxVbRy46IHl1FI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=GomDnUbJPsC4u7PpjrCew9h5gWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=UihRiRlAvtRPrOrpX61a4EjiLGQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359983-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=ONRHl9ouotTs3ffo2gQE1OVwAtQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Spring Night S01E16 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6848A0AD-149D-FEA6-92BF-DA2A69C5F34D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255947&Signature=JtkrShbz1KygCobLmXAoI7FtQoA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359983-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=xXJT7SBl8EUoBlxVbRy46IHl1FI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/59706A4E-20AF-EE0A-0E0E-D9DC9887F3CC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=GomDnUbJPsC4u7PpjrCew9h5gWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359983-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=UihRiRlAvtRPrOrpX61a4EjiLGQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359983-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/CC0F22D4-E2E6-AE8A-DA86-C309A63E3589_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394478&Signature=ONRHl9ouotTs3ffo2gQE1OVwAtQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الدحيح S01E06 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7885044F-5903-90E4-290E-BB1E9E27D634_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796252719&Signature=D6b%2FJ8W3vxMflntCZCfjj%2B0YfYw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الدحيح S01E06 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CD8E87FF-5736-0D8E-63DA-41BF5FD753C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796252719&Signature=a%2Fgr4oFn7ryNLztnl07r2ztUvNQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الدحيح S01E06 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C68DF368-FEF2-0BEF-0D48-E72DA3D8C13F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796252719&Signature=Y%2BWb5N0WIDuaBycZOr%2FZySITJhk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الدحيح S01E06 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/A2A9FBCA-54F4-EB46-9261-8D6CD1855E21_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796252719&Signature=H40%2BNBUguww%2FU4GPE7A8FtqccjE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الدحيح S01E06 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/194E3C6A-BEF1-793D-E2CB-FA74514FFD25_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796252719&Signature=1hCHkjDHqlknvANCEysJaM2L3Fw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

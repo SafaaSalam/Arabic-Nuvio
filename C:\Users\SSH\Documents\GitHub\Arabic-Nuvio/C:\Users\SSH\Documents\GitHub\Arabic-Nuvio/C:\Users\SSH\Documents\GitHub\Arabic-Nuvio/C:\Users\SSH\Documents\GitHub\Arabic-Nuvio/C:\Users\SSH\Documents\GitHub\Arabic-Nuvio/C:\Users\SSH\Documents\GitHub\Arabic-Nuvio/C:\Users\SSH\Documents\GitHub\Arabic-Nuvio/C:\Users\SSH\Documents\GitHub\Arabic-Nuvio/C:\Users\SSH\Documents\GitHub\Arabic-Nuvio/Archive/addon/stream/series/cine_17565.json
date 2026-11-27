@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "طوق البنات S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/A6AACF6E-BCE2-05F1-50CA-FF407C61D0CE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793141405&Signature=JD61KVeSvnytFgekF4bjHK8Op3k%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "طوق البنات S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/3E8E8DBB-82D2-A0A0-9766-15DF3EE8FB87_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793309318&Signature=mGmy17sBWeonDftRUwY7gJ5rGnI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "طوق البنات S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/D6392514-063E-9964-2866-8DC163E02036_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057828&Signature=eIrOLJvvQb0oJfijDC5Ywm6g75c%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "طوق البنات S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/17AC8CA1-4988-26F9-27A2-9E980E31DDAB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057828&Signature=6DUd201KihuVeXI%2FyxMhs%2FtKNgs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "طوق البنات S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/6F82AF8C-B4EC-B2F6-F395-106BA4F4715E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793057828&Signature=b2wWyeo%2F7Tcqcl8eRPt0cAGACyc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

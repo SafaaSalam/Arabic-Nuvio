@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "ألماس مكسور S01E16 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6938BD22-4BF8-5852-4411-D526744B6E4D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=aVwECuPVAvUIU3iagNZGFUUsKkc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "ألماس مكسور S01E16 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D5E6850C-DF1C-2EE4-34DF-05D1F2E4EE92_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=WB2OCQ9QOfOSVetAbxH%2F9FsrFb4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "ألماس مكسور S01E16 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/61D71370-66C3-9F0D-FA35-AF31246216A8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=zL0nozYJHUH%2Fpqle3A%2FSDE%2BYssw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "ألماس مكسور S01E16 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/5F888686-A8E8-DFF5-21F5-7F690E070E67_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=fjIv2TwO9Oo5PXk7g01t3Y4MUq0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "ألماس مكسور S01E16 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/BB37997C-69A0-DEA5-D848-26958BBE6033_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793395924&Signature=PLrY3gp4gTagYjtXAUSr%2BWSBbDw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

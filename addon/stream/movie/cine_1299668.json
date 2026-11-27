@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Fearless Kungfu King • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BE3A566C-EC2D-43F3-04A3-7B52E3F861E4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159843&Signature=Pl2FPRj6D7Tp%2Bp8mKwKwU0JoF3o%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299668-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=xotTGZPF7U6%2BFRbM%2FpNXTCWtcpU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=M%2BYRyIs0q71O1YQiMB90cOu6oB4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=wONaLbneFFUtAT6l%2Fmp90brSH2s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299668-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=LeYylHswekZGEsSlPTRmLTQgbp8%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Fearless Kungfu King • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/74C15B20-9A0F-D585-9501-F20119FB0CA3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159843&Signature=F8q5jHKtIhhk5n0gG9gAjB1F6CE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299668-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=xotTGZPF7U6%2BFRbM%2FpNXTCWtcpU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=M%2BYRyIs0q71O1YQiMB90cOu6oB4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=wONaLbneFFUtAT6l%2Fmp90brSH2s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299668-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=LeYylHswekZGEsSlPTRmLTQgbp8%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Fearless Kungfu King • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/122A0831-47EE-E20C-2D90-643BB9CE9AB9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159843&Signature=ChLuukowdJ2oDdFq6toUDZRcZLk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299668-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=xotTGZPF7U6%2BFRbM%2FpNXTCWtcpU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=M%2BYRyIs0q71O1YQiMB90cOu6oB4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=wONaLbneFFUtAT6l%2Fmp90brSH2s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299668-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=LeYylHswekZGEsSlPTRmLTQgbp8%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Fearless Kungfu King • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C3232CEF-6A4B-DC18-8C46-11817701EE71_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159843&Signature=t1oMxY2Jmq%2B0HCx3rOWaT%2BixEN0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299668-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=xotTGZPF7U6%2BFRbM%2FpNXTCWtcpU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=M%2BYRyIs0q71O1YQiMB90cOu6oB4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=wONaLbneFFUtAT6l%2Fmp90brSH2s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299668-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=LeYylHswekZGEsSlPTRmLTQgbp8%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Fearless Kungfu King • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8A214C0D-0046-A179-A98C-F198F6D85216_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159843&Signature=KbcyCZPP%2BCFwREc9Q1ih7zsVugI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299668-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=xotTGZPF7U6%2BFRbM%2FpNXTCWtcpU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83C1043D-F4F0-4A14-0949-EB148F9AD978_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=M%2BYRyIs0q71O1YQiMB90cOu6oB4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299668-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=wONaLbneFFUtAT6l%2Fmp90brSH2s%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299668-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E519341C-3A66-608B-6404-4FAF1DBB8F91_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798371044&Signature=LeYylHswekZGEsSlPTRmLTQgbp8%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Sasaki to Pii-chan S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CA71CE36-D020-D26A-D5B8-77FDEBEECD43_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332517&Signature=el%2BsUQGBCY%2B03lX8E6LYYxhBbhU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=tWRomg3meMJQxheDiEqn3ULzp7E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=dZJ5Lo71uSTNyAz%2BcAUMvuY1CkM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D2E670D-7903-A69C-BBAF-EC800B4AAA4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=O73Vf21HJ6i5RETzLksBPG4IcT8%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Sasaki to Pii-chan S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/095A5D64-CA20-53F4-EB15-F5C64A95B2DD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332517&Signature=mIc43WTj9wHcmq9sHDOIwnGb%2BfE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=tWRomg3meMJQxheDiEqn3ULzp7E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=dZJ5Lo71uSTNyAz%2BcAUMvuY1CkM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D2E670D-7903-A69C-BBAF-EC800B4AAA4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=O73Vf21HJ6i5RETzLksBPG4IcT8%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Sasaki to Pii-chan S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E9707392-6AFE-B3B8-59C5-B4C28675A040_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332517&Signature=isVbYOfofNWS7CFGlHeYODi7oBw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=tWRomg3meMJQxheDiEqn3ULzp7E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=dZJ5Lo71uSTNyAz%2BcAUMvuY1CkM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D2E670D-7903-A69C-BBAF-EC800B4AAA4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=O73Vf21HJ6i5RETzLksBPG4IcT8%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Sasaki to Pii-chan S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4B258FE5-C908-CE03-54C5-928391BB9CBF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332517&Signature=Hw3jeASE6HKlq9bfNQEpBVb9VYY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=tWRomg3meMJQxheDiEqn3ULzp7E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=dZJ5Lo71uSTNyAz%2BcAUMvuY1CkM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D2E670D-7903-A69C-BBAF-EC800B4AAA4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=O73Vf21HJ6i5RETzLksBPG4IcT8%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Sasaki to Pii-chan S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D3CAA328-0C9A-8DFC-D347-3AF41E82805B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332517&Signature=r8NUEDp98KAG%2FE0%2FlaEonHHkKa0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089074-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=tWRomg3meMJQxheDiEqn3ULzp7E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ABA5EE7F-42EC-E862-D500-3F75AC863F86_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=dZJ5Lo71uSTNyAz%2BcAUMvuY1CkM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089074-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D2E670D-7903-A69C-BBAF-EC800B4AAA4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382775&Signature=O73Vf21HJ6i5RETzLksBPG4IcT8%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

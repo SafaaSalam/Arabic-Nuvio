@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Fool Night DUBBED S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E5C0B1E5-D64E-DC49-AB21-64F604C88919_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407304&Signature=TTP8hKDcbi0JwF31WTpgyO8KOhs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Fool Night DUBBED S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C87F81BB-ECE8-619D-0B3C-C97EBE583178_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407304&Signature=QyNL6RA5CL2tu%2FLUUjYSs3lo66E%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Fool Night DUBBED S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/72395727-B83D-F55D-CDD0-87A977AAF6EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407304&Signature=NuM58jjYeuLfK%2BU9MynHBmmq7sc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Fool Night DUBBED S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/614AFE2D-3623-835A-A966-0D69F1BE04A8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407304&Signature=XMD12kf0RY1mJXJd381C5PFKC0I%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Fool Night DUBBED S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E1025BF4-1E06-5649-9FCE-127F00980D4C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407304&Signature=iuzDMIW49d1ozWnZ57KvY%2FIJBE8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

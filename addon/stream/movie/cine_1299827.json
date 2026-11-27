@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Reincarnation Land • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CB9A0BFE-1C0B-9D5A-F1BC-522B8BB7B202_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160074&Signature=9iz%2B%2FtjHDaFQMcVR8XQTWwzxBZQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299827-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=MR%2BYr%2FYpzWbX6Ue%2FS2n5mUViqfs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=rlXm81KRbUpypzkINlsTT7YsKBs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=%2FQvBYQRuBbsLp5BKN1pP885YtUg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299827-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=0DErp0zpeYTLufFROydDcr%2B%2FC94%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Reincarnation Land • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5FA162EB-8A19-6FC5-1B99-6BF6E4D9F209_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160074&Signature=2slcD8MYQ%2FWXbNJG7NthKZ9gMt8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299827-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=MR%2BYr%2FYpzWbX6Ue%2FS2n5mUViqfs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=rlXm81KRbUpypzkINlsTT7YsKBs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=%2FQvBYQRuBbsLp5BKN1pP885YtUg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299827-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=0DErp0zpeYTLufFROydDcr%2B%2FC94%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Reincarnation Land • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F2727E45-64CF-148D-010E-70CC14B02817_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160074&Signature=l0vx%2BLFWpIY3OkD7UekWkDLk%2FnM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299827-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=MR%2BYr%2FYpzWbX6Ue%2FS2n5mUViqfs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=rlXm81KRbUpypzkINlsTT7YsKBs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=%2FQvBYQRuBbsLp5BKN1pP885YtUg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299827-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=0DErp0zpeYTLufFROydDcr%2B%2FC94%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Reincarnation Land • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/233B3C0B-631E-32EB-E99A-0DEBBCF4409A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160074&Signature=BIa9cUmArpiJu%2BEVkCfCuM%2B6Eew%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299827-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=MR%2BYr%2FYpzWbX6Ue%2FS2n5mUViqfs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=rlXm81KRbUpypzkINlsTT7YsKBs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=%2FQvBYQRuBbsLp5BKN1pP885YtUg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299827-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=0DErp0zpeYTLufFROydDcr%2B%2FC94%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Reincarnation Land • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1DF74484-A641-9E53-53CF-3D5B75901DAE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160074&Signature=lIDFXIne5RggfdSlKPe2DE5s2zc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299827-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=MR%2BYr%2FYpzWbX6Ue%2FS2n5mUViqfs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/93C146A9-A961-3895-BB22-EADF62114A11_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=rlXm81KRbUpypzkINlsTT7YsKBs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299827-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=%2FQvBYQRuBbsLp5BKN1pP885YtUg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299827-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1B1A9E33-7998-656C-FF34-3869AA31A7DE_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798385016&Signature=0DErp0zpeYTLufFROydDcr%2B%2FC94%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_3146051",
+    "type": "series",
+    "name": "Chii Fuyo",
+    "mal_id": "63431",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/B7AE157A-93BF-5DFD-3E12-C805CFB68E90_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/B7AE157A-93BF-5DFD-3E12-C805CFB68E90_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/B7AE157A-93BF-5DFD-3E12-C805CFB68E90_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد طرده من فريقه، يبدأ ساحر قوي حياة جديدة مستفيداً من قدرته الفريدة على منح نقاط تعزيز لأي شيء يختاره\n\nAfter being banished from his party, a powerful magician starts a new life using his unique ability to grant enhancement points to anything he chooses.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "genres": [
+      "اكشن | Action",
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy",
+      "خيالي | Fantasy"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_3146051",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/B7AE157A-93BF-5DFD-3E12-C805CFB68E90_poster.png",
+        "overview": "Chii Fuyo",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Fight Night: The Million Dollar Heist S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/376157A1-A407-ABB6-DFB6-EE4FDB4DF984_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817194&Signature=8xKhEx7KkZAOUPcbD1x67krhaj8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1173860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=4dz97YnBLIQcUIHbl%2FSTGYm4W2E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=hoKZ4e722uCf3K%2Fa5v7s1XRdCbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=FCKNLapgG4TnlNGcLBaIdRtWK1A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1173860-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=ZgA7Q2dxSd1OBMNcl7Rr3YpH3B0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Fight Night: The Million Dollar Heist S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4EC41C95-7686-94BB-D03E-A73C3C8C89AF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817194&Signature=g3dvpwBFL0ddqZZPehIflYLOT4M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1173860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=4dz97YnBLIQcUIHbl%2FSTGYm4W2E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=hoKZ4e722uCf3K%2Fa5v7s1XRdCbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=FCKNLapgG4TnlNGcLBaIdRtWK1A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1173860-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=ZgA7Q2dxSd1OBMNcl7Rr3YpH3B0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Fight Night: The Million Dollar Heist S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0A0056F5-D3A8-EA00-DF22-15DDF65AC42C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817194&Signature=NnSAdXTMh8U7XLJddY1DRY%2FtnO0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1173860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=4dz97YnBLIQcUIHbl%2FSTGYm4W2E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=hoKZ4e722uCf3K%2Fa5v7s1XRdCbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=FCKNLapgG4TnlNGcLBaIdRtWK1A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1173860-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=ZgA7Q2dxSd1OBMNcl7Rr3YpH3B0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Fight Night: The Million Dollar Heist S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DB874D24-5FA2-017C-4107-3B54994F6D77_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817194&Signature=D3%2Bzt2RMxj34PZdteB3wPpyCnoo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1173860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=4dz97YnBLIQcUIHbl%2FSTGYm4W2E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=hoKZ4e722uCf3K%2Fa5v7s1XRdCbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=FCKNLapgG4TnlNGcLBaIdRtWK1A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1173860-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=ZgA7Q2dxSd1OBMNcl7Rr3YpH3B0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Fight Night: The Million Dollar Heist S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E20BC963-6D3C-7999-6BDC-F7A4FD0EE05D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817194&Signature=roDgBygW3CMsifCVJy5zgY%2BvcHc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1173860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=4dz97YnBLIQcUIHbl%2FSTGYm4W2E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/534A6E7A-5BEF-CEB0-A9E4-5CDC351220B2.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=hoKZ4e722uCf3K%2Fa5v7s1XRdCbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1173860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=FCKNLapgG4TnlNGcLBaIdRtWK1A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1173860-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AF31FBF-B3D5-70A5-FF93-358FE45FC286_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394382&Signature=ZgA7Q2dxSd1OBMNcl7Rr3YpH3B0%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

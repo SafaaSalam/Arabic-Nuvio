@@ -121,12 +121,19 @@ async function runTests() {
   const providerManifest = JSON.parse(fs.readFileSync(providerManifestPath, "utf8"));
   const pluginsList = JSON.parse(fs.readFileSync(pluginsPath, "utf8"));
   assert(providerManifest.name && providerManifest.version && Array.isArray(providerManifest.scrapers), "Invalid manifest.json structure");
-  assert(providerManifest.scrapers.length === 42, `Expected 42 providers in manifest.json, got ${providerManifest.scrapers.length}`);
-  assert(pluginsList.length === 42, `Expected 42 providers in plugins.json, got ${pluginsList.length}`);
+  assert(providerManifest.scrapers.length === 56, `Expected 56 providers in manifest.json, got ${providerManifest.scrapers.length}`);
+  assert(pluginsList.length === 56, `Expected 56 providers in plugins.json, got ${pluginsList.length}`);
 
   const expectedPriorityTop5 = ["cinemana", "cee", "3isk", "alooytv", "akwam"];
   const actualTop5 = providerManifest.scrapers.slice(0, 5).map(s => s.id);
   assert.deepStrictEqual(actualTop5, expectedPriorityTop5, `Top 5 priority sequence mismatch: ${actualTop5.join(", ")}`);
+
+  const newHubIds = ["cimanow", "aflamstream", "qfilm", "egybet", "tukcima", "fasselhd", "faselhd2", "egydeadca", "qdrama", "myseed", "ahwaktv", "starzplay", "flixmomo"];
+  const scraperIds = new Set(providerManifest.scrapers.map(s => s.id));
+  for (const nid of newHubIds) {
+    assert(scraperIds.has(nid), `Missing new arabic-cinema-hub provider: ${nid}`);
+  }
+  assert(scraperIds.has("cinemana") && scraperIds.has("cee"), "cinemana and cee must remain active in Stream Plugin");
 
   for (const scraper of providerManifest.scrapers) {
     const filePath = path.join(ROOT_DIR, scraper.filename);
@@ -144,14 +151,20 @@ async function runTests() {
   assert(Array.isArray(addonManifest.catalogs) && addonManifest.catalogs.length > 0, "No catalogs in addon/manifest.json");
 
   let totalCatalogItems = 0;
+  const catalogIds = new Set();
   for (const cat of addonManifest.catalogs) {
+    catalogIds.add(cat.id);
+    assert(!/cinemana|cee/i.test(cat.id) && !/cinemana|cee/i.test(cat.name), `Hidden category check failed: ${cat.id} (${cat.name}) should not appear on home page`);
     const catFile = path.join(ROOT_DIR, "addon", "catalog", cat.type, `${cat.id}.json`);
     assert(fs.existsSync(catFile), `Missing catalog file: ${catFile}`);
     const catData = JSON.parse(fs.readFileSync(catFile, "utf8"));
     assert(Array.isArray(catData.metas) && catData.metas.length > 0, `Empty metas in ${cat.id}`);
     totalCatalogItems += catData.metas.length;
   }
-  console.log(`✅ [2/4] Addon manifest.json & ${addonManifest.catalogs.length} catalog files valid (${totalCatalogItems} total items)`);
+  for (const reqGlobal of ["arabic_latest_additions", "arabic_trending_now", "arabic_latest_movies", "arabic_latest_series", "arabic_new_episodes_today", "arabic_top_10_week"]) {
+    assert(catalogIds.has(reqGlobal), `Missing required global discovery row: ${reqGlobal}`);
+  }
+  console.log(`✅ [2/4] Addon manifest.json & ${addonManifest.catalogs.length} catalog files valid (${totalCatalogItems} total items, Cee & Cinemana hidden)`);
 
   // 3. Verify nuvio-collections.json
   const collectionsPath = path.join(ROOT_DIR, "nuvio-collections.json");
@@ -180,6 +193,14 @@ async function runTests() {
   const directStreams = await getStreams("cine_3129755", "movie", null, null);
   assert(Array.isArray(directStreams) && directStreams.length > 0, "Expected streams for direct ID cine_3129755");
   console.log(`   🥇 [1] Cinemana Direct ID (cine_3129755): ${directStreams.length} streams, ${directStreams[0].subtitles.length} subtitles`);
+
+  const imdbMovieStreams = await getStreams("tt0137523", "movie", null, null);
+  assert(Array.isArray(imdbMovieStreams) && imdbMovieStreams.length > 0, "Expected streams for IMDb ID tt0137523 (Fight Club)");
+  console.log(`   🥇 [1] Cinemana IMDb ID (tt0137523): ${imdbMovieStreams.length} streams`);
+
+  const imdbSeriesStreams = await getStreams("tt0903747:1:1", "tv", null, null);
+  assert(Array.isArray(imdbSeriesStreams) && imdbSeriesStreams.length > 0, "Expected streams for IMDb episode ID tt0903747:1:1 (Breaking Bad S01E01)");
+  console.log(`   🥇 [1] Cinemana IMDb Episode ID (tt0903747:1:1): ${imdbSeriesStreams.length} streams`);
 
   // 4b. Priority #2..#5 Live Check (non-blocking if external site is geo-fenced in CI)
   try {

@@ -493,6 +493,151 @@ const PROVIDERS_CATALOG = [
     tvTypes: ["Movie", "TvSeries", "AsianDrama"],
     searchPath: "/search.php?q={query}",
   },
+
+  // === ARABIC CINEMA HUB PROVIDERS ===
+  {
+    id: "cimanow",
+    name: "CVN-CimaNow",
+    description: "CimaNow — Arabic movies and series",
+    version: "1.0.0",
+    mainUrl: "https://cimanow.cc",
+    logo: "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "aflamstream",
+    name: "CVN-AflamStream",
+    description: "AflamStream — Translated movies",
+    version: "1.0.0",
+    mainUrl: "https://aflamstream.com",
+    logo: "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+    supportedTypes: ["movie"],
+    tvTypes: ["Movie"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "qfilm",
+    name: "CVN-QFilm",
+    description: "QFilm — Movies and series",
+    version: "1.0.0",
+    mainUrl: "https://a.qfilm.tv",
+    logo: "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "egybet",
+    name: "CVN-EGYBET",
+    description: "EGYBET — Movies and series",
+    version: "1.0.0",
+    mainUrl: "https://egibest.info",
+    logo: "https://www.google.com/s2/favicons?domain=egibest.info&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "tukcima",
+    name: "CVN-TukCima",
+    description: "TukCima — Movies and series",
+    version: "1.0.0",
+    mainUrl: "https://tukcima.com",
+    logo: "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "fasselhd",
+    name: "CVN-FasselHD",
+    description: "FasselHD — Movies and series",
+    version: "1.0.0",
+    mainUrl: "https://fasselhd.com",
+    logo: "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "faselhd2",
+    name: "CVN-FaselHD",
+    description: "FaselHD — Alternative FaselHD source",
+    version: "1.0.0",
+    mainUrl: "https://www.fasel-hd.com",
+    logo: "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "egydeadca",
+    name: "CVN-EgyDead CA",
+    description: "EgyDead CA — Alternative EgyDead domain",
+    version: "1.0.0",
+    mainUrl: "https://egydead.ca",
+    logo: "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "qdrama",
+    name: "CVN-QDrama",
+    description: "QDrama — Drama series",
+    version: "1.0.0",
+    mainUrl: "https://w3.q-drama.com",
+    logo: "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+    supportedTypes: ["tv"],
+    tvTypes: ["TvSeries"],
+    searchPath: "/search.php?keywords={query}",
+  },
+  {
+    id: "myseed",
+    name: "CVN-MySeed",
+    description: "MySeed — Movies and series",
+    version: "1.0.0",
+    mainUrl: "https://m.myseed.tv",
+    logo: "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/?s={query}",
+  },
+  {
+    id: "ahwaktv",
+    name: "CVN-AhwakTV",
+    description: "AhwakTV — TV series",
+    version: "1.0.0",
+    mainUrl: "https://yam.ahwaktv.net",
+    logo: "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+    supportedTypes: ["tv"],
+    tvTypes: ["TvSeries"],
+    searchPath: "/search.php?keywords={query}",
+  },
+  {
+    id: "starzplay",
+    name: "CVN-Starzplay",
+    description: "Starzplay — Official streaming integration",
+    version: "1.0.0",
+    mainUrl: "https://starzplay.com/ar",
+    logo: "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/search?q={query}",
+  },
+  {
+    id: "flixmomo",
+    name: "CVN-FlixMomo",
+    description: "FlixMomo — Movies and series",
+    version: "1.0.0",
+    mainUrl: "https://flixmomo.city",
+    logo: "https://www.google.com/s2/favicons?domain=flixmomo.city&sz=128",
+    supportedTypes: ["movie", "tv"],
+    tvTypes: ["Movie", "TvSeries"],
+    searchPath: "/search?q={query}",
+  },
 ];
 
 const EPISODE_HELPER = fs.readFileSync(path.join(__dirname, "templates", "episode-helper.js"), "utf8");
@@ -665,7 +810,16 @@ async function resolveTargetInfo(rawId, mediaType) {
     tmdbId = cleanId;
   }
 
-  if (!tmdbId) return { titles: [] };
+  if (!tmdbId) {
+    if (/^tt\\d+$/i.test(cleanId)) {
+      var cmType = normalizedType === "movie" ? "movie" : "series";
+      var cmData = await safeJsonFetch("https://v3-cinemeta.strem.io/meta/" + cmType + "/" + cleanId.toLowerCase() + ".json");
+      if (cmData && cmData.meta && cmData.meta.name) {
+        return { titles: [cmData.meta.name] };
+      }
+    }
+    return { titles: [] };
+  }
 
   var details = await safeJsonFetch("https://api.themoviedb.org/3/" + normalizedType + "/" + tmdbId + "?api_key=" + tmdbKey + "&append_to_response=translations");
   if (!details) return { titles: [] };
@@ -797,6 +951,11 @@ async function extractMediaFromHtml(htmlRaw, pageUrl, baseUrl) {
 async function getStreams(tmdbId, mediaType, season, episode) {
   try {
     var mainUrl = getMainUrl();
+    var idParts = String(tmdbId || "").split(":");
+    if (idParts.length >= 3 && (season == null || episode == null)) {
+      if (season == null && /^\\d+$/.test(idParts[1])) season = parseInt(idParts[1], 10);
+      if (episode == null && /^\\d+$/.test(idParts[2])) episode = parseInt(idParts[2], 10);
+    }
 
     // Special handler for TVgarden (Famelack Live Channels JSON)
     if (PROVIDER_ID === "tvgarden") {
@@ -965,6 +1124,7 @@ const manifest = {
   description: "Comprehensive Arabic Nuvio Providers & Collections — Sequenced starting with Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Movie, Series, Anime & Live TV sources.",
   version: "2.0.0",
   author: "SafaaSalam",
+  logo: `${RAW_BASE}/assets/icons/arabic-nuvio-logo.jpg`,
   scrapers: PROVIDERS_CATALOG.map((p) => ({
     id: p.id,
     name: p.name,

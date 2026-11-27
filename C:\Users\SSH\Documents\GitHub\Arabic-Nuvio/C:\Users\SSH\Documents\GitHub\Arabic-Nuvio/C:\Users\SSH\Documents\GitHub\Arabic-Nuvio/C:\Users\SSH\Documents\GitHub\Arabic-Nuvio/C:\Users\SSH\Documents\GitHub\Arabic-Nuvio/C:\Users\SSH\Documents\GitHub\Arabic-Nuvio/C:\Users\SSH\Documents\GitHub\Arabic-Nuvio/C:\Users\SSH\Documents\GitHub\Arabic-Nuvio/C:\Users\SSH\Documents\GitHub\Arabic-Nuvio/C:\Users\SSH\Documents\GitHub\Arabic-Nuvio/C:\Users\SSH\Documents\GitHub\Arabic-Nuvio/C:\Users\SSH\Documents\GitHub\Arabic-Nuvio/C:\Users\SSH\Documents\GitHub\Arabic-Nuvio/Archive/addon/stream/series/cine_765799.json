@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "BTS In The SOOP S03E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/11F0D714-76A9-095F-8BE7-1FA2A8CF2094_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793056257&Signature=ucRMX9MjohT2UeKdtU6NBP6i93E%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "BTS In The SOOP S03E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/4A82021B-F692-6D4D-48EB-63ECA75FD8F5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793056257&Signature=HzfLUjHVYx0xHAsEbc5SG5qpngY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "BTS In The SOOP S03E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/0EDF74EA-971E-9B0F-EF0B-6AE7C784AF33_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793056257&Signature=FwoGfvSB9dhyDzRnI4pkkeU1qpE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "BTS In The SOOP S03E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/2CAA3B13-B248-A087-70AE-060228597A82_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793056257&Signature=bHWmtI1DUTSYE5V2jEq4R%2F7JpLM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "BTS In The SOOP S03E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/8F388E9C-A2AB-08BD-E789-94A6C7949014_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793056257&Signature=tOlOQ91Y0XZDcAik9oQ5jIQI%2F9c%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

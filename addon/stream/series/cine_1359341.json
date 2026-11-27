@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Ultimate Vow, Unknown to You S01E16 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4CC2B154-59FC-1BE0-04E8-9E1A7C00086B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796087985&Signature=EBpGTzMzQn6KHR%2BJ15EeJolZeHo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359341-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=g%2F80P1QG8kEQMv3cJTt%2BM9%2FyCGA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=iYVk6TL3W%2Fx%2FDolm0rxl22xxTK4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=7nU0LlYAVxk9b7%2F1Hs0hydILVlk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359341-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=ohaMlOlu%2B%2FEZqjdP%2BObXtuZR3DY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Ultimate Vow, Unknown to You S01E16 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CEFA0467-EEAA-6DC6-F344-C2C788797ABA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796087985&Signature=yE9OlRf7KZhMZ969nuENEW5PEE0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359341-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=g%2F80P1QG8kEQMv3cJTt%2BM9%2FyCGA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=iYVk6TL3W%2Fx%2FDolm0rxl22xxTK4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=7nU0LlYAVxk9b7%2F1Hs0hydILVlk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359341-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=ohaMlOlu%2B%2FEZqjdP%2BObXtuZR3DY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Ultimate Vow, Unknown to You S01E16 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/11665767-7D56-54DD-21DB-6988B8D01DA8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796087985&Signature=MAsUx2E6zr6tF%2FJDUHOv86l201M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359341-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=g%2F80P1QG8kEQMv3cJTt%2BM9%2FyCGA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=iYVk6TL3W%2Fx%2FDolm0rxl22xxTK4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=7nU0LlYAVxk9b7%2F1Hs0hydILVlk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359341-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=ohaMlOlu%2B%2FEZqjdP%2BObXtuZR3DY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Ultimate Vow, Unknown to You S01E16 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/018F24CA-575C-6826-9C06-0BD0804DB864_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796087985&Signature=iKC754fNCfPZp2SMp6b3p9%2FFRHk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359341-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=g%2F80P1QG8kEQMv3cJTt%2BM9%2FyCGA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=iYVk6TL3W%2Fx%2FDolm0rxl22xxTK4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=7nU0LlYAVxk9b7%2F1Hs0hydILVlk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359341-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=ohaMlOlu%2B%2FEZqjdP%2BObXtuZR3DY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Ultimate Vow, Unknown to You S01E16 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7C4C9922-927B-78FF-79CF-2D1A33AC5927_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796087985&Signature=Djc6IFeK23Ep%2Fg0yAlj%2Fn600Qjs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359341-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=g%2F80P1QG8kEQMv3cJTt%2BM9%2FyCGA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/13C19011-283A-0B96-5DC9-A38FCBE2D727_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=iYVk6TL3W%2Fx%2FDolm0rxl22xxTK4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359341-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=7nU0LlYAVxk9b7%2F1Hs0hydILVlk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359341-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D9593A9C-CE2C-619F-1664-1E6DEEB1DCC8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394468&Signature=ohaMlOlu%2B%2FEZqjdP%2BObXtuZR3DY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

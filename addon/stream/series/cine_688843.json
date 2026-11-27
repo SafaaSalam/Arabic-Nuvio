@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الدحيح S01E10 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CA0048E6-345F-A2DD-2DE3-A17B30B14C07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813604&Signature=WkK8syklQtwsB%2BCjFs%2BdudJCck8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الدحيح S01E10 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E22C4B6F-6D6E-2BB1-C73C-22481A3FEBAB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813604&Signature=v8fZPoGS5LPhQx%2Fa36uc6N3zA3w%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الدحيح S01E10 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/77B0DEA1-0926-58C7-8D33-F9B12B7448B4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813604&Signature=ihTSal498qXBdNJ4U31lr6GaCM8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الدحيح S01E10 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/38AC40B2-898C-3A1D-5AB5-0AB1900BCDC4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813604&Signature=QQd%2Bp1KKWJSbgwIW52%2BWLVSyYXY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الدحيح S01E10 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/50259415-F052-31D7-7883-5357F12E4E98_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813604&Signature=AL4UagKx%2FHxDBGmopopogEON9gA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

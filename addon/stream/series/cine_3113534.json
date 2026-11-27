@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Thunder Three S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C9108C2A-A8A6-B877-8B22-4671C98B0C90_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255399&Signature=lvXQuo3t2ljYEpBnjJkcCmA8Fe8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113534-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=4mo0zTPyF%2Bh%2B0r5428bhgpyn6us%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=XGDKq%2BCuswcZVkR%2ByAjMoIR8Hf0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99F2C88F-BFC1-7586-2D59-387C450A94AF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=%2FbzpK7aNlhjqfpLGgAuUi3kbM5Y%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Thunder Three S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A388C746-2D0D-43BB-2ECD-F8EC2BAA1A2E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255399&Signature=WfEy4dhOLI%2BWPj%2FQhXRn2uOdFBg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113534-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=4mo0zTPyF%2Bh%2B0r5428bhgpyn6us%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=XGDKq%2BCuswcZVkR%2ByAjMoIR8Hf0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99F2C88F-BFC1-7586-2D59-387C450A94AF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=%2FbzpK7aNlhjqfpLGgAuUi3kbM5Y%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Thunder Three S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BB7ECC52-8E9B-8952-62C0-1F8D07D5FBF3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255399&Signature=ITJCM5Wvoj3wbrHLyuIlc%2FYRhMk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113534-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=4mo0zTPyF%2Bh%2B0r5428bhgpyn6us%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=XGDKq%2BCuswcZVkR%2ByAjMoIR8Hf0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99F2C88F-BFC1-7586-2D59-387C450A94AF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=%2FbzpK7aNlhjqfpLGgAuUi3kbM5Y%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Thunder Three S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/778DC732-6F88-A55D-72B7-37BC8B669B3B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255399&Signature=lhK53C46OKcCj6KUWw7E3eoirKU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113534-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=4mo0zTPyF%2Bh%2B0r5428bhgpyn6us%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=XGDKq%2BCuswcZVkR%2ByAjMoIR8Hf0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99F2C88F-BFC1-7586-2D59-387C450A94AF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=%2FbzpK7aNlhjqfpLGgAuUi3kbM5Y%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Thunder Three S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/51BC9F3F-8AB4-D005-B778-3DE9E8ADFB2C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255399&Signature=YPfe7YdNm04KcdxQTNqVHA7qUNE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113534-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=4mo0zTPyF%2Bh%2B0r5428bhgpyn6us%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/182833F0-655F-38B6-99C8-3CC89E65E32C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=XGDKq%2BCuswcZVkR%2ByAjMoIR8Hf0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113534-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99F2C88F-BFC1-7586-2D59-387C450A94AF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394593&Signature=%2FbzpK7aNlhjqfpLGgAuUi3kbM5Y%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

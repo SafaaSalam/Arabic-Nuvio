@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/19174BFD-8D7E-6613-2E25-1DE6D4772690_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160872&Signature=STlsXwSwvxeJzOrIsc2%2FL0a65OY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-871426-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=vK%2FAS5RFqDjgVjjEmf%2B0bq7zQ2Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-871426-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=mloZguzJffWYVMpyhY%2B%2FS6ZduKo%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/E614DDB2-65AE-E081-9BB2-9A8716F3FE74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900212&Signature=kR4HhGuDXcQ%2FzjzxpcYKlgGoC6c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-871426-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=vK%2FAS5RFqDjgVjjEmf%2B0bq7zQ2Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-871426-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=mloZguzJffWYVMpyhY%2B%2FS6ZduKo%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/3B9F0276-80C2-DEE1-4B27-AE5F17B4EBF2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074462&Signature=RUAr5IAEXUPwDAveRmb7DDZVtoU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-871426-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=vK%2FAS5RFqDjgVjjEmf%2B0bq7zQ2Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-871426-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=mloZguzJffWYVMpyhY%2B%2FS6ZduKo%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/62624FB9-72D1-0B23-4E3A-9854CEF68D92_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988417&Signature=ge7ETT7sThjiphusxQ7Dewbtcf8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-871426-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=vK%2FAS5RFqDjgVjjEmf%2B0bq7zQ2Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-871426-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=mloZguzJffWYVMpyhY%2B%2FS6ZduKo%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/1B676A5F-DB3F-A884-96B4-8F2C5F23E385_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988417&Signature=p7zQw%2BuZdLwUk6aRRfLvklh6iCw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-871426-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=vK%2FAS5RFqDjgVjjEmf%2B0bq7zQ2Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-871426-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BCD0C5A3-40B5-C55F-F6C2-B4F494DE1FCC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798343977&Signature=mloZguzJffWYVMpyhY%2B%2FS6ZduKo%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

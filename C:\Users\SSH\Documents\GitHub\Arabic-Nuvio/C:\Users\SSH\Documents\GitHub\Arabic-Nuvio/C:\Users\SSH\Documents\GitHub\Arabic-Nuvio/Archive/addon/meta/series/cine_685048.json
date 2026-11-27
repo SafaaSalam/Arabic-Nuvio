@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_685048",
+    "type": "series",
+    "name": "من شارع الهرم إلى ...",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/1BCF3E3B-59F4-B1F6-74F7-CF0771BD71CD_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/1BCF3E3B-59F4-B1F6-74F7-CF0771BD71CD_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/1BCF3E3B-59F4-B1F6-74F7-CF0771BD71CD_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "بعد انتهاء حفل زفاف قتيبة، تضطر راقصة الحفل للبقاء في منزل والدته لعدم تمكنها من العودة للبلاد، وتحاول السيطرة على المنزل بطرق ماكرة",
+    "releaseInfo": "2022",
+    "imdbRating": "6.0",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_685048",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/1BCF3E3B-59F4-B1F6-74F7-CF0771BD71CD_poster.jpg",
+        "overview": "من شارع الهرم إلى ...",
+        "streams": []
+      }
+    ]
+  }
+}

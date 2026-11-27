@@ -3,14 +3,15 @@
   "name": "Arabic Nuvio",
   "version": "2.1.0",
   "description": "Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam & 36+ Arabic Movie, Series, Anime & Live TV Catalogs",
-  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-  "background": "https://cnth2.shabakaty.cc/vascin-cover-images/F544B6A2-DEAC-4F75-3C07-242AAE0C4079_cover.jpg",
+  "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/arabic-nuvio-logo.jpg",
+  "background": "https://cnth2.shabakaty.cc/vascin-cover-images/8A201B02-BE9C-43E9-430E-D5864E6A810F_cover.jpg",
   "language": "ar",
   "types": [
     "movie",
     "series"
   ],
   "idPrefixes": [
+    "tt",
     "cine_",
     "cee_",
     "3isk_",
@@ -34,7 +35,20 @@
     "moviesmod_",
     "vegamovies_",
     "bollyflix_",
-    "moviesdrive_"
+    "moviesdrive_",
+    "cimanow_",
+    "aflamstream_",
+    "qfilm_",
+    "egybet_",
+    "tukcima_",
+    "fasselhd_",
+    "faselhd2_",
+    "egydeadca_",
+    "qdrama_",
+    "myseed_",
+    "ahwaktv_",
+    "starzplay_",
+    "flixmomo_"
   ],
   "resources": [
     "catalog",
@@ -45,39 +59,7 @@
         "series"
       ],
       "idPrefixes": [
-        "cine_",
-        "cee_",
-        "3isk_",
-        "alooy_",
-        "akwam_",
-        "tuktukcima_",
-        "lodynet_",
-        "krmzy_",
-        "eseek_",
-        "aia2tv_",
-        "5tv_",
-        "aflaam_",
-        "shahidwbas_",
-        "tuniflix_",
-        "anim3rb_",
-        "anime4up_",
-        "animerco_",
-        "witanime_",
-        "animephoenix_",
-        "replaymatch_",
-        "moviesmod_",
-        "vegamovies_",
-        "bollyflix_",
-        "moviesdrive_"
-      ]
-    },
-    {
-      "name": "stream",
-      "types": [
-        "movie",
-        "series"
-      ],
-      "idPrefixes": [
+        "tt",
         "cine_",
         "cee_",
         "3isk_",
@@ -102,15 +84,88 @@
         "vegamovies_",
         "bollyflix_",
         "moviesdrive_",
+        "cimanow_",
+        "aflamstream_",
+        "qfilm_",
+        "egybet_",
+        "tukcima_",
+        "fasselhd_",
+        "faselhd2_",
+        "egydeadca_",
+        "qdrama_",
+        "myseed_",
+        "ahwaktv_",
+        "starzplay_",
+        "flixmomo_"
+      ]
+    },
+    {
+      "name": "stream",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tt",
+        "cine_",
+        "cee_",
+        "3isk_",
+        "alooy_",
+        "akwam_",
+        "tuktukcima_",
+        "lodynet_",
+        "krmzy_",
+        "eseek_",
+        "aia2tv_",
+        "5tv_",
+        "aflaam_",
+        "shahidwbas_",
+        "tuniflix_",
+        "anim3rb_",
+        "anime4up_",
+        "animerco_",
+        "witanime_",
+        "animephoenix_",
+        "replaymatch_",
+        "moviesmod_",
+        "vegamovies_",
+        "bollyflix_",
+        "moviesdrive_",
+        "cimanow_",
+        "aflamstream_",
+        "qfilm_",
+        "egybet_",
+        "tukcima_",
+        "fasselhd_",
+        "faselhd2_",
+        "egydeadca_",
+        "qdrama_",
+        "myseed_",
+        "ahwaktv_",
+        "starzplay_",
+        "flixmomo_",
         "tt"
       ]
     }
   ],
   "catalogs": [
     {
-      "type": "series",
-      "id": "arabic_latest_series",
-      "name": "Latest Series — All Sources",
+      "type": "movie",
+      "id": "arabic_latest_additions",
+      "name": "Latest Additions (All Sources)",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "arabic_trending_now",
+      "name": "Trending Now / Popular Today",
       "pageSize": 50,
       "extra": [
         {
@@ -123,20 +178,7 @@
     {
       "type": "movie",
       "id": "arabic_latest_movies",
-      "name": "Latest Movies — All Sources",
-      "pageSize": 50,
-      "extra": [
-        {
-          "name": "skip",
-          "isRequired": false
-        }
-      ],
-      "showInHome": true
-    },
-    {
-      "type": "movie",
-      "id": "src_cinemana_movies",
-      "name": "Cinemana — Latest Movies",
+      "name": "Latest Movies",
       "pageSize": 50,
       "extra": [
         {
@@ -148,8 +190,34 @@
     },
     {
       "type": "series",
-      "id": "src_cinemana_series",
-      "name": "Cinemana — Latest Series",
+      "id": "arabic_latest_series",
+      "name": "Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "arabic_new_episodes_today",
+      "name": "New Episodes Today / Recently Updated",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "arabic_top_10_week",
+      "name": "Top 10 This Week",
       "pageSize": 50,
       "extra": [
         {
@@ -290,6 +358,19 @@
       "showInHome": true
     },
     {
+      "type": "series",
+      "id": "src_shahidwbas_series",
+      "name": "ShahidWBas — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
       "type": "movie",
       "id": "src_tuniflix_movies",
       "name": "TuniFlix — Latest Movies",
@@ -384,6 +465,71 @@
       "type": "series",
       "id": "src_moviesdrive_series",
       "name": "MoviesDrive — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_myseed_movies",
+      "name": "MySeed — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_egybet_movies",
+      "name": "EGYBET — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_egybet_series",
+      "name": "EGYBET — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_qdrama_series",
+      "name": "QDrama — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_aflamstream_movies",
+      "name": "AflamStream — Latest Movies",
       "pageSize": 50,
       "extra": [
         {

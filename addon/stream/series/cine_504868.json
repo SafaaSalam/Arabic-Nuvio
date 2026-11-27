@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tantei wa Mou, Shindeiru. S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/44F04BC8-6C75-38EC-6C11-85920B000631_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988236&Signature=HcGAgSSSN1f7XKkeUiZ2q%2FItU%2Fs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-504868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=5hzdO4DoFMWrRTourmaBb8zGX5k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=sIsj%2FV9UFSSBczCPmURrIcc%2FAgI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E63A4CCA-DF19-262B-B06B-1ACE65CC18F9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=qnNxKoXWRcI3JtNus3pxaK80lVU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tantei wa Mou, Shindeiru. S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C023D982-5CCB-45AC-9EA0-D3178790E575_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988236&Signature=5xUR8QVj%2FIEmNtlkplpNh4MG488%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-504868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=5hzdO4DoFMWrRTourmaBb8zGX5k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=sIsj%2FV9UFSSBczCPmURrIcc%2FAgI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E63A4CCA-DF19-262B-B06B-1ACE65CC18F9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=qnNxKoXWRcI3JtNus3pxaK80lVU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tantei wa Mou, Shindeiru. S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B679ED21-4FD6-3633-0055-6C5A39F3BCF0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988236&Signature=hAryjeD5auCLjX6GFmtJVVoylrM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-504868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=5hzdO4DoFMWrRTourmaBb8zGX5k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=sIsj%2FV9UFSSBczCPmURrIcc%2FAgI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E63A4CCA-DF19-262B-B06B-1ACE65CC18F9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=qnNxKoXWRcI3JtNus3pxaK80lVU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tantei wa Mou, Shindeiru. S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DD71004C-B7DD-7D30-8968-566CDC3154D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988236&Signature=d7PEwf8QrizmxSTLMHfbaOr9C8k%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-504868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=5hzdO4DoFMWrRTourmaBb8zGX5k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=sIsj%2FV9UFSSBczCPmURrIcc%2FAgI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E63A4CCA-DF19-262B-B06B-1ACE65CC18F9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=qnNxKoXWRcI3JtNus3pxaK80lVU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tantei wa Mou, Shindeiru. S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AEBB9058-4C66-4B80-923B-61CC111D30BB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988236&Signature=92EpxPihVtCZY%2Bdr7bO63TzvIG8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-504868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=5hzdO4DoFMWrRTourmaBb8zGX5k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C13E2D8E-B25F-FA90-7196-394BAE9E39C7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=sIsj%2FV9UFSSBczCPmURrIcc%2FAgI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-504868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E63A4CCA-DF19-262B-B06B-1ACE65CC18F9_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387316&Signature=qnNxKoXWRcI3JtNus3pxaK80lVU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

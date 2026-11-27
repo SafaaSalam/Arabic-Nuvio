@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Spider-Man • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/66D4AFE2-0F70-AB87-4617-FF7147762513_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158848&Signature=EyCRmW4eCPG6m8nTjiFEYOaEsIw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-30451-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=RRG%2FyxJOa2SwtUM2I1rAp7mmcD4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-30451-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=Y%2BQQbKotsJbBePpXyl4hAfgm3rY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Spider-Man • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/E7CDF113-DD2F-4E31-AE2D-193D5DD4D2CA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158848&Signature=hyLhPxqiHdzYelEkuAV5XWci6vg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-30451-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=RRG%2FyxJOa2SwtUM2I1rAp7mmcD4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-30451-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=Y%2BQQbKotsJbBePpXyl4hAfgm3rY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Spider-Man • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/B3D2A0B7-2069-C114-B85D-E821233061AC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158848&Signature=bkvkrdCoEM3keVMX2VxUQjRVGzw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-30451-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=RRG%2FyxJOa2SwtUM2I1rAp7mmcD4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-30451-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=Y%2BQQbKotsJbBePpXyl4hAfgm3rY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Spider-Man • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/03BAB6C5-3E54-8907-BE31-AFAC0359A02E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158848&Signature=ycJK1JW0qofb54TO9PjRueNVPLg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-30451-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=RRG%2FyxJOa2SwtUM2I1rAp7mmcD4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-30451-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=Y%2BQQbKotsJbBePpXyl4hAfgm3rY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Spider-Man • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/62310C42-644D-30C2-4381-5BC5EEC1043F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158848&Signature=3pfGN3YOp0QhuR5blGnKZ%2BNdfp4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-30451-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=RRG%2FyxJOa2SwtUM2I1rAp7mmcD4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-30451-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BE87B641-868B-B0E0-4EEE-1DA0A2538055_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394149&Signature=Y%2BQQbKotsJbBePpXyl4hAfgm3rY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

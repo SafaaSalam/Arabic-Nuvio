@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Digimon Beatbreak S01E10 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1E79055F-CC8E-8334-B116-CB990EEA0817_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171373&Signature=NiyLtOsVBChO4pS1OXk9j78bsHY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317191-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=ATmofwLJzO%2B5DOZfN8ZATvOrFgQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=FCv6emAQQCijupxqJ3oy5W1Ql7Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/51D8723A-3E67-1486-014F-B28667568D32_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=qN2IgGo0F4Y36Q8RNdaY0dO7h5k%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Digimon Beatbreak S01E10 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/27ECDB48-AC9B-A5F7-9750-4E311F31ADE9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171373&Signature=3qDfXf5h2W5P4OUyL84EDCymFvY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317191-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=ATmofwLJzO%2B5DOZfN8ZATvOrFgQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=FCv6emAQQCijupxqJ3oy5W1Ql7Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/51D8723A-3E67-1486-014F-B28667568D32_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=qN2IgGo0F4Y36Q8RNdaY0dO7h5k%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Digimon Beatbreak S01E10 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0C47C757-0CFC-A416-9BC8-FE7E59235566_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171373&Signature=cgEz%2FT%2FYAXUTp%2BgM2lv4kHJMpd8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317191-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=ATmofwLJzO%2B5DOZfN8ZATvOrFgQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=FCv6emAQQCijupxqJ3oy5W1Ql7Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/51D8723A-3E67-1486-014F-B28667568D32_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=qN2IgGo0F4Y36Q8RNdaY0dO7h5k%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Digimon Beatbreak S01E10 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/68660DF6-3D5C-84CF-0529-1EE8535F2F69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171373&Signature=3l70hUOcOWNV06NFQ0CGJTXcdqQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317191-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=ATmofwLJzO%2B5DOZfN8ZATvOrFgQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=FCv6emAQQCijupxqJ3oy5W1Ql7Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/51D8723A-3E67-1486-014F-B28667568D32_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=qN2IgGo0F4Y36Q8RNdaY0dO7h5k%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Digimon Beatbreak S01E10 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/950F7263-A5E9-B5CA-DC3A-A8B4F7B6C703_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796171373&Signature=edvL1v2pHWXXPWveuJoBKxvgs78%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317191-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=ATmofwLJzO%2B5DOZfN8ZATvOrFgQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1F7304D-B857-7B25-16C7-72FE8A5154B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=FCv6emAQQCijupxqJ3oy5W1Ql7Q%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317191-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/51D8723A-3E67-1486-014F-B28667568D32_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394365&Signature=qN2IgGo0F4Y36Q8RNdaY0dO7h5k%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الدحيح S01E19 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D5C8B3D1-69F0-53DB-A014-DD72F0E1C6A4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813543&Signature=TS3gJ302cVDRVavXVijyMWE0rSM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الدحيح S01E19 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C95955D3-26B8-3008-44B6-1E19A003D41B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813543&Signature=eA3LS%2Bqu2gnV1xAZynhRy%2FuKRaM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الدحيح S01E19 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0A0AD96D-66CB-CD8A-219A-48DC682ECD80_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813543&Signature=RVWUsi0vGwVdjW3%2FHi%2F07b%2Fps%2Bc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الدحيح S01E19 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/1A64D1E3-1DA5-5717-2326-2A66807CFA8C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813543&Signature=9BRMAr%2BtW10DRh3MZzjqwF4w88Q%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الدحيح S01E19 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/191C8B2E-F53E-E5AC-C5EB-89470CB17A05_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813543&Signature=5oxGdgrsT1R1plUcAAic%2Fbrhiws%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

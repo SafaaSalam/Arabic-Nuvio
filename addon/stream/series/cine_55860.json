@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "JoJo's Bizarre Adventure S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/31104630-DA2A-BD58-D27B-73CC71FEE871_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795988277&Signature=DFbS7Pf98qidwA0mYqlopXRVh%2BI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=tkm4%2FV790uogSFl49vBT%2BFFxZ%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=csS3iBErKUeX0Q4AQgWmDUGoEHA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EB1AE7D3-AD52-83A3-9B63-2B5284C96C52_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=Fo%2Bn%2BzHiL6SjP0biCE7gFnxaVzI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "JoJo's Bizarre Adventure S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/AD483DEF-61D1-74B9-0D95-874994C9D32F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159441&Signature=1xL7Rg4Co%2Bjz0iJ6QCfPsGBSFk0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=tkm4%2FV790uogSFl49vBT%2BFFxZ%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=csS3iBErKUeX0Q4AQgWmDUGoEHA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EB1AE7D3-AD52-83A3-9B63-2B5284C96C52_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=Fo%2Bn%2BzHiL6SjP0biCE7gFnxaVzI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "JoJo's Bizarre Adventure S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/B6A07270-C287-AC43-1BD2-80D2862593B1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073142&Signature=E8i%2F6yuBZ2b7HQJB%2BGIKfzxCUAg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=tkm4%2FV790uogSFl49vBT%2BFFxZ%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=csS3iBErKUeX0Q4AQgWmDUGoEHA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EB1AE7D3-AD52-83A3-9B63-2B5284C96C52_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=Fo%2Bn%2BzHiL6SjP0biCE7gFnxaVzI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "JoJo's Bizarre Adventure S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/194501E3-2D7C-6921-7707-92C53D74774E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073142&Signature=sLOlDZwnQBBx2ntszAsQk1DRPb0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=tkm4%2FV790uogSFl49vBT%2BFFxZ%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=csS3iBErKUeX0Q4AQgWmDUGoEHA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EB1AE7D3-AD52-83A3-9B63-2B5284C96C52_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=Fo%2Bn%2BzHiL6SjP0biCE7gFnxaVzI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "JoJo's Bizarre Adventure S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/54589047-6342-273B-64E5-8AC4C2EDD980_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073142&Signature=xklZ37NSLVMcDjtPsswHGVSqQUE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55860-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=tkm4%2FV790uogSFl49vBT%2BFFxZ%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BD792419-CB26-0447-C4C8-F488806036D9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=csS3iBErKUeX0Q4AQgWmDUGoEHA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55860-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EB1AE7D3-AD52-83A3-9B63-2B5284C96C52_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798321518&Signature=Fo%2Bn%2BzHiL6SjP0biCE7gFnxaVzI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

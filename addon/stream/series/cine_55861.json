@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "JoJo's Bizarre Adventure S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/FBFFF112-E254-B38A-ED86-FEBF9C2F8178_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795987136&Signature=ikRETe9yrdCAy9QgqzSFa%2FMcGbY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55861-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=CA52yLaabWrH25Ldy8uA0lEu%2FtY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=iyExkEUH5J%2FoQr3N5a6Idcyl3sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D899C568-B454-9AD0-9CA1-83BFE53EE4EF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=%2F20qwMOCGhTUGEDkcVUE2eMCig0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "JoJo's Bizarre Adventure S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/626087A7-60E8-0699-BB95-27A2E920E937_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796162177&Signature=UdKDFJX6%2B5KewqhUfqzYoSIZmSo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55861-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=CA52yLaabWrH25Ldy8uA0lEu%2FtY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=iyExkEUH5J%2FoQr3N5a6Idcyl3sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D899C568-B454-9AD0-9CA1-83BFE53EE4EF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=%2F20qwMOCGhTUGEDkcVUE2eMCig0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "JoJo's Bizarre Adventure S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/FF5D4EE9-6B07-59B1-CFA4-74B4BBA28667_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072562&Signature=I26vyDXpHzFolQ6GJYjYeuJcapg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55861-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=CA52yLaabWrH25Ldy8uA0lEu%2FtY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=iyExkEUH5J%2FoQr3N5a6Idcyl3sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D899C568-B454-9AD0-9CA1-83BFE53EE4EF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=%2F20qwMOCGhTUGEDkcVUE2eMCig0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "JoJo's Bizarre Adventure S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/529A6863-0BCF-D991-7100-42AB00B7E462_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072562&Signature=7szecjoROfYCsqkrzuND9vc9RvY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55861-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=CA52yLaabWrH25Ldy8uA0lEu%2FtY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=iyExkEUH5J%2FoQr3N5a6Idcyl3sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D899C568-B454-9AD0-9CA1-83BFE53EE4EF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=%2F20qwMOCGhTUGEDkcVUE2eMCig0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "JoJo's Bizarre Adventure S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/B912E07C-FFB4-E850-1792-4AFB8781D8D3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072562&Signature=WQC4DmOoeg4g1JxL5ET2fAslWV8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55861-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=CA52yLaabWrH25Ldy8uA0lEu%2FtY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F857D85-F1F8-CCCE-2D61-CE00E08232BD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=iyExkEUH5J%2FoQr3N5a6Idcyl3sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55861-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D899C568-B454-9AD0-9CA1-83BFE53EE4EF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392851&Signature=%2F20qwMOCGhTUGEDkcVUE2eMCig0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

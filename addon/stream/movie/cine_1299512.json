@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Untonsured Monk Wu Song • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/848DB8EE-A1CC-BCC5-F9CF-97C9EC31B0F5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072579&Signature=KcoqU0luBhu2K031aFQDESXvGS8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299512-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=nwO4UZTR55ho0Slg4t2L3FbvaAw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=N3nsYHfyaq%2B1HTD4dLvwj7RMaPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=92yn0rIVtIwC1iaWfTYeMYKIX%2Bo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299512-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=hZFKHiJsLvGzj0wPgtJ1CEYby1I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Untonsured Monk Wu Song • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B603981E-98B0-606A-DC96-C4C35A66CB97_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072579&Signature=7EWlkXypwxZ0Hq4R9m4bxavYwRQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299512-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=nwO4UZTR55ho0Slg4t2L3FbvaAw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=N3nsYHfyaq%2B1HTD4dLvwj7RMaPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=92yn0rIVtIwC1iaWfTYeMYKIX%2Bo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299512-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=hZFKHiJsLvGzj0wPgtJ1CEYby1I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Untonsured Monk Wu Song • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/66BD9436-409C-CDBA-89F0-5C17D0449060_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072579&Signature=uRiw2qV02h112njtGQGpd%2Blziow%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299512-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=nwO4UZTR55ho0Slg4t2L3FbvaAw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=N3nsYHfyaq%2B1HTD4dLvwj7RMaPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=92yn0rIVtIwC1iaWfTYeMYKIX%2Bo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299512-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=hZFKHiJsLvGzj0wPgtJ1CEYby1I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Untonsured Monk Wu Song • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/42D7EEC7-6719-4325-74ED-D7B627E9CF2B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072579&Signature=AE5u4gW%2FsYRPNAGPnbfMm%2Fk6s7g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299512-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=nwO4UZTR55ho0Slg4t2L3FbvaAw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=N3nsYHfyaq%2B1HTD4dLvwj7RMaPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=92yn0rIVtIwC1iaWfTYeMYKIX%2Bo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299512-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=hZFKHiJsLvGzj0wPgtJ1CEYby1I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Untonsured Monk Wu Song • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8D788AE6-DF4B-0FB7-7C9E-2A3B71A109BF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072579&Signature=Fh1hE%2BiugVyuC6XKaBkqDVL7J34%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299512-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=nwO4UZTR55ho0Slg4t2L3FbvaAw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8EC70213-F026-894A-AA65-97852F702973_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=N3nsYHfyaq%2B1HTD4dLvwj7RMaPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299512-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=92yn0rIVtIwC1iaWfTYeMYKIX%2Bo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299512-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F6B46D65-A40F-AC64-40F3-254E073B5716_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394612&Signature=hZFKHiJsLvGzj0wPgtJ1CEYby1I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

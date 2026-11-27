@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_3147143",
+    "type": "series",
+    "name": "Kyoufu Collector",
+    "mal_id": "63053",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/123E9B95-2801-CEA0-8F78-A11196B2CF44_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/123E9B95-2801-CEA0-8F78-A11196B2CF44_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/123E9B95-2801-CEA0-8F78-A11196B2CF44_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يتنقّل جامع غامض في أرجاء العالم لجمع القصص المرعبة والأشياء الملعونة، ليكشف خلال رحلاته أسراراً مظلمة وأهوالاً خارقة للطبيعة تختبئ وسط الحياة اليومية\n\nA mysterious collector travels the world gathering terrifying stories and cursed objects. Each encounter reveals dark secrets and supernatural horrors hidden within ordinary life.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "رعب | Horror",
+      "غموض | Mystery",
+      "خارق | Supernatural"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_3147143",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/123E9B95-2801-CEA0-8F78-A11196B2CF44_poster.png",
+        "overview": "Kyoufu Collector",
+        "streams": []
+      }
+    ]
+  }
+}

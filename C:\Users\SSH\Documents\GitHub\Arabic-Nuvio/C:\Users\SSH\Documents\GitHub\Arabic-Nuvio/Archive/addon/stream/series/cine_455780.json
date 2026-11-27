@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "امينة حاف | أمينة حاف S01E15 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/A87CFAB6-99F1-5D04-8F0B-D1F14F4BB037_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793222445&Signature=75B86qQuUQkmM4gmrDVx1YTFF6w%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "امينة حاف | أمينة حاف S01E15 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/B1757E31-9C31-8120-7DC0-99F500C7AF71_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793480845&Signature=G6FMYiLsUxZVq2SdGBP%2BxN%2B9xdw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "امينة حاف | أمينة حاف S01E15 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/4B1DE4C9-D447-5FB2-F26F-FF382C299F8D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048472&Signature=QV7IohKX6b%2FDXZinnV7fFakyGA4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "امينة حاف | أمينة حاف S01E15 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/804ABEE0-D75C-42C2-296D-E30AFF7F3E66_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566903&Signature=Zd6NC1AonmbdHPPIzysXgS%2B64zo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "امينة حاف | أمينة حاف S01E15 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/DCFBD151-DD4B-C4D3-F8E6-79639E64BF94_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793566903&Signature=h2Qwgaf4LiInkoa%2BqvvNiMse%2Flw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

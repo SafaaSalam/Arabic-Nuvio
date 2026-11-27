@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الانس والنمس | الإنس والنمس • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/09A968FD-66B1-B666-2F70-EEFF08F78E95_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073199&Signature=p6UpOKFj9lqM78Zuu3oMb%2BQgJLI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الانس والنمس | الإنس والنمس • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E090D2A6-BCB1-28A8-B27B-11FE233ED691_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901506&Signature=3c05JPro2TrDPQILCXuT8tCP1Sg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الانس والنمس | الإنس والنمس • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/89F25FC7-888C-BB56-3494-4291FA192513_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073199&Signature=eRUtQtVOx4AZ1kG399IYkq09xM4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الانس والنمس | الإنس والنمس • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/04CBF85E-7268-B55D-46AF-70AF33CF1F17_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986198&Signature=vWu2enAZFNJGCHhMBY071DuKZnc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الانس والنمس | الإنس والنمس • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/8C504AFE-486E-5106-2714-4809C4E41010_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986198&Signature=Dui2q9QRIu3ckELGBPAttpK8VXM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

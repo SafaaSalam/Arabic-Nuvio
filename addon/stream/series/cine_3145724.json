@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tengobu S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FCF163C3-02AD-A615-DB8A-F7FB3CDB0A0B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245908&Signature=u6NwKo%2BP300J7E38be6BocH3ajc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145724-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=wxG1g%2BQ0FjmuGcUfCY2kMH6lLbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=gfnBn5C13OWHkbgkyejfXT%2BlHSI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5BED58C-F15B-290B-84F5-4D89E6E01F11_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=6fdEz%2BXcW%2FTkXaQf4n3%2BwpdM%2BN0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tengobu S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7D548627-2752-2EF8-85DE-42985C61C55E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245908&Signature=dA5o83MOJABJl39SpkS%2BdSTukVE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145724-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=wxG1g%2BQ0FjmuGcUfCY2kMH6lLbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=gfnBn5C13OWHkbgkyejfXT%2BlHSI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5BED58C-F15B-290B-84F5-4D89E6E01F11_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=6fdEz%2BXcW%2FTkXaQf4n3%2BwpdM%2BN0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tengobu S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/284195E2-E0E1-6C0F-E1F8-470C31828E9F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245908&Signature=RZlpLb0fhuf8fIanUmPkYgB5vf4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145724-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=wxG1g%2BQ0FjmuGcUfCY2kMH6lLbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=gfnBn5C13OWHkbgkyejfXT%2BlHSI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5BED58C-F15B-290B-84F5-4D89E6E01F11_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=6fdEz%2BXcW%2FTkXaQf4n3%2BwpdM%2BN0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tengobu S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0EA2C506-F075-BD55-9415-B7EB20C0507A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245908&Signature=US8j26j%2BMMgg7OnQHy9onX5dclA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145724-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=wxG1g%2BQ0FjmuGcUfCY2kMH6lLbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=gfnBn5C13OWHkbgkyejfXT%2BlHSI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5BED58C-F15B-290B-84F5-4D89E6E01F11_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=6fdEz%2BXcW%2FTkXaQf4n3%2BwpdM%2BN0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tengobu S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0F26495C-9136-C737-98AD-993117189766_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245908&Signature=%2BPZHW8K4qTnZL3nGDjY2e4en1Dg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145724-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=wxG1g%2BQ0FjmuGcUfCY2kMH6lLbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/589FDE08-50CE-3941-0C36-C7A4468F9187_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=gfnBn5C13OWHkbgkyejfXT%2BlHSI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145724-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D5BED58C-F15B-290B-84F5-4D89E6E01F11_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798368963&Signature=6fdEz%2BXcW%2FTkXaQf4n3%2BwpdM%2BN0%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

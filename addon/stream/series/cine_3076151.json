@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Koori no Jouheki S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2CB8D90B-2A17-B7AD-4690-8329BA973BEF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901810&Signature=b8f4eDZK%2BHX7L5czRnjRwKn21Y8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076151-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=3m4ea3DR8gzrM%2FeOfyBDgJO59P4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=6pdLt3I%2FCvh%2F6zpHzhyd3U4ECy0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C474B5E2-A703-DD19-12AA-370670EE0164_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=S534r%2BVtzm4weeT5%2FXQ5jpVEWJs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Koori no Jouheki S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5C40AC79-66A0-A859-2F1A-0202742352CD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901810&Signature=dTpbu6p6oLmZHfj3L8NncIsuEkw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076151-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=3m4ea3DR8gzrM%2FeOfyBDgJO59P4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=6pdLt3I%2FCvh%2F6zpHzhyd3U4ECy0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C474B5E2-A703-DD19-12AA-370670EE0164_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=S534r%2BVtzm4weeT5%2FXQ5jpVEWJs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Koori no Jouheki S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F6FD3EB4-EB25-1DE4-5092-413CAD93A4ED_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901810&Signature=CfUwcKsEm0wVAagQNrro954rDVM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076151-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=3m4ea3DR8gzrM%2FeOfyBDgJO59P4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=6pdLt3I%2FCvh%2F6zpHzhyd3U4ECy0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C474B5E2-A703-DD19-12AA-370670EE0164_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=S534r%2BVtzm4weeT5%2FXQ5jpVEWJs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Koori no Jouheki S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/02ED02C0-7647-36C7-8C7C-9509C2489DDF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901810&Signature=96dP%2F9G1lcRSlLsZC7wkF%2BaS9l8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076151-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=3m4ea3DR8gzrM%2FeOfyBDgJO59P4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=6pdLt3I%2FCvh%2F6zpHzhyd3U4ECy0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C474B5E2-A703-DD19-12AA-370670EE0164_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=S534r%2BVtzm4weeT5%2FXQ5jpVEWJs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Koori no Jouheki S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B667E25F-29EB-6421-5772-B842605DA801_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901810&Signature=XQX%2Bu1U3i6hOtKnYSfk9nAnNAcM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3076151-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=3m4ea3DR8gzrM%2FeOfyBDgJO59P4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AE7585F6-8D05-CFF4-F91E-4593346304C6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=6pdLt3I%2FCvh%2F6zpHzhyd3U4ECy0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3076151-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C474B5E2-A703-DD19-12AA-370670EE0164_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386882&Signature=S534r%2BVtzm4weeT5%2FXQ5jpVEWJs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

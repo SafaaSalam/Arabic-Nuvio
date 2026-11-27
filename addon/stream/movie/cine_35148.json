@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Baahubali: The Beginning • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/60F8429C-FFBC-4D15-C322-79C035C7B4FE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796246602&Signature=a4JV8O7cSzKBlrXaek5srxZfqCo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-35148-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=Vy8fSNZt25XFoN37KL50hQHFv1k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-35148-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=%2F0aLhQs2J%2B75jkFPTIpBaEzfbEY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Baahubali: The Beginning • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/29C06AB8-7818-721F-9450-A57D4CA3834F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796158930&Signature=WOMYsDKXUoaFFwT1iHuI8uegQ3w%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-35148-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=Vy8fSNZt25XFoN37KL50hQHFv1k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-35148-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=%2F0aLhQs2J%2B75jkFPTIpBaEzfbEY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Baahubali: The Beginning • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/337B2391-3F86-EEAD-304B-CBD3B15A789F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072511&Signature=Gii2j9CL4z55anEVAu%2Fqm3WCHd4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-35148-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=Vy8fSNZt25XFoN37KL50hQHFv1k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-35148-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=%2F0aLhQs2J%2B75jkFPTIpBaEzfbEY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Baahubali: The Beginning • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/067EBBD2-2098-58AB-ECF1-0392CCBE1D9A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072511&Signature=3uUviNtWNVhZN4N3kj2YH%2BZ%2BOjA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-35148-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=Vy8fSNZt25XFoN37KL50hQHFv1k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-35148-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=%2F0aLhQs2J%2B75jkFPTIpBaEzfbEY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Baahubali: The Beginning • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/26356EA3-71E5-4460-6191-8148A203BBF4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072511&Signature=oSW5thpGxrbFdRsc8IecDCHcvAI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-35148-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=Vy8fSNZt25XFoN37KL50hQHFv1k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-35148-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/66F5D482-E39E-2906-04DA-D5D43F82F9C3_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392098&Signature=%2F0aLhQs2J%2B75jkFPTIpBaEzfbEY%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

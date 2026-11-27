@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Love is Always Online S01E08 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6A984839-C74B-23D8-325E-B1519001DF03_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086943&Signature=1pRP9Vq%2Bm2pSEKWRm4IimalSpXI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1347290-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=0pzdGNgHtXW0PxmWUQdQF8F92%2BM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=upVttlAvexk7N0yb6rnYuBDjtaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=bikIgAyKXWYgYbPcWNFQmzlA94o%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1347290-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=%2FuS93jiBdI0HCGfm8AZ2PJofDfU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Love is Always Online S01E08 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/83A8F781-F740-3546-36E8-12DCD7E66726_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086943&Signature=rb%2BcMpi0GYm5FSSEE0kqhHxATqE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1347290-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=0pzdGNgHtXW0PxmWUQdQF8F92%2BM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=upVttlAvexk7N0yb6rnYuBDjtaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=bikIgAyKXWYgYbPcWNFQmzlA94o%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1347290-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=%2FuS93jiBdI0HCGfm8AZ2PJofDfU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Love is Always Online S01E08 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B76C355D-C436-FBED-B277-D4350EC802CC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086943&Signature=Ix%2B61e%2BqtEuvQJY8Hhr7MpbXGn8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1347290-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=0pzdGNgHtXW0PxmWUQdQF8F92%2BM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=upVttlAvexk7N0yb6rnYuBDjtaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=bikIgAyKXWYgYbPcWNFQmzlA94o%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1347290-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=%2FuS93jiBdI0HCGfm8AZ2PJofDfU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Love is Always Online S01E08 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A4B9ECF5-EAF5-5C29-AFB5-5709AB3F86BB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086943&Signature=fWqy4cPOsaH0prDauDVVZwUCbPQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1347290-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=0pzdGNgHtXW0PxmWUQdQF8F92%2BM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=upVttlAvexk7N0yb6rnYuBDjtaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=bikIgAyKXWYgYbPcWNFQmzlA94o%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1347290-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=%2FuS93jiBdI0HCGfm8AZ2PJofDfU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Love is Always Online S01E08 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9E7DEC01-5743-491E-607C-687E93977782_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086943&Signature=mkRK6AsRy%2By8vAal9S%2F%2B6HVu%2FGQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1347290-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=0pzdGNgHtXW0PxmWUQdQF8F92%2BM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FCA0654F-5AA8-D7A7-DE3A-D9CD475818F0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=upVttlAvexk7N0yb6rnYuBDjtaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1347290-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=bikIgAyKXWYgYbPcWNFQmzlA94o%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1347290-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A05EFAA2-4035-8F80-EA1D-88A082FF9DF7_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394446&Signature=%2FuS93jiBdI0HCGfm8AZ2PJofDfU%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -159,13 +159,15 @@ async function resolveTargetMetadata(rawId, mediaType) {
   }
 
   var tmdbKey = getTmdbKey();
-  var cleanId = idStr
+  var cleanParts = idStr
     .replace(/^tmdb:/i, "")
     .replace(/^movie:/i, "")
     .replace(/^series:/i, "")
     .replace(/^tv:/i, "")
-    .split(":")[0]
-    .trim();
+    .split(":");
+  var cleanId = cleanParts[0].trim();
+  var colonSeason = (cleanParts.length >= 3 && /^\d+$/.test(cleanParts[1])) ? parseInt(cleanParts[1], 10) : null;
+  var colonEpisode = (cleanParts.length >= 3 && /^\d+$/.test(cleanParts[2])) ? parseInt(cleanParts[2], 10) : null;
 
   var imdbId = null;
   var tmdbId = null;
@@ -443,8 +445,9 @@ async function getStreams(tmdbId, mediaType, season, episode) {
     var normalizedType = (String(mediaType || "movie").toLowerCase() === "movie") ? "movie" : "tv";
     var meta = await resolveTargetMetadata(tmdbId, normalizedType);
 
-    var targetSeason = meta.seasonOverride != null ? meta.seasonOverride : season;
-    var targetEpisode = meta.episodeOverride != null ? meta.episodeOverride : episode;
+    var idParts = String(tmdbId || "").split(":");
+    var targetSeason = meta.seasonOverride != null ? meta.seasonOverride : (season != null ? season : (idParts.length >= 3 && /^\d+$/.test(idParts[1]) ? parseInt(idParts[1], 10) : null));
+    var targetEpisode = meta.episodeOverride != null ? meta.episodeOverride : (episode != null ? episode : (idParts.length >= 3 && /^\d+$/.test(idParts[2]) ? parseInt(idParts[2], 10) : null));
 
     var baseNb = meta.directNb || null;
     if (!baseNb) {

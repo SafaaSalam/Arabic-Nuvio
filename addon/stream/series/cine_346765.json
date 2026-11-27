@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Ascendance of a Bookworm | Honzuki no Gekokujou S02E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/F97A261D-EB7E-6C33-A348-FB22E992A573_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795910017&Signature=Krh6zl3wlDG9lTY0LHdTx0QNnW8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-346765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=9CMtfdaIJ2wC5uwkJS5asoXiG20%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=eEmUQWwxSRm2LIwQTUFQim8hSOI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C03260CE-6277-FDDA-11A8-1A99B46C3B64_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=myEgl8Bbqun96034NjV6ie6qTnU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Ascendance of a Bookworm | Honzuki no Gekokujou S02E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/50EBF95B-01CC-5F4E-DC56-F8FA943E4A4C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795910017&Signature=39mvoZl7sJ1iEemTTevS0%2Bz%2F2bs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-346765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=9CMtfdaIJ2wC5uwkJS5asoXiG20%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=eEmUQWwxSRm2LIwQTUFQim8hSOI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C03260CE-6277-FDDA-11A8-1A99B46C3B64_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=myEgl8Bbqun96034NjV6ie6qTnU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Ascendance of a Bookworm | Honzuki no Gekokujou S02E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/292DE6CD-F8F5-D317-DD2F-B28A8F023FF0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815987&Signature=CWcEeVPxUKqlIy5SmwBwF3nr%2BIs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-346765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=9CMtfdaIJ2wC5uwkJS5asoXiG20%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=eEmUQWwxSRm2LIwQTUFQim8hSOI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C03260CE-6277-FDDA-11A8-1A99B46C3B64_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=myEgl8Bbqun96034NjV6ie6qTnU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Ascendance of a Bookworm | Honzuki no Gekokujou S02E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/EB474432-D436-153C-B3F7-D727C39D763B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815987&Signature=n%2F8tLFP%2FBuWyany8mX%2Bl3QYHCWo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-346765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=9CMtfdaIJ2wC5uwkJS5asoXiG20%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=eEmUQWwxSRm2LIwQTUFQim8hSOI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C03260CE-6277-FDDA-11A8-1A99B46C3B64_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=myEgl8Bbqun96034NjV6ie6qTnU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Ascendance of a Bookworm | Honzuki no Gekokujou S02E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/5A6EAB59-CD61-E31C-80B6-1A356BBEE8AC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815987&Signature=qOseIyBYlmeJIPlSIXhmNjL7qvo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-346765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=9CMtfdaIJ2wC5uwkJS5asoXiG20%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4164B612-4B40-F39A-37E2-910830D46352_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=eEmUQWwxSRm2LIwQTUFQim8hSOI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-346765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C03260CE-6277-FDDA-11A8-1A99B46C3B64_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394583&Signature=myEgl8Bbqun96034NjV6ie6qTnU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

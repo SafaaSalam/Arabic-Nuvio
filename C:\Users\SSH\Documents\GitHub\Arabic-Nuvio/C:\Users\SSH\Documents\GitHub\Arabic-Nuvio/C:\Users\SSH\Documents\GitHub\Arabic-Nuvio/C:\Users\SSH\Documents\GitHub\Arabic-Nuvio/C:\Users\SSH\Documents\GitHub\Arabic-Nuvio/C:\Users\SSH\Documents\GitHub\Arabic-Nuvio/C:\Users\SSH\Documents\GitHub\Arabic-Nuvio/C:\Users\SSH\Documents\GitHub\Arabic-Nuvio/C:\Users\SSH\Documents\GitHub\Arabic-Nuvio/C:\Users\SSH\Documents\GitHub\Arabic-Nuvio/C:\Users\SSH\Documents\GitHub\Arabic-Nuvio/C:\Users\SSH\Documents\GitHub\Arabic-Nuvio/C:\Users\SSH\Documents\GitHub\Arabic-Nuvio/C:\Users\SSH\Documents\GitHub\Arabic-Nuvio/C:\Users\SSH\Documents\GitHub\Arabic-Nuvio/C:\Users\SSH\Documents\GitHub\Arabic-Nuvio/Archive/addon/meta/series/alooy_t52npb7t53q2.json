@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "alooy_t52npb7t53q2",
+    "type": "series",
+    "name": "البخت",
+    "poster": "https://gg.alooytv16.xyz/uploads/video_thumb/1769.jpg",
+    "posterShape": "poster",
+    "background": "https://gg.alooytv16.xyz/uploads/video_thumb/1769.jpg",
+    "landscapePoster": "https://gg.alooytv16.xyz/uploads/video_thumb/1769.jpg",
+    "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+    "description": "البخت — AlooyTv",
+    "videos": [
+      {
+        "id": "alooy_t52npb7t53q2:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://gg.alooytv16.xyz/uploads/video_thumb/1769.jpg"
+      }
+    ]
+  }
+}

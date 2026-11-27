@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tongari Boushi no Atelier S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D766DB29-AB59-1FD9-4EB2-C1816C7BA6F3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074568&Signature=X00MnoFsHqGS96s8SN0hFwBVC9k%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3078056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=xicO2SFavPT4lvMyOAVML6NCPQo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=MmGLUDKCjk2qjPrIWj6dbqTHpWs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F039F4F3-3F5C-F647-A2CF-F4984694E850_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=XMtr%2ByQ9vhsu%2F%2BGCov%2BofxwD9jU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tongari Boushi no Atelier S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FA481461-8E92-F189-9EDC-05CD607164B0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074568&Signature=WdbUsqIb7ba6UU10daknNsbGrXo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3078056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=xicO2SFavPT4lvMyOAVML6NCPQo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=MmGLUDKCjk2qjPrIWj6dbqTHpWs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F039F4F3-3F5C-F647-A2CF-F4984694E850_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=XMtr%2ByQ9vhsu%2F%2BGCov%2BofxwD9jU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tongari Boushi no Atelier S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F2841A4B-D603-9CEE-C589-08B50B9395E3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074568&Signature=fg01qBxMP1dHsdPc0NSky7yEqPo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3078056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=xicO2SFavPT4lvMyOAVML6NCPQo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=MmGLUDKCjk2qjPrIWj6dbqTHpWs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F039F4F3-3F5C-F647-A2CF-F4984694E850_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=XMtr%2ByQ9vhsu%2F%2BGCov%2BofxwD9jU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tongari Boushi no Atelier S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BC5C1AA0-998C-9666-8B96-98EACAE6D954_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074568&Signature=JcXJbjY74K%2BgOl%2B4jivbFe2WN9Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3078056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=xicO2SFavPT4lvMyOAVML6NCPQo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=MmGLUDKCjk2qjPrIWj6dbqTHpWs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F039F4F3-3F5C-F647-A2CF-F4984694E850_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=XMtr%2ByQ9vhsu%2F%2BGCov%2BofxwD9jU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tongari Boushi no Atelier S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/31766FAF-665D-3821-61A8-D774F62C580A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074568&Signature=Eefs%2FHdtWMqS8YcYvPvl0%2F7x1BI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3078056-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=xicO2SFavPT4lvMyOAVML6NCPQo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EEAFF222-F565-B6B5-908C-0BBD64680481_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=MmGLUDKCjk2qjPrIWj6dbqTHpWs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3078056-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F039F4F3-3F5C-F647-A2CF-F4984694E850_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394394&Signature=XMtr%2ByQ9vhsu%2F%2BGCov%2BofxwD9jU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

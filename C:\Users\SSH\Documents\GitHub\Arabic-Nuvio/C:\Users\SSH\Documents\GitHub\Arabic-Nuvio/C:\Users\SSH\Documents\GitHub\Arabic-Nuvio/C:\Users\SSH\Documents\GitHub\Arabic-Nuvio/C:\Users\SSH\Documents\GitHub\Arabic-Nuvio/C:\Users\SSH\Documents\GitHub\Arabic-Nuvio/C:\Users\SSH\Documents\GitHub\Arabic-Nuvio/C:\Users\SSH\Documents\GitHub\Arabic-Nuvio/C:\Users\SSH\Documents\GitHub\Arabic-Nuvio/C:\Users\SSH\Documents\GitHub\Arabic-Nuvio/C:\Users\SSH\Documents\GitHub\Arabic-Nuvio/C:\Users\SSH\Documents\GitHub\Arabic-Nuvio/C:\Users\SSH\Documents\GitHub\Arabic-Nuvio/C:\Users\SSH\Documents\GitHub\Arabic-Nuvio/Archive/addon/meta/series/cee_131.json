@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "id": "cee_131",
+    "type": "series",
+    "name": "حلاوة الروح",
+    "poster": "https://cnth2.cee.buzz/vascin-poster-images/2369B168-4EED-01CB-BEFF-E5304BA40219_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.cee.buzz/vascin-poster-images/2369B168-4EED-01CB-BEFF-E5304BA40219_poster.jpg",
+    "landscapePoster": "https://cnth2.cee.buzz/vascin-poster-images/2369B168-4EED-01CB-BEFF-E5304BA40219_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+    "description": "دور أحداث المسلسل حول شاب وفتاة من سوريا تجمعها قصة حب، ويخوضان رحلة غير مأمونة العواقب من أجل تصوير فيلمًا وثائقيًا خلال سنوات الحرب الأهلية في سوريا، وفي ذات الوقت تتقاطع هذه القصة مع قصة أخرى حول صحافيان جمعتها قصة حب منذ ثلاثون عامًا، واللذان يتلاقا مرة اخرى خلال رحلة الصحافي المصري للبحث عن ابنته المخطوفة في سوريا.",
+    "releaseInfo": "2014",
+    "imdbRating": "6.8",
+    "videos": [
+      {
+        "id": "cee_131:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.cee.buzz/vascin-poster-images/2369B168-4EED-01CB-BEFF-E5304BA40219_poster.jpg"
+      }
+    ]
+  }
+}

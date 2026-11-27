@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "داي الشجاع S01E18 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5AAD56B8-DB0A-1C7C-BB5D-5D39B7EFFBF9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795816432&Signature=DNfMFvn6r0BGBGTLMd4cCc1oYL4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "داي الشجاع S01E18 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/59041375-DCA9-09A0-54A7-138836B09FF5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795816432&Signature=TgyOTcy51hokUa5YcBKA6xx%2Fabo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "داي الشجاع S01E18 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F8BBA1BB-C3C6-BF70-BFB9-0262FC566460_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795816432&Signature=VqZemrPV5lz21KxHvceCMRS%2FbUM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "داي الشجاع S01E18 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3FEAE4E9-8E0D-D6A2-793B-D42DC12D90B7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795816432&Signature=PmKzpGXzKrtv%2BJx8abhiU0F6Pnw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

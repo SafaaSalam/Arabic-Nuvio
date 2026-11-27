@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "alooy_jm6tan3bym0t",
+    "type": "series",
+    "name": "اليتيم",
+    "poster": "https://gg.alooytv16.xyz/uploads/video_thumb/1793.jpg",
+    "posterShape": "poster",
+    "background": "https://gg.alooytv16.xyz/uploads/video_thumb/1793.jpg",
+    "landscapePoster": "https://gg.alooytv16.xyz/uploads/video_thumb/1793.jpg",
+    "logo": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+    "description": "اليتيم — AlooyTv",
+    "videos": [
+      {
+        "id": "alooy_jm6tan3bym0t:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://gg.alooytv16.xyz/uploads/video_thumb/1793.jpg"
+      }
+    ]
+  }
+}

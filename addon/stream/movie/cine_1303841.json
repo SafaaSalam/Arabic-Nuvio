@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Blood-Forged Breakout • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7D3560BA-5F71-6C4F-5E1F-7475A526CC96_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333021&Signature=MOowwwqssf%2BItyKVfnKYc7cW9%2BA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303841-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=PL2vuGMU6X5jOs9hIh7R312FGyA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=wRJjRz0u7Ir%2BSFFHMnuBtAJANh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=p6dvEM4Zs0wOGo6tcQAVWGi%2Bl7c%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303841-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=JG9daTS%2BA5YBKBPz%2F6IXSXuFQEE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Blood-Forged Breakout • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/03001B71-FF63-8921-6C51-F3ADF068818E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333021&Signature=7DfDxhDvKwQqyNCDaP054HE7bY8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303841-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=PL2vuGMU6X5jOs9hIh7R312FGyA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=wRJjRz0u7Ir%2BSFFHMnuBtAJANh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=p6dvEM4Zs0wOGo6tcQAVWGi%2Bl7c%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303841-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=JG9daTS%2BA5YBKBPz%2F6IXSXuFQEE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Blood-Forged Breakout • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1914D7E5-EB19-7065-3F61-733B07E48226_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333021&Signature=wajBPvBELIw3cZF55wsEEoZHuaM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303841-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=PL2vuGMU6X5jOs9hIh7R312FGyA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=wRJjRz0u7Ir%2BSFFHMnuBtAJANh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=p6dvEM4Zs0wOGo6tcQAVWGi%2Bl7c%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303841-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=JG9daTS%2BA5YBKBPz%2F6IXSXuFQEE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Blood-Forged Breakout • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/54A236A1-1526-02C7-19B1-4E4960AEADA4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333021&Signature=0GqLeRPK78VCke831KLYl%2BZ44YM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303841-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=PL2vuGMU6X5jOs9hIh7R312FGyA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=wRJjRz0u7Ir%2BSFFHMnuBtAJANh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=p6dvEM4Zs0wOGo6tcQAVWGi%2Bl7c%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303841-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=JG9daTS%2BA5YBKBPz%2F6IXSXuFQEE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Blood-Forged Breakout • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/97B51A12-4202-420F-9A95-AE90BD6B3F38_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796333021&Signature=4nsTi8%2FaI7HOoDH%2FcfbjLfKpFNs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303841-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=PL2vuGMU6X5jOs9hIh7R312FGyA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1A112D5F-20A9-FE31-4AC9-B1A9B4DD4595_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=wRJjRz0u7Ir%2BSFFHMnuBtAJANh8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303841-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=p6dvEM4Zs0wOGo6tcQAVWGi%2Bl7c%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303841-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0E4E60B6-39EC-F6FD-54A3-A5552A011F30_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394619&Signature=JG9daTS%2BA5YBKBPz%2F6IXSXuFQEE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

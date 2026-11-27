@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tactical Unit: Human Nature • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/64B28A17-119F-D175-883A-CF25CC2702EA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=xvjPnpKzA2PK6xpPe%2B6Nx%2Ftwvtc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297730-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=kkfyPo%2F%2FnCX4gI7fy%2Bq6Q9usxM8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wx9sRZXEP3E7eNor5p1hAzJ1OcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=2hqMx5B2H7kBPRyidjEATlK3NTI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297730-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=0DtmOkH9iJ8GG9Lw8UiyneHkKoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tactical Unit: Human Nature • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/900321D3-FDCC-9287-627D-C64D331D4836_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=043fGhCUkigniVdomCUxHIwsf%2Bc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297730-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=kkfyPo%2F%2FnCX4gI7fy%2Bq6Q9usxM8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wx9sRZXEP3E7eNor5p1hAzJ1OcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=2hqMx5B2H7kBPRyidjEATlK3NTI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297730-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=0DtmOkH9iJ8GG9Lw8UiyneHkKoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tactical Unit: Human Nature • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7EB170D8-53D0-0A36-70E0-F4DD749F3EFA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=KRo%2FGDrJCxAhDK2Kas8eii2E17c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297730-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=kkfyPo%2F%2FnCX4gI7fy%2Bq6Q9usxM8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wx9sRZXEP3E7eNor5p1hAzJ1OcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=2hqMx5B2H7kBPRyidjEATlK3NTI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297730-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=0DtmOkH9iJ8GG9Lw8UiyneHkKoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tactical Unit: Human Nature • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/77BD1024-6256-56E8-4B21-B4D940A94277_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=vrTewf9g1MN5OTm66cfdWOf6IlM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297730-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=kkfyPo%2F%2FnCX4gI7fy%2Bq6Q9usxM8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wx9sRZXEP3E7eNor5p1hAzJ1OcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=2hqMx5B2H7kBPRyidjEATlK3NTI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297730-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=0DtmOkH9iJ8GG9Lw8UiyneHkKoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tactical Unit: Human Nature • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EFB6235D-4486-960B-1FFC-3ABD72348D69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986144&Signature=OlAInTefWJotmfKs%2FJVl%2BYcjsws%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297730-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=kkfyPo%2F%2FnCX4gI7fy%2Bq6Q9usxM8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/88560AAF-D9D6-EA7F-3E4E-0F161DBE42AF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wx9sRZXEP3E7eNor5p1hAzJ1OcE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297730-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=2hqMx5B2H7kBPRyidjEATlK3NTI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297730-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1FA2574A-5D43-7596-4925-295034CF80B8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=0DtmOkH9iJ8GG9Lw8UiyneHkKoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

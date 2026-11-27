@@ -40,10 +40,11 @@ for (const cat of manifest.catalogs) {
   }
   if (all.length > size && !hasSkip) errors.push(`${cat.id}: has ${all.length} items but manifest lacks the "skip" extra`);
 
+  const MIXED_DISCOVERY = new Set(["arabic_latest_additions", "arabic_trending_now", "arabic_top_10_week"]);
   const seen = new Map();
   for (const m of all) {
     if (!m.id || !m.name || !m.poster) { errors.push(`${cat.id}: item without id/name/poster (${m.id})`); continue; }
-    if (m.type !== cat.type) errors.push(`${cat.id}: item ${m.id} has type ${m.type}`);
+    if (!MIXED_DISCOVERY.has(cat.id) && m.type !== cat.type) errors.push(`${cat.id}: item ${m.id} has type ${m.type}`);
     for (const k of keysOf(m)) {
       if (seen.has(k)) { errors.push(`${cat.id}: duplicate (${k}) -> ${seen.get(k)} / ${m.id}`); break; }
     }

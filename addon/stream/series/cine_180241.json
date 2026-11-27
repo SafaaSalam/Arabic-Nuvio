@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Baki | Grappler Baki S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/14F481FA-C75F-F7F6-F276-FDFA3507F26B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076485&Signature=xGwxQbEfXiHq5py97QZLk53Pc%2Bs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Baki | Grappler Baki S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/125692E3-C64B-0243-EDE4-D8A69F03021F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076485&Signature=wHmQS3FIIca6qlFJSP8kgCPL6Zg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

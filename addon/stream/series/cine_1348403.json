@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Marry Him in Her Place S01E08 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/352DD562-D6CE-18DF-ED63-507EC47EC68D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255429&Signature=kSUH%2FL7DtsxqlswK8xh6uO0JOjk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348403-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=PUSzT7111DC%2BHti5RLmSYTEZZWY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=i5Yz6NiDlc3iaLo%2BJTCnrsFKovI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=kH2bc3XCqZuPWpJQp9cJbFJfGhA%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348403-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=pHn3THUhX2%2B44GOHYw1WZV6qb4w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Marry Him in Her Place S01E08 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A0E0493A-C712-D1BE-CAA9-A790D59BD4FD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255429&Signature=dUwH2MHjjliVswHiUzmg%2F%2ByKxYQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348403-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=PUSzT7111DC%2BHti5RLmSYTEZZWY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=i5Yz6NiDlc3iaLo%2BJTCnrsFKovI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=kH2bc3XCqZuPWpJQp9cJbFJfGhA%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348403-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=pHn3THUhX2%2B44GOHYw1WZV6qb4w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Marry Him in Her Place S01E08 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B0BBE0A1-6C15-FA0C-DACA-FC4DC9B58E24_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255429&Signature=%2Buora97699YaB5nmQ3u5j3x0468%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348403-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=PUSzT7111DC%2BHti5RLmSYTEZZWY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=i5Yz6NiDlc3iaLo%2BJTCnrsFKovI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=kH2bc3XCqZuPWpJQp9cJbFJfGhA%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348403-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=pHn3THUhX2%2B44GOHYw1WZV6qb4w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Marry Him in Her Place S01E08 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6B77171F-D646-9B7F-9861-EF9C712A85AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255429&Signature=RagPUTBbGl5r%2BqAJFJZB%2BuTW8JE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348403-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=PUSzT7111DC%2BHti5RLmSYTEZZWY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=i5Yz6NiDlc3iaLo%2BJTCnrsFKovI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=kH2bc3XCqZuPWpJQp9cJbFJfGhA%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348403-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=pHn3THUhX2%2B44GOHYw1WZV6qb4w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Marry Him in Her Place S01E08 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4369B0AD-2EDF-12CD-9164-E8D996E21259_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255429&Signature=brg9bHctqhoE7sRCgKMSKZImgQE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348403-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=PUSzT7111DC%2BHti5RLmSYTEZZWY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AAA332FF-5FC4-1E7D-1A52-922DA0FADE32_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=i5Yz6NiDlc3iaLo%2BJTCnrsFKovI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348403-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=kH2bc3XCqZuPWpJQp9cJbFJfGhA%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348403-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B8023E47-570E-7A27-62AA-586F5360EAE8_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384323&Signature=pHn3THUhX2%2B44GOHYw1WZV6qb4w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

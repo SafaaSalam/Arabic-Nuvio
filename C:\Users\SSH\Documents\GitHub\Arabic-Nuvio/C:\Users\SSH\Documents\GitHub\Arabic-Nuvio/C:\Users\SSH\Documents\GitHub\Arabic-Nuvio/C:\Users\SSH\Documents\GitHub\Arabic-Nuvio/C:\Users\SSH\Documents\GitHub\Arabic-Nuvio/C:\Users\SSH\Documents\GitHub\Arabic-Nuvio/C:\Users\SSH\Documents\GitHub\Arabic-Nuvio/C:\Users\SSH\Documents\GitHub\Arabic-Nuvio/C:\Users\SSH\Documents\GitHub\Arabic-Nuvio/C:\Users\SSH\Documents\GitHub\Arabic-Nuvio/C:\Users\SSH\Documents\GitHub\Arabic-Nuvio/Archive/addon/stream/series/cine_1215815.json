@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Watashi no Shiawase na Kekkon S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E29BBFD4-142A-2990-EEB1-581541DF5FB2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221627&Signature=mr29ou5n9BGndiKtZC3Sv88taMk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1215815-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Asq%2FM7FKbinSVJ2rkmjEK6iTrhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=oDoqNDf1u%2Bz%2BhZsP35d0KwHGPTQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=KUtO8GvVJaa%2BJEQPOQQWQfEa0cc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1215815-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Ejpv5n7c1jtTfSQgSqnOTwkVf90%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Watashi no Shiawase na Kekkon S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1ED24764-F9E6-E9F8-C933-65AC85F71582_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221627&Signature=y5cmr7IwJfGpH35Cc%2Bai8us9cZ8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1215815-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Asq%2FM7FKbinSVJ2rkmjEK6iTrhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=oDoqNDf1u%2Bz%2BhZsP35d0KwHGPTQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=KUtO8GvVJaa%2BJEQPOQQWQfEa0cc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1215815-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Ejpv5n7c1jtTfSQgSqnOTwkVf90%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Watashi no Shiawase na Kekkon S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D236E581-F499-B797-B4DA-99E1BE547D69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221627&Signature=WiwS%2FRGfazAPR7xRKkmVQPK%2BM5I%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1215815-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Asq%2FM7FKbinSVJ2rkmjEK6iTrhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=oDoqNDf1u%2Bz%2BhZsP35d0KwHGPTQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=KUtO8GvVJaa%2BJEQPOQQWQfEa0cc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1215815-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Ejpv5n7c1jtTfSQgSqnOTwkVf90%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Watashi no Shiawase na Kekkon S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E1E22EB0-448A-1A04-1E7B-E8C173EF6AB8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221627&Signature=tb1S1%2BBLl7FAyxbPqq6rTeO1RmE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1215815-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Asq%2FM7FKbinSVJ2rkmjEK6iTrhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=oDoqNDf1u%2Bz%2BhZsP35d0KwHGPTQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=KUtO8GvVJaa%2BJEQPOQQWQfEa0cc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1215815-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Ejpv5n7c1jtTfSQgSqnOTwkVf90%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Watashi no Shiawase na Kekkon S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6089F405-9308-7C33-25D5-8422C0AAF6FE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221627&Signature=bIiMX5z47XspvwS5SryjspTkE%2FE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1215815-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Asq%2FM7FKbinSVJ2rkmjEK6iTrhE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9B60AB99-3A57-BF32-1AF4-E88441B09CCF_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=oDoqNDf1u%2Bz%2BhZsP35d0KwHGPTQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1215815-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=KUtO8GvVJaa%2BJEQPOQQWQfEa0cc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1215815-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/18E1E578-DD60-2B9E-0A2B-99EA92B4DDA9_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602443&Signature=Ejpv5n7c1jtTfSQgSqnOTwkVf90%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

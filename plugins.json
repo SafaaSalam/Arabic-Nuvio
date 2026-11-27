@@ -775,7 +775,7 @@
       "AsianDrama"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
-    "mainUrl": "https://moviesmod.tw",
+    "mainUrl": "https://moviesmod.meme",
     "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/moviesmod.js"
   },
   {
@@ -837,5 +837,249 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
     "mainUrl": "https://new1.moviesdrive.cyou",
     "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/moviesdrive.js"
+  },
+  {
+    "id": "cimanow",
+    "name": "CVN-CimaNow",
+    "internalName": "CVN-CimaNow",
+    "description": "CimaNow — Arabic movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+    "mainUrl": "https://cimanow.cc",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/cimanow.js"
+  },
+  {
+    "id": "aflamstream",
+    "name": "CVN-AflamStream",
+    "internalName": "CVN-AflamStream",
+    "description": "AflamStream — Translated movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+    "mainUrl": "https://aflamstream.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/aflamstream.js"
+  },
+  {
+    "id": "qfilm",
+    "name": "CVN-QFilm",
+    "internalName": "CVN-QFilm",
+    "description": "QFilm — Movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+    "mainUrl": "https://a.qfilm.tv",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/qfilm.js"
+  },
+  {
+    "id": "egybet",
+    "name": "CVN-EGYBET",
+    "internalName": "CVN-EGYBET",
+    "description": "EGYBET — Movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=egibest.info&sz=128",
+    "mainUrl": "https://egibest.info",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/egybet.js"
+  },
+  {
+    "id": "tukcima",
+    "name": "CVN-TukCima",
+    "internalName": "CVN-TukCima",
+    "description": "TukCima — Movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+    "mainUrl": "https://tukcima.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/tukcima.js"
+  },
+  {
+    "id": "fasselhd",
+    "name": "CVN-FasselHD",
+    "internalName": "CVN-FasselHD",
+    "description": "FasselHD — Movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+    "mainUrl": "https://fasselhd.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/fasselhd.js"
+  },
+  {
+    "id": "faselhd2",
+    "name": "CVN-FaselHD",
+    "internalName": "CVN-FaselHD",
+    "description": "FaselHD — Alternative FaselHD source",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+    "mainUrl": "https://www.fasel-hd.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/faselhd2.js"
+  },
+  {
+    "id": "egydeadca",
+    "name": "CVN-EgyDead CA",
+    "internalName": "CVN-EgyDead CA",
+    "description": "EgyDead CA — Alternative EgyDead domain",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+    "mainUrl": "https://egydead.ca",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/egydeadca.js"
+  },
+  {
+    "id": "qdrama",
+    "name": "CVN-QDrama",
+    "internalName": "CVN-QDrama",
+    "description": "QDrama — Drama series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+    "mainUrl": "https://w3.q-drama.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/qdrama.js"
+  },
+  {
+    "id": "myseed",
+    "name": "CVN-MySeed",
+    "internalName": "CVN-MySeed",
+    "description": "MySeed — Movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+    "mainUrl": "https://m.myseed.tv",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/myseed.js"
+  },
+  {
+    "id": "ahwaktv",
+    "name": "CVN-AhwakTV",
+    "internalName": "CVN-AhwakTV",
+    "description": "AhwakTV — TV series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+    "mainUrl": "https://yam.ahwaktv.net",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/ahwaktv.js"
+  },
+  {
+    "id": "starzplay",
+    "name": "CVN-Starzplay",
+    "internalName": "CVN-Starzplay",
+    "description": "Starzplay — Official streaming integration",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+    "mainUrl": "https://starzplay.com/ar",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/starzplay.js"
+  },
+  {
+    "id": "flixmomo",
+    "name": "CVN-FlixMomo",
+    "internalName": "CVN-FlixMomo",
+    "description": "FlixMomo — Movies and series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=flixmomo.city&sz=128",
+    "mainUrl": "https://flixmomo.city",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/flixmomo.js"
   }
 ]

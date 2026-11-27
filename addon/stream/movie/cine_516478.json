@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Gintama: The Final • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/62551248-D378-03B4-DE25-4E81A1307368_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813763&Signature=dqT1izv7833He5TmJj7fH35u80Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-516478-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=OWU1jgVIWFcJbq8%2BVcp5wqlB5kA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-516478-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=zjSaiC2lHUSYb24Y%2FISbbfPkFAU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Gintama: The Final • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/59F16E68-2568-3454-94C7-FC520CF06483_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813763&Signature=XNfyIfeGf8Lk8GiSgN%2Bzem3A9to%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-516478-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=OWU1jgVIWFcJbq8%2BVcp5wqlB5kA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-516478-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=zjSaiC2lHUSYb24Y%2FISbbfPkFAU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Gintama: The Final • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/86A78530-A165-0C9D-3758-93687C90E39C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813763&Signature=0qkYC3%2BP4tD0IH0VBlLWmMeGySE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-516478-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=OWU1jgVIWFcJbq8%2BVcp5wqlB5kA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-516478-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=zjSaiC2lHUSYb24Y%2FISbbfPkFAU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Gintama: The Final • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/F64E5049-1447-861B-64B0-8E5BD9CFB22E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813763&Signature=4xIKzJsWXhGlPtujwNHLifUtpJo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-516478-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=OWU1jgVIWFcJbq8%2BVcp5wqlB5kA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-516478-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=zjSaiC2lHUSYb24Y%2FISbbfPkFAU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Gintama: The Final • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/376AD2AF-87AD-0976-3C8F-97193BA97DFF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813763&Signature=IR1KIgfXhrATkVqW1P%2BgpTTKF3Y%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-516478-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=OWU1jgVIWFcJbq8%2BVcp5wqlB5kA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-516478-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32F5A301-110D-6F8A-A05D-C8F525F33A7F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390748&Signature=zjSaiC2lHUSYb24Y%2FISbbfPkFAU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

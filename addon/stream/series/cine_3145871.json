@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "PSYREN S01E01 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DBFD87B9-266A-A6B5-41EB-CFC8756071D0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245502&Signature=%2F5KqXtYhsXnRhg%2FqNC5MVgBxsmo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145871-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=w9w2UUF0%2Bph3mKDjLmsyhXuKCfM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=3k9k%2B40gOrsMmqFlyTyy0keCD1E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/740FC611-77F3-C0AA-4F36-D2F3343869B8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=p4y6TZByHNbEAZ1QCKuXxRXoKuc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "PSYREN S01E01 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2DD7364F-AE4E-8E23-85A8-C22A3171DB1C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245502&Signature=yRc1QVW40j%2FNvwJ%2FpFFHLNZtCgo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145871-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=w9w2UUF0%2Bph3mKDjLmsyhXuKCfM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=3k9k%2B40gOrsMmqFlyTyy0keCD1E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/740FC611-77F3-C0AA-4F36-D2F3343869B8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=p4y6TZByHNbEAZ1QCKuXxRXoKuc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "PSYREN S01E01 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/922DF985-99A7-6658-EE9B-D24DCC013B84_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245502&Signature=3QsV1h%2BylrXIUJALryYSRZMqkmw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145871-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=w9w2UUF0%2Bph3mKDjLmsyhXuKCfM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=3k9k%2B40gOrsMmqFlyTyy0keCD1E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/740FC611-77F3-C0AA-4F36-D2F3343869B8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=p4y6TZByHNbEAZ1QCKuXxRXoKuc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "PSYREN S01E01 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A7C8B979-C0D5-BA61-05BA-76D9060BB829_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245502&Signature=jxZAyY6sWX1gxAUHl0GITIgx9ME%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145871-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=w9w2UUF0%2Bph3mKDjLmsyhXuKCfM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=3k9k%2B40gOrsMmqFlyTyy0keCD1E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/740FC611-77F3-C0AA-4F36-D2F3343869B8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=p4y6TZByHNbEAZ1QCKuXxRXoKuc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "PSYREN S01E01 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/71951931-DAF2-E4D2-C05E-11CCA76BC37A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245502&Signature=BO%2B4RxajSL5sW8BDrPk6FDymL1s%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145871-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=w9w2UUF0%2Bph3mKDjLmsyhXuKCfM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38F8BD5C-316B-28DC-C7D1-5E4684818E6F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=3k9k%2B40gOrsMmqFlyTyy0keCD1E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145871-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/740FC611-77F3-C0AA-4F36-D2F3343869B8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392018&Signature=p4y6TZByHNbEAZ1QCKuXxRXoKuc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

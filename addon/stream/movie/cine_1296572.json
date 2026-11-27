@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Ancient City of Loulan • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9AEF5EE0-0228-2E02-2978-05B9B84BC257_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073944&Signature=EXNfoBV5%2BtOgbltVkaorA988fkM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296572-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=DRafzBg%2BmZ7JhwES3UjA%2BwLcs5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=4pOOLVYAt1OviKF72ehGsVmbuC4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=RThGOQiw82aWUOfABOfZeVYQ3xI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296572-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=dGpZ22HTM%2Bjco%2FL7inu27bOImAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Ancient City of Loulan • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9452B46F-E72E-131B-4D35-A6BBBBCB2D0E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073944&Signature=aJBnXEJwzFvgk9%2BvetnB78BdYe0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296572-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=DRafzBg%2BmZ7JhwES3UjA%2BwLcs5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=4pOOLVYAt1OviKF72ehGsVmbuC4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=RThGOQiw82aWUOfABOfZeVYQ3xI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296572-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=dGpZ22HTM%2Bjco%2FL7inu27bOImAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Ancient City of Loulan • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/35D77800-BA80-D4B3-95AB-FB2DE2EBBD61_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073944&Signature=vq%2BrxlM%2F33hA4xcgEYBWFvHWdgU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296572-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=DRafzBg%2BmZ7JhwES3UjA%2BwLcs5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=4pOOLVYAt1OviKF72ehGsVmbuC4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=RThGOQiw82aWUOfABOfZeVYQ3xI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296572-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=dGpZ22HTM%2Bjco%2FL7inu27bOImAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Ancient City of Loulan • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7EC30D44-34F0-10C0-028F-79561A52287E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073944&Signature=v6XGd%2F7NukZyG811yKAPPcRpoyk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296572-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=DRafzBg%2BmZ7JhwES3UjA%2BwLcs5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=4pOOLVYAt1OviKF72ehGsVmbuC4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=RThGOQiw82aWUOfABOfZeVYQ3xI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296572-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=dGpZ22HTM%2Bjco%2FL7inu27bOImAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Ancient City of Loulan • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/91A35494-6608-538E-2A38-47301612F87D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073944&Signature=r%2BdldNwgKeRpVBgQIZr1%2FUXx0SE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296572-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=DRafzBg%2BmZ7JhwES3UjA%2BwLcs5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/777B4E6F-8521-0F46-A20B-6A0BEAC972FA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=4pOOLVYAt1OviKF72ehGsVmbuC4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296572-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=RThGOQiw82aWUOfABOfZeVYQ3xI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296572-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EBAF811F-4983-648F-1B11-6860B8903EB6_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389160&Signature=dGpZ22HTM%2Bjco%2FL7inu27bOImAw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

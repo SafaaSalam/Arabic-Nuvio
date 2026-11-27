@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu | Re:Zero S01E17 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/CAB4AE98-6044-E649-9250-EF4405ECAB71_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795902697&Signature=lQEm3pUsmLwW8iU3iuDmZcGWWM8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-66182-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=v%2Fp2xwzUx0sBEshZxoBIX5R0Y40%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-66182-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=JSEOol4I2J8UuEcqDWDuTkPUGgU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu | Re:Zero S01E17 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/2075DE24-B210-F961-1997-CAD0760AAC63_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795902697&Signature=%2F9HVdG7sKo58F0tgVVlFkPyevB8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-66182-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=v%2Fp2xwzUx0sBEshZxoBIX5R0Y40%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-66182-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=JSEOol4I2J8UuEcqDWDuTkPUGgU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu | Re:Zero S01E17 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/58C985DE-61FD-DFCD-5EC0-EE175796C91C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795902697&Signature=bpMUdTlj%2FenXCNkkDcF%2FsuAztRI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-66182-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=v%2Fp2xwzUx0sBEshZxoBIX5R0Y40%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-66182-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=JSEOol4I2J8UuEcqDWDuTkPUGgU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu | Re:Zero S01E17 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/B1FF5334-84AE-9055-9A82-E3104CBAB034_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795902697&Signature=DhnBOuQE%2FyejqOG7lJtvAz5uNeY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-66182-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=v%2Fp2xwzUx0sBEshZxoBIX5R0Y40%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-66182-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=JSEOol4I2J8UuEcqDWDuTkPUGgU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu | Re:Zero S01E17 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/62D758F8-00D3-45B1-5E56-79F95ED65819_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795902697&Signature=efCY6DWjkbbXuZ8mDjwOIpwYuTo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-66182-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=v%2Fp2xwzUx0sBEshZxoBIX5R0Y40%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-66182-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F927ADB0-E089-66BF-73E6-1B28AC026513_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392857&Signature=JSEOol4I2J8UuEcqDWDuTkPUGgU%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

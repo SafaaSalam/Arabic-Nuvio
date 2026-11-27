@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "عسل اسود | عسل أسود • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/5216376F-99AD-1726-6890-C4C0DA5DDAB9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245641&Signature=8a2l7EgesmyVAd7rL9MEXWkflp8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "عسل اسود | عسل أسود • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/8A6CE6C3-FCE9-9CAC-B68A-67DC26F21B6F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245641&Signature=xH6%2Fb5RX4tvr%2BnTMIaLgGmh0%2FT0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "عسل اسود | عسل أسود • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/7CF4FD84-8CAE-76C1-F5D7-6A8A82AF6D6E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245641&Signature=SVvYUL6esnWUWjGfdiLDf031sEg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "عسل اسود | عسل أسود • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/481DF10B-5F8C-7471-BF17-BD505276F48B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245641&Signature=VOwkMVItg8RHGQY01Mw63MuzEgU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "عسل اسود | عسل أسود • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/6C06AFAA-8CA5-9FF8-9488-DFFB8F532511_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245641&Signature=Vjp5XJZrmHifFvkdqe%2BmrLG5FuI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

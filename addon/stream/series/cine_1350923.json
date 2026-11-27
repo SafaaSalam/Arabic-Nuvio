@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "LuBan Mysteries S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EFB2980E-46DC-DF1B-94B2-A93E4CD354E1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818299&Signature=zbXLy%2B84HuUJORYLMJuhD%2BHSSSI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350923-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=VQdzLtklTlwt%2FrnvjtsCdbaKMVk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=3mS6fuG1sA6gPAp5TgOFH9dX7Iw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=wywQ7BMrYgJCfCtk7EfIDHjJn0Y%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350923-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=M4iHwonf41qSdeQ6LJuZQmsr4vQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "LuBan Mysteries S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AB4E098D-A620-F84C-DAB2-A1F621823B66_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818299&Signature=uK8TW8FOnFyZ18YxtzLuN6iaQ5E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350923-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=VQdzLtklTlwt%2FrnvjtsCdbaKMVk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=3mS6fuG1sA6gPAp5TgOFH9dX7Iw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=wywQ7BMrYgJCfCtk7EfIDHjJn0Y%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350923-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=M4iHwonf41qSdeQ6LJuZQmsr4vQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "LuBan Mysteries S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AB1DE006-238C-0D29-5115-B81BF144FFFD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818299&Signature=PE8GY9NRRtJt0ZlfqX7%2FBLZIokg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350923-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=VQdzLtklTlwt%2FrnvjtsCdbaKMVk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=3mS6fuG1sA6gPAp5TgOFH9dX7Iw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=wywQ7BMrYgJCfCtk7EfIDHjJn0Y%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350923-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=M4iHwonf41qSdeQ6LJuZQmsr4vQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "LuBan Mysteries S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9F22FE37-FF0F-7AEA-FBDA-ABC3A103F32B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818299&Signature=hbUJ9vXfITSOsQSUjYzc%2F%2BDXsqU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350923-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=VQdzLtklTlwt%2FrnvjtsCdbaKMVk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=3mS6fuG1sA6gPAp5TgOFH9dX7Iw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=wywQ7BMrYgJCfCtk7EfIDHjJn0Y%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350923-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=M4iHwonf41qSdeQ6LJuZQmsr4vQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "LuBan Mysteries S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3A3F2CF5-35F2-252D-2531-F395267BA0CE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818299&Signature=lTDIfyzF%2BZFEmGZx2pAIjEaODIM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350923-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=VQdzLtklTlwt%2FrnvjtsCdbaKMVk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0861CDDD-FF9F-8A4A-F9BC-2F46FBE5C765_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=3mS6fuG1sA6gPAp5TgOFH9dX7Iw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350923-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=wywQ7BMrYgJCfCtk7EfIDHjJn0Y%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350923-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/129DA58D-167B-BA2D-C148-A7C2699A480E_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394456&Signature=M4iHwonf41qSdeQ6LJuZQmsr4vQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

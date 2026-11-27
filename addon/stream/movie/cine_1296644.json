@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Novoland • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/18C5D2AD-B228-E315-74C0-95FA6096193F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332082&Signature=4bIm7n%2FZsBid8pkGB2eSfce2CJI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296644-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=TLKiewqJ5LovQ%2BznAe6tp%2BeKGG0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=nMrDI0Mz7KW8d0yJemUrc%2FXnUWA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=CjH%2Bg4Lv6IuA1Nxs5R7VyN04QRk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296644-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wKVsH8bhtMtQophdwN156DTfmtA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Novoland • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FBEDDA69-F964-9BD6-0029-9F0241FFDE0E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332082&Signature=e1LSjZ5EbZTtN6aoKFIRYvKma7w%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296644-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=TLKiewqJ5LovQ%2BznAe6tp%2BeKGG0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=nMrDI0Mz7KW8d0yJemUrc%2FXnUWA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=CjH%2Bg4Lv6IuA1Nxs5R7VyN04QRk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296644-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wKVsH8bhtMtQophdwN156DTfmtA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Novoland • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/60EADEF0-45A8-D4E3-D6A5-F698E51731BF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332082&Signature=yMeMK%2FrJkXvf4SW1i%2F4C3Wd5WiM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296644-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=TLKiewqJ5LovQ%2BznAe6tp%2BeKGG0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=nMrDI0Mz7KW8d0yJemUrc%2FXnUWA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=CjH%2Bg4Lv6IuA1Nxs5R7VyN04QRk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296644-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wKVsH8bhtMtQophdwN156DTfmtA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Novoland • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6B6A646E-E6CA-5406-F2CF-9EAB49084761_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332082&Signature=%2Faco%2BStVIH9cETDNwU3TjB4yNHA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296644-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=TLKiewqJ5LovQ%2BznAe6tp%2BeKGG0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=nMrDI0Mz7KW8d0yJemUrc%2FXnUWA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=CjH%2Bg4Lv6IuA1Nxs5R7VyN04QRk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296644-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wKVsH8bhtMtQophdwN156DTfmtA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Novoland • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A453323F-4A29-B71A-9880-61FD9220252F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332082&Signature=CJpEWYziJs774g1Y4x%2Bhe4QU3Xc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296644-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=TLKiewqJ5LovQ%2BznAe6tp%2BeKGG0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/24D3B52C-8ADE-AEFD-1946-9FA3570CA60C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=nMrDI0Mz7KW8d0yJemUrc%2FXnUWA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296644-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=CjH%2Bg4Lv6IuA1Nxs5R7VyN04QRk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296644-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E9F006FE-2399-D6CC-7651-9A06BA95A88C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394608&Signature=wKVsH8bhtMtQophdwN156DTfmtA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

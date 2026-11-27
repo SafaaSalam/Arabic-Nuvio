@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Love Me Hit Me • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/924C2C02-23C7-97AE-5C43-433652B56419_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072483&Signature=yyMsp%2F0S4pDd1YBaKTjG0t8RGB4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=COXyeE%2BPpq4iYYqWdEM1K0FOAbY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=93BBW%2BHDkk39AfQuWj18ZTVrZEo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=P%2FLgJmNXM4ao3VSX5EI6j9DDAtc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=NF2G0zZ%2FBRi9KIn3sbVvpGgBvXs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Love Me Hit Me • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EFFD42EB-3D1C-C57B-488D-53701A2011B9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072483&Signature=wW1L8JxaLGvzRT%2FdZZAyWBtJ78U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=COXyeE%2BPpq4iYYqWdEM1K0FOAbY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=93BBW%2BHDkk39AfQuWj18ZTVrZEo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=P%2FLgJmNXM4ao3VSX5EI6j9DDAtc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=NF2G0zZ%2FBRi9KIn3sbVvpGgBvXs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Love Me Hit Me • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2584FB86-579C-7786-C04A-B9B2ED8E8A1C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072483&Signature=YaKQgt3MMFzBfiSgIQHdTHCyezg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=COXyeE%2BPpq4iYYqWdEM1K0FOAbY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=93BBW%2BHDkk39AfQuWj18ZTVrZEo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=P%2FLgJmNXM4ao3VSX5EI6j9DDAtc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=NF2G0zZ%2FBRi9KIn3sbVvpGgBvXs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Love Me Hit Me • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/220A5307-D93A-7018-3B08-239C25C079B2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072483&Signature=XY1D5X2l%2F7iTTKbgGgwa4LYOwig%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=COXyeE%2BPpq4iYYqWdEM1K0FOAbY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=93BBW%2BHDkk39AfQuWj18ZTVrZEo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=P%2FLgJmNXM4ao3VSX5EI6j9DDAtc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=NF2G0zZ%2FBRi9KIn3sbVvpGgBvXs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Love Me Hit Me • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B112748D-CF28-03BB-B264-B2877E6EEB8E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072483&Signature=UO9PztdKG0cxT0h2u34EI2wyJ14%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299632-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=COXyeE%2BPpq4iYYqWdEM1K0FOAbY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/04E6F0B3-9CCC-758E-8451-3F89416D12F7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=93BBW%2BHDkk39AfQuWj18ZTVrZEo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299632-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=P%2FLgJmNXM4ao3VSX5EI6j9DDAtc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299632-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1C3AA8D0-86AB-91CB-A486-0A6639A92DB2_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798373505&Signature=NF2G0zZ%2FBRi9KIn3sbVvpGgBvXs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

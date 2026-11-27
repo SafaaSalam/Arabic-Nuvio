@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Strange things in Western Hunan • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D259C76B-2443-8F30-8393-B09AAF4CA4AF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986997&Signature=%2FLVPBpVR85a9V8ZRBGmZhYBej3k%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298594-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=aRcC5t5%2F1EOM6j9nYxFrHJxO4RQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=ynHHRwVvfC%2FHwdpvYUrIwkcMoLI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=iqGLqBzD%2BGH5PcPkEmfiXMYOSpU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298594-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=M2%2B0cDwcJobVQuhlm7jze%2FVPzOw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Strange things in Western Hunan • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3CA20201-5D23-1C0D-FAFB-B8FCC6684D23_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986997&Signature=aDX5jXRtTTVUAG%2B%2Be%2BDTM1yaop0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298594-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=aRcC5t5%2F1EOM6j9nYxFrHJxO4RQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=ynHHRwVvfC%2FHwdpvYUrIwkcMoLI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=iqGLqBzD%2BGH5PcPkEmfiXMYOSpU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298594-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=M2%2B0cDwcJobVQuhlm7jze%2FVPzOw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Strange things in Western Hunan • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EA0484F0-F49F-28C5-28F0-BBB349E3CC07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986997&Signature=P5PEAIeeU8FT2hWGqU6Cf%2BpUqNQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298594-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=aRcC5t5%2F1EOM6j9nYxFrHJxO4RQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=ynHHRwVvfC%2FHwdpvYUrIwkcMoLI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=iqGLqBzD%2BGH5PcPkEmfiXMYOSpU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298594-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=M2%2B0cDwcJobVQuhlm7jze%2FVPzOw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Strange things in Western Hunan • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/381AA9B8-7996-6946-5318-93798B4E94D2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986997&Signature=EbWl1I10lRVOg7ZRkQKku3m6S78%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298594-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=aRcC5t5%2F1EOM6j9nYxFrHJxO4RQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=ynHHRwVvfC%2FHwdpvYUrIwkcMoLI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=iqGLqBzD%2BGH5PcPkEmfiXMYOSpU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298594-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=M2%2B0cDwcJobVQuhlm7jze%2FVPzOw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Strange things in Western Hunan • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2A89B2AE-E571-0D6A-8EC9-F9CA8028A872_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986997&Signature=TGykwsAU2idYBDQQxsSG2DbWWM8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1298594-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=aRcC5t5%2F1EOM6j9nYxFrHJxO4RQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8BA4ED1F-B92A-159D-3BF4-E5FDA524271A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=ynHHRwVvfC%2FHwdpvYUrIwkcMoLI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1298594-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=iqGLqBzD%2BGH5PcPkEmfiXMYOSpU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1298594-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4061BBF2-980A-C7B2-C174-80DF923F8F19_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798331591&Signature=M2%2B0cDwcJobVQuhlm7jze%2FVPzOw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

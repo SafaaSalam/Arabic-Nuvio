@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Huang Feihong: The Black Yamen • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/12CB0905-B21F-B16E-564A-0959B5A041FE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813520&Signature=xAm%2Bdo2Dq0KIXXTRqRX5%2BUgWe8M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299542-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=7tkAwtGX4QuZ69Oiojy9rVJoFUc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=zXaAYpGptnmOzHNZJ4sNDaHMmP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=R0EV%2FiPujHybKF5XxJBBy%2B7QJHY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299542-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=InhufIyQgChzA4x7Z4yXv%2F%2FXpsQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Huang Feihong: The Black Yamen • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5A099534-EFE7-2685-3930-483AC5E9BC2D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813520&Signature=b%2Bw8InhqJpTu5tcqsJbKSdDDkPc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299542-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=7tkAwtGX4QuZ69Oiojy9rVJoFUc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=zXaAYpGptnmOzHNZJ4sNDaHMmP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=R0EV%2FiPujHybKF5XxJBBy%2B7QJHY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299542-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=InhufIyQgChzA4x7Z4yXv%2F%2FXpsQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Huang Feihong: The Black Yamen • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2ADDB7DC-DB56-C08E-807B-31DB0CCBB0C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813520&Signature=jhYAjyrmMtny88qXSdS%2FtA7QK6E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299542-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=7tkAwtGX4QuZ69Oiojy9rVJoFUc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=zXaAYpGptnmOzHNZJ4sNDaHMmP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=R0EV%2FiPujHybKF5XxJBBy%2B7QJHY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299542-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=InhufIyQgChzA4x7Z4yXv%2F%2FXpsQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Huang Feihong: The Black Yamen • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3EE89A72-CB75-BBAF-C31F-00C628C27DF7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813520&Signature=vlQDap2Fy4rNiAdZwc2YiLaMCis%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299542-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=7tkAwtGX4QuZ69Oiojy9rVJoFUc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=zXaAYpGptnmOzHNZJ4sNDaHMmP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=R0EV%2FiPujHybKF5XxJBBy%2B7QJHY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299542-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=InhufIyQgChzA4x7Z4yXv%2F%2FXpsQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Huang Feihong: The Black Yamen • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D629D650-F296-7510-A1EF-31DD2F6171AB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813520&Signature=9pV5Gec%2BiHXix9fiTGVze4Z9qpg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299542-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=7tkAwtGX4QuZ69Oiojy9rVJoFUc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ADEE1EC1-4D21-BA60-15B0-E6D5158D0F98_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=zXaAYpGptnmOzHNZJ4sNDaHMmP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299542-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=R0EV%2FiPujHybKF5XxJBBy%2B7QJHY%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299542-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/815C485C-CCAA-DF90-661B-51DF14D88796_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379406&Signature=InhufIyQgChzA4x7Z4yXv%2F%2FXpsQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

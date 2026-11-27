@@ -17,6 +17,7 @@
 const fs = require("fs");
 const path = require("path");
 const store = require("./lib/store.js");
+const imdb = require("./lib/imdb.js");
 
 const ROOT_DIR = path.resolve(__dirname, "..");
 const ADDON_DIR = path.join(ROOT_DIR, "addon");
@@ -52,14 +53,20 @@ const PROVIDER_NAMES = {
   krmzy: "Krmzy", eseek: "Eseek", aia2tv: "Asia2TV", "5tv": "5TV", aflaam: "Aflaam", shahidwbas: "ShahidWBas",
   tuniflix: "TuniFlix", anim3rb: "Anime3rb", anime4up: "Anime4Up", animerco: "Animerco", witanime: "WitAnime",
   "anime-phoenix": "Anime Phoenix", replaymatch: "FullMatchShows",
-  moviesmod: "Moviesmod", vegamovies: "VegaMovies", bollyflix: "Bollyflix", moviesdrive: "MoviesDrive"
+  moviesmod: "Moviesmod", vegamovies: "VegaMovies", bollyflix: "Bollyflix", moviesdrive: "MoviesDrive",
+  cimanow: "CimaNow", aflamstream: "AflamStream", qfilm: "QFilm", egybet: "EGYBET",
+  tukcima: "TukCima", fasselhd: "FasselHD", faselhd2: "FaselHD2", egydeadca: "EgyDead CA",
+  qdrama: "QDrama", myseed: "MySeed", ahwaktv: "AhwakTV", starzplay: "Starzplay", flixmomo: "FlixMomo"
 };
 const PROVIDER_SUBTITLES = {
   cinemana: "Movies & Series (🇮🇶)", cee: "Movies & Series (🇮🇶)", "3isk": "Turkish Drama", alooytv: "Gulf, Arabic & Turkish Series", akwam: "Movies & Series",
   tuktukcima: "Movies", lodynet: "Turkish & Asian Series", krmzy: "Turkish Series", eseek: "Turkish Series", aia2tv: "Asian Drama",
   "5tv": "Movies & Series", aflaam: "Arabic Movies", shahidwbas: "Arabic Series", tuniflix: "Movies", anim3rb: "Anime",
   anime4up: "Anime", animerco: "Anime", witanime: "Anime", "anime-phoenix": "Anime", replaymatch: "Football Replays",
-  moviesmod: "Hindi & English Movies", vegamovies: "Hindi & English Movies", bollyflix: "Hindi & English Movies", moviesdrive: "Hindi & English Movies"
+  moviesmod: "Hindi & English Movies", vegamovies: "Hindi & English Movies", bollyflix: "Hindi & English Movies", moviesdrive: "Hindi & English Movies",
+  cimanow: "Arabic Movies & Series", aflamstream: "Translated Movies", qfilm: "Movies & Series", egybet: "Movies & Series",
+  tukcima: "Movies & Series", fasselhd: "Movies & Series", faselhd2: "Movies & Series", egydeadca: "Movies & Series",
+  qdrama: "Drama Series", myseed: "Movies & Series", ahwaktv: "TV Series", starzplay: "Movies & Series", flixmomo: "Movies & Series"
 };
 
 function sleep(ms) {
@@ -397,11 +404,13 @@ async function main() {
   require("./generate-all-providers.js");
   console.log("✅ Wrote root manifest.json and plugins.json (42 sequenced Nuvio JS Providers)");
 
+  const ADDON_LOGO_URL = "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/arabic-nuvio-logo.jpg";
+
   // 3. Write CloudStream External Repo bridge (repo.json)
   writeJson(path.join(ROOT_DIR, "repo.json"), {
     name: "Arabic Nuvio | الإضافات العربية الشاملة",
     description: "Comprehensive Arabic Nuvio Providers & Collections — Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Sources",
-    iconUrl: cinemanaLogoUrl,
+    iconUrl: ADDON_LOGO_URL,
     manifestVersion: 1,
     pluginLists: [
       "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/plugins.json"
@@ -1066,33 +1075,129 @@ async function main() {
     }
   }
 
-  // 4.7 Cross-source "Latest" rows: round-robin the newest items of every source, de-duplicated across sources
-  const LATEST_ROW = /(latest|newly|recent|upload_desc)/;
-  const latestInfos = [];
-  for (const [type, id, enTitle, arTitle, emoji] of [
-    ["movie", "arabic_latest_movies", "Latest Movies — All Sources", "أحدث الأفلام — كل المصادر", "🆕"],
-    ["series", "arabic_latest_series", "Latest Series — All Sources", "أحدث المسلسلات — كل المصادر", "🆕"]
-  ]) {
-    const rows = [...rowItems.entries()].filter(([rid, r]) => r.type === type && LATEST_ROW.test(rid)).map(([, r]) => r.metas);
-    const mixed = [];
-    for (let rank = 0; rank < 60; rank++) for (const metas of rows) if (metas[rank]) mixed.push(metas[rank]);
-    const metas = store.dedupe(mixed).slice(0, 300);
-    if (metas.length === 0) continue;
-    catalogDefinitions.unshift({ type, id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
-    store.writePagedCatalog(type, id, metas);
-    latestInfos.push({ id, type, enTitle, arTitle, emoji, coverImage: metas[0].poster, heroBackdrop: metas[0].background || metas[0].poster, count: metas.length });
-    console.log(`   📦 Aggregated [${type}] ${id}: ${metas.length} items from ${rows.length} rows`);
+  // 4.6d IMDb ID Resolution & Cinemeta Metadata Enrichment across all rows
+  {
+    const imdbBudget = { remaining: parseInt(process.env.MAX_IMDB_LOOKUPS || "120", 10) };
+    let totalEnriched = 0;
+    for (const [rid, r] of rowItems.entries()) {
+      const head = r.metas.slice(0, PAGE_SIZE);
+      const tail = r.metas.slice(PAGE_SIZE);
+      const enrichedHead = await imdb.enrichItems(head, imdbBudget);
+      const enrichedTail = tail.length > 0 ? await imdb.enrichItems(tail, { remaining: 0 }) : [];
+      r.metas = store.dedupe([...enrichedHead, ...enrichedTail]);
+      for (const m of r.metas) {
+        if (/^tt\d+$/i.test(m.id)) {
+          totalEnriched++;
+          const cm = imdb.getCachedMeta(m.id, m.type);
+          if (cm) {
+            const metaPath = path.join(ADDON_DIR, "meta", m.type, `${m.id}.json`);
+            writeJson(metaPath, { meta: cm }, false);
+          }
+        }
+      }
+    }
+    imdb.saveCache();
+    console.log(`   🎬 IMDb enrichment: ${totalEnriched} IMDb-linked items across ${rowItems.size} rows (lookups left in budget: ${imdbBudget.remaining})`);
   }
 
-  // 4.8 One pair of rows per source: latest movies + latest series.
+  // 4.7 Global Discovery Rows (all sources combined, de-duplicated across sources)
+  const LATEST_ROW = /(latest|newly|recent|upload_desc|movies|series)/;
+  const EPISODE_ROW = /(latest_episodes|newly_series|latest_series|qdrama|3isk|lodynet|krmzy|shahidwbas)/;
+  const TRENDING_ROW = /(popular|views_desc|banner|featured|stars_desc|latest)/;
+  const latestInfos = [];
+
+  const roundRobinMix = (rowsList, maxPerRow = 60, limit = 300) => {
+    const mixed = [];
+    for (let rank = 0; rank < maxPerRow; rank++) {
+      for (const metas of rowsList) if (metas[rank]) mixed.push(metas[rank]);
+    }
+    return store.dedupe(mixed).slice(0, limit);
+  };
+
+  // 1) Latest Additions (All Sources): movies & series combined
+  {
+    const rows = [...rowItems.entries()].filter(([rid]) => LATEST_ROW.test(rid)).map(([, r]) => r.metas);
+    const metas = roundRobinMix(rows, 40, 300);
+    if (metas.length > 0) {
+      const id = "arabic_latest_additions";
+      const enTitle = "Latest Additions (All Sources)";
+      catalogDefinitions.push({ type: "movie", id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+      store.writePagedCatalog("movie", id, metas);
+      latestInfos.push({ id, type: "movie", enTitle, arTitle: "أحدث الإضافات — كل المصادر", emoji: "🆕", coverImage: metas[0].poster, heroBackdrop: metas[0].background || metas[0].poster, count: metas.length });
+      console.log(`   📦 Global [movie] ${id}: ${metas.length} items`);
+    }
+  }
+
+  // 2) Trending Now / Popular Today
+  {
+    const rows = [...rowItems.entries()].filter(([rid]) => TRENDING_ROW.test(rid)).map(([, r]) => r.metas);
+    const mixed = roundRobinMix(rows, 30, 300);
+    // Prioritize items with IMDb IDs & higher ratings
+    mixed.sort((a, b) => (b.imdb_id ? 1 : 0) - (a.imdb_id ? 1 : 0) || (parseFloat(b.imdbRating) || 0) - (parseFloat(a.imdbRating) || 0));
+    if (mixed.length > 0) {
+      const id = "arabic_trending_now";
+      const enTitle = "Trending Now / Popular Today";
+      catalogDefinitions.push({ type: "movie", id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+      store.writePagedCatalog("movie", id, mixed);
+      latestInfos.push({ id, type: "movie", enTitle, arTitle: "الأكثر رواجاً اليوم", emoji: "🔥", coverImage: mixed[0].poster, heroBackdrop: mixed[0].background || mixed[0].poster, count: mixed.length });
+      console.log(`   📦 Global [movie] ${id}: ${mixed.length} items`);
+    }
+  }
+
+  // 3) Latest Movies & 4) Latest Series
+  for (const [type, id, enTitle, arTitle, emoji] of [
+    ["movie", "arabic_latest_movies", "Latest Movies", "أحدث الأفلام", "🎬"],
+    ["series", "arabic_latest_series", "Latest Series", "أحدث المسلسلات", "📺"]
+  ]) {
+    const rows = [...rowItems.entries()].filter(([rid, r]) => r.type === type && LATEST_ROW.test(rid)).map(([, r]) => r.metas);
+    const metas = roundRobinMix(rows, 60, 300);
+    if (metas.length === 0) continue;
+    catalogDefinitions.push({ type, id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+    store.writePagedCatalog(type, id, metas);
+    latestInfos.push({ id, type, enTitle, arTitle, emoji, coverImage: metas[0].poster, heroBackdrop: metas[0].background || metas[0].poster, count: metas.length });
+    console.log(`   📦 Global [${type}] ${id}: ${metas.length} items from ${rows.length} rows`);
+  }
+
+  // 5) New Episodes Today / Recently Updated
+  {
+    const rows = [...rowItems.entries()].filter(([rid, r]) => r.type === "series" && EPISODE_ROW.test(rid)).map(([, r]) => r.metas);
+    const metas = roundRobinMix(rows, 50, 300);
+    if (metas.length > 0) {
+      const id = "arabic_new_episodes_today";
+      const enTitle = "New Episodes Today / Recently Updated";
+      catalogDefinitions.push({ type: "series", id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+      store.writePagedCatalog("series", id, metas);
+      latestInfos.push({ id, type: "series", enTitle, arTitle: "حلقات جديدة اليوم", emoji: "⚡", coverImage: metas[0].poster, heroBackdrop: metas[0].background || metas[0].poster, count: metas.length });
+      console.log(`   📦 Global [series] ${id}: ${metas.length} items`);
+    }
+  }
+
+  // 6) Top 10 This Week
+  {
+    const allItems = store.dedupe([...rowItems.values()].flatMap((r) => r.metas.slice(0, 30)));
+    const top10 = allItems
+      .filter((m) => m.imdbRating && !isNaN(parseFloat(m.imdbRating)))
+      .sort((a, b) => parseFloat(b.imdbRating) - parseFloat(a.imdbRating))
+      .slice(0, 10);
+    const metas = top10.length >= 10 ? top10 : store.dedupe([...top10, ...allItems]).slice(0, 10);
+    if (metas.length > 0) {
+      const id = "arabic_top_10_week";
+      const enTitle = "Top 10 This Week";
+      catalogDefinitions.push({ type: "movie", id, name: enTitle, pageSize: PAGE_SIZE, extra: [{ name: "skip", isRequired: false }], showInHome: true });
+      store.writePagedCatalog("movie", id, metas);
+      latestInfos.push({ id, type: "movie", enTitle, arTitle: "أفضل 10 هذا الأسبوع", emoji: "🏆", coverImage: metas[0].poster, heroBackdrop: metas[0].background || metas[0].poster, count: metas.length });
+      console.log(`   📦 Global [movie] ${id}: ${metas.length} items`);
+    }
+  }
+
+  // 4.8 One pair of rows per source: latest movies + latest series (excluding Cee & Cinemana, which are playback-only).
   // Every row holds PAGE_SIZE (50) posters per page and older pages load as the user scrolls back (skip=N).
   {
-    const ONLY_ROWS = { cinemana: /^cinemana_(newly_movies|newly_series|mov_upload_desc|ser_upload_desc)$/ };
+    const HIDDEN_HOME_PROVIDERS = new Set(["cinemana", "cee"]);
     const groups = new Map();
     for (const [rid, r] of rowItems.entries()) {
       const rm = rowMeta.get(rid);
-      if (!rm) continue;
-      if (ONLY_ROWS[rm.provider] && !ONLY_ROWS[rm.provider].test(rid)) continue;
+      if (!rm || HIDDEN_HOME_PROVIDERS.has(rm.provider)) continue;
       const k = `${rm.provider}|${r.type}`;
       if (!groups.has(k)) groups.set(k, { provider: rm.provider, type: r.type, logo: rm.logo, rows: [] });
       groups.get(k).rows.push(r.metas);
@@ -1147,18 +1252,21 @@ async function main() {
   // 5. Write addon/manifest.json
   const firstBannerPoster = (catalogDataMap.get("movie/cinemana_banner_movies") || {}).heroBackdrop || cinemanaLogoUrl;
   const supportedPrefixes = [
-    "cine_", "cee_", "3isk_", "alooy_", "akwam_",
+    "tt", "cine_", "cee_", "3isk_", "alooy_", "akwam_",
     "tuktukcima_", "lodynet_", "krmzy_", "eseek_", "aia2tv_",
     "5tv_", "aflaam_", "shahidwbas_", "tuniflix_",
     "anim3rb_", "anime4up_", "animerco_", "witanime_", "animephoenix_",
-    "replaymatch_", "moviesmod_", "vegamovies_", "bollyflix_", "moviesdrive_"
+    "replaymatch_", "moviesmod_", "vegamovies_", "bollyflix_", "moviesdrive_",
+    "cimanow_", "aflamstream_", "qfilm_", "egybet_", "tukcima_",
+    "fasselhd_", "faselhd2_", "egydeadca_", "qdrama_", "myseed_",
+    "ahwaktv_", "starzplay_", "flixmomo_"
   ];
   const addonManifest = {
     id: ADDON_ID,
     name: "Arabic Nuvio",
     version: "2.1.0",
     description: "Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam & 36+ Arabic Movie, Series, Anime & Live TV Catalogs",
-    logo: cinemanaLogoUrl,
+    logo: ADDON_LOGO_URL,
     background: firstBannerPoster,
     language: "ar",
     types: ["movie", "series"],

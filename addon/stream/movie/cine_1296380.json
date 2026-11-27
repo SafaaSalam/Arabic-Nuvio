@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tears of No Regret • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1C3345C0-5423-FDE6-F3E9-BBD28007D03F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899672&Signature=%2F%2FATm0janY3%2B2xgxoMRgp0O2cSA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296380-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=tPsUWxvNXsPxEiEt6QHEH7xUYbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=UMq3G835LfPuCxgwe35r7j0TtT4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=6U3sZJVPP%2BBKkistV%2FygzpmfX0I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296380-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=LbzGytix3P2fRGY4tBOxfi%2B81mw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tears of No Regret • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/006F6601-87C8-2ADB-4899-526DE1844512_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899672&Signature=QMLjRR5p95%2BzLLonKxpEmZBwjpc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296380-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=tPsUWxvNXsPxEiEt6QHEH7xUYbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=UMq3G835LfPuCxgwe35r7j0TtT4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=6U3sZJVPP%2BBKkistV%2FygzpmfX0I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296380-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=LbzGytix3P2fRGY4tBOxfi%2B81mw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tears of No Regret • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5DD0E890-9FF2-5679-8F7E-91B79A4FB876_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899672&Signature=3kuzl44kZeofqXhuY6%2BrMTblNqg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296380-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=tPsUWxvNXsPxEiEt6QHEH7xUYbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=UMq3G835LfPuCxgwe35r7j0TtT4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=6U3sZJVPP%2BBKkistV%2FygzpmfX0I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296380-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=LbzGytix3P2fRGY4tBOxfi%2B81mw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tears of No Regret • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/20531C4B-66B6-618F-6266-F5B3DE39649B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899672&Signature=2dT7lrH5hguYGpeIO1lA82s0ujQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296380-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=tPsUWxvNXsPxEiEt6QHEH7xUYbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=UMq3G835LfPuCxgwe35r7j0TtT4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=6U3sZJVPP%2BBKkistV%2FygzpmfX0I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296380-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=LbzGytix3P2fRGY4tBOxfi%2B81mw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tears of No Regret • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/383B4EF7-F4A0-94D8-E18B-2C36BF16C18B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899672&Signature=G3ZTCqrUFYkk%2BoHcQ7j0KLrq8Sw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296380-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=tPsUWxvNXsPxEiEt6QHEH7xUYbo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D92D9EE-096F-FBBF-E0B5-4F3F2D617ECC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=UMq3G835LfPuCxgwe35r7j0TtT4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296380-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=6U3sZJVPP%2BBKkistV%2FygzpmfX0I%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296380-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E821CFED-502E-6BDE-B9DA-FBC62A43B23D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394183&Signature=LbzGytix3P2fRGY4tBOxfi%2B81mw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -3,22 +3,76 @@
     "id": "arabic-latest-all-collection",
     "title": "Latest — All Sources",
     "name": "Latest — All Sources",
-    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+    "backdropImageUrl": "https://images.metahub.space/background/medium/tt38258118/img",
     "pinToTop": true,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
     "showAllTab": true,
     "folders": [
       {
-        "id": "folder-arabic_latest_movies",
-        "title": "Latest Movies — All Sources",
-        "name": "Latest Movies — All Sources",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+        "id": "folder-arabic_latest_additions",
+        "title": "Latest Additions (All Sources)",
+        "name": "Latest Additions (All Sources)",
+        "coverImageUrl": "https://images.metahub.space/poster/small/tt38258118/img",
         "focusGifEnabled": true,
         "coverEmoji": "🆕",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
+        "heroBackdropUrl": "https://images.metahub.space/background/medium/tt38258118/img",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_latest_additions"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_latest_additions"
+          }
+        ]
+      },
+      {
+        "id": "folder-arabic_trending_now",
+        "title": "Trending Now / Popular Today",
+        "name": "Trending Now / Popular Today",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/B8093DF1-5409-2681-135B-DACE392A41D3_poster.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "🔥",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/B8093DF1-5409-2681-135B-DACE392A41D3_poster.jpg",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_trending_now"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_trending_now"
+          }
+        ]
+      },
+      {
+        "id": "folder-arabic_latest_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://images.metahub.space/poster/small/tt38258118/img",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://images.metahub.space/background/medium/tt38258118/img",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
         "sources": [
           {
@@ -38,79 +92,40 @@
       },
       {
         "id": "folder-arabic_latest_series",
-        "title": "Latest Series — All Sources",
-        "name": "Latest Series — All Sources",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "🆕",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "arabic_latest_series"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "series",
-            "catalogId": "arabic_latest_series"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "cinemana-collection",
-    "title": "Cinemana — Movies & Series (🇮🇶)",
-    "name": "Cinemana — Movies & Series (🇮🇶)",
-    "backdropImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
-    "pinToTop": false,
-    "focusGlowEnabled": true,
-    "viewMode": "TABBED_GRID",
-    "showAllTab": true,
-    "folders": [
-      {
-        "id": "folder-src_cinemana_movies",
-        "title": "Latest Movies",
-        "name": "Latest Movies",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
-        "focusGifEnabled": true,
-        "coverEmoji": "🎬",
-        "tileShape": "POSTER",
-        "hideTitle": false,
-        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/3A3F9DB2-538E-981C-1C2E-DDD2B7A18939_poster.png",
-        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
-        "sources": [
-          {
-            "provider": "addon",
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "src_cinemana_movies"
-          }
-        ],
-        "catalogSources": [
-          {
-            "addonId": "org.nuvio.arabic.cinemana",
-            "type": "movie",
-            "catalogId": "src_cinemana_movies"
-          }
-        ]
-      },
-      {
-        "id": "folder-src_cinemana_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
+        "coverImageUrl": "https://images.metahub.space/poster/small/tt38336631/img",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
+        "heroBackdropUrl": "https://images.metahub.space/background/medium/tt38336631/img",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "arabic_latest_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "arabic_latest_series"
+          }
+        ]
+      },
+      {
+        "id": "folder-arabic_new_episodes_today",
+        "title": "New Episodes Today / Recently Updated",
+        "name": "New Episodes Today / Recently Updated",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "⚡",
+        "tileShape": "POSTER",
+        "hideTitle": false,
         "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/0CE657D2-5E6C-223D-BA9A-B0DBC6E9A7A2_poster.png",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
         "sources": [
@@ -118,14 +133,41 @@
             "provider": "addon",
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "src_cinemana_series"
+            "catalogId": "arabic_new_episodes_today"
           }
         ],
         "catalogSources": [
           {
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
-            "catalogId": "src_cinemana_series"
+            "catalogId": "arabic_new_episodes_today"
+          }
+        ]
+      },
+      {
+        "id": "folder-arabic_top_10_week",
+        "title": "Top 10 This Week",
+        "name": "Top 10 This Week",
+        "coverImageUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "🏆",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://cnth2.shabakaty.cc/vascin-poster-images/78AEEA48-B34B-B79C-EC67-508641771C6A_poster.jpg",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_top_10_week"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "arabic_top_10_week"
           }
         ]
       }
@@ -135,7 +177,7 @@
     "id": "3isk-collection",
     "title": "3isk — Turkish Drama",
     "name": "3isk — Turkish Drama",
-    "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/08/teskilat-7.png",
+    "backdropImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/Bahr-S02-long.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -145,12 +187,12 @@
         "id": "folder-src_3isk_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/08/teskilat-7.png",
+        "coverImageUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/Bahr-S02-long.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/08/teskilat-7.png",
+        "heroBackdropUrl": "https://3iskk.xyz/wp-content/uploads/2026/05/Bahr-S02-long.jpg",
         "titleLogoUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
         "sources": [
           {
@@ -174,7 +216,7 @@
     "id": "alooytv-collection",
     "title": "AlooyTv — Gulf, Arabic & Turkish Series",
     "name": "AlooyTv — Gulf, Arabic & Turkish Series",
-    "backdropImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1992.jpg",
+    "backdropImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1971.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -184,12 +226,12 @@
         "id": "folder-src_alooytv_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1992.jpg",
+        "coverImageUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1971.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1992.jpg",
+        "heroBackdropUrl": "https://ga.alooytv16.xyz/uploads/video_thumb/1971.jpg",
         "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
         "sources": [
           {
@@ -213,7 +255,7 @@
     "id": "akwam-collection",
     "title": "Akwam — Movies & Series",
     "name": "Akwam — Movies & Series",
-    "backdropImageUrl": "https://img.downet.net/thumb/178x260/uploads/A4ylT.jpg",
+    "backdropImageUrl": "https://img.downet.net/thumb/178x260/uploads/lkMEx.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -223,12 +265,12 @@
         "id": "folder-src_akwam_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/A4ylT.jpg",
+        "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/lkMEx.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://img.downet.net/thumb/178x260/uploads/A4ylT.jpg",
+        "heroBackdropUrl": "https://img.downet.net/thumb/178x260/uploads/lkMEx.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
         "sources": [
           {
@@ -250,12 +292,12 @@
         "id": "folder-src_akwam_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/uX6Tk.webp",
+        "coverImageUrl": "https://img.downet.net/thumb/178x260/uploads/T2SMw.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://img.downet.net/thumb/178x260/uploads/uX6Tk.webp",
+        "heroBackdropUrl": "https://img.downet.net/thumb/178x260/uploads/T2SMw.jpg",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
         "sources": [
           {
@@ -279,7 +321,7 @@
     "id": "tuktukcima-collection",
     "title": "TukTukcima — Movies",
     "name": "TukTukcima — Movies",
-    "backdropImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
+    "backdropImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/11/b203275-YyNHygkzIjMC.webp?x59109",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -289,12 +331,12 @@
         "id": "folder-src_tuktukcima_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
+        "coverImageUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/11/b203275-YyNHygkzIjMC.webp?x59109",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/10/AAAABfI7rkbtdupENf8RrsVC45sYLm7SxttZNCybGw4gN9EdMeLYc238m25T5AvYZmAuMkHUtITGe7K27nSUZtsOZ-5uJDpmFf7XJayt.webp?x51905",
+        "heroBackdropUrl": "https://tuktukcinemas.com/wp-content/uploads/2026/11/b203275-YyNHygkzIjMC.webp?x59109",
         "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10TEG3tTtkEF9_g3IslEP3xs0wx9EVhBs7b_H5M1gpg&s=10",
         "sources": [
           {
@@ -318,7 +360,7 @@
     "id": "lodynet-collection",
     "title": "LodyNet — Turkish & Asian Series",
     "name": "LodyNet — Turkish & Asian Series",
-    "backdropImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حب-220x220.webp",
+    "backdropImageUrl": "https://lodynet.watch/wp-content/uploads/2026/11/photo_2026-11-14_15-39-11-2-220x220.webp",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -328,12 +370,12 @@
         "id": "folder-src_lodynet_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حب-220x220.webp",
+        "coverImageUrl": "https://lodynet.watch/wp-content/uploads/2026/11/photo_2026-11-14_15-39-11-2-220x220.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://lodynet.watch/wp-content/uploads/2026/10/حب-220x220.webp",
+        "heroBackdropUrl": "https://lodynet.watch/wp-content/uploads/2026/11/photo_2026-11-14_15-39-11-2-220x220.webp",
         "titleLogoUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
         "sources": [
           {
@@ -396,7 +438,7 @@
     "id": "aia2tv-collection",
     "title": "Asia2TV — Asian Drama",
     "name": "Asia2TV — Asian Drama",
-    "backdropImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/5v3OJe_3f-238x320.jpg",
+    "backdropImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/11/7r35Nr_3f-238x320.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -406,12 +448,12 @@
         "id": "folder-src_aia2tv_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/5v3OJe_3f-238x320.jpg",
+        "coverImageUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/11/7r35Nr_3f-238x320.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/09/5v3OJe_3f-238x320.jpg",
+        "heroBackdropUrl": "https://ww1.asia2tv.pw/wp-content/uploads/2026/11/7r35Nr_3f-238x320.jpg",
         "titleLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
         "sources": [
           {
@@ -435,7 +477,7 @@
     "id": "5tv-collection",
     "title": "5TV — Movies & Series",
     "name": "5TV — Movies & Series",
-    "backdropImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+    "backdropImageUrl": "https://5tv.rest/wp-content/uploads/2026/11/ldHcV7o7SoYYA9V1NRLfbbezpCY-768x432.webp",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -445,12 +487,12 @@
         "id": "folder-src_5tv_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+        "coverImageUrl": "https://5tv.rest/wp-content/uploads/2026/11/ldHcV7o7SoYYA9V1NRLfbbezpCY-768x432.webp",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://new61.5tv.lol/wp-content/uploads/2026/10/wyspZaGs7CXceV3Ct7NJhcKNDkn-768x432.webp",
+        "heroBackdropUrl": "https://5tv.rest/wp-content/uploads/2026/11/ldHcV7o7SoYYA9V1NRLfbbezpCY-768x432.webp",
         "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
         "sources": [
           {
@@ -510,6 +552,45 @@
     ]
   },
   {
+    "id": "shahidwbas-collection",
+    "title": "ShahidWBas — Arabic Series",
+    "name": "ShahidWBas — Arabic Series",
+    "backdropImageUrl": "https://w30.shahidwbas.tv/uploads/thumbs/ad65ae65a-1.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "folder-src_shahidwbas_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://w30.shahidwbas.tv/uploads/thumbs/ad65ae65a-1.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://w30.shahidwbas.tv/uploads/thumbs/ad65ae65a-1.jpg",
+        "titleLogoUrl": "https://cdn.wccftech.com/wp-content/uploads/2018/01/Youtube-music.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_shahidwbas_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_shahidwbas_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "tuniflix-collection",
     "title": "TuniFlix — Movies",
     "name": "TuniFlix — Movies",
@@ -552,7 +633,7 @@
     "id": "replaymatch-collection",
     "title": "FullMatchShows — Football Replays",
     "name": "FullMatchShows — Football Replays",
-    "backdropImageUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/Chelsea-vs-Manchester-United.jpg",
+    "backdropImageUrl": "https://fullmatchshows.com/wp-content/uploads/2026/11/Juventus-vs-Omonia-Nicosia.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -562,12 +643,12 @@
         "id": "folder-src_replaymatch_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/Chelsea-vs-Manchester-United.jpg",
+        "coverImageUrl": "https://fullmatchshows.com/wp-content/uploads/2026/11/Juventus-vs-Omonia-Nicosia.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/Chelsea-vs-Manchester-United.jpg",
+        "heroBackdropUrl": "https://fullmatchshows.com/wp-content/uploads/2026/11/Juventus-vs-Omonia-Nicosia.jpg",
         "titleLogoUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
         "sources": [
           {
@@ -591,7 +672,7 @@
     "id": "moviesmod-collection",
     "title": "Moviesmod — Hindi & English Movies",
     "name": "Moviesmod — Hindi & English Movies",
-    "backdropImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/06/Download-Obsession-English.webp",
+    "backdropImageUrl": "https://moviesmod.free/wp-content/uploads/2026/11/Download-Street-Fighter-English-Hindi.webp",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -601,12 +682,12 @@
         "id": "folder-src_moviesmod_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/06/Download-Obsession-English.webp",
+        "coverImageUrl": "https://moviesmod.free/wp-content/uploads/2026/11/Download-Street-Fighter-English-Hindi.webp",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://moviesmod.tw/wp-content/uploads/2026/06/Download-Obsession-English.webp",
+        "heroBackdropUrl": "https://moviesmod.free/wp-content/uploads/2026/11/Download-Street-Fighter-English-Hindi.webp",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
         "sources": [
           {
@@ -628,12 +709,12 @@
         "id": "folder-src_moviesmod_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://moviesmod.tw/wp-content/uploads/2026/03/Download-Marshals-MoviesMod.jpeg",
+        "coverImageUrl": "https://moviesmod.free/wp-content/uploads/2022/10/Download-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1-S01E07-Added-Dual-Audio-Hindi-English-480p-220MB-720p-500MB-1080p-1.5GB-200x300.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://moviesmod.tw/wp-content/uploads/2026/03/Download-Marshals-MoviesMod.jpeg",
+        "heroBackdropUrl": "https://moviesmod.free/wp-content/uploads/2022/10/Download-The-Lord-of-the-Rings-The-Rings-of-Power-Season-1-S01E07-Added-Dual-Audio-Hindi-English-480p-220MB-720p-500MB-1080p-1.5GB-200x300.jpg",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesmod.meme&sz=128",
         "sources": [
           {
@@ -657,7 +738,7 @@
     "id": "bollyflix-collection",
     "title": "Bollyflix — Hindi & English Movies",
     "name": "Bollyflix — Hindi & English Movies",
-    "backdropImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-stunt-driver-2026-english-movie.jpg",
+    "backdropImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/11/madden-2026-dual-audio-hindi-english-movie.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -667,12 +748,12 @@
         "id": "folder-src_bollyflix_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-stunt-driver-2026-english-movie.jpg",
+        "coverImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/11/madden-2026-dual-audio-hindi-english-movie.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/the-stunt-driver-2026-english-movie.jpg",
+        "heroBackdropUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/11/madden-2026-dual-audio-hindi-english-movie.jpg",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
         "sources": [
           {
@@ -694,12 +775,12 @@
         "id": "folder-src_bollyflix_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/line-of-fire-english-web-series.jpg",
+        "coverImageUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/11/dhindora-hindi-web-series.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/10/line-of-fire-english-web-series.jpg",
+        "heroBackdropUrl": "https://bflixcdn.xyz/wp-content/uploads/2026/11/dhindora-hindi-web-series.jpg",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=bollyflix.church&sz=128",
         "sources": [
           {
@@ -723,7 +804,7 @@
     "id": "moviesdrive-collection",
     "title": "MoviesDrive — Hindi & English Movies",
     "name": "MoviesDrive — Hindi & English Movies",
-    "backdropImageUrl": "https://image.tmdb.org/t/p/w400/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+    "backdropImageUrl": "https://image.tmdb.org/t/p/w400/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
@@ -733,12 +814,12 @@
         "id": "folder-src_moviesdrive_movies",
         "title": "Latest Movies",
         "name": "Latest Movies",
-        "coverImageUrl": "https://image.tmdb.org/t/p/w400/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w400/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "🎬",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://image.tmdb.org/t/p/w400/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+        "heroBackdropUrl": "https://image.tmdb.org/t/p/w400/kUxkvh6GMZL4AHNgNDty68yTnwQ.jpg",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
         "sources": [
           {
@@ -760,12 +841,12 @@
         "id": "folder-src_moviesdrive_series",
         "title": "Latest Series",
         "name": "Latest Series",
-        "coverImageUrl": "https://image.tmdb.org/t/p/original/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
+        "coverImageUrl": "https://image.tmdb.org/t/p/w500/k5ope1puShzLycqcj3FIoGAPjva.jpg",
         "focusGifEnabled": true,
         "coverEmoji": "📺",
         "tileShape": "POSTER",
         "hideTitle": false,
-        "heroBackdropUrl": "https://image.tmdb.org/t/p/original/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
+        "heroBackdropUrl": "https://image.tmdb.org/t/p/w500/k5ope1puShzLycqcj3FIoGAPjva.jpg",
         "titleLogoUrl": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
         "sources": [
           {
@@ -780,6 +861,189 @@
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
             "catalogId": "src_moviesdrive_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "myseed-collection",
+    "title": "MySeed — Movies & Series",
+    "name": "MySeed — Movies & Series",
+    "backdropImageUrl": "https://m.myseed.tv/wp-content/uploads/2026/11/qK0l8mzBwiMV6N2lHTFccRVddLN-299x450.webp",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "folder-src_myseed_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://m.myseed.tv/wp-content/uploads/2026/11/qK0l8mzBwiMV6N2lHTFccRVddLN-299x450.webp",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://m.myseed.tv/wp-content/uploads/2026/11/qK0l8mzBwiMV6N2lHTFccRVddLN-299x450.webp",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_myseed_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_myseed_movies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "egybet-collection",
+    "title": "EGYBET — Movies & Series",
+    "name": "EGYBET — Movies & Series",
+    "backdropImageUrl": "https://egibest.info/wp-content/uploads/2026/11/فيلم-The-Shadows-Edge-2025-مترجم-20428.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_egybet_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://egibest.info/wp-content/uploads/2026/11/فيلم-The-Shadows-Edge-2025-مترجم-20428.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://egibest.info/wp-content/uploads/2026/11/فيلم-The-Shadows-Edge-2025-مترجم-20428.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=egibest.info&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_egybet_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_egybet_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_egybet_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://egibest.info/wp-content/uploads/2026/11/مسلسل-اسم-الرمز-كرلانج-الموسم-الرابع-الحلقة-1-الاولي-مترجمة-20424.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://egibest.info/wp-content/uploads/2026/11/مسلسل-اسم-الرمز-كرلانج-الموسم-الرابع-الحلقة-1-الاولي-مترجمة-20424.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=egibest.info&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_egybet_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_egybet_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "qdrama-collection",
+    "title": "QDrama — Drama Series",
+    "name": "QDrama — Drama Series",
+    "backdropImageUrl": "https://w3.q-drama.com/uploads/thumbs/76f22a74-1.jpg",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "folder-src_qdrama_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://w3.q-drama.com/uploads/thumbs/76f22a74-1.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://w3.q-drama.com/uploads/thumbs/76f22a74-1.jpg",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_qdrama_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_qdrama_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aflamstream-collection",
+    "title": "AflamStream — Translated Movies",
+    "name": "AflamStream — Translated Movies",
+    "backdropImageUrl": "https://aflamstream.com/wp-content/uploads/2026/09/فيلم-A-Working-Man-2025-مترجم-683x1024.png",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": false,
+    "folders": [
+      {
+        "id": "folder-src_aflamstream_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://aflamstream.com/wp-content/uploads/2026/09/فيلم-A-Working-Man-2025-مترجم-683x1024.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://aflamstream.com/wp-content/uploads/2026/09/فيلم-A-Working-Man-2025-مترجم-683x1024.png",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_aflamstream_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_aflamstream_movies"
           }
         ]
       }

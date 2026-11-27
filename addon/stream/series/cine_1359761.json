@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Under the Surface S01E13 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/201496C9-8171-D6ED-416B-8E652DB67179_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795911787&Signature=LBiWJkTh5Zq6XK7l%2BrKEG6r4WGY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359761-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=tUI14iAJMrrJFxBWL32a0hdIzuY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=LFmYVBD%2FmCfFgsF%2BYSG8N2yIR3s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=QjeEWjse%2B883y%2F0xuwQKHK1M2PI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359761-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=Jz2MqeYA6ofaazx76hcOU0WCqDY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Under the Surface S01E13 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FE3A171E-B9CF-B2E0-FEA8-E0696CF0BB38_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795911787&Signature=fl7kGMgo%2Bihbim43%2F%2FYKNwEHURw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359761-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=tUI14iAJMrrJFxBWL32a0hdIzuY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=LFmYVBD%2FmCfFgsF%2BYSG8N2yIR3s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=QjeEWjse%2B883y%2F0xuwQKHK1M2PI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359761-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=Jz2MqeYA6ofaazx76hcOU0WCqDY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Under the Surface S01E13 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/48E27DEC-6B3C-D5BE-C869-C12DAF1672A1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795911787&Signature=7xrMzLop41yPeng7ePL%2FWOGivcs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359761-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=tUI14iAJMrrJFxBWL32a0hdIzuY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=LFmYVBD%2FmCfFgsF%2BYSG8N2yIR3s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=QjeEWjse%2B883y%2F0xuwQKHK1M2PI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359761-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=Jz2MqeYA6ofaazx76hcOU0WCqDY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Under the Surface S01E13 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/06952229-3D8B-2A28-0E5E-1893DA6EEBCB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795911787&Signature=j59EsGxHDYKWJuFCx9Dfj0cyfP4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359761-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=tUI14iAJMrrJFxBWL32a0hdIzuY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=LFmYVBD%2FmCfFgsF%2BYSG8N2yIR3s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=QjeEWjse%2B883y%2F0xuwQKHK1M2PI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359761-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=Jz2MqeYA6ofaazx76hcOU0WCqDY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Under the Surface S01E13 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5351321C-A346-89F4-CC37-70111568446E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795911787&Signature=1LnfsWAPubAZv6nY322KUrUFMuY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1359761-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=tUI14iAJMrrJFxBWL32a0hdIzuY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C626B0BD-D76D-7D8C-1699-9D6C756E95DD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=LFmYVBD%2FmCfFgsF%2BYSG8N2yIR3s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1359761-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=QjeEWjse%2B883y%2F0xuwQKHK1M2PI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1359761-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58796E21-639B-E2C0-BDCD-545870A220CF_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394472&Signature=Jz2MqeYA6ofaazx76hcOU0WCqDY%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

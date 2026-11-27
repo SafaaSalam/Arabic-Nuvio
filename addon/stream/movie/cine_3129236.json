@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Gintama Movie 3: Yoshiwara Daienjou • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/935E70F6-688C-948F-3841-777E74487E85_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900097&Signature=jNuFyAZRy%2FkSDSE6vU%2BxZz8u%2Frk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3129236-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=jmifc4ijpDthMLr%2BnnfXyPQWbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=sO%2BQoF0EL0sH%2BcLoMc8uP815EWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=QRh1q23UeIG5Pl2Xk%2F%2BrgTIJKDI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3129236-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=fYeC1oXOidMJv9HW7%2BHX4il%2FA10%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Gintama Movie 3: Yoshiwara Daienjou • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/00C0D504-BE59-5059-B413-A40053A9DC20_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900097&Signature=SltUB01WL6N2uU7%2F5tJAhzvbVbM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3129236-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=jmifc4ijpDthMLr%2BnnfXyPQWbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=sO%2BQoF0EL0sH%2BcLoMc8uP815EWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=QRh1q23UeIG5Pl2Xk%2F%2BrgTIJKDI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3129236-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=fYeC1oXOidMJv9HW7%2BHX4il%2FA10%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Gintama Movie 3: Yoshiwara Daienjou • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D2025323-1ACD-FA1C-9241-FC4563699B27_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900097&Signature=xzjQVfuE914Pw2WHLP%2F94HwqDFk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3129236-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=jmifc4ijpDthMLr%2BnnfXyPQWbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=sO%2BQoF0EL0sH%2BcLoMc8uP815EWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=QRh1q23UeIG5Pl2Xk%2F%2BrgTIJKDI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3129236-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=fYeC1oXOidMJv9HW7%2BHX4il%2FA10%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Gintama Movie 3: Yoshiwara Daienjou • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/074B41AD-A985-C562-F703-1524792DD8B7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900097&Signature=UABFOHbPRmq4d%2BZsgWGtHGM0UWs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3129236-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=jmifc4ijpDthMLr%2BnnfXyPQWbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=sO%2BQoF0EL0sH%2BcLoMc8uP815EWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=QRh1q23UeIG5Pl2Xk%2F%2BrgTIJKDI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3129236-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=fYeC1oXOidMJv9HW7%2BHX4il%2FA10%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Gintama Movie 3: Yoshiwara Daienjou • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EBDAE84D-ED1A-0E4A-633B-B3434DCA4D03_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900097&Signature=Y%2FG2et3%2FMFZj56ZAXJ3KcM%2F4A%2Fs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3129236-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=jmifc4ijpDthMLr%2BnnfXyPQWbIU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5666CD3E-D9E0-BF8D-A065-B5E0BE415D62_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=sO%2BQoF0EL0sH%2BcLoMc8uP815EWI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3129236-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=QRh1q23UeIG5Pl2Xk%2F%2BrgTIJKDI%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3129236-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/133DBE29-0F83-5C92-C890-B97257F5D7BC_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391233&Signature=fYeC1oXOidMJv9HW7%2BHX4il%2FA10%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

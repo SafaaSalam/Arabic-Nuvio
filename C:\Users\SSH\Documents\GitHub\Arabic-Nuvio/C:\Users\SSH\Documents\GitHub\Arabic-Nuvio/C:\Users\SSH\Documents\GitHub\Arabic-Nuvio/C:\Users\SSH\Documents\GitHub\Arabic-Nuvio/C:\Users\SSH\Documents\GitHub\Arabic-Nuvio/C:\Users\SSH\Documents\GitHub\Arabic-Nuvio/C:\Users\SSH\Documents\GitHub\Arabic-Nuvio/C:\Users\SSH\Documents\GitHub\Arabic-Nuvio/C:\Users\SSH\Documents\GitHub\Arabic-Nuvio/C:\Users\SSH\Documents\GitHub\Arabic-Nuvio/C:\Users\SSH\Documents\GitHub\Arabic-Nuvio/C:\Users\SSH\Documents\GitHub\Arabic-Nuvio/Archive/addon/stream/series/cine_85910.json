@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الهيبه | الهيبة S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/6B6A3046-7B3C-098D-FABA-6E110AF2B942_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134936&Signature=knAQKT0w5qWbf8oMugiFp%2BgEshY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الهيبه | الهيبة S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/AEBF81A1-0DD8-6C9D-CE3F-8B2B2A83066F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134936&Signature=8OICyFOO7%2Bvy%2FL8FguJg5iJ%2Fo0U%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الهيبه | الهيبة S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/BD782A24-9336-5063-D84E-6E03EA5A4ED4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793134936&Signature=s4eum9SXIC2UYWXzZXJbn6%2BQqQ8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الهيبه | الهيبة S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/C989F94C-DEC4-D0D4-F412-CA545DD22AB0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048621&Signature=77iWPnMozBluEM7kfdjZQLlqxV4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الهيبه | الهيبة S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/656D67AB-5F90-B0CE-DFB4-26049D620211_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793048621&Signature=iPNiYFQjoJnQeU720S4LkuDTEuk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

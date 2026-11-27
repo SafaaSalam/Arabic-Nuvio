@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الخليفة | Halef S01E19 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/22830066-27C4-E9EC-535B-5BFC1F3E5DB3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793307945&Signature=fmss2RaSrHneEneFwMGLrpEqkDk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الخليفة | Halef S01E19 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9AD2C6C2-6A02-C5E6-C322-A654D4DC5D44_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793307945&Signature=j23Emj%2FeEgCVDBzAmJq3b8iHXI0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الخليفة | Halef S01E19 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/00C32F51-032A-5597-6452-85DB93D63EFC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793307945&Signature=%2F%2B%2FZDHUsGgDttbYHXEa%2FiQPogaI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الخليفة | Halef S01E19 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A0B13962-43CB-5B52-D78C-4AD8006D8A78_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793307945&Signature=%2BfpRRMwjYTMOUkqJa4UUtrvhEVU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الخليفة | Halef S01E19 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/56D98E12-FEE5-D0AD-415E-35C3A0175B53_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793307945&Signature=Be%2FovBGWDKYu7thchwmBqscEPUc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

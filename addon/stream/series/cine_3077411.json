@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Nippon Sangoku S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/231146CE-0917-8F81-80C0-1CDEDDC6C6E2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074291&Signature=f2LIKzQvCwEPMkI5uZlde4BdWOY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3077411-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=RKPCpI%2FzuRt4Yr4idJG6Ou520bc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=Ck9902hHfWDiX5Pp%2BacigFp3eW4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1366621-71A7-06C0-7E5A-01F222AFDC19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=5PHfBnulNzShnXBoPC26kp0CHWE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Nippon Sangoku S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5C14FBCE-0F48-6EFD-8928-3F44F7A9AD80_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074291&Signature=bQReCYu6%2FT8cW7w%2BMbihldf8uoo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3077411-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=RKPCpI%2FzuRt4Yr4idJG6Ou520bc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=Ck9902hHfWDiX5Pp%2BacigFp3eW4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1366621-71A7-06C0-7E5A-01F222AFDC19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=5PHfBnulNzShnXBoPC26kp0CHWE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Nippon Sangoku S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/14B874DB-67D3-E43A-BE59-9F6D3024AF99_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074291&Signature=Nhm7XS1X2K3gPTF2dWpjP9FoT9A%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3077411-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=RKPCpI%2FzuRt4Yr4idJG6Ou520bc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=Ck9902hHfWDiX5Pp%2BacigFp3eW4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1366621-71A7-06C0-7E5A-01F222AFDC19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=5PHfBnulNzShnXBoPC26kp0CHWE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Nippon Sangoku S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4725BBD3-0AC2-FDF9-F937-DF109987234F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074291&Signature=uuytVnXuQPcU3hdG1e2zb52Bkl0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3077411-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=RKPCpI%2FzuRt4Yr4idJG6Ou520bc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=Ck9902hHfWDiX5Pp%2BacigFp3eW4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1366621-71A7-06C0-7E5A-01F222AFDC19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=5PHfBnulNzShnXBoPC26kp0CHWE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Nippon Sangoku S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E263A041-84FF-BCF1-2D84-FC0DF5221444_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074291&Signature=J9sI%2Bt2rnIfLLLhmR4MWgGrkwLE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3077411-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=RKPCpI%2FzuRt4Yr4idJG6Ou520bc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5FE09DDA-1C0A-03DC-D947-D71B97AC49CD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=Ck9902hHfWDiX5Pp%2BacigFp3eW4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3077411-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B1366621-71A7-06C0-7E5A-01F222AFDC19_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798351452&Signature=5PHfBnulNzShnXBoPC26kp0CHWE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

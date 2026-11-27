@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "ماروكو الصغيرة S01E15 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/03CF91B8-5B7E-EE00-8F0D-4C0AFD5E4EA4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245294&Signature=xJSmQSBUs2oPWmfTjqM1KzI8LRs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "ماروكو الصغيرة S01E15 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/033186DB-F268-E45B-FA6B-7050AD4090BD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245294&Signature=bIXo1qXYruc6jW6rpBPbJ3PEjlU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "ماروكو الصغيرة S01E15 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4DB37E6D-CC5F-BACE-9880-2BA0946D0500_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245294&Signature=%2FhdsLJiYPIFsKHhPnoUNuQ0fPq0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "ماروكو الصغيرة S01E15 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F66BED04-4F16-0ECB-C11C-412BCDD0F03B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245294&Signature=b40sKe4F1h2z0a%2FBukJXdS%2FEkRM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "ماروكو الصغيرة S01E15 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FF8AE69A-177F-3EA2-8F30-130B47F42D05_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245294&Signature=dBsJAfI5fznF1HWNaoSI9z93TY4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

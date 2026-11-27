@@ -1,0 +1,816 @@
+[
+  {
+    "id": "cinemana",
+    "name": "Shabakaty Cinemana (🇮🇶)",
+    "internalName": "Shabakaty Cinemana (🇮🇶)",
+    "description": "Shabakaty Cinemana — Movies, Series, Ramadan & Anime with multi-quality streams and Arabic subtitles",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "mainUrl": "https://cinemana.shabakaty.cc",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/cinemana.js"
+  },
+  {
+    "id": "cee",
+    "name": "CEE (🇮🇶)",
+    "internalName": "CEE (🇮🇶)",
+    "description": "CEE Buzz Iraq — Latest Movies, Series, Trending & Top Rated with multi-quality MP4 streams and Arabic subtitles",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+    "mainUrl": "https://cee.buzz",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/cee.js"
+  },
+  {
+    "id": "3isk",
+    "name": "3isk | قصة عشق",
+    "internalName": "3isk | قصة عشق",
+    "description": "Qesat 3eshq (3isk) — Turkish Series & Movies with Arabic Subtitles and Dubbing",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+    "mainUrl": "https://3iskk.xyz",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/3isk.js"
+  },
+  {
+    "id": "alooytv",
+    "name": "AlooyTv",
+    "internalName": "AlooyTv",
+    "description": "AlooyTv — Gulf, Arabic, Turkish & Persian Series and Ramadan Shows",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+    "mainUrl": "https://fitnur.com/alooytv",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/alooytv.js"
+  },
+  {
+    "id": "akwam",
+    "name": "Akwam | أكوام",
+    "internalName": "Akwam | أكوام",
+    "description": "Akwam — Arabic & Foreign Movies, Series, Ramadan & TV Shows in 1080p/720p/480p",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
+    "mainUrl": "https://ak.sv",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/akwam.js"
+  },
+  {
+    "id": "faselhd",
+    "name": "FaselHD | فاصل إعلاني",
+    "internalName": "FaselHD | فاصل إعلاني",
+    "description": "FaselHD — Movies, Series, Asian Drama & Anime with HLS streams",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03aoQBNDy_Hkm5MUGGvluPvK7To7BdGiSnzQn7WJ3fQ&s=10",
+    "mainUrl": "https://www.fasel-hd.co",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/faselhd.js"
+  },
+  {
+    "id": "mycima",
+    "name": "MyCima | ماي سيما",
+    "internalName": "MyCima | ماي سيما",
+    "description": "MyCima — Arabic & Foreign Movies and Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoF3lscri32oVf0iQlhbjFEoUn2xg3OmQIx4wYdDmqw&s",
+    "mainUrl": "https://mycima.living",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/mycima.js"
+  },
+  {
+    "id": "shahid4u",
+    "name": "Shahid4u | شاهد فور يو",
+    "internalName": "Shahid4u | شاهد فور يو",
+    "description": "Shahid4u — Arabic, Turkish & Foreign Movies, Series and Anime",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ig85ZYdRsjDw--peeI2RsBqOWmvnmvKKsT4UONdPMQ&s=10",
+    "mainUrl": "https://shahed4u.im",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/shahid4u.js"
+  },
+  {
+    "id": "topcinema",
+    "name": "Top Cinema | توب سينما",
+    "internalName": "Top Cinema | توب سينما",
+    "description": "Top Cinema — Latest Movies, Series & Box Office",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://web8.topcinema.cam/wp-content/uploads/2023/05/cropped-icon-32x32.png",
+    "mainUrl": "https://web8.topcinema.cam",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/topcinema.js"
+  },
+  {
+    "id": "wecima",
+    "name": "We Cima | وي سيما",
+    "internalName": "We Cima | وي سيما",
+    "description": "We Cima — Arabic & Foreign Movies and TV Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://wecima.ac/static/img/favicon.png",
+    "mainUrl": "https://wecima.ac",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/wecima.js"
+  },
+  {
+    "id": "egydead",
+    "name": "EgyDead | ايجي ديد",
+    "internalName": "EgyDead | ايجي ديد",
+    "description": "EgyDead — Movies, Series, Dubbed & Subtitled Shows",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kgVTM6DJtx3tcS4gkPOOPnwFXKNhsrFyMRigWOlWomuQ=s900-c-k-c0x00ffffff-no-rj",
+    "mainUrl": "https://tv10.egydead.live",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/egydead.js"
+  },
+  {
+    "id": "egy",
+    "name": "EgyWatch",
+    "internalName": "EgyWatch",
+    "description": "EgyWatch — Movies, Series, Anime & Live Channels",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/egy.png",
+    "mainUrl": "https://rn62mwg.com/egywatchapp/public/api",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/egy.js"
+  },
+  {
+    "id": "tuktukcima",
+    "name": "TukTukcima | توك توك سيما",
+    "internalName": "TukTukcima | توك توك سيما",
+    "description": "TukTukcima — Latest Movies, Series & Dubbed Content",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10TEG3tTtkEF9_g3IslEP3xs0wx9EVhBs7b_H5M1gpg&s=10",
+    "mainUrl": "https://tuktukcinemas.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/tuktukcima.js"
+  },
+  {
+    "id": "cimaclub",
+    "name": "CimaClub | سيما كلوب",
+    "internalName": "CimaClub | سيما كلوب",
+    "description": "CimaClub — Arabic, Foreign, Turkish & Asian Movies and Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1z-0NYyzyEiFs4q7X9c8SSBR6kJtVl7f7A&s",
+    "mainUrl": "https://cimacub.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/cimaclub.js"
+  },
+  {
+    "id": "cimalight",
+    "name": "CimaLight | سيما لايت",
+    "internalName": "CimaLight | سيما لايت",
+    "description": "CimaLight — Featured Movies, Series & Latest Episodes",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/n2PDvQiQVV00JjGsg66dvMZKmyoolvCeu59Xe40pmEvhiMNE1tHqKsoEY1IpfdNNXdlle4It=s900-c-k-c0x00ffffff-no-rj",
+    "mainUrl": "https://r.cimalight.co",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/cimalight.js"
+  },
+  {
+    "id": "cimatn",
+    "name": "CimaTn | سيما تونس",
+    "internalName": "CimaTn | سيما تونس",
+    "description": "CimaTn — Tunisian, Arabic & Foreign Movies and Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7OxHmLaqTWIj7eJv55zxus1xKVp5ssQPAKYjydt7Lg&s",
+    "mainUrl": "https://www.cimatn.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/cimatn.js"
+  },
+  {
+    "id": "lodynet",
+    "name": "LodyNet | لودي نت",
+    "internalName": "LodyNet | لودي نت",
+    "description": "LodyNet — Turkish, Indian, Asian & Arabic Series and Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
+    "mainUrl": "https://lodynet.watch",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/lodynet.js"
+  },
+  {
+    "id": "krmzy",
+    "name": "Krmzy | قرمزي",
+    "internalName": "Krmzy | قرمزي",
+    "description": "Krmzy — Turkish Series with Arabic Subtitles & Dubbing",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+    "mainUrl": "https://krmzi.org",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/krmzy.js"
+  },
+  {
+    "id": "eseek",
+    "name": "Eseek | عشق 2",
+    "internalName": "Eseek | عشق 2",
+    "description": "Eseek (Qeseh) — Turkish Series & Movies in HD",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+    "mainUrl": "https://qeseh.net",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/eseek.js"
+  },
+  {
+    "id": "aia2tv",
+    "name": "Asia2TV | آسيا تو تي في",
+    "internalName": "Asia2TV | آسيا تو تي في",
+    "description": "Asia2TV — Korean, Japanese, Chinese & Thai Asian Drama and Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+    "mainUrl": "https://ww1.asia2tv.pw",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/aia2tv.js"
+  },
+  {
+    "id": "5tv",
+    "name": "5TV",
+    "internalName": "5TV",
+    "description": "5TV — Movies, TV Series, Asian Drama & Anime",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama",
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+    "mainUrl": "https://new61.5tv.lol",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/5tv.js"
+  },
+  {
+    "id": "aflaam",
+    "name": "Aflaam | أفلام",
+    "internalName": "Aflaam | أفلام",
+    "description": "Aflaam — Arabic, Foreign & Indian Movies and Series with Direct MP4 Streams",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://aflaam.com/style/assets/images/logo.png",
+    "mainUrl": "https://aflaam.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/aflaam.js"
+  },
+  {
+    "id": "oscartv",
+    "name": "Oscar TV",
+    "internalName": "Oscar TV",
+    "description": "Oscar TV — Movies, Series, Anime & Live Channels (360p–1080p)",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/oscartv.png",
+    "mainUrl": "https://ostv-11-11.xyz",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/oscartv.js"
+  },
+  {
+    "id": "viu",
+    "name": "Viu MENA",
+    "internalName": "Viu MENA",
+    "description": "Viu — Arabic, Turkish & Korean Series and Movies with Official Subtitles",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://img.utdstc.com/icon/a99/c9e/a99c9ee56e731144b335282e9981a54a7584be93fc9644ad7a03b45552307876:200",
+    "mainUrl": "https://www.viu.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/viu.js"
+  },
+  {
+    "id": "shahidwbas",
+    "name": "ShahidWBas | شاهد وبس",
+    "internalName": "ShahidWBas | شاهد وبس",
+    "description": "ShahidWBas — Arabic & Turkish Series and Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://cdn.wccftech.com/wp-content/uploads/2018/01/Youtube-music.png",
+    "mainUrl": "https://w30.shahidwbas.tv",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/shahidwbas.js"
+  },
+  {
+    "id": "tuniflix",
+    "name": "TuniFlix",
+    "internalName": "TuniFlix",
+    "description": "TuniFlix — Tunisian, Arabic, Turkish & Foreign Movies and Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
+    "mainUrl": "https://tuniflix.site",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/tuniflix.js"
+  },
+  {
+    "id": "tuniflexblog",
+    "name": "TuniFlix Blog",
+    "internalName": "TuniFlix Blog",
+    "description": "TuniFlix Blog — Tunisian & Arabic Movies and Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo47ccjaIfUnxJjGujQd6qTKTZH70W6LFeaFXht5TE8w&s",
+    "mainUrl": "https://ttunflix.blogspot.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/tuniflexblog.js"
+  },
+  {
+    "id": "elif",
+    "name": "Elif | إليف",
+    "internalName": "Elif | إليف",
+    "description": "Elif News — Turkish, Arabic, Indian & Anime Series and Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq14Sk88U37tIhiRndbNczqn0ectswZly90f1oCa_zbg&s=10",
+    "mainUrl": "https://n.elif.news",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/elif.js"
+  },
+  {
+    "id": "anim3rb",
+    "name": "Anime3rb | أنمي عرب",
+    "internalName": "Anime3rb | أنمي عرب",
+    "description": "Anime3rb — Subtitled Anime Series, Movies & OVAs",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+    "mainUrl": "https://anime3rb.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/anim3rb.js"
+  },
+  {
+    "id": "anime4up",
+    "name": "Anime4Up | أنمي فور أب",
+    "internalName": "Anime4Up | أنمي فور أب",
+    "description": "Anime4Up — Arabic Subtitled Anime Series & Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+    "mainUrl": "https://w1.anime4up.rest",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/anime4up.js"
+  },
+  {
+    "id": "animerco",
+    "name": "Animerco | أنميركو",
+    "internalName": "Animerco | أنميركو",
+    "description": "Animerco — Featured Anime Series, Episodes & Anime Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "mainUrl": "https://eva.animerco.org",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/animerco.js"
+  },
+  {
+    "id": "animewitcher",
+    "name": "AnimeWitcher | أنمي ويتشر",
+    "internalName": "AnimeWitcher | أنمي ويتشر",
+    "description": "AnimeWitcher — Arabic Anime Series & Movies via Algolia Search",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animewitcher.png",
+    "mainUrl": "https://animewitcher.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/animewitcher.js"
+  },
+  {
+    "id": "witanime",
+    "name": "WitAnime | ويت أنمي",
+    "internalName": "WitAnime | ويت أنمي",
+    "description": "WitAnime — Latest Anime Episodes & Anime Movies with Arabic Subtitles",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+    "mainUrl": "https://witanime.site",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/witanime.js"
+  },
+  {
+    "id": "anime-phoenix",
+    "name": "Anime Phoenix | أنمي فينيكس",
+    "internalName": "Anime Phoenix | أنمي فينيكس",
+    "description": "Anime Phoenix — Arabic Subtitled Anime Episodes & Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+    "mainUrl": "https://anime-phoenix.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/anime-phoenix.js"
+  },
+  {
+    "id": "animerift",
+    "name": "AnimeRift",
+    "internalName": "AnimeRift",
+    "description": "AnimeRift — Arabic Subtitled Anime Streaming",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerift.png",
+    "mainUrl": "https://gateway.embrassme.top/api/v4",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/animerift.js"
+  },
+  {
+    "id": "bristege",
+    "name": "Bristege | برستيج",
+    "internalName": "Bristege | برستيج",
+    "description": "Bristege — Arabic Series, Ramadan Shows & Movies",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://amd.brstej.com/22.png",
+    "mainUrl": "https://amd.brstej.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/bristege.js"
+  },
+  {
+    "id": "dima-toon",
+    "name": "Dima Toon | ديما تون",
+    "internalName": "Dima Toon | ديما تون",
+    "description": "Dima Toon — Dubbed & Subtitled Cartoons and Animated Series",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Cartoon",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://www.dima-toon.com/wp-content/uploads/2025/10/DimaToonlogo11.png",
+    "mainUrl": "https://www.dima-toon.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/dima-toon.js"
+  },
+  {
+    "id": "yacintv",
+    "name": "Yacine TV | ياسين تيفي",
+    "internalName": "Yacine TV | ياسين تيفي",
+    "description": "Yacine TV — Live Sports, News & Arabic TV Channels",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://yt3.googleusercontent.com/ulm35tweg3do5istps0TgCjMmJSVczGUL2NIrXMwI1DDRi5ty29BIzQSUHVgqZN5CSo1PHhiA6M=s900-c-k-c0x00ffffff-no-rj",
+    "mainUrl": "https://def11.ycnapi.com/api",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/yacintv.js"
+  },
+  {
+    "id": "syria-live",
+    "name": "SyriaLive | سوريا لايف",
+    "internalName": "SyriaLive | سوريا لايف",
+    "description": "SyriaLive — Live Football Matches & Sports Broadcasts",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Live",
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF607wnarFL8Ob8KLPahUPJzcLjbtg1pEH0A&s",
+    "mainUrl": "https://www.syrlive.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/syria-live.js"
+  },
+  {
+    "id": "replaymatch",
+    "name": "FullMatchShows | ReplayMatch",
+    "internalName": "FullMatchShows | ReplayMatch",
+    "description": "FullMatchShows — Full Football Match Replays & Highlights (Premier League, La Liga, UCL)",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+    "mainUrl": "https://fullmatchshows.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/replaymatch.js"
+  },
+  {
+    "id": "tvgarden",
+    "name": "TVgarden (Famelack)",
+    "internalName": "TVgarden (Famelack)",
+    "description": "TVgarden (Famelack) — Worldwide & Arabic Live TV Channels",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Lci-tXtOtWaHcEp9An7bqIkXs4yzH7EcfA&s",
+    "mainUrl": "https://famelack.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/tvgarden.js"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube Arabic",
+    "internalName": "YouTube Arabic",
+    "description": "YouTube — Live Streams, Movies & Arabic Channels",
+    "version": 2,
+    "authors": [
+      "SafaaSalam"
+    ],
+    "language": "ar",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/youtube.jpg",
+    "mainUrl": "https://www.youtube.com",
+    "url": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/providers/youtube.js"
+  }
+]

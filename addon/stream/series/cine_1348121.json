@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Palace Gambit S01E14 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6C40B2A0-8630-EEF5-E819-31D6E86F29B1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086729&Signature=VXCl5dvuFZ5ArpAf7m%2FhjDSA1Gw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348121-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=FvMFcKGaYol0Op%2FYekLcYRQAVos%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=Bf7V7OexkygK%2BRZiIlP3Weddy%2Fc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=L4sRalN9rn3QxZaIbwo3KvZ3ppo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348121-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=aTUyRJUD%2FH7MlkNLfSxzg2lrL2Y%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Palace Gambit S01E14 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2B632399-7DD6-7EEE-F8E9-CECFCFB58E20_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086729&Signature=N9yVDALNlTpnbT17fYEHHbJf5ig%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348121-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=FvMFcKGaYol0Op%2FYekLcYRQAVos%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=Bf7V7OexkygK%2BRZiIlP3Weddy%2Fc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=L4sRalN9rn3QxZaIbwo3KvZ3ppo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348121-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=aTUyRJUD%2FH7MlkNLfSxzg2lrL2Y%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Palace Gambit S01E14 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4FE5716A-8BBE-6715-2654-F94E86028466_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086729&Signature=CBikfBw1nfFxUtVENIo4leVX7hI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348121-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=FvMFcKGaYol0Op%2FYekLcYRQAVos%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=Bf7V7OexkygK%2BRZiIlP3Weddy%2Fc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=L4sRalN9rn3QxZaIbwo3KvZ3ppo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348121-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=aTUyRJUD%2FH7MlkNLfSxzg2lrL2Y%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Palace Gambit S01E14 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CB369C16-467D-819A-9C20-BE5293267FAB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086729&Signature=nFwBceZ6Rj61EacVAfinX3EXjSI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348121-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=FvMFcKGaYol0Op%2FYekLcYRQAVos%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=Bf7V7OexkygK%2BRZiIlP3Weddy%2Fc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=L4sRalN9rn3QxZaIbwo3KvZ3ppo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348121-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=aTUyRJUD%2FH7MlkNLfSxzg2lrL2Y%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Palace Gambit S01E14 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/693FE38A-EF1C-0088-D397-33B337ECAD73_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796086729&Signature=T6HxQDiZANUjP87tcWSEkqXzHng%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1348121-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=FvMFcKGaYol0Op%2FYekLcYRQAVos%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/90E2B4DB-FBE1-C392-BA5B-22404B427341_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=Bf7V7OexkygK%2BRZiIlP3Weddy%2Fc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1348121-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=L4sRalN9rn3QxZaIbwo3KvZ3ppo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1348121-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C09E000F-CBD0-6196-C885-4795E72BB088_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394428&Signature=aTUyRJUD%2FH7MlkNLfSxzg2lrL2Y%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

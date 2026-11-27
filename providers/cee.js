@@ -412,8 +412,9 @@ async function getStreams(tmdbId, mediaType, season, episode) {
     var normalizedType = (String(mediaType || "movie").toLowerCase() === "movie") ? "movie" : "tv";
     var meta = await resolveTargetMetadata(tmdbId, normalizedType);
 
-    var targetSeason = meta.seasonOverride != null ? meta.seasonOverride : season;
-    var targetEpisode = meta.episodeOverride != null ? meta.episodeOverride : episode;
+    var idParts = String(tmdbId || "").split(":");
+    var targetSeason = meta.seasonOverride != null ? meta.seasonOverride : (season != null ? season : (idParts.length >= 3 && /^\d+$/.test(idParts[1]) ? parseInt(idParts[1], 10) : null));
+    var targetEpisode = meta.episodeOverride != null ? meta.episodeOverride : (episode != null ? episode : (idParts.length >= 3 && /^\d+$/.test(idParts[2]) ? parseInt(idParts[2], 10) : null));
 
     var baseNb = meta.directNb || null;
     if (!baseNb) {

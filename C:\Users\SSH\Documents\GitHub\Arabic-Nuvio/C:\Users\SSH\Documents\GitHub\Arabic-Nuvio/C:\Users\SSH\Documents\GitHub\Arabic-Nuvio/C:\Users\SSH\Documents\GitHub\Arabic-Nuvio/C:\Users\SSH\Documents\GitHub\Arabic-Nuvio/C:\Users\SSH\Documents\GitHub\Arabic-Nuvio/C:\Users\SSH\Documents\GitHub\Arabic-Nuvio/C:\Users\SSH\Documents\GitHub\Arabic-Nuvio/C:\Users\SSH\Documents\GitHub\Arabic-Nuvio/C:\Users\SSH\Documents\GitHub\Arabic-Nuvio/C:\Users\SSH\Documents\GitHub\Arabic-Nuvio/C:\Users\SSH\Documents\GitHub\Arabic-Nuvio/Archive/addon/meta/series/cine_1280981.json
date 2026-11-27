@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_1280981",
+    "type": "series",
+    "name": "Hotel Inhumans",
+    "mal_id": "60260",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/FB44DFD1-E26D-A92E-75EF-EA98AD922728_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/FB44DFD1-E26D-A92E-75EF-EA98AD922728_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/FB44DFD1-E26D-A92E-75EF-EA98AD922728_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يتم تشغيل فندق خاص يلبي احتياجات المغتالين والقتلة المأجورين\n\nA special hotel is run for hitmen and assassins.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.3",
+    "genres": [
+      "اكشن | Action",
+      "رسوم متحركة | Animation",
+      "جريمة | Crime",
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_1280981",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/FB44DFD1-E26D-A92E-75EF-EA98AD922728_poster.png",
+        "overview": "Hotel Inhumans",
+        "streams": []
+      }
+    ]
+  }
+}

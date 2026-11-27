@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "FX Senshi Kurumi-chan S01E09 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E18DA5F6-20E3-DF8E-5035-2D13F086C396_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407303&Signature=StKiJlFaQBqX7fcZ4SV%2Ft8OuUQY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=jvDEAtoCS7f%2F6xQP4wPx0C9NTTg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=Pr0ADI%2FkUQbXNhAxEzQQD0hjI4E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/29E7F5C8-54EB-7805-0677-80E64B5E3875_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=LtkOcfoCqbCUSQ59Um0svBap3xY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "FX Senshi Kurumi-chan S01E09 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F42D6080-15A9-1D61-0EBF-AC19AFA5CFA5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407303&Signature=wEWap6500xr15FE%2BVw%2BV0fOy5Ws%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=jvDEAtoCS7f%2F6xQP4wPx0C9NTTg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=Pr0ADI%2FkUQbXNhAxEzQQD0hjI4E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/29E7F5C8-54EB-7805-0677-80E64B5E3875_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=LtkOcfoCqbCUSQ59Um0svBap3xY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "FX Senshi Kurumi-chan S01E09 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9D8387FE-C3DC-12BF-7500-A67B18A52D64_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407303&Signature=bYfii%2BJmQi8lCnoFIwa6Z5fF7jo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=jvDEAtoCS7f%2F6xQP4wPx0C9NTTg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=Pr0ADI%2FkUQbXNhAxEzQQD0hjI4E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/29E7F5C8-54EB-7805-0677-80E64B5E3875_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=LtkOcfoCqbCUSQ59Um0svBap3xY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "FX Senshi Kurumi-chan S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1745A556-38B8-25CF-CAE1-E39D7E47E711_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407303&Signature=%2FzvUFCp0%2FqwUoAcfogWrMMtzI%2Bo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=jvDEAtoCS7f%2F6xQP4wPx0C9NTTg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=Pr0ADI%2FkUQbXNhAxEzQQD0hjI4E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/29E7F5C8-54EB-7805-0677-80E64B5E3875_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=LtkOcfoCqbCUSQ59Um0svBap3xY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "FX Senshi Kurumi-chan S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/24DFCCDF-4F06-43FB-E4FB-B2E48AC1FA68_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796407303&Signature=yB2FJTpEkisv%2BNI8HlBLfzpyaK4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143765-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=jvDEAtoCS7f%2F6xQP4wPx0C9NTTg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/20744097-6219-4670-12C6-506975AE580A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=Pr0ADI%2FkUQbXNhAxEzQQD0hjI4E%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143765-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/29E7F5C8-54EB-7805-0677-80E64B5E3875_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394503&Signature=LtkOcfoCqbCUSQ59Um0svBap3xY%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Chainsaw Man Movie: Reze-hen • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2B41E2F-3C77-9EFC-3953-6D7742FCA6CD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986402&Signature=3O%2FZkDmXMO1LRy1CY80YLMBrisA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342247-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=zfKF5VqRs%2BEIIAKooa%2FV10lhxaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=JR%2BghICv2JCccz4FLaTHGQC%2FbJQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=1hcTI%2BUfKvEsEd3Z4W1thKRZXkw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342247-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=P63QlN%2F1aAvfcQf7Sm5it5MhYcs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Chainsaw Man Movie: Reze-hen • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/81B0171D-47C0-8AB7-5169-6ECE0D9E4B2D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986402&Signature=omBSgOqDi18oVsBVFoR1kv7ZEXU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342247-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=zfKF5VqRs%2BEIIAKooa%2FV10lhxaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=JR%2BghICv2JCccz4FLaTHGQC%2FbJQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=1hcTI%2BUfKvEsEd3Z4W1thKRZXkw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342247-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=P63QlN%2F1aAvfcQf7Sm5it5MhYcs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Chainsaw Man Movie: Reze-hen • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6EE4C32E-7225-F1D2-6E3F-4E07E8D948D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986402&Signature=DjR2dj8eSRSQg3pKs2GTXpE2osI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342247-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=zfKF5VqRs%2BEIIAKooa%2FV10lhxaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=JR%2BghICv2JCccz4FLaTHGQC%2FbJQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=1hcTI%2BUfKvEsEd3Z4W1thKRZXkw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342247-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=P63QlN%2F1aAvfcQf7Sm5it5MhYcs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Chainsaw Man Movie: Reze-hen • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E2470C6A-F39B-8F79-0AE5-EEFE350CFA9B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986402&Signature=GSiyzGNHKlW7%2Fs0t7giO%2Fp8KgUQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342247-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=zfKF5VqRs%2BEIIAKooa%2FV10lhxaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=JR%2BghICv2JCccz4FLaTHGQC%2FbJQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=1hcTI%2BUfKvEsEd3Z4W1thKRZXkw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342247-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=P63QlN%2F1aAvfcQf7Sm5it5MhYcs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Chainsaw Man Movie: Reze-hen • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B38E2A74-A009-352C-FEE2-DC58F57AD515_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986402&Signature=yZTAKy90yfHWxbPGMAW5xAazSZo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342247-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=zfKF5VqRs%2BEIIAKooa%2FV10lhxaA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4E3482FF-0D55-26A0-504E-C02550B61611_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=JR%2BghICv2JCccz4FLaTHGQC%2FbJQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342247-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=1hcTI%2BUfKvEsEd3Z4W1thKRZXkw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342247-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/17F17105-17D9-71B2-BCC8-8BB52130B0BD_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391231&Signature=P63QlN%2F1aAvfcQf7Sm5it5MhYcs%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

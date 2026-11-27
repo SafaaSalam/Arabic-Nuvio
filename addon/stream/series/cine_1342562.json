@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Cross-Dressed Union S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9ECA4DF9-7282-DFFC-3EC1-6AD9095E419F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255495&Signature=jBlR1dLJJa9aQ%2FbX86LSEgz1nPc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342562-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=vK6r9N1H%2BAN5VylfmBnfSJYuSS8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=BgKazBdoghoVkHWVIWi5A7dIuYM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=zbze1Y%2BP1ef0%2Br5VGyu3%2F4zfP8A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342562-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=i3F1YpQpRK%2BObQjuFNJqSsnsqoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Cross-Dressed Union S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/145814AD-6A0D-89F0-400A-2216E254008C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255495&Signature=mx9oT%2BZ5uZunZ5w%2Fl7l3eyPHPU0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342562-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=vK6r9N1H%2BAN5VylfmBnfSJYuSS8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=BgKazBdoghoVkHWVIWi5A7dIuYM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=zbze1Y%2BP1ef0%2Br5VGyu3%2F4zfP8A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342562-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=i3F1YpQpRK%2BObQjuFNJqSsnsqoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Cross-Dressed Union S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B3CDD693-287A-BA70-1CDF-8B341DD8D729_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255495&Signature=8m9hxARIj028raDo7B%2BlIZEC0lQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342562-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=vK6r9N1H%2BAN5VylfmBnfSJYuSS8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=BgKazBdoghoVkHWVIWi5A7dIuYM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=zbze1Y%2BP1ef0%2Br5VGyu3%2F4zfP8A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342562-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=i3F1YpQpRK%2BObQjuFNJqSsnsqoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Cross-Dressed Union S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A88E1A70-AE74-9968-EDC5-14585B097F31_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255495&Signature=COldhYxHmSOLc6OVbNrnLYtw2l8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342562-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=vK6r9N1H%2BAN5VylfmBnfSJYuSS8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=BgKazBdoghoVkHWVIWi5A7dIuYM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=zbze1Y%2BP1ef0%2Br5VGyu3%2F4zfP8A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342562-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=i3F1YpQpRK%2BObQjuFNJqSsnsqoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Cross-Dressed Union S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/543B385C-8975-2F77-C1C2-02859FB6343D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255495&Signature=593aF63Aliieo%2BhEk1TViOpT6%2Fc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1342562-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=vK6r9N1H%2BAN5VylfmBnfSJYuSS8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2BDA19DD-3289-BD44-E135-99C0A788F74A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=BgKazBdoghoVkHWVIWi5A7dIuYM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1342562-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=zbze1Y%2BP1ef0%2Br5VGyu3%2F4zfP8A%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1342562-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/627A84FF-53F1-8431-2176-D5B209245C24_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394431&Signature=i3F1YpQpRK%2BObQjuFNJqSsnsqoQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Home Alone • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/2F56A1A9-F9E1-5B43-F718-E6CE3BC16CBB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159111&Signature=Dksomm8oWsBzmwSqsgvQPEL3Yyw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33262-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=NSQEwPHouTAiYsDA9TlmkmWE9Tc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33262-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=FjVbn22NuCx1%2BWIFLQbezWE2wpA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Home Alone • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/5D7B4DFB-EF79-2154-1D87-F11040087EE1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159111&Signature=JtPlNxI%2Ba0CQTd%2FFqcFD5IVL0YQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33262-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=NSQEwPHouTAiYsDA9TlmkmWE9Tc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33262-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=FjVbn22NuCx1%2BWIFLQbezWE2wpA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Home Alone • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/303B1768-0154-E013-6770-EAFA5360EFD8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159111&Signature=%2BiK92BKTh4Cmkzi%2FZmP2pqb7%2Bx0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33262-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=NSQEwPHouTAiYsDA9TlmkmWE9Tc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33262-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=FjVbn22NuCx1%2BWIFLQbezWE2wpA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Home Alone • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/95AABAA7-CB4C-63A3-5ED6-88BB2AF53D1B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159111&Signature=vfMcZGqdVmxc0bky8br42jJWrZY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33262-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=NSQEwPHouTAiYsDA9TlmkmWE9Tc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33262-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=FjVbn22NuCx1%2BWIFLQbezWE2wpA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Home Alone • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin15-mp4/FD256B32-6A55-823F-A064-2D5F01E3642E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159111&Signature=vv9SN3ZrcFiC6a438BuUl8TGEn0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-33262-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=NSQEwPHouTAiYsDA9TlmkmWE9Tc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-33262-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D1ECEC46-64DF-04F5-98B5-8F8AABE329E8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392300&Signature=FjVbn22NuCx1%2BWIFLQbezWE2wpA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

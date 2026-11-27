@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Phoenix's Homecoming S01E06 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F7554838-F531-31D6-50B3-7D8BC222633A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817653&Signature=0CHkPwa%2FLV1lzy7qMMWBuyBGAYM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358831-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=oTdAGITCcghjWe4Hj1YjBwo%2B5Y0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=dvKHRB1YNsY3jq8F8lNQyFCOMfo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=tKGqzhCTsXc02VDjti6zCAvlOlo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358831-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=153ruGUTI605jr9wUv2UZjZZ3kA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Phoenix's Homecoming S01E06 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CD3712F9-21B2-931A-8445-372942765FE9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817653&Signature=EKOkwiR7rJF1srF4BNpZtOnnGrQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358831-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=oTdAGITCcghjWe4Hj1YjBwo%2B5Y0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=dvKHRB1YNsY3jq8F8lNQyFCOMfo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=tKGqzhCTsXc02VDjti6zCAvlOlo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358831-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=153ruGUTI605jr9wUv2UZjZZ3kA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Phoenix's Homecoming S01E06 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/94122937-AACF-050D-3ABA-990281889E85_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817653&Signature=uSXnVavy84ufC8aSDzwAUsZ0fLc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358831-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=oTdAGITCcghjWe4Hj1YjBwo%2B5Y0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=dvKHRB1YNsY3jq8F8lNQyFCOMfo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=tKGqzhCTsXc02VDjti6zCAvlOlo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358831-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=153ruGUTI605jr9wUv2UZjZZ3kA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Phoenix's Homecoming S01E06 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CFCA815B-0D59-0B47-77CC-DB3B3F3FE5B8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817653&Signature=dhO1oplOwAwxsy3PF8dekAmtvXU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358831-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=oTdAGITCcghjWe4Hj1YjBwo%2B5Y0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=dvKHRB1YNsY3jq8F8lNQyFCOMfo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=tKGqzhCTsXc02VDjti6zCAvlOlo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358831-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=153ruGUTI605jr9wUv2UZjZZ3kA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Phoenix's Homecoming S01E06 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1115E04B-BFF4-A2BA-433F-D7FE928D77C2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795817653&Signature=KpQK7BitYhB5MGphllNy7m17%2B5E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358831-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=oTdAGITCcghjWe4Hj1YjBwo%2B5Y0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/580D7570-5A4F-4C79-4290-E777628DC3AD_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=dvKHRB1YNsY3jq8F8lNQyFCOMfo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358831-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=tKGqzhCTsXc02VDjti6zCAvlOlo%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358831-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E833392C-DF05-6757-3159-EAADEF0FE15F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394462&Signature=153ruGUTI605jr9wUv2UZjZZ3kA%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

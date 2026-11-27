@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الهروب • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/C8DF94DB-F3B8-09F9-6727-5713EFEEB0B1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795728792&Signature=KUjfm05LZHVN2OUDV2R9Ur34EFU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الهروب • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/0B16DB88-80C7-68A0-417E-0ACB57B9FDBE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795728792&Signature=nU0m7dmmFuj9a%2BdEspbEZB0ywhE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الهروب • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/2B6CCD86-6128-2C01-23AE-A456A9A08C4E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795728792&Signature=ZlLuaeHop4MtqTgxr0mNH22kgBo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الهروب • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/AE710DD0-19BB-EC14-4E15-85C51D5505A9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795728792&Signature=Wu7IxdL4wpjOg2FlMDOfFOp%2B54E%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الهروب • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/9DB8CD26-A6B7-B822-220A-061964F6FE1F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795728792&Signature=JYN2lVLI4PFe2D41F%2Fka8N8FWPc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

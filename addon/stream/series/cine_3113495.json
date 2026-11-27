@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Dogulwang S01E06 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/886F745B-6D6A-49F5-F11B-6A606438D4E3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796246069&Signature=lVpED9PMbOgEhBRCSAyXs0isDXA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113495-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=QxA4hqyzGlzHwcqek%2FcHCYdHjBA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=cFIp1jFCR9qyK9x5rTRNJKCSVGU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/536434DF-55FE-4830-4950-FA9F69DA5A99_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=5nLwxzUrO9ml%2BHF0NAZhE91Crkc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Dogulwang S01E06 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9AB8418C-1E4F-CFA7-B12C-281F0D1E91D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796246069&Signature=uOz625IMd3sV43Lhiwf2KAFgfqk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113495-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=QxA4hqyzGlzHwcqek%2FcHCYdHjBA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=cFIp1jFCR9qyK9x5rTRNJKCSVGU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/536434DF-55FE-4830-4950-FA9F69DA5A99_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=5nLwxzUrO9ml%2BHF0NAZhE91Crkc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Dogulwang S01E06 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2322563A-E6E1-BB86-DDC7-015B3F8D48CE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796246069&Signature=2IfPxdtIJzPmzeoPZ%2FGOrEyoFL0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113495-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=QxA4hqyzGlzHwcqek%2FcHCYdHjBA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=cFIp1jFCR9qyK9x5rTRNJKCSVGU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/536434DF-55FE-4830-4950-FA9F69DA5A99_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=5nLwxzUrO9ml%2BHF0NAZhE91Crkc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Dogulwang S01E06 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7E109A4A-7B8D-ABDD-7A4D-6719CF7F3D51_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796246069&Signature=bZlvPTQ1xJG9TZC96qzEyNnO1ZY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113495-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=QxA4hqyzGlzHwcqek%2FcHCYdHjBA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=cFIp1jFCR9qyK9x5rTRNJKCSVGU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/536434DF-55FE-4830-4950-FA9F69DA5A99_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=5nLwxzUrO9ml%2BHF0NAZhE91Crkc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Dogulwang S01E06 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1CD7F1CD-E7BA-EEE3-1E72-20E73BB11FA0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796246069&Signature=CAdNs3zPGFNlk9ge%2FC4GWyNj8DY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3113495-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=QxA4hqyzGlzHwcqek%2FcHCYdHjBA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A135838D-FAAC-EA42-39A6-6AEA797BFB19_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=cFIp1jFCR9qyK9x5rTRNJKCSVGU%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3113495-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/536434DF-55FE-4830-4950-FA9F69DA5A99_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798380880&Signature=5nLwxzUrO9ml%2BHF0NAZhE91Crkc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

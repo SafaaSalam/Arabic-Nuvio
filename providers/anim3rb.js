@@ -286,7 +286,16 @@ async function resolveTargetInfo(rawId, mediaType) {
     tmdbId = cleanId;
   }
 
-  if (!tmdbId) return { titles: [] };
+  if (!tmdbId) {
+    if (/^tt\d+$/i.test(cleanId)) {
+      var cmType = normalizedType === "movie" ? "movie" : "series";
+      var cmData = await safeJsonFetch("https://v3-cinemeta.strem.io/meta/" + cmType + "/" + cleanId.toLowerCase() + ".json");
+      if (cmData && cmData.meta && cmData.meta.name) {
+        return { titles: [cmData.meta.name] };
+      }
+    }
+    return { titles: [] };
+  }
 
   var details = await safeJsonFetch("https://api.themoviedb.org/3/" + normalizedType + "/" + tmdbId + "?api_key=" + tmdbKey + "&append_to_response=translations");
   if (!details) return { titles: [] };
@@ -418,6 +427,11 @@ async function extractMediaFromHtml(htmlRaw, pageUrl, baseUrl) {
 async function getStreams(tmdbId, mediaType, season, episode) {
   try {
     var mainUrl = getMainUrl();
+    var idParts = String(tmdbId || "").split(":");
+    if (idParts.length >= 3 && (season == null || episode == null)) {
+      if (season == null && /^\d+$/.test(idParts[1])) season = parseInt(idParts[1], 10);
+      if (episode == null && /^\d+$/.test(idParts[2])) episode = parseInt(idParts[2], 10);
+    }
 
     // Special handler for TVgarden (Famelack Live Channels JSON)
     if (PROVIDER_ID === "tvgarden") {

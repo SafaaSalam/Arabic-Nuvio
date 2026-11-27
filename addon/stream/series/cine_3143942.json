@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Koori no Jouheki S02E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/89C4EBD6-3DD1-8B95-C1B4-B76993D74FF0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332013&Signature=uG2jOjCCCAN7l5CzD7r41DDmZHw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143942-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=UGLHcIuqZpucq7JddgWWkBYWMW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=sPzwIp80X3lQy1nlIfO4AFrBm%2FM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2B13CFE8-99C7-727C-DD28-64342C21236A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=uvMzFLGjC0i%2BswluMoUJntymCrU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Koori no Jouheki S02E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/426C522C-8054-EDA6-7179-51B895351E41_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332013&Signature=B3x9cNVYFO7gQZImgNt2uP8bbFQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143942-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=UGLHcIuqZpucq7JddgWWkBYWMW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=sPzwIp80X3lQy1nlIfO4AFrBm%2FM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2B13CFE8-99C7-727C-DD28-64342C21236A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=uvMzFLGjC0i%2BswluMoUJntymCrU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Koori no Jouheki S02E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B9D41D45-4DBA-49DC-1005-834F06B3F038_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332013&Signature=NqKimIYWCT8Y6mb%2FDxuBaUmwy9c%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143942-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=UGLHcIuqZpucq7JddgWWkBYWMW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=sPzwIp80X3lQy1nlIfO4AFrBm%2FM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2B13CFE8-99C7-727C-DD28-64342C21236A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=uvMzFLGjC0i%2BswluMoUJntymCrU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Koori no Jouheki S02E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/09E2D48A-64B1-A840-420D-25ABC1C9534F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332013&Signature=Z5xbQfzTNhfnzDcXh3mx%2BELlUho%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143942-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=UGLHcIuqZpucq7JddgWWkBYWMW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=sPzwIp80X3lQy1nlIfO4AFrBm%2FM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2B13CFE8-99C7-727C-DD28-64342C21236A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=uvMzFLGjC0i%2BswluMoUJntymCrU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Koori no Jouheki S02E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/16730459-9B9E-C883-95E6-F757878EB1B1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332013&Signature=hT1c%2Fck%2FuYgGbJNfKKX5dvh4hKE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3143942-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=UGLHcIuqZpucq7JddgWWkBYWMW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1BC8DE18-569E-D85B-1709-CEF65C27E1D6_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=sPzwIp80X3lQy1nlIfO4AFrBm%2FM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3143942-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2B13CFE8-99C7-727C-DD28-64342C21236A_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389503&Signature=uvMzFLGjC0i%2BswluMoUJntymCrU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

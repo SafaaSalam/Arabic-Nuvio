@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Horemajo S01E08 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/97F7366E-6846-253A-316F-03C563F424EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796122459&Signature=xG7CGyXXFKlS6h%2FCIvThJRveWiM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145682-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=cReU5O72ctOm2CRjhKcgal4zVW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=TyiHbvurqRBwvW5%2BSfwTbmwhrOc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4771B03-8244-E7D3-8F23-09AF4F75700C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=5GNOucL2l0yUqmu7JUKIFPvJ9Gg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Horemajo S01E08 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5D839566-B1EC-23C4-B8AC-976477BFDABC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796122459&Signature=cUKNuwScZYPxnzVResZXiZPKjyM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145682-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=cReU5O72ctOm2CRjhKcgal4zVW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=TyiHbvurqRBwvW5%2BSfwTbmwhrOc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4771B03-8244-E7D3-8F23-09AF4F75700C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=5GNOucL2l0yUqmu7JUKIFPvJ9Gg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Horemajo S01E08 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B6A2A8D3-FA83-96D5-1A8B-67DE04D3FEC5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796122459&Signature=L2tmT3jHfa%2BEwcGJHETzygRmXDA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145682-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=cReU5O72ctOm2CRjhKcgal4zVW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=TyiHbvurqRBwvW5%2BSfwTbmwhrOc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4771B03-8244-E7D3-8F23-09AF4F75700C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=5GNOucL2l0yUqmu7JUKIFPvJ9Gg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Horemajo S01E08 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/01817538-722C-4539-C8C7-F121FE7FC016_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796122459&Signature=F%2BL1uZuN5kwcYE9Bs%2F0vUuUUMt0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145682-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=cReU5O72ctOm2CRjhKcgal4zVW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=TyiHbvurqRBwvW5%2BSfwTbmwhrOc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4771B03-8244-E7D3-8F23-09AF4F75700C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=5GNOucL2l0yUqmu7JUKIFPvJ9Gg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Horemajo S01E08 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2ED1635A-6C51-A30A-BA75-EF9451ED06A6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796122459&Signature=AEdzi8duIdQapcF7%2BRn2yqPBAEA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145682-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=cReU5O72ctOm2CRjhKcgal4zVW8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3546D60A-5A4D-EAC7-14F2-D7515B820530_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=TyiHbvurqRBwvW5%2BSfwTbmwhrOc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145682-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D4771B03-8244-E7D3-8F23-09AF4F75700C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392534&Signature=5GNOucL2l0yUqmu7JUKIFPvJ9Gg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

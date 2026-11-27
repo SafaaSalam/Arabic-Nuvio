@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Like a Palette S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B0AE6401-3C20-BAD5-1B86-F99E7B5E1845_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334104&Signature=7QbPmF1%2Bov8B%2B3U126shk8w6W5E%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358150-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=Ati%2BM%2BH3nFt6I%2FWshGod9VTAf64%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=zo16nosijzHiALNPHi7BgWYNUuI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=xAHDpK8%2FbYkE%2Bq6GdgAR%2FQM9P7E%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358150-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=6R0qFCQcHifo24bq0szGKpY4i8w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Like a Palette S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/873F79F9-C2EF-63DD-E839-ECE9F589AEE8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334104&Signature=Le0LIoHN6lBgMrsb3ykd%2FaYkSr8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358150-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=Ati%2BM%2BH3nFt6I%2FWshGod9VTAf64%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=zo16nosijzHiALNPHi7BgWYNUuI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=xAHDpK8%2FbYkE%2Bq6GdgAR%2FQM9P7E%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358150-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=6R0qFCQcHifo24bq0szGKpY4i8w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Like a Palette S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4511DE8C-1E1D-74C0-3CAF-8865EC6583A8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334104&Signature=E%2FUqn5NtujZIfZOK%2BUnaDJtTFQs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358150-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=Ati%2BM%2BH3nFt6I%2FWshGod9VTAf64%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=zo16nosijzHiALNPHi7BgWYNUuI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=xAHDpK8%2FbYkE%2Bq6GdgAR%2FQM9P7E%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358150-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=6R0qFCQcHifo24bq0szGKpY4i8w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Like a Palette S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2D834BD0-CB17-4CF6-9F5D-069F06CF09F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334104&Signature=l1fn0LuZGMZngX2Y79OEis4NsjY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358150-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=Ati%2BM%2BH3nFt6I%2FWshGod9VTAf64%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=zo16nosijzHiALNPHi7BgWYNUuI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=xAHDpK8%2FbYkE%2Bq6GdgAR%2FQM9P7E%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358150-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=6R0qFCQcHifo24bq0szGKpY4i8w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Like a Palette S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D6103A71-5463-5A03-C27E-75590463862D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796334104&Signature=48lhpkFMF4sdC0IIPl2Bqy29CE8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1358150-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=Ati%2BM%2BH3nFt6I%2FWshGod9VTAf64%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B9194FD-005F-8CB4-00AB-0C34F03CA47F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=zo16nosijzHiALNPHi7BgWYNUuI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1358150-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=xAHDpK8%2FbYkE%2Bq6GdgAR%2FQM9P7E%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1358150-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/99CB4004-6CD8-5702-8A5B-CEA59A1DD952_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394424&Signature=6R0qFCQcHifo24bq0szGKpY4i8w%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

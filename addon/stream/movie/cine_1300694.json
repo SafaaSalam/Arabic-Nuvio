@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The First Myth: Clash of Gods • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3D62863E-3D06-3BB4-3DFC-722A861D6DC5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072426&Signature=i%2F%2FtL2%2BxC3S2BMLylA%2BBcwMVfHg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300694-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=qMBSolSv%2ByduUlPUSSk%2F4Zqht9A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=iSl0PZKpNcM4a%2B%2FF1ihWpxK8bUo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=p8o9ixNHs9exie1GG14OqL8lFvU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300694-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=yz9%2Bo0ej6gW5JuMMlNL48k3o9%2Bg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The First Myth: Clash of Gods • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/31D966C7-DD5D-8668-49F9-D5DDFD9C6650_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072426&Signature=tuXQElXBh2mrx2yK7SRcVR203HA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300694-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=qMBSolSv%2ByduUlPUSSk%2F4Zqht9A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=iSl0PZKpNcM4a%2B%2FF1ihWpxK8bUo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=p8o9ixNHs9exie1GG14OqL8lFvU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300694-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=yz9%2Bo0ej6gW5JuMMlNL48k3o9%2Bg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The First Myth: Clash of Gods • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CBC7DBA6-D9C8-1107-04D0-D08A2FE6A9D2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072426&Signature=tYPKsu1FlGX7UMzDjhpTD4kih8M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300694-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=qMBSolSv%2ByduUlPUSSk%2F4Zqht9A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=iSl0PZKpNcM4a%2B%2FF1ihWpxK8bUo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=p8o9ixNHs9exie1GG14OqL8lFvU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300694-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=yz9%2Bo0ej6gW5JuMMlNL48k3o9%2Bg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The First Myth: Clash of Gods • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FD5B5E26-1E2B-FDB2-405C-80B7CF7CF9F7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072426&Signature=9AVEjgUtfTfKbSZPqsnpfUNec54%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300694-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=qMBSolSv%2ByduUlPUSSk%2F4Zqht9A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=iSl0PZKpNcM4a%2B%2FF1ihWpxK8bUo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=p8o9ixNHs9exie1GG14OqL8lFvU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300694-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=yz9%2Bo0ej6gW5JuMMlNL48k3o9%2Bg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The First Myth: Clash of Gods • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/238D3D4D-97A7-D772-E224-95FC479B9F63_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072426&Signature=Pp4A8pKNd8F7LjB%2BgoQ%2BwjJrwZA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1300694-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=qMBSolSv%2ByduUlPUSSk%2F4Zqht9A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CA9CFCC-5F08-D600-94DC-B6056BDBBE8E_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=iSl0PZKpNcM4a%2B%2FF1ihWpxK8bUo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1300694-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=p8o9ixNHs9exie1GG14OqL8lFvU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1300694-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4128CCF6-C581-C2EE-09EA-E7B453709223_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391040&Signature=yz9%2Bo0ej6gW5JuMMlNL48k3o9%2Bg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

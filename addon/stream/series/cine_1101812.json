@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Kusuriya no Hitorigoto S01E19 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A023017B-4C57-9FBC-1A2A-ABC277C116B5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795990105&Signature=TCFCiHOZNPYRac5LFTZ3omXXrWs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1101812-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=GbTiCryyhTfF4ZmFu%2FsgRVOWKlE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=80dwEpX%2BT93bgUPU6OgKd8LbTaM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D24F947-37DB-0D00-8612-076B249D8A4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=kg05wjqAJsWlOuABKxDgajZHwrM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Kusuriya no Hitorigoto S01E19 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F0B91C33-D594-EC85-37E7-B3F424182E9B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795990105&Signature=ZU%2FZwVIk577ojhMkZE9FjfkzUGQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1101812-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=GbTiCryyhTfF4ZmFu%2FsgRVOWKlE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=80dwEpX%2BT93bgUPU6OgKd8LbTaM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D24F947-37DB-0D00-8612-076B249D8A4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=kg05wjqAJsWlOuABKxDgajZHwrM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Kusuriya no Hitorigoto S01E19 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9451E20E-3E3F-2373-56FF-25F4D76BE467_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795990105&Signature=JQ2baEfmxwVv0dl4MuwUgroZ3xk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1101812-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=GbTiCryyhTfF4ZmFu%2FsgRVOWKlE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=80dwEpX%2BT93bgUPU6OgKd8LbTaM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D24F947-37DB-0D00-8612-076B249D8A4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=kg05wjqAJsWlOuABKxDgajZHwrM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Kusuriya no Hitorigoto S01E19 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/89C10547-A4E2-4A46-1A2F-7E2BED68A7E1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795990105&Signature=yPznrJkuFXXT4EAgvCOkMbCOu60%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1101812-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=GbTiCryyhTfF4ZmFu%2FsgRVOWKlE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=80dwEpX%2BT93bgUPU6OgKd8LbTaM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D24F947-37DB-0D00-8612-076B249D8A4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=kg05wjqAJsWlOuABKxDgajZHwrM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Kusuriya no Hitorigoto S01E19 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F9CA5923-2AC8-FCA5-E44E-FB5313758B83_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795990105&Signature=g7uzyTEFmamvUtWe%2BslTP8WOsUs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1101812-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=GbTiCryyhTfF4ZmFu%2FsgRVOWKlE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/737B207B-F47F-5200-06E4-25F3ECA45AD7_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=80dwEpX%2BT93bgUPU6OgKd8LbTaM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1101812-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D24F947-37DB-0D00-8612-076B249D8A4C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798310478&Signature=kg05wjqAJsWlOuABKxDgajZHwrM%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

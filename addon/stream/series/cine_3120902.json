@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi S01E08 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C1B59CC8-ED28-7CC6-EB1A-5A506A01725F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255206&Signature=bjfPsEqOpUneggpsyQcfqyKMmtQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3120902-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=I0aDtzs2IZh65iEK4i84D1Zw9WM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=nqRKFIddeQB3Xl590ytX95Z4pMw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=1RfngpF%2BvIfp0yTOtkkjS1p3cOw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3120902-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=h4WttX7IiEhSa8Sj4gLcsGkp8IE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi S01E08 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FFEB8AD5-6D1D-FE98-BF45-99A43DF4B534_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255206&Signature=aXO%2FiuTvbCtbDYwBGkxKQ6%2FlBXI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3120902-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=I0aDtzs2IZh65iEK4i84D1Zw9WM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=nqRKFIddeQB3Xl590ytX95Z4pMw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=1RfngpF%2BvIfp0yTOtkkjS1p3cOw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3120902-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=h4WttX7IiEhSa8Sj4gLcsGkp8IE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi S01E08 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7715B7DA-9A0E-EC29-8DBF-E5836A899E8E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255206&Signature=zOgpmV41%2F21yGRkF24dRYZ5cXQU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3120902-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=I0aDtzs2IZh65iEK4i84D1Zw9WM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=nqRKFIddeQB3Xl590ytX95Z4pMw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=1RfngpF%2BvIfp0yTOtkkjS1p3cOw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3120902-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=h4WttX7IiEhSa8Sj4gLcsGkp8IE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi S01E08 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B774E8C7-EDDF-7375-DA1A-CB14921D047B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255206&Signature=%2BIcoqYnhjzVz0Kl0WpDjF5smz7Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3120902-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=I0aDtzs2IZh65iEK4i84D1Zw9WM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=nqRKFIddeQB3Xl590ytX95Z4pMw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=1RfngpF%2BvIfp0yTOtkkjS1p3cOw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3120902-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=h4WttX7IiEhSa8Sj4gLcsGkp8IE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi S01E08 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D4ABD380-2C86-F9A2-0882-9E78FAF7B2BD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796255206&Signature=V0Yo2NgDgR0%2FyVIH7OA3lgK%2Flk8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3120902-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=I0aDtzs2IZh65iEK4i84D1Zw9WM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F2FF21D5-EF95-B626-C9D2-19358E964539_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=nqRKFIddeQB3Xl590ytX95Z4pMw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3120902-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=1RfngpF%2BvIfp0yTOtkkjS1p3cOw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3120902-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5061C38F-D69F-7E31-8A3E-AA3E7FBD8AF4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394385&Signature=h4WttX7IiEhSa8Sj4gLcsGkp8IE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Keroro Gunsou☆ S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D690A4EF-D704-7872-B060-54CB8BA7ABED_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=1I6Uq2D8k4g9Y%2FDUHzlZ0A29g%2BI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144101-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Keroro Gunsou☆ S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4E496163-26AE-405A-C313-9B637F1C24E4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=pJHFT1wmwnN5jNS9E7pXFvLNHtU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144101-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Keroro Gunsou☆ S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E9371351-EE74-17B1-4883-2B77A35BD983_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=EHeoGdD%2Bid%2BfPj%2BCKsCcluRInsw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144101-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Keroro Gunsou☆ S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/15114758-309E-F45F-F44B-B867F4498DA6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=N6w%2F2FWv8UdpQB1YJy9Gm2lclbY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144101-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Keroro Gunsou☆ S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/92F1FBA2-8FD5-BA26-5057-94A74E83F203_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793397636&Signature=YdY2msVvcnKnlUbO4nwa9bhfIyk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3144101-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=JaHraqH2Rpw%2FkvNBEsTFYT%2FDUgM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4AC73BF6-D1B9-4784-BB95-649759C44F97_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=X6g4wFf3p5EODwyXJyrWuPJskOk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3144101-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECDDB5BD-1667-4344-4567-D804A01FE174_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795514660&Signature=zqpShi%2FCDhVrVjyFNuDuQgjMrdg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

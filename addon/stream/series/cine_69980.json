@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "رسالة المختار | المختار الثقفي S01E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/96A64B8D-C287-533E-868D-53BCDF7467EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989734&Signature=KQWLvRw3idwHVixsj3xMbRmIdvU%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "رسالة المختار | المختار الثقفي S01E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/D5EC4FAF-60E5-BDC7-6D0C-B4F36E512E10_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160353&Signature=u8jDV%2F6c%2Bc9kjbyDqakITkgxqEM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "رسالة المختار | المختار الثقفي S01E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/47404AF8-37B8-2B45-2126-EED4C18AD102_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073051&Signature=KUFePXxfeqMlyfCJfJxe9NwqVSs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "رسالة المختار | المختار الثقفي S01E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/A7A23DE9-572D-2D2A-2C52-44BD04E26646_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073051&Signature=%2FhBbxgTuBMD8TLtBsq4Fqpo9MdY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "رسالة المختار | المختار الثقفي S01E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/25A13F59-C15E-CCD9-29F4-2D13D28A6FB3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073051&Signature=cSVyRptsl8kzMnd7nSkbKJFh5OM%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

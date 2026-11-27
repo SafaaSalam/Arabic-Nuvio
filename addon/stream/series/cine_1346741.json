@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Dreamwalker S01E18 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3FFAB547-AC72-C950-4748-5CD6F89D624A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796088651&Signature=uynBTL176e9ALzSP5%2B0sJOFBM2g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1346741-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=aOGJ%2FAcBNpoLXEwYalJGyAxPu3c%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=bl1LTEWyYjDDWZ0WuwwFWXfjq3Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=ctV%2F2aHnBXLgpRTvYKnHKMX4hZs%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1346741-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=GlSCgDrddkUlxTL4Qxie09HDsvQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Dreamwalker S01E18 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5B59A8E3-01EE-64E1-DA77-5BF4286A0404_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796088651&Signature=X5VmugEzb9KbNUei4MiP%2FJEsftM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1346741-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=aOGJ%2FAcBNpoLXEwYalJGyAxPu3c%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=bl1LTEWyYjDDWZ0WuwwFWXfjq3Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=ctV%2F2aHnBXLgpRTvYKnHKMX4hZs%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1346741-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=GlSCgDrddkUlxTL4Qxie09HDsvQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Dreamwalker S01E18 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2E948742-A79B-01C8-2AA7-37C50CDE1EA7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796088651&Signature=9Js5AkKnqkbpkX8%2FCGpFeIaN8F8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1346741-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=aOGJ%2FAcBNpoLXEwYalJGyAxPu3c%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=bl1LTEWyYjDDWZ0WuwwFWXfjq3Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=ctV%2F2aHnBXLgpRTvYKnHKMX4hZs%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1346741-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=GlSCgDrddkUlxTL4Qxie09HDsvQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Dreamwalker S01E18 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D9DC85B8-9291-830F-2E95-180664563F0E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796088651&Signature=%2Fgrhb58FCssDatmXO76gd2uOCw4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1346741-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=aOGJ%2FAcBNpoLXEwYalJGyAxPu3c%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=bl1LTEWyYjDDWZ0WuwwFWXfjq3Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=ctV%2F2aHnBXLgpRTvYKnHKMX4hZs%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1346741-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=GlSCgDrddkUlxTL4Qxie09HDsvQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Dreamwalker S01E18 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B67422EE-F621-BEBE-7CDA-A8156BB66DCA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796088651&Signature=aGKqXFxVhrSksZVl2vZAIEux8Qk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1346741-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=aOGJ%2FAcBNpoLXEwYalJGyAxPu3c%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/37C47328-24E2-7697-323A-D89B6281D872_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=bl1LTEWyYjDDWZ0WuwwFWXfjq3Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1346741-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=ctV%2F2aHnBXLgpRTvYKnHKMX4hZs%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1346741-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A8F4CDF0-96F1-4893-5F63-C32F5D0BEC50_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394444&Signature=GlSCgDrddkUlxTL4Qxie09HDsvQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

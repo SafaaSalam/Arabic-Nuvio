@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Silent Truth S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7556130B-F85B-90D6-A0D5-08D59045BCBD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796336474&Signature=dLTHAYtdcZZfotzDt2L9TQZK4zE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1355480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=F9NZN2J8dCwJ1Yw2LYNkx91wEvM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=PP3zuQVcIFzXg%2FLEKWHumkUlFvE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=DyL5SjIn4d41HCSwu8evx2nXrPw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1355480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=gBPhJG2QXrWBx50bz3b57XcZdiQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Silent Truth S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B634E3F6-CA02-7522-D8DF-C565B31F5667_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796336474&Signature=f9d0IuVZ68xwZvGh%2BXeHeSzrMCs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1355480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=F9NZN2J8dCwJ1Yw2LYNkx91wEvM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=PP3zuQVcIFzXg%2FLEKWHumkUlFvE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=DyL5SjIn4d41HCSwu8evx2nXrPw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1355480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=gBPhJG2QXrWBx50bz3b57XcZdiQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Silent Truth S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/15C1E94D-F014-8F69-1F96-2415BBCD3D97_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796336474&Signature=tLwLxYrL%2Fwth9ZdGOeKsG3rp4vs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1355480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=F9NZN2J8dCwJ1Yw2LYNkx91wEvM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=PP3zuQVcIFzXg%2FLEKWHumkUlFvE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=DyL5SjIn4d41HCSwu8evx2nXrPw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1355480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=gBPhJG2QXrWBx50bz3b57XcZdiQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Silent Truth S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/84ADB0E0-5762-875C-BE4E-8990974DBC3D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796336474&Signature=y40GSum7G8oNsiAOBA457z%2F%2BVT0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1355480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=F9NZN2J8dCwJ1Yw2LYNkx91wEvM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=PP3zuQVcIFzXg%2FLEKWHumkUlFvE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=DyL5SjIn4d41HCSwu8evx2nXrPw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1355480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=gBPhJG2QXrWBx50bz3b57XcZdiQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Silent Truth S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1CD116B2-5B6B-812B-C54B-0766FAEF965F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796336474&Signature=HQsNBXnnCE6P0s3XoxcidULU%2B6I%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1355480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=F9NZN2J8dCwJ1Yw2LYNkx91wEvM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/078EB586-8D4D-D686-480A-0FB72EC8549F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=PP3zuQVcIFzXg%2FLEKWHumkUlFvE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1355480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=DyL5SjIn4d41HCSwu8evx2nXrPw%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1355480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/03C67424-8221-EF48-0463-8708065F30B5_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394454&Signature=gBPhJG2QXrWBx50bz3b57XcZdiQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

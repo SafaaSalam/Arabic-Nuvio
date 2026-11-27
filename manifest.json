@@ -3,6 +3,7 @@
   "description": "Comprehensive Arabic Nuvio Providers & Collections — Sequenced starting with Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Movie, Series, Anime & Live TV sources.",
   "version": "2.0.0",
   "author": "SafaaSalam",
+  "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/arabic-nuvio-logo.jpg",
   "scrapers": [
     {
       "id": "cinemana",
@@ -983,6 +984,302 @@
       "filename": "providers/moviesdrive.js",
       "enabled": true,
       "logo": "https://www.google.com/s2/favicons?domain=moviesdrive.cyou&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "cimanow",
+      "name": "CVN-CimaNow",
+      "description": "CimaNow — Arabic movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/cimanow.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "aflamstream",
+      "name": "CVN-AflamStream",
+      "description": "AflamStream — Translated movies",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/aflamstream.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "qfilm",
+      "name": "CVN-QFilm",
+      "description": "QFilm — Movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/qfilm.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "egybet",
+      "name": "CVN-EGYBET",
+      "description": "EGYBET — Movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/egybet.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=egibest.info&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "tukcima",
+      "name": "CVN-TukCima",
+      "description": "TukCima — Movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/tukcima.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "fasselhd",
+      "name": "CVN-FasselHD",
+      "description": "FasselHD — Movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/fasselhd.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "faselhd2",
+      "name": "CVN-FaselHD",
+      "description": "FaselHD — Alternative FaselHD source",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/faselhd2.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "egydeadca",
+      "name": "CVN-EgyDead CA",
+      "description": "EgyDead CA — Alternative EgyDead domain",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/egydeadca.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "qdrama",
+      "name": "CVN-QDrama",
+      "description": "QDrama — Drama series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/qdrama.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "myseed",
+      "name": "CVN-MySeed",
+      "description": "MySeed — Movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/myseed.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "ahwaktv",
+      "name": "CVN-AhwakTV",
+      "description": "AhwakTV — TV series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/ahwaktv.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "starzplay",
+      "name": "CVN-Starzplay",
+      "description": "Starzplay — Official streaming integration",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/starzplay.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+      "contentLanguage": [
+        "ar"
+      ],
+      "formats": [
+        "mp4",
+        "hls",
+        "m3u8"
+      ],
+      "supportsExternalPlayer": true
+    },
+    {
+      "id": "flixmomo",
+      "name": "CVN-FlixMomo",
+      "description": "FlixMomo — Movies and series",
+      "version": "1.0.0",
+      "author": "SafaaSalam",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/flixmomo.js",
+      "enabled": true,
+      "logo": "https://www.google.com/s2/favicons?domain=flixmomo.city&sz=128",
       "contentLanguage": [
         "ar"
       ],

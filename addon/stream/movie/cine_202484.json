@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "حرب كرموز • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/15DCF65E-BCD8-672B-5D44-63BB7F2D2295_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986634&Signature=q7fUCJRixQrNNdtECQ8BswSy9Eo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "حرب كرموز • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/87FAA5E5-2C53-3D51-B547-3D2EC7597B27_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986634&Signature=a3qCqkzPxPb13vB6Ajxz7cy2rjk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "حرب كرموز • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/85631C18-9134-56A9-702A-AA8593F17E22_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986634&Signature=ID6qUwYDVIpOzF3RXRmjb9xBuJ0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "حرب كرموز • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/EFAB7753-4D3E-1D2F-8CBD-60500302A3C1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986634&Signature=Gpu7FbnMieqfizTpo2Grnh9RY2c%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "حرب كرموز • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/1EA3887E-09D0-FDDF-E86B-015E84DE699D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986634&Signature=umP9JaQ6UUFKm%2F%2BAqItIx6NEnLQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

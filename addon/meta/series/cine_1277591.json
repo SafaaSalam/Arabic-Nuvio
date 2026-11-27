@@ -1,0 +1,2188 @@
+{
+  "meta": {
+    "id": "cine_1277591",
+    "type": "series",
+    "name": "Lord of Mysteries",
+    "mal_id": "49818",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/63328178-D170-7398-A7E2-41FD07FABA84_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/63328178-D170-7398-A7E2-41FD07FABA84_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/63328178-D170-7398-A7E2-41FD07FABA84_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.1",
+    "genres": [
+      "اكشن | Action",
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "خيالي | Fantasy"
+    ],
+    "cast": [
+      "nostaff"
+    ],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_1277591",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/63328178-D170-7398-A7E2-41FD07FABA84_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/BF44E94C-274B-42E5-6F05-60DBFF3CCCE9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899673&Signature=oBCMXGouFNNAM7mCY8r9sYuu2gg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277591-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=%2BUj47PW98mKcvbP54MuQT1NdU6U%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=ehmbMgiIfSr%2F%2Fm%2BCq2cOVjXyefc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0D7100B4-C47F-7E11-1152-9CCA5F12A48F_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=PolJ8%2F6KVUAAwX8et4cB0%2Bsh8MM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/559547F1-A5A1-67C8-21D3-E2F5AB45113D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899673&Signature=0pV1C2U1kHMFaj6GPxHZsJQaQcc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277591-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=%2BUj47PW98mKcvbP54MuQT1NdU6U%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=ehmbMgiIfSr%2F%2Fm%2BCq2cOVjXyefc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0D7100B4-C47F-7E11-1152-9CCA5F12A48F_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=PolJ8%2F6KVUAAwX8et4cB0%2Bsh8MM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/2D4EBF55-69E0-0AA0-C966-0EA1419CC092_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899673&Signature=Unej09hO3ZYTwrbk2VbwXl3mIQI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277591-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=%2BUj47PW98mKcvbP54MuQT1NdU6U%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=ehmbMgiIfSr%2F%2Fm%2BCq2cOVjXyefc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0D7100B4-C47F-7E11-1152-9CCA5F12A48F_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=PolJ8%2F6KVUAAwX8et4cB0%2Bsh8MM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/04D04F2E-9322-E78E-84AA-13D74B549C5C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899673&Signature=lDuoTF2KsNAlH7WBV3paTQG9qt4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277591-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=%2BUj47PW98mKcvbP54MuQT1NdU6U%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=ehmbMgiIfSr%2F%2Fm%2BCq2cOVjXyefc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0D7100B4-C47F-7E11-1152-9CCA5F12A48F_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=PolJ8%2F6KVUAAwX8et4cB0%2Bsh8MM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/487B81DF-8763-820D-3D01-42876502CD04_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899673&Signature=i1AdWxwsj08QVVTnshX7JS38UlI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277591-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=%2BUj47PW98mKcvbP54MuQT1NdU6U%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301FFBD6-BC91-0FC1-F10D-72D97FA4A464_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=ehmbMgiIfSr%2F%2Fm%2BCq2cOVjXyefc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277591-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0D7100B4-C47F-7E11-1152-9CCA5F12A48F_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391963&Signature=PolJ8%2F6KVUAAwX8et4cB0%2Bsh8MM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277594",
+        "title": "الموسم 1 - الحلقة 2 | Season 1 Episode 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8D66D165-B09B-11B1-A987-0E7E8BCD3D42_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986955&Signature=KGefer7%2BcVauu4WnaTPrNr%2BC%2Fx0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277594-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=RlqF4YilKH3ItH7i62Kq1C3XEZE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=knKf6NFP9NvVnmDqaw15PEF4V6E%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD770DBA-FE8B-1E14-CB52-CFC1338A7D7B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=5wU46HcWhwBhonRkRSTNT8VsMtM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/2521C62D-DFB9-198A-0690-D394F0E7DDB0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986955&Signature=aC2eqel2Cf25XgQILLiekuq1Eqw%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277594-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=RlqF4YilKH3ItH7i62Kq1C3XEZE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=knKf6NFP9NvVnmDqaw15PEF4V6E%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD770DBA-FE8B-1E14-CB52-CFC1338A7D7B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=5wU46HcWhwBhonRkRSTNT8VsMtM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1D866CF3-DD69-E04B-7271-74DBD3C5AC87_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986955&Signature=a%2BGoS8i9jwLZjpfKqneU7vnBptY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277594-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=RlqF4YilKH3ItH7i62Kq1C3XEZE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=knKf6NFP9NvVnmDqaw15PEF4V6E%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD770DBA-FE8B-1E14-CB52-CFC1338A7D7B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=5wU46HcWhwBhonRkRSTNT8VsMtM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/90B1C627-4DD3-4691-552C-CAFE7DD87FDD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986955&Signature=V1o3d%2FjGmOacFJAFTBiFoPHHDKo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277594-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=RlqF4YilKH3ItH7i62Kq1C3XEZE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=knKf6NFP9NvVnmDqaw15PEF4V6E%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD770DBA-FE8B-1E14-CB52-CFC1338A7D7B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=5wU46HcWhwBhonRkRSTNT8VsMtM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/50F04A3A-7C91-7054-F4AE-70314B55D0D7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986955&Signature=b5ulk4jPFEac2ap%2BSTiH7n42V%2Fg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277594-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=RlqF4YilKH3ItH7i62Kq1C3XEZE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9EB5E522-7A53-CA52-8A2A-61D7D2838E2C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=knKf6NFP9NvVnmDqaw15PEF4V6E%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277594-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD770DBA-FE8B-1E14-CB52-CFC1338A7D7B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375492&Signature=5wU46HcWhwBhonRkRSTNT8VsMtM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277597",
+        "title": "الموسم 1 - الحلقة 3 | Season 1 Episode 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/57EBFE8A-C371-4A00-6264-BB142733E291_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814732&Signature=tZy%2FxImVLeX6gPsc5ywm6jAAUM8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277597-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=tzUFgELTVyec0VmYKl%2BYEr9IzKE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=xy0IcTA2xC%2Fjqmz2zttvUfH8dvs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6CDCAF79-3CD1-8B07-0354-279FE8CEDBA0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=aQtN6ZlwiiUdppe73A0KDvopyKc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/BEDFE43B-5142-D62A-A3A9-71F93104B4FE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814732&Signature=alagJcf545yXBceoNza%2FcuwTIWA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277597-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=tzUFgELTVyec0VmYKl%2BYEr9IzKE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=xy0IcTA2xC%2Fjqmz2zttvUfH8dvs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6CDCAF79-3CD1-8B07-0354-279FE8CEDBA0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=aQtN6ZlwiiUdppe73A0KDvopyKc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1C0CDA2C-6FE0-405D-49D6-FAA3FF6DF79E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814732&Signature=MWq%2FG8XkxQixmVGnLX%2FgssipdzU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277597-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=tzUFgELTVyec0VmYKl%2BYEr9IzKE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=xy0IcTA2xC%2Fjqmz2zttvUfH8dvs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6CDCAF79-3CD1-8B07-0354-279FE8CEDBA0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=aQtN6ZlwiiUdppe73A0KDvopyKc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/89C25C41-F4AE-3DD7-7935-71979BF83509_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814732&Signature=kDzguGdOoRPxLoeSUsnMAwUP2Pk%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277597-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=tzUFgELTVyec0VmYKl%2BYEr9IzKE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=xy0IcTA2xC%2Fjqmz2zttvUfH8dvs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6CDCAF79-3CD1-8B07-0354-279FE8CEDBA0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=aQtN6ZlwiiUdppe73A0KDvopyKc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C52C0A5E-EA3B-31B2-C6C8-AC16BF5815F4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814732&Signature=%2BVVKKlgjMrnY49ArOoSquQylon8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277597-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=tzUFgELTVyec0VmYKl%2BYEr9IzKE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/424DD5F9-7A51-E730-FF35-6D2DA1FFA5E1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=xy0IcTA2xC%2Fjqmz2zttvUfH8dvs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277597-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6CDCAF79-3CD1-8B07-0354-279FE8CEDBA0_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798312307&Signature=aQtN6ZlwiiUdppe73A0KDvopyKc%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277600",
+        "title": "الموسم 1 - الحلقة 4 | Season 1 Episode 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E04 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/73B10A95-2197-DB65-4190-957AFC719AEC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813741&Signature=EVYpQufKry70%2BzUIa%2BJ5oUtnLCQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277600-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=%2Bql7X0e%2Bm25I31l1cVB6Ttpokt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=8BJ4mb69OEzxd65mNKHxZTRrQTA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EA276DFE-5735-89C5-CE31-6FCA7A113FFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=OcXaqgVFzuHBejz0cmzMdi9Nj0U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E04 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/6AD945B7-15EC-C19C-106E-F7905A4B7B44_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813741&Signature=T9yRgSufCprpOnndlKFhLoGNi%2BI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277600-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=%2Bql7X0e%2Bm25I31l1cVB6Ttpokt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=8BJ4mb69OEzxd65mNKHxZTRrQTA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EA276DFE-5735-89C5-CE31-6FCA7A113FFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=OcXaqgVFzuHBejz0cmzMdi9Nj0U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E04 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/A1AD9F67-9B10-229C-C83E-8DF389149404_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813741&Signature=1hSJjnzU0oNCu1WsNQJHg41rKI4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277600-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=%2Bql7X0e%2Bm25I31l1cVB6Ttpokt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=8BJ4mb69OEzxd65mNKHxZTRrQTA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EA276DFE-5735-89C5-CE31-6FCA7A113FFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=OcXaqgVFzuHBejz0cmzMdi9Nj0U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E04 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/AEA09FD9-4494-1BDC-8467-A6874646D1A2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813741&Signature=GDgRwBGdSFDdUZrzUdm0iCDpcH8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277600-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=%2Bql7X0e%2Bm25I31l1cVB6Ttpokt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=8BJ4mb69OEzxd65mNKHxZTRrQTA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EA276DFE-5735-89C5-CE31-6FCA7A113FFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=OcXaqgVFzuHBejz0cmzMdi9Nj0U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E04 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/25804B19-C445-8090-1FCC-D1D4595B773F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813741&Signature=XDBGhvyDJGaOfc15C%2Fmk7e%2BIyj8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277600-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=%2Bql7X0e%2Bm25I31l1cVB6Ttpokt0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/49EB17AD-AD56-2910-E665-4CBBB1422D84_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=8BJ4mb69OEzxd65mNKHxZTRrQTA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277600-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EA276DFE-5735-89C5-CE31-6FCA7A113FFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798390745&Signature=OcXaqgVFzuHBejz0cmzMdi9Nj0U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277603",
+        "title": "الموسم 1 - الحلقة 5 | Season 1 Episode 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E05 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/4E25F7EF-E5D4-FE44-B519-444ECABDD617_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813383&Signature=QnxYBo68%2BlcnP618u4H8NIBcEo0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277603-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=zW5gd6uZ6VqbBD9MWNplZN0YT%2Bc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=xY6xEJmI9tOHmt2N9ZLnTYnTjHQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/15C9588C-F5D6-2CB6-F5CC-E032890BD558_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=ymGYzbwIHGbjhIZ3mBkSLM%2B%2FyMQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E05 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B601079F-1F37-18EE-8FEF-9CA3371BA7CE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813383&Signature=O%2FvWS3V62jmM4vKWncXs4asYJvI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277603-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=zW5gd6uZ6VqbBD9MWNplZN0YT%2Bc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=xY6xEJmI9tOHmt2N9ZLnTYnTjHQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/15C9588C-F5D6-2CB6-F5CC-E032890BD558_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=ymGYzbwIHGbjhIZ3mBkSLM%2B%2FyMQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E05 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/DA04C2C2-48BF-5CFB-7834-3E3C997A42CF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813383&Signature=EFnKOYrathRUnLFc0ZAIwzVRyJI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277603-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=zW5gd6uZ6VqbBD9MWNplZN0YT%2Bc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=xY6xEJmI9tOHmt2N9ZLnTYnTjHQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/15C9588C-F5D6-2CB6-F5CC-E032890BD558_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=ymGYzbwIHGbjhIZ3mBkSLM%2B%2FyMQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E05 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0396E8C4-42EC-19EC-83AB-924B516A168D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813383&Signature=FwJtJuwDbeSvuWNG9peN4YG9IN8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277603-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=zW5gd6uZ6VqbBD9MWNplZN0YT%2Bc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=xY6xEJmI9tOHmt2N9ZLnTYnTjHQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/15C9588C-F5D6-2CB6-F5CC-E032890BD558_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=ymGYzbwIHGbjhIZ3mBkSLM%2B%2FyMQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E05 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/391AABA5-59E0-AD98-1D69-F1E86D277383_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813383&Signature=dWnxxc%2FWvl7xTsQsXMxDg%2BGkODM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277603-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=zW5gd6uZ6VqbBD9MWNplZN0YT%2Bc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BF3ED93B-0F1D-7956-196B-35ADE13684B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=xY6xEJmI9tOHmt2N9ZLnTYnTjHQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277603-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/15C9588C-F5D6-2CB6-F5CC-E032890BD558_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798384293&Signature=ymGYzbwIHGbjhIZ3mBkSLM%2B%2FyMQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277606",
+        "title": "الموسم 1 - الحلقة 6 | Season 1 Episode 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E06 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/1D1F9364-3FC5-7440-8AFE-E50702043C0B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813537&Signature=mgQ37QWur%2Fi108svlhJgzoYvf9A%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277606-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=Bjibc6OdLxSu1C8eEfY%2BWH%2F1zFg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=nmh4jgB6nFpaZ3H2ATN8TYwOlM0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F0809F5-E57A-44D1-2622-059755E6628D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=e%2BljnwQei7Eu%2BNZfvbGmehvwJYg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E06 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8B437925-D37A-1842-1936-C0162F34BBA4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813537&Signature=Xba1SC2%2BSmLyPcHIAORm%2BWfFb%2Fc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277606-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=Bjibc6OdLxSu1C8eEfY%2BWH%2F1zFg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=nmh4jgB6nFpaZ3H2ATN8TYwOlM0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F0809F5-E57A-44D1-2622-059755E6628D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=e%2BljnwQei7Eu%2BNZfvbGmehvwJYg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E06 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/9C9D7186-2A66-D4C2-332E-F7D5C854CDD0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813537&Signature=Kg2CPXtnHELp5%2BA7qGVV7pFxp1U%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277606-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=Bjibc6OdLxSu1C8eEfY%2BWH%2F1zFg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=nmh4jgB6nFpaZ3H2ATN8TYwOlM0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F0809F5-E57A-44D1-2622-059755E6628D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=e%2BljnwQei7Eu%2BNZfvbGmehvwJYg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E06 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/18E499A9-EA0C-5E26-46DD-2F28471DC985_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813537&Signature=a6hyf8tzXHivNTFsBFFadcCupXU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277606-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=Bjibc6OdLxSu1C8eEfY%2BWH%2F1zFg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=nmh4jgB6nFpaZ3H2ATN8TYwOlM0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F0809F5-E57A-44D1-2622-059755E6628D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=e%2BljnwQei7Eu%2BNZfvbGmehvwJYg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E06 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8AF82C3D-5DFA-AFC7-5EE3-09A1CEF6257F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795813537&Signature=Bx0UwjPbebXJumIp%2Fh9hW4nnZ%2Bs%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277606-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=Bjibc6OdLxSu1C8eEfY%2BWH%2F1zFg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DF455F58-27CA-1AB7-E407-36E9711F0D79_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=nmh4jgB6nFpaZ3H2ATN8TYwOlM0%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277606-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6F0809F5-E57A-44D1-2622-059755E6628D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354339&Signature=e%2BljnwQei7Eu%2BNZfvbGmehvwJYg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277609",
+        "title": "الموسم 1 - الحلقة 7 | Season 1 Episode 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E07 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/9212D0BC-7BB1-26B5-FAB8-89C7A08AF38A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814282&Signature=c4MMHIkKWW7VwnY7GR4U1ycPpAg%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277609-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=5rQR7iwleQ%2BmVijTINH5maQAv8M%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=dLHKy7s6tmHdRiE4Th3aDL119Xs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F208C147-44E1-A560-AF17-D9066DA30AFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=mzDwTb6XvP6oZSZz%2FgjsNtTKi8U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E07 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/067D7CA2-B7A5-61DF-AB5E-35940AC33AEA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814282&Signature=maIWlyztltVv0VQ7j7JZW4m4FJ8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277609-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=5rQR7iwleQ%2BmVijTINH5maQAv8M%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=dLHKy7s6tmHdRiE4Th3aDL119Xs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F208C147-44E1-A560-AF17-D9066DA30AFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=mzDwTb6XvP6oZSZz%2FgjsNtTKi8U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E07 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F2FC7355-8589-52E3-A240-EDFF5116DE0E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814282&Signature=pt1ZHfyE8uWm%2BecWBmQFqETSjDM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277609-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=5rQR7iwleQ%2BmVijTINH5maQAv8M%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=dLHKy7s6tmHdRiE4Th3aDL119Xs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F208C147-44E1-A560-AF17-D9066DA30AFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=mzDwTb6XvP6oZSZz%2FgjsNtTKi8U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E07 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/06D3098A-4FF0-2ABE-B886-11FA7304F36E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814282&Signature=%2FO6MPhMI4M9dG7UOEiZFe5skIP0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277609-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=5rQR7iwleQ%2BmVijTINH5maQAv8M%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=dLHKy7s6tmHdRiE4Th3aDL119Xs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F208C147-44E1-A560-AF17-D9066DA30AFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=mzDwTb6XvP6oZSZz%2FgjsNtTKi8U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E07 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/475534BC-D171-550E-88BB-DC864C087DF6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795814282&Signature=bQz1xxI1cq0Bi3pb5bF5Cugi3eE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277609-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=5rQR7iwleQ%2BmVijTINH5maQAv8M%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5D79B2C9-5CB4-CFF2-1D89-0CEBFA43F509_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=dLHKy7s6tmHdRiE4Th3aDL119Xs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277609-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F208C147-44E1-A560-AF17-D9066DA30AFA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798366328&Signature=mzDwTb6XvP6oZSZz%2FgjsNtTKi8U%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277612",
+        "title": "الموسم 1 - الحلقة 8 | Season 1 Episode 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E08 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F22A2579-D0DB-62DE-B11B-3BA381D3D0C8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899789&Signature=qtU1msGNz9c7e1b%2B4sPbddURMJ4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277612-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=mNqB%2FPYSgp13FWw1hzrhGAlRBCo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=Vf%2F3vICIrIWFAzMXvXZxoNwgXmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95E930A0-24F9-CD68-80AE-E9A4F79DA398_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=1MXHRyUMpZ4AKY9sFvgfPRjggTw%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E08 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/316D5C53-174B-8E20-E766-A5C274EF6118_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899789&Signature=aFEpPxfqAh7CGHmZ%2F3u7X8tcHas%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277612-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=mNqB%2FPYSgp13FWw1hzrhGAlRBCo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=Vf%2F3vICIrIWFAzMXvXZxoNwgXmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95E930A0-24F9-CD68-80AE-E9A4F79DA398_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=1MXHRyUMpZ4AKY9sFvgfPRjggTw%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E08 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C267C777-5484-3520-17E0-6657C81DAF96_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899789&Signature=1zXTi0M4AsoPsBv3uQXY0rhwAno%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277612-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=mNqB%2FPYSgp13FWw1hzrhGAlRBCo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=Vf%2F3vICIrIWFAzMXvXZxoNwgXmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95E930A0-24F9-CD68-80AE-E9A4F79DA398_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=1MXHRyUMpZ4AKY9sFvgfPRjggTw%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E08 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D977BDC3-A6B1-F3AB-E410-31B1B2F3761A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899789&Signature=GRcVWYhzCuvow5SXSXRdOJFr1hY%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277612-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=mNqB%2FPYSgp13FWw1hzrhGAlRBCo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=Vf%2F3vICIrIWFAzMXvXZxoNwgXmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95E930A0-24F9-CD68-80AE-E9A4F79DA398_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=1MXHRyUMpZ4AKY9sFvgfPRjggTw%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E08 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/86D96B7A-9525-DE44-CF83-963F2F8C9F46_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899789&Signature=zIzOKC6JzDOyWYzlKrOlVage2Y8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277612-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=mNqB%2FPYSgp13FWw1hzrhGAlRBCo%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/1586B8F8-A35C-4410-D964-C94651B16CFA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=Vf%2F3vICIrIWFAzMXvXZxoNwgXmY%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277612-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95E930A0-24F9-CD68-80AE-E9A4F79DA398_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394387&Signature=1MXHRyUMpZ4AKY9sFvgfPRjggTw%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277615",
+        "title": "الموسم 1 - الحلقة 9 | Season 1 Episode 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E09 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/A7F58675-EFCB-587A-BA10-8CC004ECDDCC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899940&Signature=OyUOGWxgz91CeM1prd6lZ6JgCpE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277615-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=dT3Dzr9RUeGH5O%2BkhST0mbnUmdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=CSPK%2FyISqS1HwQDk%2FheYwHggXL4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8D04D98-85B3-A3E6-1BD1-CB3B23B69563_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=5z9aNlsXZNSUrwtOgz8x0kCgg5A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E09 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D886C042-886D-56BD-DE2B-90A98195E540_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899940&Signature=J3t%2BZl4XsYmEuPQ9bImrI3FPM3g%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277615-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=dT3Dzr9RUeGH5O%2BkhST0mbnUmdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=CSPK%2FyISqS1HwQDk%2FheYwHggXL4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8D04D98-85B3-A3E6-1BD1-CB3B23B69563_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=5z9aNlsXZNSUrwtOgz8x0kCgg5A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E09 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F4D3FF9F-E247-A419-E6D6-F9AAFBFA457B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899940&Signature=sKIfTdtp65ZLFqsuQzV17Os4i8w%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277615-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=dT3Dzr9RUeGH5O%2BkhST0mbnUmdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=CSPK%2FyISqS1HwQDk%2FheYwHggXL4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8D04D98-85B3-A3E6-1BD1-CB3B23B69563_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=5z9aNlsXZNSUrwtOgz8x0kCgg5A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E09 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B1382DAA-8E4D-33F5-DB2E-61F1FE39E97A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899940&Signature=H790ouORV0bJoGrJjgVm3gD%2FG%2B8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277615-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=dT3Dzr9RUeGH5O%2BkhST0mbnUmdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=CSPK%2FyISqS1HwQDk%2FheYwHggXL4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8D04D98-85B3-A3E6-1BD1-CB3B23B69563_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=5z9aNlsXZNSUrwtOgz8x0kCgg5A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E09 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/99814948-0255-D8FD-72CF-12E8DECADB52_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899940&Signature=HYqLAQwnT3HZ%2B9iRmDXyWOmmVL0%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277615-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=dT3Dzr9RUeGH5O%2BkhST0mbnUmdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65D89303-D0BF-99C7-FE58-E29F62F80218_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=CSPK%2FyISqS1HwQDk%2FheYwHggXL4%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277615-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E8D04D98-85B3-A3E6-1BD1-CB3B23B69563_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798386504&Signature=5z9aNlsXZNSUrwtOgz8x0kCgg5A%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277618",
+        "title": "الموسم 1 - الحلقة 10 | Season 1 Episode 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E10 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8854894E-9C6B-6385-35AB-B44D39458DE0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899963&Signature=3AJRQa5zGJejjPHhzcyOyT8V%2Fh4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277618-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=nqEwESS0%2BTPIMWGqZ6zVTixJyKg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=uLexsZg3Ff8JwnLyDxu7Smcu0AA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/637B71B2-D872-CA2D-3D2D-8CB860FABD79_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=UbXrHr8Pia0HsEm1kU9B4nHIJ%2BY%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E10 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F1EFCAC7-B368-DA02-A093-73746A9DE7F2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899963&Signature=jsJIrkG0AiDqPSYtVyBUZDyCpOA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277618-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=nqEwESS0%2BTPIMWGqZ6zVTixJyKg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=uLexsZg3Ff8JwnLyDxu7Smcu0AA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/637B71B2-D872-CA2D-3D2D-8CB860FABD79_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=UbXrHr8Pia0HsEm1kU9B4nHIJ%2BY%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E10 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/CA3F2721-79F6-03FD-17AE-DC4297108303_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899963&Signature=OM11XbMb8XZ%2FGtwJNWBi%2BoyNIoo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277618-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=nqEwESS0%2BTPIMWGqZ6zVTixJyKg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=uLexsZg3Ff8JwnLyDxu7Smcu0AA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/637B71B2-D872-CA2D-3D2D-8CB860FABD79_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=UbXrHr8Pia0HsEm1kU9B4nHIJ%2BY%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E10 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/9C0A9BCA-6467-697A-4E4F-7DBA48076238_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899963&Signature=XTBagusMIkm0F6bkbfCqLPohkfA%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277618-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=nqEwESS0%2BTPIMWGqZ6zVTixJyKg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=uLexsZg3Ff8JwnLyDxu7Smcu0AA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/637B71B2-D872-CA2D-3D2D-8CB860FABD79_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=UbXrHr8Pia0HsEm1kU9B4nHIJ%2BY%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E10 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/04E09D58-92C6-C9E7-32FB-19B762B60F72_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899963&Signature=PN3nPtpAPSa7UliXfQTkrioHj6o%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277618-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=nqEwESS0%2BTPIMWGqZ6zVTixJyKg%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/613D27C1-2299-FF74-4659-9C0730089E4C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=uLexsZg3Ff8JwnLyDxu7Smcu0AA%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277618-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/637B71B2-D872-CA2D-3D2D-8CB860FABD79_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391391&Signature=UbXrHr8Pia0HsEm1kU9B4nHIJ%2BY%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277621",
+        "title": "الموسم 1 - الحلقة 11 | Season 1 Episode 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E11 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/05A09BE9-AD8D-2239-13E8-113129C81727_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901472&Signature=x5GPJd98dsUWJvLQ5bohcIzETNQ%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277621-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=jRqX1uEdTIij%2B%2Frs2LS4kTIJrpQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=%2BqtA%2FoKpjOwlYEGPB4b2lg0L5YI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E0387C69-852D-D361-D940-1A5F69AA7420_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=ehvbn4kvqHCiNljSNbG4ALzM3BU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E11 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/D722C14C-7074-12D4-9D9F-3309019675A1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901472&Signature=K0X2NpbfV3ZyZEfbu8NC65dsODE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277621-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=jRqX1uEdTIij%2B%2Frs2LS4kTIJrpQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=%2BqtA%2FoKpjOwlYEGPB4b2lg0L5YI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E0387C69-852D-D361-D940-1A5F69AA7420_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=ehvbn4kvqHCiNljSNbG4ALzM3BU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E11 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E24309F0-8B01-EF55-9F8B-9B0BC5BED07F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901472&Signature=AVakP8x5OOyxxImNyTRT9uCpSV8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277621-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=jRqX1uEdTIij%2B%2Frs2LS4kTIJrpQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=%2BqtA%2FoKpjOwlYEGPB4b2lg0L5YI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E0387C69-852D-D361-D940-1A5F69AA7420_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=ehvbn4kvqHCiNljSNbG4ALzM3BU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E11 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F59F2355-8D57-032F-A074-547B4B83D206_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901472&Signature=lS2aZ9zrIfvuvjPXmBt4lUnyJy4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277621-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=jRqX1uEdTIij%2B%2Frs2LS4kTIJrpQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=%2BqtA%2FoKpjOwlYEGPB4b2lg0L5YI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E0387C69-852D-D361-D940-1A5F69AA7420_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=ehvbn4kvqHCiNljSNbG4ALzM3BU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E11 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/145A361E-C9FB-8305-8BE0-6289AB077DAF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901472&Signature=W6u058HMpIAaef5D5RoFsSb3z%2Bo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277621-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=jRqX1uEdTIij%2B%2Frs2LS4kTIJrpQ%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/02C26DCA-BADD-CBDC-08C1-606899AA3DE8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=%2BqtA%2FoKpjOwlYEGPB4b2lg0L5YI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277621-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E0387C69-852D-D361-D940-1A5F69AA7420_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798311496&Signature=ehvbn4kvqHCiNljSNbG4ALzM3BU%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277624",
+        "title": "الموسم 1 - الحلقة 12 | Season 1 Episode 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E12 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/2A1107BF-3FE4-3329-915F-EE916A1F13D3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901253&Signature=Xv2O0z1uiGSl17olatwM7T4XADo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277624-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=kKJ%2FvgE8fn%2BvDumPJ%2BXPHBS21pc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=XkMhmCmeK65cdSc%2BJTXXMgTKVqI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DBE33932-1EAE-C51E-2DBD-2E198F40ABF5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=isRBWZ5F87nlJMLGn%2BrwDeYJwDM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E12 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/3C0BE171-23DF-DEA5-F42E-C9586FF80D07_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901253&Signature=5ph8lvhb5hmyRuFABk7MVoFlEG4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277624-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=kKJ%2FvgE8fn%2BvDumPJ%2BXPHBS21pc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=XkMhmCmeK65cdSc%2BJTXXMgTKVqI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DBE33932-1EAE-C51E-2DBD-2E198F40ABF5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=isRBWZ5F87nlJMLGn%2BrwDeYJwDM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E12 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/2F412E23-2B68-23BD-30A5-B42CCEE307AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901253&Signature=hD82vEwUK6PM%2BmTU9%2B4X%2Bugv%2FQ4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277624-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=kKJ%2FvgE8fn%2BvDumPJ%2BXPHBS21pc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=XkMhmCmeK65cdSc%2BJTXXMgTKVqI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DBE33932-1EAE-C51E-2DBD-2E198F40ABF5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=isRBWZ5F87nlJMLGn%2BrwDeYJwDM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E12 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/B4BCAE78-CA4A-9895-D6AE-C9E798D44E7B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901253&Signature=bB0KT0nnXWA0LEpqWhp%2FrZPPBA8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277624-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=kKJ%2FvgE8fn%2BvDumPJ%2BXPHBS21pc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=XkMhmCmeK65cdSc%2BJTXXMgTKVqI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DBE33932-1EAE-C51E-2DBD-2E198F40ABF5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=isRBWZ5F87nlJMLGn%2BrwDeYJwDM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E12 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/490B9FB8-3BF3-5827-E3B3-557569AE61FA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901253&Signature=hSR8s%2FoQ8e47YmJwrleRo%2Fj8Mc4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277624-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=kKJ%2FvgE8fn%2BvDumPJ%2BXPHBS21pc%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B5A633D1-66F0-6483-76E9-4FA923021B5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=XkMhmCmeK65cdSc%2BJTXXMgTKVqI%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277624-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DBE33932-1EAE-C51E-2DBD-2E198F40ABF5_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798363255&Signature=isRBWZ5F87nlJMLGn%2BrwDeYJwDM%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_1277627",
+        "title": "الموسم 1 - الحلقة 13 | Season 1 Episode 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C22FEF1A-92EE-8A23-137A-B879FB9AF572_poster.jpg",
+        "overview": "في ضباب التاريخ والظلام، من كان يهمس؟ عندما ينقشع الضباب الرمادي، من يهمس في الأذن؟ لا يزال النور ساطعًا، والغموض لم يغب يومًا.\n\nIn the fogs of history and darkness, who was whispering? When the gray fog falls, who is whispering in the ear. The light still shines, the mystery has never been far away.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S01E13 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/BF031646-E966-58CF-C46D-F1051783EEDF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899944&Signature=Q8LfFV4ZmvOFsSgCO5gaJPpBEuE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277627-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=J5NEkCXWFEyjuK0M3VVtk5qWMqs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=L6mT%2BF15u9XcVX8RPgkwENjsH7w%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65B09083-85A8-353A-6235-46C23DF598CF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=emKft%2FpWCsiD%2F5hGFXi2ap5OptQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S01E13 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/2B4DEC7D-86FE-D3D0-DAEC-A8C8203EB476_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899944&Signature=SIRnCd0qKHZfWFQDr1wBZVmtefo%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277627-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=J5NEkCXWFEyjuK0M3VVtk5qWMqs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=L6mT%2BF15u9XcVX8RPgkwENjsH7w%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65B09083-85A8-353A-6235-46C23DF598CF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=emKft%2FpWCsiD%2F5hGFXi2ap5OptQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S01E13 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/17BA2A97-8E9C-34F1-F926-1F864AC27820_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899944&Signature=97NIQ%2B%2BBUWHNIIjBVaZA4tvawvM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277627-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=J5NEkCXWFEyjuK0M3VVtk5qWMqs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=L6mT%2BF15u9XcVX8RPgkwENjsH7w%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65B09083-85A8-353A-6235-46C23DF598CF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=emKft%2FpWCsiD%2F5hGFXi2ap5OptQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S01E13 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/E83F101D-2312-6E6E-4C50-2943506608FB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899944&Signature=BytNYOnXo9brRJtJgobCQYhZ5t8%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277627-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=J5NEkCXWFEyjuK0M3VVtk5qWMqs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=L6mT%2BF15u9XcVX8RPgkwENjsH7w%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65B09083-85A8-353A-6235-46C23DF598CF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=emKft%2FpWCsiD%2F5hGFXi2ap5OptQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S01E13 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/912DBFD7-3ACB-C21A-E6D8-8920782E0241_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899944&Signature=GR4Hkbm13opz9CehIUlMQlOJNVE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-1277627-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=J5NEkCXWFEyjuK0M3VVtk5qWMqs%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/D53D6461-853B-6C43-FEEC-897A7A72C115_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=L6mT%2BF15u9XcVX8RPgkwENjsH7w%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-1277627-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/65B09083-85A8-353A-6235-46C23DF598CF_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798375849&Signature=emKft%2FpWCsiD%2F5hGFXi2ap5OptQ%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3108593",
+        "title": "الموسم 2 - الحلقة 1 | Season 2 Episode 1",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/ECBBC237-40E5-9917-36DA-1F7BC45249A5_poster.jpg",
+        "overview": "يخوض كلاين موريتي مغامرة جديدة مليئة بالغموض والمطاردات، ساعيًا لإحباط مؤامرة خطيرة في عالم يعج بالسحر والأسرار\n\nCline Moretti embarks on a new adventure filled with mystery and chases, seeking to thwart a dangerous conspiracy in a world brimming with magic and secrets.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S02E01 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/AC4A36FC-22A8-8E45-105C-83EF5ED346D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899754&Signature=IMRTfIFIxIGCsyJt5dqFJvhCk5A%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108593-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=IA3hGqdCxMsxti378CxT2i7yGdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=znFgSbE%2FTAa9dO7sUa3ZoCeEVMU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/68FE8E64-8004-11FE-9F25-66CC5B14E02D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=1qsFJEwGKcVk6wAVWt7vSFfovW0%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S02E01 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/21D23385-371E-BDC4-F49E-C5CF306FB4B4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899754&Signature=oXwJw7SwRtw6uXlDExF4QP236SE%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108593-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=IA3hGqdCxMsxti378CxT2i7yGdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=znFgSbE%2FTAa9dO7sUa3ZoCeEVMU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/68FE8E64-8004-11FE-9F25-66CC5B14E02D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=1qsFJEwGKcVk6wAVWt7vSFfovW0%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S02E01 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/215A20E9-09F0-BF01-F5CF-B186F652E149_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899754&Signature=GZRYtMgq68BYuKlQnx6GPeOHunc%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108593-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=IA3hGqdCxMsxti378CxT2i7yGdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=znFgSbE%2FTAa9dO7sUa3ZoCeEVMU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/68FE8E64-8004-11FE-9F25-66CC5B14E02D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=1qsFJEwGKcVk6wAVWt7vSFfovW0%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S02E01 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/DD7CE11A-30CA-A26B-889D-DD904EBB10AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899754&Signature=II40n7ShJzMmrVK9%2B6nwX21W3QM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108593-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=IA3hGqdCxMsxti378CxT2i7yGdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=znFgSbE%2FTAa9dO7sUa3ZoCeEVMU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/68FE8E64-8004-11FE-9F25-66CC5B14E02D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=1qsFJEwGKcVk6wAVWt7vSFfovW0%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S02E01 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/ECAFB959-06D4-3940-C9D6-F77091ACD26A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899754&Signature=JWfGpCJ9yiqoMUbUer70fwYFvCI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108593-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=IA3hGqdCxMsxti378CxT2i7yGdE%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6DB2F89A-2298-BF9D-31BC-5F186DA921B9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=znFgSbE%2FTAa9dO7sUa3ZoCeEVMU%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108593-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/68FE8E64-8004-11FE-9F25-66CC5B14E02D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798354589&Signature=1qsFJEwGKcVk6wAVWt7vSFfovW0%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3108596",
+        "title": "الموسم 2 - الحلقة 2 | Season 2 Episode 2",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/ECBBC237-40E5-9917-36DA-1F7BC45249A5_poster.jpg",
+        "overview": "يخوض كلاين موريتي مغامرة جديدة مليئة بالغموض والمطاردات، ساعيًا لإحباط مؤامرة خطيرة في عالم يعج بالسحر والأسرار\n\nCline Moretti embarks on a new adventure filled with mystery and chases, seeking to thwart a dangerous conspiracy in a world brimming with magic and secrets.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S02E02 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/CEC404E8-F11D-0F75-276F-383F27BD0425_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901245&Signature=%2F%2FS0rtcZRYzzKS6XA6fXyg8S2TU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108596-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=5y3zEsW2g4RjFBS1TuKa%2FTBlUnM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=jSOfCnjo%2FNq8j9ppBdxbeyLS1Ew%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/028C1C80-E377-A43E-3D22-3D824CE045BD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=9HKRDbAYSEX1LjW8INNI%2Bnrl%2BeE%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S02E02 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/06CF2972-BCB9-3803-1A08-BD9224493ADF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901245&Signature=qgn3pt%2BMZ30REti0wQNftoZOPpM%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108596-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=5y3zEsW2g4RjFBS1TuKa%2FTBlUnM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=jSOfCnjo%2FNq8j9ppBdxbeyLS1Ew%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/028C1C80-E377-A43E-3D22-3D824CE045BD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=9HKRDbAYSEX1LjW8INNI%2Bnrl%2BeE%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S02E02 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/AA8DAFA3-9EA0-A8A7-AA1C-60B81876E106_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901245&Signature=vXWWGQGim4753dxdtbeicR7o8J4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108596-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=5y3zEsW2g4RjFBS1TuKa%2FTBlUnM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=jSOfCnjo%2FNq8j9ppBdxbeyLS1Ew%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/028C1C80-E377-A43E-3D22-3D824CE045BD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=9HKRDbAYSEX1LjW8INNI%2Bnrl%2BeE%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S02E02 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/0823A35E-537B-848E-5DE7-217F0FE019CB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901245&Signature=N2C9OMfrdlCrfCJ7aQ1ohkSOEBU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108596-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=5y3zEsW2g4RjFBS1TuKa%2FTBlUnM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=jSOfCnjo%2FNq8j9ppBdxbeyLS1Ew%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/028C1C80-E377-A43E-3D22-3D824CE045BD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=9HKRDbAYSEX1LjW8INNI%2Bnrl%2BeE%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S02E02 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/A022A2C6-8B78-6820-4197-8CFBCAFC2B39_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901245&Signature=XRK0osJTjALJljGJkWjMgwn8j2M%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108596-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=5y3zEsW2g4RjFBS1TuKa%2FTBlUnM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/53D5E4C3-D97E-4E5B-B20F-27B3AA5B79DC_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=jSOfCnjo%2FNq8j9ppBdxbeyLS1Ew%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108596-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/028C1C80-E377-A43E-3D22-3D824CE045BD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394389&Signature=9HKRDbAYSEX1LjW8INNI%2Bnrl%2BeE%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cine_3108599",
+        "title": "الموسم 2 - الحلقة 3 | Season 2 Episode 3",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/ECBBC237-40E5-9917-36DA-1F7BC45249A5_poster.jpg",
+        "overview": "يخوض كلاين موريتي مغامرة جديدة مليئة بالغموض والمطاردات، ساعيًا لإحباط مؤامرة خطيرة في عالم يعج بالسحر والأسرار\n\nCline Moretti embarks on a new adventure filled with mystery and chases, seeking to thwart a dangerous conspiracy in a world brimming with magic and secrets.",
+        "streams": [
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+            "title": "Lord of Mysteries S02E03 • 1080p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/8BAE89E3-E6B7-F5F1-200E-C43701E328DA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900083&Signature=V2y60C0vwI4hxx9AIArrtSlP0rU%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108599-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=RtzLX8Mpc3aKjNKttclL%2B0iDRhM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=sD27DG5mnVRDk5P8XJbUdku9lz8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D280E8E-AED6-5277-1C5F-C46DB3250835_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=f1mHaLSbOkxp0lTLk2ymuE39vRg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-1080p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+            "title": "Lord of Mysteries S02E03 • 720p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/C339C015-6740-7E3F-6DC4-85C4930A6D0D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900083&Signature=fs0utQ1%2FI%2Bz1Dwt358P2nym9K1o%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108599-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=RtzLX8Mpc3aKjNKttclL%2B0iDRhM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=sD27DG5mnVRDk5P8XJbUdku9lz8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D280E8E-AED6-5277-1C5F-C46DB3250835_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=f1mHaLSbOkxp0lTLk2ymuE39vRg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-720p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+            "title": "Lord of Mysteries S02E03 • 480p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/7CEF59C6-DF8B-9455-7692-9B924D1CC199_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900083&Signature=%2BM8TRRAFuD9mNJtbcpJeBaa%2FbOI%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108599-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=RtzLX8Mpc3aKjNKttclL%2B0iDRhM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=sD27DG5mnVRDk5P8XJbUdku9lz8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D280E8E-AED6-5277-1C5F-C46DB3250835_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=f1mHaLSbOkxp0lTLk2ymuE39vRg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-480p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+            "title": "Lord of Mysteries S02E03 • 360p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/50E35498-7613-AD86-2820-778325B99362_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900083&Signature=%2BOo2i4hUMzaxC1d86sIOayr77n4%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108599-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=RtzLX8Mpc3aKjNKttclL%2B0iDRhM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=sD27DG5mnVRDk5P8XJbUdku9lz8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D280E8E-AED6-5277-1C5F-C46DB3250835_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=f1mHaLSbOkxp0lTLk2ymuE39vRg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-360p"
+            }
+          },
+          {
+            "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+            "title": "Lord of Mysteries S02E03 • 240p (MP4)",
+            "url": "https://cdn.shabakaty.cc/vascin24-mp4/F036BAD0-6D20-0DF2-9E69-F559569DACAD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900083&Signature=IXN%2Fj3CWXjmpacxyp3NuKYFt97g%3D",
+            "subtitles": [
+              {
+                "id": "cine-sub-3108599-0",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=RtzLX8Mpc3aKjNKttclL%2B0iDRhM%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-1",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/96DF275A-EAA8-6E22-C23E-60E69BD26B21_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=sD27DG5mnVRDk5P8XJbUdku9lz8%3D",
+                "lang": "ar"
+              },
+              {
+                "id": "cine-sub-3108599-2",
+                "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8D280E8E-AED6-5277-1C5F-C46DB3250835_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391458&Signature=f1mHaLSbOkxp0lTLk2ymuE39vRg%3D",
+                "lang": "sp"
+              }
+            ],
+            "behaviorHints": {
+              "bingeGroup": "cinemana-240p"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

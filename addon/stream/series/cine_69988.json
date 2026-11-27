@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "رسالة المختار | المختار الثقفي S01E13 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/17B08A65-C89D-ECE8-2B02-097C6859F9EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160311&Signature=zCEjZ7uf8kshOz6XUIMo%2B1UFv1A%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "رسالة المختار | المختار الثقفي S01E13 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/08B9CE6C-F574-9F73-CC8C-FE189F36B7A7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074108&Signature=gH7iduZg2oyBK5bsEOhcGA2%2Bkoo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "رسالة المختار | المختار الثقفي S01E13 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/506CEAAB-54EF-21AE-82D5-103CAF82578B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074108&Signature=iOsVP33rPwNAhbRUEDlGrBm9ZJE%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "رسالة المختار | المختار الثقفي S01E13 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/FD656AFD-29E7-4194-6665-651A5634F56F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074108&Signature=PfmJgPQHetMS7sbq13qAAerpJlQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

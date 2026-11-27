@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Strange Snake Story in Shangtong Village • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5C428ADC-01AD-A379-4C8D-D85E94E318DF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900841&Signature=2qf9EkRR52y8IkKP%2Bl5JCUadlYo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=e6u5SFP5Gs%2BU7H6IPcsKNaOh49k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=QtKYTIAWgtRAtZWBSsdTn1ELxCk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=hh5Exm%2FoN3OOFyzoPnb47Bafki8%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302398-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=jBNpD5mztMgAhOUZ%2BFTnkHAJMkk%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Strange Snake Story in Shangtong Village • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0711BCDC-4AA9-3923-5252-016D566549AA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900841&Signature=D%2Buh0B%2BWtwi6EoAp5Xam67NDb3M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=e6u5SFP5Gs%2BU7H6IPcsKNaOh49k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=QtKYTIAWgtRAtZWBSsdTn1ELxCk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=hh5Exm%2FoN3OOFyzoPnb47Bafki8%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302398-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=jBNpD5mztMgAhOUZ%2BFTnkHAJMkk%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Strange Snake Story in Shangtong Village • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0E8F47BB-F145-32C1-5651-D345F7205837_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900841&Signature=24O9VS9gl4ghkJj6FOEQRM4UtF4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=e6u5SFP5Gs%2BU7H6IPcsKNaOh49k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=QtKYTIAWgtRAtZWBSsdTn1ELxCk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=hh5Exm%2FoN3OOFyzoPnb47Bafki8%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302398-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=jBNpD5mztMgAhOUZ%2BFTnkHAJMkk%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Strange Snake Story in Shangtong Village • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BAF1A539-63AD-6968-9DCE-540E27FEB101_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900841&Signature=oQVL%2Fd2YfzJXMRkqU91xVa%2Fn0Uw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=e6u5SFP5Gs%2BU7H6IPcsKNaOh49k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=QtKYTIAWgtRAtZWBSsdTn1ELxCk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=hh5Exm%2FoN3OOFyzoPnb47Bafki8%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302398-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=jBNpD5mztMgAhOUZ%2BFTnkHAJMkk%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Strange Snake Story in Shangtong Village • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6904D459-DD83-ED1E-49CA-4F147BC78570_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900841&Signature=WNMa1x5wzHzde2a0UzTrXDl9B14%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=e6u5SFP5Gs%2BU7H6IPcsKNaOh49k%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/BDD3089D-4D92-088A-4BBE-7C23A3ABE85D_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=QtKYTIAWgtRAtZWBSsdTn1ELxCk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=hh5Exm%2FoN3OOFyzoPnb47Bafki8%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302398-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4CBA4DDF-9D06-64A4-537D-BE7C2C3B7D75_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323689&Signature=jBNpD5mztMgAhOUZ%2BFTnkHAJMkk%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

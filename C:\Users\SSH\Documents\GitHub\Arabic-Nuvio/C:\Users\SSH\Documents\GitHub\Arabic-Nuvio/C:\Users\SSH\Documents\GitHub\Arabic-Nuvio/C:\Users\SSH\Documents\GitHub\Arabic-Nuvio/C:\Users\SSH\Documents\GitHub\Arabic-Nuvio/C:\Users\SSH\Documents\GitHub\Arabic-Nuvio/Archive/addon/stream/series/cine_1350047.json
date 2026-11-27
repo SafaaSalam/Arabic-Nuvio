@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Supersensory Maze S01E20 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/08EC05FD-2B41-D2DE-D4EC-6957C197B581_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793311935&Signature=xrznCHLcnYG4nGNfPHNaDMq%2Fyxo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350047-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=OUiKDZN5%2FySam%2B01o%2B%2F3JZofH2A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=zGw8cljmHe54VnFi3S9X1TQeI%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=EeVEZ7pChGIaMNWKuhlmocwlKOg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350047-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=y83%2F9HKsUfkPR1MQKLkhOf9o%2FsI%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Supersensory Maze S01E20 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/085A7AEB-0AC1-FE2D-406A-E797F3E63D5C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793311935&Signature=Y6amgQufldSy%2FIpTGeqYtRsxaxA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350047-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=OUiKDZN5%2FySam%2B01o%2B%2F3JZofH2A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=zGw8cljmHe54VnFi3S9X1TQeI%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=EeVEZ7pChGIaMNWKuhlmocwlKOg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350047-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=y83%2F9HKsUfkPR1MQKLkhOf9o%2FsI%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Supersensory Maze S01E20 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9FA8A426-B4FA-2A95-7F66-0A5B8B2710D6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793311935&Signature=hTexqRX40W%2BD2Aror9%2Br2rYSMt4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350047-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=OUiKDZN5%2FySam%2B01o%2B%2F3JZofH2A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=zGw8cljmHe54VnFi3S9X1TQeI%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=EeVEZ7pChGIaMNWKuhlmocwlKOg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350047-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=y83%2F9HKsUfkPR1MQKLkhOf9o%2FsI%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Supersensory Maze S01E20 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3D7AA50B-A3C7-7FE9-9B0D-8244DA01309B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793311935&Signature=5uzZI%2BEkCuEBgu72guXOie80bus%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350047-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=OUiKDZN5%2FySam%2B01o%2B%2F3JZofH2A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=zGw8cljmHe54VnFi3S9X1TQeI%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=EeVEZ7pChGIaMNWKuhlmocwlKOg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350047-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=y83%2F9HKsUfkPR1MQKLkhOf9o%2FsI%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Supersensory Maze S01E20 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0F9F889C-C1F1-CE6D-0A58-4250BF36F33C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793311935&Signature=rQhig4j3MVNrq13Z4c7kTp7egC0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1350047-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=OUiKDZN5%2FySam%2B01o%2B%2F3JZofH2A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/38AA0C9A-EC45-871F-1C0F-942839A13DB1_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=zGw8cljmHe54VnFi3S9X1TQeI%2B0%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1350047-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=EeVEZ7pChGIaMNWKuhlmocwlKOg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1350047-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DA2B9F59-E206-E6CC-7303-16E20A7B2A7C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602574&Signature=y83%2F9HKsUfkPR1MQKLkhOf9o%2FsI%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

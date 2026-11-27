@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "لص بغداد • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/6F112E32-B978-ACD7-B268-BF8AA2E1669D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073173&Signature=YxUiFvF7q%2FI2fE30sdWLY0Ww1jo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "لص بغداد • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/27314B5E-B38E-8F21-D5D6-BA6DBC8904AF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073173&Signature=oPGv8hWhRCN3d5R5wgdn20FvkKw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "لص بغداد • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/108C2E61-2AFF-EA50-01A2-67F5ADF63510_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073173&Signature=G%2BbrFfL6RKLYr%2FbJ9u1ArTS0LN0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "لص بغداد • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/3B774529-0421-1C75-F05B-2EF5862A4B28_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073173&Signature=AmWvfvmn%2F2rzStrwkH7kbkbBKWY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "لص بغداد • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/4D9BBD07-C3BB-2B22-AD82-31F2F6285D9F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073173&Signature=qED1e8ZnCCIMctYCIJaBAaHWiO8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

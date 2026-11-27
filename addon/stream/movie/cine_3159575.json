@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "التوقع | The Last Scene Dubbed • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/ECBFF102-3467-1F87-A461-281163EDD82F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796032870&Signature=izN6Pxk%2FNzbpqpVPsKOTbh06%2BJk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "التوقع | The Last Scene Dubbed • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/57153BEE-6E21-5118-4B07-3E2AA497BDEE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796032870&Signature=6Lulh21hJmZMClkIrYtOT%2BFb9xQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "التوقع | The Last Scene Dubbed • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4D46649C-BB8B-2A95-2D3E-1C6F5E462687_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796032870&Signature=ojFirRHHxF42mKyxtjI2kOhMg5Q%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "التوقع | The Last Scene Dubbed • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E97171BA-F9CF-AF84-60B8-363B4563F9A8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796032870&Signature=1OguN6psGtUi9ccsioMLaJPOVMc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "التوقع | The Last Scene Dubbed • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/07132379-285E-CDA4-D5CC-A07554281F0B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796032870&Signature=lfkLja%2FN7CbhjuaTiGkysqwWGqI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

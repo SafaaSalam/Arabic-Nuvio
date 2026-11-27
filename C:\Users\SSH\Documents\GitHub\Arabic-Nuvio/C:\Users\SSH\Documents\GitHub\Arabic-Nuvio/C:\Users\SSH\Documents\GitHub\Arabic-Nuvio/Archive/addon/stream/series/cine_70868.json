@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Diamond no Ace S01E07 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/FA3764E6-F378-09F4-E0E1-8FECB1F1E315_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793226455&Signature=JDafnsriBijUT5BvPZUrikjXbz0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=CvRU%2FQgUKHL3ESxWcSErVJStSIE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=EXOgWJklk9%2BUaPZ2P4hsrFEKqeA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/420AB758-403D-19D6-1FE8-EF3CFCEFB505_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=pH96dy%2Fbgt%2BvUf6s8bPGcEZ%2BbvU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Diamond no Ace S01E07 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/4CF913A7-3F6A-133D-B618-FE83A0AB2CA3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793226455&Signature=J8eUklGgZLLLV9pfi9VhT9ynoUo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=CvRU%2FQgUKHL3ESxWcSErVJStSIE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=EXOgWJklk9%2BUaPZ2P4hsrFEKqeA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/420AB758-403D-19D6-1FE8-EF3CFCEFB505_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=pH96dy%2Fbgt%2BvUf6s8bPGcEZ%2BbvU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Diamond no Ace S01E07 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/5EE0ED25-D4F5-DD81-2837-55CF8A6DBDF1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793226455&Signature=EIyia7sjae%2FU6XDAkLWEbHE3jRc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=CvRU%2FQgUKHL3ESxWcSErVJStSIE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=EXOgWJklk9%2BUaPZ2P4hsrFEKqeA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/420AB758-403D-19D6-1FE8-EF3CFCEFB505_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=pH96dy%2Fbgt%2BvUf6s8bPGcEZ%2BbvU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Diamond no Ace S01E07 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/A6F33CF0-59EF-746D-FC57-EC94B36439C1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793226455&Signature=0Yha1%2BTIjRh0hQBOOO278qTQoqM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=CvRU%2FQgUKHL3ESxWcSErVJStSIE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=EXOgWJklk9%2BUaPZ2P4hsrFEKqeA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/420AB758-403D-19D6-1FE8-EF3CFCEFB505_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=pH96dy%2Fbgt%2BvUf6s8bPGcEZ%2BbvU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Diamond no Ace S01E07 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/914D8E40-2F50-347B-12C8-CEF43C182D11_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793226455&Signature=XgQj6UlvN9BECNg%2FinyZTB1JBQ0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-70868-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=CvRU%2FQgUKHL3ESxWcSErVJStSIE%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6824AD34-1BA5-DF46-A1C2-096ABDD9A642_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=EXOgWJklk9%2BUaPZ2P4hsrFEKqeA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-70868-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/420AB758-403D-19D6-1FE8-EF3CFCEFB505_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795538961&Signature=pH96dy%2Fbgt%2BvUf6s8bPGcEZ%2BbvU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

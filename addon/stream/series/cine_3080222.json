@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Hokuto no Ken (2026) S01E13 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/45AF2864-9220-1FBF-FC27-9C8C9F4F0C6A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815506&Signature=HastO3xCE8gJKIn5l%2FZIELb3eao%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3080222-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=H2lLZ2k8Vl3rCUqJDLX2IzBNGLk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=7v%2BFbKC3dFcc43y5MuJZ3cZ8PzY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/41419A13-860A-ADA3-305F-E86EC2C8682B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=uA03UybObDMpQHndXT%2BJcRE%2FqAc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Hokuto no Ken (2026) S01E13 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1DBB09D8-DC78-4382-F1AD-66324B824D5A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815506&Signature=Ra%2BKCVuK7E8uM8I5X314rmL8lZc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3080222-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=H2lLZ2k8Vl3rCUqJDLX2IzBNGLk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=7v%2BFbKC3dFcc43y5MuJZ3cZ8PzY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/41419A13-860A-ADA3-305F-E86EC2C8682B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=uA03UybObDMpQHndXT%2BJcRE%2FqAc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Hokuto no Ken (2026) S01E13 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/71590ACD-9108-C7B0-9148-96C13714DCA5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815506&Signature=%2F7WC6GfuJJ%2BcKu7HypJyWGEMFBQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3080222-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=H2lLZ2k8Vl3rCUqJDLX2IzBNGLk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=7v%2BFbKC3dFcc43y5MuJZ3cZ8PzY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/41419A13-860A-ADA3-305F-E86EC2C8682B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=uA03UybObDMpQHndXT%2BJcRE%2FqAc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Hokuto no Ken (2026) S01E13 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F875B2A5-42F4-0EFB-31BA-7091DB7BF78B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815506&Signature=5rXtKqkgG%2BnYBn7q7S2t%2B%2BVYnTg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3080222-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=H2lLZ2k8Vl3rCUqJDLX2IzBNGLk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=7v%2BFbKC3dFcc43y5MuJZ3cZ8PzY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/41419A13-860A-ADA3-305F-E86EC2C8682B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=uA03UybObDMpQHndXT%2BJcRE%2FqAc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Hokuto no Ken (2026) S01E13 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C5A22ED5-725A-5377-266E-068F2C288E5E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795815506&Signature=xDGRT63P8jDmlTu6bfz2brh2EHQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3080222-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=H2lLZ2k8Vl3rCUqJDLX2IzBNGLk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C336792A-D279-EC33-8889-A1959E5DC465_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=7v%2BFbKC3dFcc43y5MuJZ3cZ8PzY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3080222-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/41419A13-860A-ADA3-305F-E86EC2C8682B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394392&Signature=uA03UybObDMpQHndXT%2BJcRE%2FqAc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "King kong return • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/69C0F1CA-5FF1-8F31-8EEC-97BFD1442B88_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332036&Signature=zygHiwi7dljmUyWfF7dwJVabhDE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303811-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=jRwW6hrXSVAzkoHsSM3HrmsCZFc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=RXmuYeBZUY1f%2F8jUSkz0nW5h2Sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=mHsj3iSK8tC0hton7DZvnbSZepg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303811-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=V7FTalZfLz7baewJDNilUekNn30%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "King kong return • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/46EAC752-9A81-B7CF-8167-30D9973314A6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332036&Signature=OXLuyNiUXYfOwrzC0Z5WESLDN5M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303811-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=jRwW6hrXSVAzkoHsSM3HrmsCZFc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=RXmuYeBZUY1f%2F8jUSkz0nW5h2Sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=mHsj3iSK8tC0hton7DZvnbSZepg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303811-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=V7FTalZfLz7baewJDNilUekNn30%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "King kong return • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/82672B36-9457-EDA8-559B-F9EBAC5C344A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332036&Signature=ZFKeKQiRdICAa5jM5wmfkBO4A1g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303811-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=jRwW6hrXSVAzkoHsSM3HrmsCZFc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=RXmuYeBZUY1f%2F8jUSkz0nW5h2Sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=mHsj3iSK8tC0hton7DZvnbSZepg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303811-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=V7FTalZfLz7baewJDNilUekNn30%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "King kong return • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B83E58DE-EA6E-37F1-E43E-3DAEB5B7BB7E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332036&Signature=i5kzPbdOiVJIaougc4YLRGu%2Bk4U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303811-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=jRwW6hrXSVAzkoHsSM3HrmsCZFc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=RXmuYeBZUY1f%2F8jUSkz0nW5h2Sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=mHsj3iSK8tC0hton7DZvnbSZepg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303811-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=V7FTalZfLz7baewJDNilUekNn30%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "King kong return • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AAED2304-2421-CC4F-9336-A3E1AC1C8394_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332036&Signature=N6ka4C0Vc1%2B39%2FSJcRZpMyihebg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1303811-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=jRwW6hrXSVAzkoHsSM3HrmsCZFc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/83897093-1DDA-0EFE-9F23-EE57137C55F5_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=RXmuYeBZUY1f%2F8jUSkz0nW5h2Sw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1303811-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=mHsj3iSK8tC0hton7DZvnbSZepg%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1303811-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F569762C-1AD9-846E-1ADF-B67DF31EC81C_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798376741&Signature=V7FTalZfLz7baewJDNilUekNn30%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

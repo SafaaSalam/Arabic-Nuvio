@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_animes__dark-machine-the-animation",
+    "type": "series",
+    "name": "Dark Machine: The Animation",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Dark Machine: The Animation — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_animes__dark-machine-the-animation:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg"
+      }
+    ]
+  }
+}

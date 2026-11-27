@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Speedy Cat Zhan Zhao • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/250C345E-B61B-682C-D5D9-C77310C20B7E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075388&Signature=yWdpCQztj1h2Nb0yfbSlsGtEGRE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299278-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=BKUibscj4bmXMcDd019h7ajrKf8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=o3oHMbXdYZ%2FWT7XVOHZrlRDOhI8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=ZbRmsfKXoWFvRYBX6I1p%2FBC%2Bymc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299278-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=6FYJWyJe2Kyh4K8R5Itv47uQ3hw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Speedy Cat Zhan Zhao • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/80318EF9-A2A3-9043-BA2D-16088C8E5182_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075388&Signature=5Y4RBXOln4ul5AN1tICc%2FECS23Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299278-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=BKUibscj4bmXMcDd019h7ajrKf8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=o3oHMbXdYZ%2FWT7XVOHZrlRDOhI8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=ZbRmsfKXoWFvRYBX6I1p%2FBC%2Bymc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299278-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=6FYJWyJe2Kyh4K8R5Itv47uQ3hw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Speedy Cat Zhan Zhao • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1269EDA3-3764-A6E1-D712-2819F0794365_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075388&Signature=BahxWf9YWhMJQcYDwJLxvaH6eFE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299278-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=BKUibscj4bmXMcDd019h7ajrKf8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=o3oHMbXdYZ%2FWT7XVOHZrlRDOhI8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=ZbRmsfKXoWFvRYBX6I1p%2FBC%2Bymc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299278-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=6FYJWyJe2Kyh4K8R5Itv47uQ3hw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Speedy Cat Zhan Zhao • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8422B0C4-6C00-D2D7-E2F1-A71E65704848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075388&Signature=JCVmZaT%2B6NMqcjdVCn2%2FLJnGkS0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299278-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=BKUibscj4bmXMcDd019h7ajrKf8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=o3oHMbXdYZ%2FWT7XVOHZrlRDOhI8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=ZbRmsfKXoWFvRYBX6I1p%2FBC%2Bymc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299278-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=6FYJWyJe2Kyh4K8R5Itv47uQ3hw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Speedy Cat Zhan Zhao • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E028581C-1131-1F63-F810-ADCDC9A74B5B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796075388&Signature=bYlnHC5m9i37kYNxQoJXT6VLVN8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299278-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=BKUibscj4bmXMcDd019h7ajrKf8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F64D27D7-7E98-674F-6279-86E7400A3DE9_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=o3oHMbXdYZ%2FWT7XVOHZrlRDOhI8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299278-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=ZbRmsfKXoWFvRYBX6I1p%2FBC%2Bymc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299278-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8ED308A2-74B2-5602-8D4D-2FA74D2BE375_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394611&Signature=6FYJWyJe2Kyh4K8R5Itv47uQ3hw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

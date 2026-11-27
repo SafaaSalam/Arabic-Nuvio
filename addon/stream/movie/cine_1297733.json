@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Hidden in the Kunlun • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/774ABD1C-0109-8D39-C30F-42E9BEF7785A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332224&Signature=ARmNltQ24f%2B7d1a0wtGETcs9EBE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297733-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=1H80ojeBiFJqsVwikxU7w1DmxOM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=ZkU2QtZilpveAnyvrilXpw6mktA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=s%2FP5SktqlghQt7bjH56u3c1uRlc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297733-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=gLCN%2BzRKZqBo931dIqWSdPJL7FE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Hidden in the Kunlun • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/92CBBDF8-0C0B-5F30-3987-A5F1714ED5C5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332224&Signature=TfL7nCCqL9iE77gAJHvIHuJ%2FHWQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297733-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=1H80ojeBiFJqsVwikxU7w1DmxOM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=ZkU2QtZilpveAnyvrilXpw6mktA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=s%2FP5SktqlghQt7bjH56u3c1uRlc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297733-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=gLCN%2BzRKZqBo931dIqWSdPJL7FE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Hidden in the Kunlun • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/80B2BF9B-D1CB-A3EC-CCB1-C846A2BB328A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332224&Signature=R4bMOtUuIcCcQoS4OuoWoiFEOWw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297733-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=1H80ojeBiFJqsVwikxU7w1DmxOM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=ZkU2QtZilpveAnyvrilXpw6mktA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=s%2FP5SktqlghQt7bjH56u3c1uRlc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297733-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=gLCN%2BzRKZqBo931dIqWSdPJL7FE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Hidden in the Kunlun • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6B70B273-019D-C93A-53F0-436681E91675_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332224&Signature=QlTSrnsJf0kC9GgwIyssBm7BGZU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297733-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=1H80ojeBiFJqsVwikxU7w1DmxOM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=ZkU2QtZilpveAnyvrilXpw6mktA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=s%2FP5SktqlghQt7bjH56u3c1uRlc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297733-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=gLCN%2BzRKZqBo931dIqWSdPJL7FE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Hidden in the Kunlun • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/940F96F1-3708-69B2-D900-3AAC91F41CE9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332224&Signature=HvJkQct0k599E0D%2B8x8sLbP8FXc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1297733-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=1H80ojeBiFJqsVwikxU7w1DmxOM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/429014CC-E1FF-3563-5991-DDDEDCAF316B_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=ZkU2QtZilpveAnyvrilXpw6mktA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1297733-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=s%2FP5SktqlghQt7bjH56u3c1uRlc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1297733-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/25A0FC59-640F-0CF0-F695-FDB83A29C585_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393690&Signature=gLCN%2BzRKZqBo931dIqWSdPJL7FE%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

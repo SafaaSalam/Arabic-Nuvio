@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "رغدة متوحشة • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/CB63B901-2642-78B6-A36E-6CB26A469A7B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986291&Signature=C%2F29lCHVkDM4aFWx3vfYN%2BbEeWk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "رغدة متوحشة • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/60D00B80-449D-8BFE-38B5-63AD87C0CEF9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986291&Signature=H38sX1TnHS1IkdP%2Bfshf4cVPCd4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "رغدة متوحشة • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/CCEBFB00-19E7-BC80-0A9E-98DE7464EF82_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986291&Signature=Rt1oan%2F8O6zc5U9k9UFGJ%2B5kpRI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "رغدة متوحشة • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/D720BD69-E10D-4F25-4DB0-B9A0458AA159_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986291&Signature=itjVfvhilfh0psqYRZ6DsPTT4IY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "رغدة متوحشة • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/EC26DC40-C308-D62D-5EA0-17413398B6CF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986291&Signature=jBlcOzFA%2BRMPtSi17yeZnQzH8h4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

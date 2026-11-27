@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Kizumonogatari III: Reiketsu-hen • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/2B9DB630-BC31-2341-2A52-DEC86263FED4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245961&Signature=wV8dYPahIYH3nNYCQHBNbEcev3U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-92769-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=uTMinzWs%2F%2BUWIw1%2Fvn9zbkDCUvg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=RFrotESKNZX1RFxF1Dg9toxV7mg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32512A74-3CDC-1925-DB62-6ABA50D2CF6D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=msIke1UvdoWRcf9ONt0BwLB29Bo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Kizumonogatari III: Reiketsu-hen • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/CB16E09A-E5A0-1975-7D4A-F07A5C26D6D0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245961&Signature=zPQfLhUlNDmlMQn7CvenxfSFxNg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-92769-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=uTMinzWs%2F%2BUWIw1%2Fvn9zbkDCUvg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=RFrotESKNZX1RFxF1Dg9toxV7mg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32512A74-3CDC-1925-DB62-6ABA50D2CF6D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=msIke1UvdoWRcf9ONt0BwLB29Bo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Kizumonogatari III: Reiketsu-hen • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/E4F3D0A7-783F-DDBB-0E28-272DFC2C85B0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245961&Signature=aHGWsi9eeRgeK4zJTl3rs1ZVEns%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-92769-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=uTMinzWs%2F%2BUWIw1%2Fvn9zbkDCUvg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=RFrotESKNZX1RFxF1Dg9toxV7mg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32512A74-3CDC-1925-DB62-6ABA50D2CF6D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=msIke1UvdoWRcf9ONt0BwLB29Bo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Kizumonogatari III: Reiketsu-hen • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/399DBCD6-EEDD-FB44-B813-C3175C176848_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245961&Signature=eGPQWUEH1Pn2rCLUGWuVDKCCtOs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-92769-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=uTMinzWs%2F%2BUWIw1%2Fvn9zbkDCUvg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=RFrotESKNZX1RFxF1Dg9toxV7mg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32512A74-3CDC-1925-DB62-6ABA50D2CF6D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=msIke1UvdoWRcf9ONt0BwLB29Bo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Kizumonogatari III: Reiketsu-hen • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/B73C4F41-F07B-8C50-8371-FA47CF8AEDF5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245961&Signature=PY1V2Yy%2FEjYxAK73pKQEyloWJ1k%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-92769-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=uTMinzWs%2F%2BUWIw1%2Fvn9zbkDCUvg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7D044454-238B-2874-AB52-828F9F2D5D5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=RFrotESKNZX1RFxF1Dg9toxV7mg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-92769-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/32512A74-3CDC-1925-DB62-6ABA50D2CF6D_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798323044&Signature=msIke1UvdoWRcf9ONt0BwLB29Bo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

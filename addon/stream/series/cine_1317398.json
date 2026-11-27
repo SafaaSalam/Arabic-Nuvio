@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Chitose-kun wa Ramune Bin no Naka S01E11 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D868AA8E-85D3-2647-BBB4-52B3563596D5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076397&Signature=rGoorfgc7YaCZJkWOljDyiPQGDU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=VuTDUfpHzbCr5zeTZht0U%2F7mNM4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=E5ennHZed1zjqk1uPPleALyqDnw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0F95F333-AF4D-D193-9040-6D3AEB388550_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=alopQ2O16uAZHn5MIIFm4b%2F04LQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Chitose-kun wa Ramune Bin no Naka S01E11 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4B430352-BC7D-2198-C3E3-3290C0B9059C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076397&Signature=6ZDOGG1hzl8FI4AAeQM7EeCZsdo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=VuTDUfpHzbCr5zeTZht0U%2F7mNM4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=E5ennHZed1zjqk1uPPleALyqDnw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0F95F333-AF4D-D193-9040-6D3AEB388550_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=alopQ2O16uAZHn5MIIFm4b%2F04LQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Chitose-kun wa Ramune Bin no Naka S01E11 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/10DC9142-CE3B-DBC8-6790-43AEF952BB29_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076397&Signature=3l%2FvMGbqDso9wiaGRCzIGsaw048%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=VuTDUfpHzbCr5zeTZht0U%2F7mNM4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=E5ennHZed1zjqk1uPPleALyqDnw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0F95F333-AF4D-D193-9040-6D3AEB388550_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=alopQ2O16uAZHn5MIIFm4b%2F04LQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Chitose-kun wa Ramune Bin no Naka S01E11 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DA9D0845-59AF-240E-B8C2-DD7B9B4AEFC3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076397&Signature=0L1B0cXlH9uAClqaqirdV%2FxGHX4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=VuTDUfpHzbCr5zeTZht0U%2F7mNM4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=E5ennHZed1zjqk1uPPleALyqDnw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0F95F333-AF4D-D193-9040-6D3AEB388550_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=alopQ2O16uAZHn5MIIFm4b%2F04LQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Chitose-kun wa Ramune Bin no Naka S01E11 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6E3E5C05-5948-D8F3-DC02-C48843E59C8D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796076397&Signature=qXzGR0h6YnN8K1tu6PR71wH0yFk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1317398-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=VuTDUfpHzbCr5zeTZht0U%2F7mNM4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DB845C5C-D018-0B90-81E5-3F9827C01230_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=E5ennHZed1zjqk1uPPleALyqDnw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1317398-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/0F95F333-AF4D-D193-9040-6D3AEB388550_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394531&Signature=alopQ2O16uAZHn5MIIFm4b%2F04LQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

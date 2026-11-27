@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Uchioto S01E14 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7C8C180C-EEF9-CA54-EF63-15DFDAAA4370_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332532&Signature=rLgbIRo3LQlB0DyORV8hs9Sk0Wo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110444-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=hdJfMTbNukaogK7%2FC9ZSzQadPzo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=nJowo%2B%2FWp4B1sBNsAO6vvP5e9jY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9853B2E2-0F7B-996A-FA12-87016385E268_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=3BXkwb6R9D8c6xNfn9nCco7mkLk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Uchioto S01E14 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/92F0E3EB-D7D6-CE9F-7185-A5D5D81BE818_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332532&Signature=TD5PN2dQWceSL95%2BhlR0uGqx7wE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110444-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=hdJfMTbNukaogK7%2FC9ZSzQadPzo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=nJowo%2B%2FWp4B1sBNsAO6vvP5e9jY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9853B2E2-0F7B-996A-FA12-87016385E268_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=3BXkwb6R9D8c6xNfn9nCco7mkLk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Uchioto S01E14 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A6F84A91-7935-45C9-6A67-386513DA438C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332532&Signature=z4H3cgiVl07uiXnS0Fc688lT%2BxM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110444-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=hdJfMTbNukaogK7%2FC9ZSzQadPzo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=nJowo%2B%2FWp4B1sBNsAO6vvP5e9jY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9853B2E2-0F7B-996A-FA12-87016385E268_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=3BXkwb6R9D8c6xNfn9nCco7mkLk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Uchioto S01E14 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8DE03B4A-C267-C8B0-BE99-7A62F8CE2AC1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332532&Signature=lcbydfOoGbBGqgOOJG9SN4DSyk8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110444-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=hdJfMTbNukaogK7%2FC9ZSzQadPzo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=nJowo%2B%2FWp4B1sBNsAO6vvP5e9jY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9853B2E2-0F7B-996A-FA12-87016385E268_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=3BXkwb6R9D8c6xNfn9nCco7mkLk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Uchioto S01E14 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/74035034-BC8F-A2F7-352F-F2E2E44B9EF1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332532&Signature=UwLz%2FoCC8BTZ%2BMRkfYKSxz8bKyM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110444-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=hdJfMTbNukaogK7%2FC9ZSzQadPzo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EE37CD23-B103-96EA-F25F-8ACD1C9B9E06_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=nJowo%2B%2FWp4B1sBNsAO6vvP5e9jY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110444-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9853B2E2-0F7B-996A-FA12-87016385E268_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382454&Signature=3BXkwb6R9D8c6xNfn9nCco7mkLk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

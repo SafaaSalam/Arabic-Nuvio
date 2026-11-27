@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Sasaki to Pii-chan S01E10 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FB5B6335-56ED-4608-F368-96567D201574_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332535&Signature=oPg5NZQutjgAcGfCNXc3on87FSY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089095-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=0w6hhCoKLxvbw3%2FaM2U6Sv4F8xM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=H%2B3UBeI49R6c0OrrVcLpqDTC%2ByI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF9309FB-B702-35B4-16E9-3A95FA44E4A8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=eKSIRfGNn23Gs2qPLsBwjapZRwk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Sasaki to Pii-chan S01E10 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8078D7EE-1D02-A768-BC7D-D46ED65A4737_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332535&Signature=TESkGtuyen3LgD%2Bl5YXjbE9X2xw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089095-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=0w6hhCoKLxvbw3%2FaM2U6Sv4F8xM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=H%2B3UBeI49R6c0OrrVcLpqDTC%2ByI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF9309FB-B702-35B4-16E9-3A95FA44E4A8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=eKSIRfGNn23Gs2qPLsBwjapZRwk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Sasaki to Pii-chan S01E10 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E17439EE-2A32-7DBE-7172-EC11F5A7E2FA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332535&Signature=VdNwL%2F7D%2FfZIJtLJSS6c84ZTvig%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089095-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=0w6hhCoKLxvbw3%2FaM2U6Sv4F8xM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=H%2B3UBeI49R6c0OrrVcLpqDTC%2ByI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF9309FB-B702-35B4-16E9-3A95FA44E4A8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=eKSIRfGNn23Gs2qPLsBwjapZRwk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Sasaki to Pii-chan S01E10 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2532FCBC-80C7-EA66-C822-CDC330759A40_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332535&Signature=f2E%2Bi82kgMRbb8DCCYVBIrb8Z4M%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089095-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=0w6hhCoKLxvbw3%2FaM2U6Sv4F8xM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=H%2B3UBeI49R6c0OrrVcLpqDTC%2ByI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF9309FB-B702-35B4-16E9-3A95FA44E4A8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=eKSIRfGNn23Gs2qPLsBwjapZRwk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Sasaki to Pii-chan S01E10 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/562E271D-06DB-317F-8D92-E114A9069810_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332535&Signature=iBr3Mjq7u2r%2F%2BHlFxJIbDXYeH9A%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1089095-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=0w6hhCoKLxvbw3%2FaM2U6Sv4F8xM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/78E519F3-2C82-FB46-6F37-3BDB83552027_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=H%2B3UBeI49R6c0OrrVcLpqDTC%2ByI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1089095-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF9309FB-B702-35B4-16E9-3A95FA44E4A8_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798337968&Signature=eKSIRfGNn23Gs2qPLsBwjapZRwk%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

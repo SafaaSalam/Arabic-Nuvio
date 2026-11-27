@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "animerco_animes__kusuriya-no-hitorigoto",
+    "type": "series",
+    "name": "Kusuriya no Hitorigoto",
+    "poster": "https://eva.animerco.org/wp-content/uploads/2025/01/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "posterShape": "poster",
+    "background": "https://eva.animerco.org/wp-content/uploads/2025/01/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "landscapePoster": "https://eva.animerco.org/wp-content/uploads/2025/01/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "description": "Kusuriya no Hitorigoto — Animerco Featured Anime",
+    "videos": [
+      {
+        "id": "animerco_animes__kusuriya-no-hitorigoto:1:1",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://eva.animerco.org/wp-content/uploads/2025/01/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+      }
+    ]
+  }
+}

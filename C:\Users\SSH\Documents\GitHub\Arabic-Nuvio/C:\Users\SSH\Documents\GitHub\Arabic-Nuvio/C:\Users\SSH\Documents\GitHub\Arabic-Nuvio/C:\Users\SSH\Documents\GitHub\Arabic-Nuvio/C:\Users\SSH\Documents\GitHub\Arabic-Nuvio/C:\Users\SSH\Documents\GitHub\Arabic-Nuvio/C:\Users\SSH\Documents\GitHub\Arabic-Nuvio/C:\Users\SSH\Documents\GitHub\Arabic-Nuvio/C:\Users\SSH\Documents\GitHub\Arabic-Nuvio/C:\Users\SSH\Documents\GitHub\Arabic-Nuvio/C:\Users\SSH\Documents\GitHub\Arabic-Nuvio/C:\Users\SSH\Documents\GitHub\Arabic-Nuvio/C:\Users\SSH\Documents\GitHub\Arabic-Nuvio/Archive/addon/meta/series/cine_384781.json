@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "id": "cine_384781",
+    "type": "series",
+    "name": "BTS In The SOOP",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "برنامج ترفيهي يعرض لنا استرخاء اعضاء بانقتان في الطبيعة ويركز على حياتهم اليومية بشكل اوسع.\n\nBTS In The SOOP: Takes place in the woods, and the concept of the show is to spend time doing activities that are “somewhere in between everyday life and leisure.",
+    "releaseInfo": "2020",
+    "imdbRating": "9.6",
+    "genres": [
+      "مغامرة | Adventure",
+      "كوميدي | Comedy",
+      "Reality-TV",
+      "شريحة من الحياة | Slice of Life"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_384781",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/88D2E970-F806-AD84-9B4C-7019294C6999_poster.jpg",
+        "overview": "BTS In The SOOP",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "JoJo's Bizarre Adventure S01E09 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin19-mp4/C5F1B7D9-8EFE-CB09-2BFF-2D79E4C8DE3C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986048&Signature=LfIRobgzWoKTZGgiohhwf2k4uBs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55865-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=1yAj5Yx4Xq5f6m1AIpPkeGkBRBw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=nqTnxOgDDfBFPAPVNULQIRlyaIs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/340FDEAC-7FAB-82E6-EA9A-FC27C716066B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=17XgXlAdLd%2B65NaMJjnbcedf7rs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "JoJo's Bizarre Adventure S01E09 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/977AEFF6-142D-E29A-8702-B44998394D15_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796161077&Signature=cWevZ%2BfgLedS20iieSghAXpS%2Fyw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55865-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=1yAj5Yx4Xq5f6m1AIpPkeGkBRBw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=nqTnxOgDDfBFPAPVNULQIRlyaIs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/340FDEAC-7FAB-82E6-EA9A-FC27C716066B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=17XgXlAdLd%2B65NaMJjnbcedf7rs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "JoJo's Bizarre Adventure S01E09 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/11D82188-5F18-1761-609E-DDD754AA211A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072721&Signature=9YDWUL3FkZh7dxtw1T3j9qrvUp8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55865-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=1yAj5Yx4Xq5f6m1AIpPkeGkBRBw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=nqTnxOgDDfBFPAPVNULQIRlyaIs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/340FDEAC-7FAB-82E6-EA9A-FC27C716066B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=17XgXlAdLd%2B65NaMJjnbcedf7rs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "JoJo's Bizarre Adventure S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/9A150D38-DBC9-285D-86BC-11487EEA77A6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072721&Signature=vapRs1u2mlj6PomGQkIatvNRSww%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55865-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=1yAj5Yx4Xq5f6m1AIpPkeGkBRBw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=nqTnxOgDDfBFPAPVNULQIRlyaIs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/340FDEAC-7FAB-82E6-EA9A-FC27C716066B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=17XgXlAdLd%2B65NaMJjnbcedf7rs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "JoJo's Bizarre Adventure S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/CAE6A46A-460D-257F-778B-F79CED6332EF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072721&Signature=ahul%2BGNXk%2F2PoNSDJTxxSc%2BDdsY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-55865-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=1yAj5Yx4Xq5f6m1AIpPkeGkBRBw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ED90B84B-AA3E-B04E-B2F2-5AB5E862D643_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=nqTnxOgDDfBFPAPVNULQIRlyaIs%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-55865-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/340FDEAC-7FAB-82E6-EA9A-FC27C716066B_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798387524&Signature=17XgXlAdLd%2B65NaMJjnbcedf7rs%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

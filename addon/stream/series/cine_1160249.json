@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Nige Jouzu no Wakagimi S01E09 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/424649EB-B372-83F9-4CBC-423C54478B45_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796085302&Signature=hVXp2LZtSAnFgAfQGjUcNav08rc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1160249-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=XEWIsrh%2Bk6wnY8lYg4K%2FJMfmx6s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=hKKdsl3Ztyhj0zlOeIbbc8LOoNk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C44642CC-E942-6159-22C3-EBFD9AD09471_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=491Vn4YjOFcyjAI7OqDj%2Fzom750%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Nige Jouzu no Wakagimi S01E09 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/2072CD34-AE9F-0066-B243-086DB7E66FC7_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796085302&Signature=jQXep2l1vscVP%2B%2Fs0nPEkhSWBQM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1160249-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=XEWIsrh%2Bk6wnY8lYg4K%2FJMfmx6s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=hKKdsl3Ztyhj0zlOeIbbc8LOoNk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C44642CC-E942-6159-22C3-EBFD9AD09471_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=491Vn4YjOFcyjAI7OqDj%2Fzom750%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Nige Jouzu no Wakagimi S01E09 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7AFAEBC7-A633-D6F9-2541-4BC2FC8E629A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796085302&Signature=N666EptqlpIonqASdRqTO4bL7D4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1160249-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=XEWIsrh%2Bk6wnY8lYg4K%2FJMfmx6s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=hKKdsl3Ztyhj0zlOeIbbc8LOoNk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C44642CC-E942-6159-22C3-EBFD9AD09471_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=491Vn4YjOFcyjAI7OqDj%2Fzom750%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Nige Jouzu no Wakagimi S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5A235404-B16D-4543-4C67-7C545FBF38E9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796085302&Signature=J%2BNJB9GC%2FXYnyD%2BawaOygHcpmB4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1160249-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=XEWIsrh%2Bk6wnY8lYg4K%2FJMfmx6s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=hKKdsl3Ztyhj0zlOeIbbc8LOoNk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C44642CC-E942-6159-22C3-EBFD9AD09471_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=491Vn4YjOFcyjAI7OqDj%2Fzom750%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Nige Jouzu no Wakagimi S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0AE99069-617E-3EF4-6387-452D52101070_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796085302&Signature=LEc%2FS3F5Yxd5J6Z8pb5JmXyyTd4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1160249-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=XEWIsrh%2Bk6wnY8lYg4K%2FJMfmx6s%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AF67BD8C-E235-33A8-0F8C-9526C589C811_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=hKKdsl3Ztyhj0zlOeIbbc8LOoNk%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1160249-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C44642CC-E942-6159-22C3-EBFD9AD09471_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798345041&Signature=491Vn4YjOFcyjAI7OqDj%2Fzom750%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

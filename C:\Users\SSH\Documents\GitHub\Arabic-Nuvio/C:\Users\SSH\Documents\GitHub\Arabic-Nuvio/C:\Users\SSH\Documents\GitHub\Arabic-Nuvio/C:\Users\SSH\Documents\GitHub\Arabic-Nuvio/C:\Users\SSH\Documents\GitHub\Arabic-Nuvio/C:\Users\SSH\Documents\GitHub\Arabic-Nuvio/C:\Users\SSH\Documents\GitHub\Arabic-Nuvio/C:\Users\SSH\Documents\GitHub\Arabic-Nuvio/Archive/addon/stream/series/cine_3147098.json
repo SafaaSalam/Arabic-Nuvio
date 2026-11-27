@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Shuiro no Kamen S01E03 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BD7B6D9D-7209-1933-D833-ED0A17C17169_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793457188&Signature=eZr%2F%2BNuoMTvsnyC9EruexTb4Zd4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147098-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=P6oXEJUY6w%2FoPLf4js0M8asqPJc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=8fcxmh80%2FjBwbylaO0ukX9zheQQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD94E339-D202-F8CB-49CB-9D07BF9DD024_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=F2Jma0UoWVkNhAVJ%2BChYVGkuTdc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Shuiro no Kamen S01E03 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CC38D34F-2971-5854-5DB9-1BFA135E49CF_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793457188&Signature=Vq%2FNjWxamBvQ40FcG0WtPrjNVko%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147098-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=P6oXEJUY6w%2FoPLf4js0M8asqPJc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=8fcxmh80%2FjBwbylaO0ukX9zheQQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD94E339-D202-F8CB-49CB-9D07BF9DD024_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=F2Jma0UoWVkNhAVJ%2BChYVGkuTdc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Shuiro no Kamen S01E03 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E98E84DA-5B08-338D-2F0C-B21FC6754E83_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793457188&Signature=1MbFYoJu3odGmOWstc7MgXFupOk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147098-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=P6oXEJUY6w%2FoPLf4js0M8asqPJc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=8fcxmh80%2FjBwbylaO0ukX9zheQQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD94E339-D202-F8CB-49CB-9D07BF9DD024_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=F2Jma0UoWVkNhAVJ%2BChYVGkuTdc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Shuiro no Kamen S01E03 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/344099B5-CE0D-EA20-FE64-2759EFE4117A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793457188&Signature=vgewX%2Ba%2FPLs5aqQimWUHM0YcBfQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147098-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=P6oXEJUY6w%2FoPLf4js0M8asqPJc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=8fcxmh80%2FjBwbylaO0ukX9zheQQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD94E339-D202-F8CB-49CB-9D07BF9DD024_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=F2Jma0UoWVkNhAVJ%2BChYVGkuTdc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Shuiro no Kamen S01E03 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/154B4AFA-0FD5-C547-0923-92DCD71567BB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793457188&Signature=UmTh5SrWF%2B3vsmgx34h22Tlfctw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3147098-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=P6oXEJUY6w%2FoPLf4js0M8asqPJc%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/95BCF7EB-90FA-A2C5-D808-1DE1AE498128_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=8fcxmh80%2FjBwbylaO0ukX9zheQQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3147098-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AD94E339-D202-F8CB-49CB-9D07BF9DD024_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795602715&Signature=F2Jma0UoWVkNhAVJ%2BChYVGkuTdc%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

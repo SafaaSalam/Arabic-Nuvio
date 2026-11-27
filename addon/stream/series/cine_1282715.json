@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tougen Anki S01E02 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/AC6F22FC-EC6C-3F92-B4EF-5EF8D35F38DA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899800&Signature=wwul3TDP%2BUSTlxLsEloVdvyQS0g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282715-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=WOBTokyrbrhBuB5vhW849Ub6gPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=IbcqqeP45EmjPhR18t%2BkWDn%2FFxA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A914E4A-6453-DE99-2341-E7B9CBDB6B88_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=b1SClTEkjCtcmMBg2xYef3332qU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tougen Anki S01E02 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/332429FB-200C-A954-0BB5-2536C1A7C3C6_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899800&Signature=%2Fz4ORzPaLAUUn4PMW0jxaBAi1xo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282715-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=WOBTokyrbrhBuB5vhW849Ub6gPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=IbcqqeP45EmjPhR18t%2BkWDn%2FFxA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A914E4A-6453-DE99-2341-E7B9CBDB6B88_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=b1SClTEkjCtcmMBg2xYef3332qU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tougen Anki S01E02 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/55321D01-308E-465C-C4DE-F9C85219F3C3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899800&Signature=ZMEOVjQ%2Fv1HAfKvPYkx%2BbzAXgo0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282715-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=WOBTokyrbrhBuB5vhW849Ub6gPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=IbcqqeP45EmjPhR18t%2BkWDn%2FFxA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A914E4A-6453-DE99-2341-E7B9CBDB6B88_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=b1SClTEkjCtcmMBg2xYef3332qU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tougen Anki S01E02 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FF282CDC-D8D5-0538-32E3-BA7D113EFCC1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899800&Signature=Tdj7JMnqf%2BntHc85PFDCFZ%2FIx%2Fc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282715-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=WOBTokyrbrhBuB5vhW849Ub6gPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=IbcqqeP45EmjPhR18t%2BkWDn%2FFxA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A914E4A-6453-DE99-2341-E7B9CBDB6B88_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=b1SClTEkjCtcmMBg2xYef3332qU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tougen Anki S01E02 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9DA868F2-2131-5D36-422A-2250425FEB95_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899800&Signature=zKpkhKSN0%2F9ntz1ptquHvMapD4Q%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282715-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=WOBTokyrbrhBuB5vhW849Ub6gPY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5F7F26E5-B1C3-F3B7-16FE-360C20C6D237_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=IbcqqeP45EmjPhR18t%2BkWDn%2FFxA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282715-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/9A914E4A-6453-DE99-2341-E7B9CBDB6B88_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798378389&Signature=b1SClTEkjCtcmMBg2xYef3332qU%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

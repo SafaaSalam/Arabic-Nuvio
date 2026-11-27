@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Shioama S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DA1B100C-DBD4-4F59-7D13-5F5CD336ACB8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159872&Signature=U1nJtA0Xp%2B0RJGyDeXA3STU3eXU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=pz3H%2FZnINuCUFTat4TMfdA6Uzn4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=ueGzaPVn6fciZ3vtm37FiEUt96Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F1B63E44-4769-7C0B-9BB2-9AE172B462CA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=hr7VZGuhAR2uGSf0iivVcTBL2h4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Shioama S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3E3B8BBF-0419-F64D-89E7-BB0F87DF9D77_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159872&Signature=8D8DrTOZYjEOv7L8xkVw%2BHQQY7U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=pz3H%2FZnINuCUFTat4TMfdA6Uzn4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=ueGzaPVn6fciZ3vtm37FiEUt96Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F1B63E44-4769-7C0B-9BB2-9AE172B462CA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=hr7VZGuhAR2uGSf0iivVcTBL2h4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Shioama S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/87776C5F-BB82-E609-21DB-61932DC47310_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159872&Signature=ebgbQbJDWcuESbjFgqHYVZSm0I8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=pz3H%2FZnINuCUFTat4TMfdA6Uzn4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=ueGzaPVn6fciZ3vtm37FiEUt96Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F1B63E44-4769-7C0B-9BB2-9AE172B462CA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=hr7VZGuhAR2uGSf0iivVcTBL2h4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Shioama S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/635439BB-E2B8-BDA6-41B4-A71B8233146A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159872&Signature=0RH6uPyRLsuhGhhk5r8sbylhZSQ%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=pz3H%2FZnINuCUFTat4TMfdA6Uzn4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=ueGzaPVn6fciZ3vtm37FiEUt96Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F1B63E44-4769-7C0B-9BB2-9AE172B462CA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=hr7VZGuhAR2uGSf0iivVcTBL2h4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Shioama S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4F0E7201-51F4-1894-1BB5-6007FFC55728_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159872&Signature=9TdCdl2Xg49MZHeXCgANtTgtaiI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3145925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=pz3H%2FZnINuCUFTat4TMfdA6Uzn4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3EEB6615-A689-484C-8C9F-5CFDBBBAE93C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=ueGzaPVn6fciZ3vtm37FiEUt96Y%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3145925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F1B63E44-4769-7C0B-9BB2-9AE172B462CA_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798328493&Signature=hr7VZGuhAR2uGSf0iivVcTBL2h4%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

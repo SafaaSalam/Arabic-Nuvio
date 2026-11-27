@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Shiboyugi. 44: Cloudy Beach • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/33557236-40E6-5B63-5F00-E3B302E341BC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160362&Signature=IST2LFqISvYC%2BRK8g2iVArzRvc4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3114830-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=KGW48iHYV6mBmLQwk56BwvMYlZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=ZGPBxMi4K0ApZrA70zuq7owDPaY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2DC133C3-225F-EC42-D08B-C3D3B9F117D1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=TcAMH1ydNunuCPSH0xgP5jKM9jg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Shiboyugi. 44: Cloudy Beach • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DA9F5610-E233-2A1F-9758-98740913B220_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160362&Signature=8NXwq1J6fXCp78vzT8Y1VWCC5DU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3114830-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=KGW48iHYV6mBmLQwk56BwvMYlZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=ZGPBxMi4K0ApZrA70zuq7owDPaY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2DC133C3-225F-EC42-D08B-C3D3B9F117D1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=TcAMH1ydNunuCPSH0xgP5jKM9jg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Shiboyugi. 44: Cloudy Beach • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EED221C0-118C-495C-41EC-1FBC789CD5AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160362&Signature=nRGHN%2BzAE3Qw523zh4wP1PTaf%2Bs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3114830-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=KGW48iHYV6mBmLQwk56BwvMYlZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=ZGPBxMi4K0ApZrA70zuq7owDPaY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2DC133C3-225F-EC42-D08B-C3D3B9F117D1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=TcAMH1ydNunuCPSH0xgP5jKM9jg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Shiboyugi. 44: Cloudy Beach • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/57B36FAA-DBAC-88CC-B281-2B1F067127CC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160362&Signature=OQsoitsJnNWYRUtC5VXXreGUp%2Bo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3114830-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=KGW48iHYV6mBmLQwk56BwvMYlZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=ZGPBxMi4K0ApZrA70zuq7owDPaY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2DC133C3-225F-EC42-D08B-C3D3B9F117D1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=TcAMH1ydNunuCPSH0xgP5jKM9jg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Shiboyugi. 44: Cloudy Beach • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1FE678F6-D979-987F-CABB-D27677860FA0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160362&Signature=QeDSxvIR5%2FWzxehHcZJ4dCsf2KU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3114830-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=KGW48iHYV6mBmLQwk56BwvMYlZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/6AEBF9A4-F84B-2020-841E-659832F68FCE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=ZGPBxMi4K0ApZrA70zuq7owDPaY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3114830-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2DC133C3-225F-EC42-D08B-C3D3B9F117D1_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798381485&Signature=TcAMH1ydNunuCPSH0xgP5jKM9jg%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

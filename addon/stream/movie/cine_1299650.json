@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Dragon Lady • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/87FD8D67-F934-9934-DC8D-96303180C9F8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159738&Signature=ouD4Sedupqo6p1XIaZbh%2BAnrY%2FI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=SsGebMyfyyyd5k9F85frO5es0xY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=ew8473WU1BNdt4E4pNV6tWdDJP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=%2BKSJW8R8A8%2FCkNYZjLWusIvgsmQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299650-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=5zMbOEMT3Xy%2Barv7Cm6VK2sts%2Bc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Dragon Lady • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D5670C42-73FB-0942-3FAD-67FE585DE791_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159738&Signature=RSPf1HnafXTUt6261DW162HVZKM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=SsGebMyfyyyd5k9F85frO5es0xY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=ew8473WU1BNdt4E4pNV6tWdDJP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=%2BKSJW8R8A8%2FCkNYZjLWusIvgsmQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299650-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=5zMbOEMT3Xy%2Barv7Cm6VK2sts%2Bc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Dragon Lady • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/BBAEE1AC-23F8-0242-D933-9FAE376DEE7C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159738&Signature=N9ETOrFLWk%2Bn0vv%2BGuEjqq%2FGEng%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=SsGebMyfyyyd5k9F85frO5es0xY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=ew8473WU1BNdt4E4pNV6tWdDJP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=%2BKSJW8R8A8%2FCkNYZjLWusIvgsmQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299650-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=5zMbOEMT3Xy%2Barv7Cm6VK2sts%2Bc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Dragon Lady • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1C2801F8-7AA6-A527-4912-BA4B381A83D2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159738&Signature=hTQ5MjhS6D9uE4rThcGYM3iRudM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=SsGebMyfyyyd5k9F85frO5es0xY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=ew8473WU1BNdt4E4pNV6tWdDJP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=%2BKSJW8R8A8%2FCkNYZjLWusIvgsmQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299650-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=5zMbOEMT3Xy%2Barv7Cm6VK2sts%2Bc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Dragon Lady • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8F7E979B-825D-FBE9-25DB-881E67FDBE70_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159738&Signature=xg0Iir%2FWqcy48ml0lv212zwU2Wc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1299650-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=SsGebMyfyyyd5k9F85frO5es0xY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/3D126D1F-FB76-5C05-7786-672823472121_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=ew8473WU1BNdt4E4pNV6tWdDJP4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1299650-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=%2BKSJW8R8A8%2FCkNYZjLWusIvgsmQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1299650-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/B06A3E10-A71C-6095-A195-3A363B3D02E4_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798327637&Signature=5zMbOEMT3Xy%2Barv7Cm6VK2sts%2Bc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

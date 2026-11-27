@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "مش انا | مش أنا • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/9C25EE8E-C9CA-8333-EBD3-F31E4B11E881_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074020&Signature=7bT%2FymDAouBLKJJqA8JxSne%2FqHc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "مش انا | مش أنا • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/A6A50EEB-B4CD-B8CC-CA5E-01A37DF73F7F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074020&Signature=FHzrOq3k5wY%2FpMuM0JrH33okZRY%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "مش انا | مش أنا • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/DF7448F8-7F32-D7E9-A876-F1FE6C78EEBD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074020&Signature=jEmIraDsa4QIPA78hA%2FjTTelPGo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "مش انا | مش أنا • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/F9B122FF-8EFB-C3B8-77DE-FC93D4C3735F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074020&Signature=cTsGjLn9NtJ0MngYiDwWrMgC%2Fr4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "مش انا | مش أنا • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/351232AB-D443-57BA-2327-9B9F53646A13_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796074020&Signature=Rk4RoqYUCjj%2B8LF9VBbwaXxq60A%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

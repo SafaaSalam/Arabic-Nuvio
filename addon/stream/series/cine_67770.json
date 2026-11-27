@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "My Hero Academia S01E04 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/576033FE-A878-E5B2-8AD9-4F45FACE4EFD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160270&Signature=RyrzxAPpDMA%2Ff4LqPKYK8gNRv5o%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-67770-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=554%2B%2BeFLSAcv4ae%2BJaAA6qex9lY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=H1vwSPkD%2FOQgiV7Nmq7OT9PDSbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/23B6F35F-C9F5-9734-43EF-47F4F635A584_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=bt5ztyio%2Bw1WO61ALJs6vvl%2F3pE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "My Hero Academia S01E04 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/344C156F-DCF9-115F-00C5-A68FFD5B273C_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796160270&Signature=fs98kVfoIzGQwWk90w1pNAlkCOk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-67770-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=554%2B%2BeFLSAcv4ae%2BJaAA6qex9lY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=H1vwSPkD%2FOQgiV7Nmq7OT9PDSbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/23B6F35F-C9F5-9734-43EF-47F4F635A584_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=bt5ztyio%2Bw1WO61ALJs6vvl%2F3pE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "My Hero Academia S01E04 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/E4027D94-87A3-018B-2029-D543BBD87428_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073015&Signature=q1xvU9HJlpZvZea2LGs2kvj3Ro4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-67770-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=554%2B%2BeFLSAcv4ae%2BJaAA6qex9lY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=H1vwSPkD%2FOQgiV7Nmq7OT9PDSbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/23B6F35F-C9F5-9734-43EF-47F4F635A584_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=bt5ztyio%2Bw1WO61ALJs6vvl%2F3pE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "My Hero Academia S01E04 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/764A23F7-BFDC-6097-8CC9-AA24BF32E027_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073015&Signature=%2Fj8LCYzIqUJcoSWRvXUt%2FVqyN7g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-67770-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=554%2B%2BeFLSAcv4ae%2BJaAA6qex9lY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=H1vwSPkD%2FOQgiV7Nmq7OT9PDSbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/23B6F35F-C9F5-9734-43EF-47F4F635A584_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=bt5ztyio%2Bw1WO61ALJs6vvl%2F3pE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "My Hero Academia S01E04 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin17-mp4/E0329B27-5EEF-435C-6869-2A3BDE092FB4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073015&Signature=9YBKdl2dV9FLeWE7o67OCaKKONc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-67770-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=554%2B%2BeFLSAcv4ae%2BJaAA6qex9lY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F47904E9-9B3F-5CEE-A35A-BC6D448A1B0C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=H1vwSPkD%2FOQgiV7Nmq7OT9PDSbM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-67770-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/23B6F35F-C9F5-9734-43EF-47F4F635A584_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389489&Signature=bt5ztyio%2Bw1WO61ALJs6vvl%2F3pE%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Dealer Hunting • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EC56C4A7-0EAF-02BE-4DA3-C01E7614F57E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072917&Signature=PWJuyeYbnryWDocUNKlqGH0Uzu4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=H8oK%2B%2F7LRBibBVsRGhq61Ud01WQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=TL94vQgOiDcYF%2B0R6rGKt%2BKxaYQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=QuTCS8fsJ5Q7KYmnRPQ%2F1z1LaiU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296569-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=MpYLiiZMba9Lwb8FJ56680yEB3I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Dealer Hunting • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4F319EED-5521-08A9-D750-4F40E4F79668_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072917&Signature=DMPv%2FAQG4A1WQMZwlM4bWTIICYs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=H8oK%2B%2F7LRBibBVsRGhq61Ud01WQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=TL94vQgOiDcYF%2B0R6rGKt%2BKxaYQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=QuTCS8fsJ5Q7KYmnRPQ%2F1z1LaiU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296569-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=MpYLiiZMba9Lwb8FJ56680yEB3I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Dealer Hunting • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F56DA203-B4B0-BAD4-8208-4BA91CFB2F2F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072917&Signature=Xklchoc4mVjn5nuusScgw%2FG6qbc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=H8oK%2B%2F7LRBibBVsRGhq61Ud01WQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=TL94vQgOiDcYF%2B0R6rGKt%2BKxaYQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=QuTCS8fsJ5Q7KYmnRPQ%2F1z1LaiU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296569-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=MpYLiiZMba9Lwb8FJ56680yEB3I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Dealer Hunting • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/78768F7E-B964-7DAB-D0FE-644A75D4732D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072917&Signature=mduva4iu5Dfop9GuwWmTziT3wGA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=H8oK%2B%2F7LRBibBVsRGhq61Ud01WQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=TL94vQgOiDcYF%2B0R6rGKt%2BKxaYQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=QuTCS8fsJ5Q7KYmnRPQ%2F1z1LaiU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296569-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=MpYLiiZMba9Lwb8FJ56680yEB3I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Dealer Hunting • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7379DC34-D1AD-1505-89D5-4941CA6C3080_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072917&Signature=P6LQPdicip5S%2BtbokUIzBDNSeD0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296569-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=H8oK%2B%2F7LRBibBVsRGhq61Ud01WQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C8EB4AFF-8813-90E1-B462-2289630277BA_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=TL94vQgOiDcYF%2B0R6rGKt%2BKxaYQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296569-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=QuTCS8fsJ5Q7KYmnRPQ%2F1z1LaiU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296569-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/08A9DCEC-C198-8A41-B8AE-76032028243D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798347385&Signature=MpYLiiZMba9Lwb8FJ56680yEB3I%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

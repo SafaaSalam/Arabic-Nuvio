@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tsuihou Sareta Tensei Juukishi S01E15 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/DEC6503C-1E21-8998-CA29-14F28E08ADB2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332509&Signature=CZazp5C2pBplumiTmSZne3aFptI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110069-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=LpBi6mV%2BUaSQMGbNP%2BCbwXshFe8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=V4shVy1t49RxiSEEK02nr2%2FlKEM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/522B73C1-8A89-1556-B376-CBF8D4279ABD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=TCQSYeuvzHURYucjjx9JktQpUnI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tsuihou Sareta Tensei Juukishi S01E15 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5109D872-5A42-D682-9136-6B46FAADCAD4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332509&Signature=miFORe3CURpPgQfppy2TwiaOH2g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110069-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=LpBi6mV%2BUaSQMGbNP%2BCbwXshFe8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=V4shVy1t49RxiSEEK02nr2%2FlKEM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/522B73C1-8A89-1556-B376-CBF8D4279ABD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=TCQSYeuvzHURYucjjx9JktQpUnI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tsuihou Sareta Tensei Juukishi S01E15 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/EE9E6FF3-9A35-FE69-F2FB-692E2F83F4DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332509&Signature=oczYfUCvGHui8%2FEn9%2FhPSBRlvaM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110069-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=LpBi6mV%2BUaSQMGbNP%2BCbwXshFe8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=V4shVy1t49RxiSEEK02nr2%2FlKEM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/522B73C1-8A89-1556-B376-CBF8D4279ABD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=TCQSYeuvzHURYucjjx9JktQpUnI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tsuihou Sareta Tensei Juukishi S01E15 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F252540F-8637-544B-F172-86CCC8E6ACFD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332509&Signature=Qusq%2B2mkdUZWYdtZ%2FfhAtSpV5z4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110069-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=LpBi6mV%2BUaSQMGbNP%2BCbwXshFe8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=V4shVy1t49RxiSEEK02nr2%2FlKEM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/522B73C1-8A89-1556-B376-CBF8D4279ABD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=TCQSYeuvzHURYucjjx9JktQpUnI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tsuihou Sareta Tensei Juukishi S01E15 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6F871F3D-E414-A367-127E-225D45741ADD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332509&Signature=nLAL72rAN6TSnWmuHflwfMNHzL8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3110069-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=LpBi6mV%2BUaSQMGbNP%2BCbwXshFe8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/8B32802A-DA67-9966-09DC-857D94E1F09A_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=V4shVy1t49RxiSEEK02nr2%2FlKEM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3110069-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/522B73C1-8A89-1556-B376-CBF8D4279ABD_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798383439&Signature=TCQSYeuvzHURYucjjx9JktQpUnI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

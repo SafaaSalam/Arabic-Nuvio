@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الزعيم • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/930E4EEB-B153-3732-0C14-4CEEF20A8696_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159589&Signature=aPqM9VpxtT6%2FKWdDNbNDk28B%2B2g%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الزعيم • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/5DDC5A1E-F0FF-BAC4-AF44-D46F11B717E2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245451&Signature=3q17j5ifARxRGBzhEspc%2B73zbVc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الزعيم • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/12B81E06-C9EA-EE5D-13F9-878DC296F1AE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072850&Signature=JdDSB0WyA3d4vSWeOfr2pHBU%2Bs4%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الزعيم • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/A12F92C9-173F-24B3-55D2-7D85E850620D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986324&Signature=Z7or%2Bsww780VWVhjEhiFvRkf%2FHw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الزعيم • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/99CAAA2D-4847-4128-39B2-429D94008B77_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986324&Signature=pVK507YwoLcKuL3UNUsMyAcCIRg%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "pursuit • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/873C52E8-1326-768C-241A-B04CEBF26180_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073076&Signature=QnpO7wgF3S2NUIFkrPJQKb5H8rM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296563-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=vOcEqXRyuzQJCPiVTmbfdZblobg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=5aOQbQest1SVqNet5RoaIBL8m5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=Sp7%2F%2BNdTHuJe3nQT1U%2FRG3kaqlU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296563-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=ZyrR1Gpm2uB90hjqoEWaH5PhaRQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "pursuit • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/C924D0D1-1988-1ED9-8556-77E09870B8BE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073076&Signature=JFhgQaSo4ii8%2B0JW9wLaFspmbDE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296563-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=vOcEqXRyuzQJCPiVTmbfdZblobg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=5aOQbQest1SVqNet5RoaIBL8m5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=Sp7%2F%2BNdTHuJe3nQT1U%2FRG3kaqlU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296563-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=ZyrR1Gpm2uB90hjqoEWaH5PhaRQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "pursuit • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D38D38FC-5BF9-739E-414A-AD78F951DF89_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073076&Signature=6JpNRpJGBh2haKet6aEM2m4b6%2BU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296563-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=vOcEqXRyuzQJCPiVTmbfdZblobg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=5aOQbQest1SVqNet5RoaIBL8m5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=Sp7%2F%2BNdTHuJe3nQT1U%2FRG3kaqlU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296563-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=ZyrR1Gpm2uB90hjqoEWaH5PhaRQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "pursuit • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A975DBA2-CB0C-59B6-9EB5-11B1DC8B6CAC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073076&Signature=HJlrtNyF7NAasLBONQOLQgfy8oo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296563-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=vOcEqXRyuzQJCPiVTmbfdZblobg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=5aOQbQest1SVqNet5RoaIBL8m5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=Sp7%2F%2BNdTHuJe3nQT1U%2FRG3kaqlU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296563-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=ZyrR1Gpm2uB90hjqoEWaH5PhaRQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "pursuit • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6D4F76E1-A471-E156-2822-193B40992F7A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796073076&Signature=zmpv2iIKgakPsXcVkMpese24jL4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1296563-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=vOcEqXRyuzQJCPiVTmbfdZblobg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/ECCF1C3A-2BC1-8F89-092E-6F803CDC07B0_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=5aOQbQest1SVqNet5RoaIBL8m5A%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1296563-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=Sp7%2F%2BNdTHuJe3nQT1U%2FRG3kaqlU%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1296563-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/AC138E9F-577E-E2B4-7E83-9B14F83E856F_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798389263&Signature=ZyrR1Gpm2uB90hjqoEWaH5PhaRQ%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

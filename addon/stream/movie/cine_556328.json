@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "ماما حامل • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/A6F25258-D22D-6EE1-A43D-067B0F22339B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900098&Signature=QlLbSKmvMmxEY%2BTeInJyszTQaFw%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "ماما حامل • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/27346EEA-1F6E-D9C8-88DD-36D58A404A36_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900098&Signature=%2F71VLLwgMO1n%2F0LPFKk4i5kktkI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "ماما حامل • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/93304641-68CE-0324-3402-5F5BCF92ED06_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900098&Signature=m3HkPQQhk%2BWqy2yRuOSZoP8kMvs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "ماما حامل • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/287EB000-10E9-EF1F-AE00-E8BDEBC49772_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900098&Signature=3V%2FPM4jwFW73VoQYYZLksV2WU2Y%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "ماما حامل • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/EDC13D52-AFA9-BA36-8505-8C8910F33334_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900098&Signature=OD%2BpyqqXs%2FibckfosxCsEgyB8%2Bc%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

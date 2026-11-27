@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "The Death Game • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3A4EC6CD-67DC-6DAB-472E-4CFA5AD3A395_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900306&Signature=9YGUOpHdEYb2jEkwtVQGLG4%2BN4U%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=PMFANoLbdRLViVtJOlf4o9bgZZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=pWLilWAN40LprY8JhaG3EbRqXr8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=WsnNoiT43u39W6fPAWmFWLwD7Sc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=B92fREabeB9RrZAH2cXr2Ik29mg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "The Death Game • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0CC19AFD-0FF7-3155-059F-3FE9A0B5A5DE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900306&Signature=iLOFK1eMpjxlhOzG4MXklWCKY%2Fg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=PMFANoLbdRLViVtJOlf4o9bgZZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=pWLilWAN40LprY8JhaG3EbRqXr8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=WsnNoiT43u39W6fPAWmFWLwD7Sc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=B92fREabeB9RrZAH2cXr2Ik29mg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "The Death Game • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E0D645AD-B503-50FA-1D5D-AE04D8542071_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900306&Signature=GqLkvOEKyECVVrkEN3Y6T5YvXWk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=PMFANoLbdRLViVtJOlf4o9bgZZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=pWLilWAN40LprY8JhaG3EbRqXr8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=WsnNoiT43u39W6fPAWmFWLwD7Sc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=B92fREabeB9RrZAH2cXr2Ik29mg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "The Death Game • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/141D8C23-3735-C08C-DC72-7B72BEAAEC55_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900306&Signature=J8tfMpkO1O8fTV%2FL%2F914UIXAeXk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=PMFANoLbdRLViVtJOlf4o9bgZZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=pWLilWAN40LprY8JhaG3EbRqXr8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=WsnNoiT43u39W6fPAWmFWLwD7Sc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=B92fREabeB9RrZAH2cXr2Ik29mg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "The Death Game • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/D2A6BD3A-B4AE-E925-3EF4-22210D358402_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795900306&Signature=DMEFuMzffmPG4d3wXJ3WM9IoElk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1295480-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=PMFANoLbdRLViVtJOlf4o9bgZZo%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/C6902CBF-5CED-46BD-C9F7-4E1D9D1DCD5C_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=pWLilWAN40LprY8JhaG3EbRqXr8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1295480-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=WsnNoiT43u39W6fPAWmFWLwD7Sc%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1295480-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/975F1EB7-27E8-8054-A5A1-5ECE6FCA6451_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393540&Signature=B92fREabeB9RrZAH2cXr2Ik29mg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Fool Night S01E10 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/FFED1ADC-1F3C-7814-40E0-0E9F991C1A51_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796314467&Signature=lD9PG0VN7WMygCsSTegkbab%2FHck%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3160925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=DN%2FJoDZL2t5P2kFM5RPVBks5JII%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=M7uycwsjZNUWkSw0CkinHZe4Sj8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=%2FMqVyWrNtcS60oWtYdK6hne%2BG60%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3160925-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=yPfDGsCs3ndCZUzt%2FFsZx2IY7sc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Fool Night S01E10 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B2B8286B-70CE-3BD1-7538-B5AF05613C48_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796314467&Signature=aFlRDyV1z53O5DJKfTjOXa15uxM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3160925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=DN%2FJoDZL2t5P2kFM5RPVBks5JII%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=M7uycwsjZNUWkSw0CkinHZe4Sj8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=%2FMqVyWrNtcS60oWtYdK6hne%2BG60%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3160925-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=yPfDGsCs3ndCZUzt%2FFsZx2IY7sc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Fool Night S01E10 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B187968C-F60C-2D64-4CE8-0EB750210D8D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796314467&Signature=%2BP1iDhH4Htzf%2BeyrZT8Kdekr9AY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3160925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=DN%2FJoDZL2t5P2kFM5RPVBks5JII%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=M7uycwsjZNUWkSw0CkinHZe4Sj8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=%2FMqVyWrNtcS60oWtYdK6hne%2BG60%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3160925-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=yPfDGsCs3ndCZUzt%2FFsZx2IY7sc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Fool Night S01E10 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/79680C3F-BEE8-C99D-3269-8F07D149FE59_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796314467&Signature=19akEIsgjQj66rqiqLcRrQazHkM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3160925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=DN%2FJoDZL2t5P2kFM5RPVBks5JII%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=M7uycwsjZNUWkSw0CkinHZe4Sj8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=%2FMqVyWrNtcS60oWtYdK6hne%2BG60%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3160925-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=yPfDGsCs3ndCZUzt%2FFsZx2IY7sc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Fool Night S01E10 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/CC5A890B-F903-04B9-0674-8B43B8915850_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796314467&Signature=4DHKH2hiD%2B4ePjD%2Fu4pfttUfVCM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3160925-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=DN%2FJoDZL2t5P2kFM5RPVBks5JII%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/2AC96346-8AF0-BC05-5A47-E8078E02F728_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=M7uycwsjZNUWkSw0CkinHZe4Sj8%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3160925-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=%2FMqVyWrNtcS60oWtYdK6hne%2BG60%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-3160925-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5C120144-1D0E-B8D3-2E85-E30C03E29A96_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798391888&Signature=yPfDGsCs3ndCZUzt%2FFsZx2IY7sc%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

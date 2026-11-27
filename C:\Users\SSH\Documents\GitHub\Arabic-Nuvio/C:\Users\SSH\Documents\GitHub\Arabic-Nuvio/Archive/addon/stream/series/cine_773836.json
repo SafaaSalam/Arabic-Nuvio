@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "انتقام مشروع S01E10 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18/AF8F8E38-9D1D-6D1A-01E0-9C8B29225BDA_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793137626&Signature=vg%2BaWcd6zKWT6ajV%2Bn3Lur4MMoI%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "انتقام مشروع S01E10 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/4DFBC80D-776F-BB84-B256-A63EB0044DF2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793221844&Signature=KldYfadznonMQgC16zTcf1eOb4Q%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "انتقام مشروع S01E10 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin23-mp4/5C9FB8E8-3EF1-4C84-05F7-A0363BE83E5E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793050421&Signature=7IX1GpoCmmtZ1vV7kDp%2FbjoCskA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "انتقام مشروع S01E10 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/37918F70-0E84-C184-16A2-B22AC097F6A5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572556&Signature=MpJaKNoH9NjtUJcpN%2FdVob%2Fw%2Fd8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "انتقام مشروع S01E10 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin22-mp4/2B694873-751B-C600-20A9-D8396AB14AA3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1793572556&Signature=8Xnvrw9Cr6cOT7ZmwB4Yy8A8kPQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

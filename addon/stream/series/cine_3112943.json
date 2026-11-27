@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Clevatess S02E05 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/560814FF-7F5A-4ED7-B618-28C66B2E4D2F_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159769&Signature=WANa0WcQ7DoHGyZrAYBfYo0vvmI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112943-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=54DXj%2BsgpqvSTt%2Bai0iIAtBvwBQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=aKjt%2FvBHBJRp%2BShwJcnyBsumjJM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4700D4EA-157A-9254-EE4E-89B1D868E109_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=u02kJAH0GJbiwQvdfOqu2nYSa5A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Clevatess S02E05 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/361D2585-70CC-0AC7-54B6-751E4857EA47_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159769&Signature=UqgoeWxb1Oag9U7F8DI7ZV6s9Wk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112943-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=54DXj%2BsgpqvSTt%2Bai0iIAtBvwBQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=aKjt%2FvBHBJRp%2BShwJcnyBsumjJM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4700D4EA-157A-9254-EE4E-89B1D868E109_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=u02kJAH0GJbiwQvdfOqu2nYSa5A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Clevatess S02E05 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A7ADCABF-938C-D50A-AC8B-83654F5917DC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159769&Signature=HJOLd6TIMilWevONagN%2BCQO15xk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112943-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=54DXj%2BsgpqvSTt%2Bai0iIAtBvwBQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=aKjt%2FvBHBJRp%2BShwJcnyBsumjJM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4700D4EA-157A-9254-EE4E-89B1D868E109_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=u02kJAH0GJbiwQvdfOqu2nYSa5A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Clevatess S02E05 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/72B59626-A841-492E-9738-CDB22FE493BD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159769&Signature=Z18LNSTc%2BEIiS7cu4gIdG86wR9g%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112943-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=54DXj%2BsgpqvSTt%2Bai0iIAtBvwBQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=aKjt%2FvBHBJRp%2BShwJcnyBsumjJM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4700D4EA-157A-9254-EE4E-89B1D868E109_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=u02kJAH0GJbiwQvdfOqu2nYSa5A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Clevatess S02E05 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/E58D727A-0308-900D-0105-7F71B8DCAC1E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796159769&Signature=B4QQ9v2g70%2FT%2FzNr7YpSiUvTzrk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112943-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=54DXj%2BsgpqvSTt%2Bai0iIAtBvwBQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A0784E0F-3031-F615-8C2D-2BCA53332A42_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=aKjt%2FvBHBJRp%2BShwJcnyBsumjJM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112943-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/4700D4EA-157A-9254-EE4E-89B1D868E109_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382697&Signature=u02kJAH0GJbiwQvdfOqu2nYSa5A%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

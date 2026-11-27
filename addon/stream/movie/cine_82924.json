@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "آسف على الإزعاج • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/AC92E03E-DB75-6A32-279E-C7A76CF6C059_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245355&Signature=q5xh4u8nQYwqGM4s52qYA6NQ7zo%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "آسف على الإزعاج • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/3962EFB5-FD40-76A4-D9D7-DA3AC21AEC56_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245355&Signature=Mn1iM%2BZaesUf%2FozmjKyruS4K0m8%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "آسف على الإزعاج • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/D6E2E133-4528-04DB-D1B8-801E20363760_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072993&Signature=RzF7Ff7%2FiH6aEUcj0B5RO7Tor2c%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "آسف على الإزعاج • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/631AE2E2-2930-5BB5-8436-7660BEE4E34B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986156&Signature=RhEaj38goZ1YqvsF%2BJ3%2BBvhL8Ho%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "آسف على الإزعاج • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/269822D8-C44F-A2C4-7575-0DF3BDFCA541_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986156&Signature=kIseQoQAlXiieFvpwRu8TXrxxCA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

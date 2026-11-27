@@ -1,0 +1,104 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Now You See Me • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin18-mp4/2008360A-6F67-DE5A-037E-AC5DFD7F1F92_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986160&Signature=x8eqiR%2FaZ5tDQTu7czHTGBQBcns%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-143-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=iThgWG7WYPg6EzuJJ3rSWFTf%2Ff4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-143-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=J8XDawIqNr71wCArvjPi8c326BA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Now You See Me • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/2E333AA8-9396-6A90-4E77-DF6024C7F33B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986160&Signature=lNDzEOdoz8YyzU8qNqqxjKszwcA%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-143-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=iThgWG7WYPg6EzuJJ3rSWFTf%2Ff4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-143-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=J8XDawIqNr71wCArvjPi8c326BA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Now You See Me • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/4F9987FC-A6B2-3411-EDA4-17BE8A227260_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986160&Signature=sXHsGhB%2BX2JZyuTLHZuzb4w2VDE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-143-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=iThgWG7WYPg6EzuJJ3rSWFTf%2Ff4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-143-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=J8XDawIqNr71wCArvjPi8c326BA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Now You See Me • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/2938B6B2-6012-269F-392E-A5548B6388F5_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986160&Signature=kmhuRSq5rPfu9QCDwcr8aXSKkQk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-143-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=iThgWG7WYPg6EzuJJ3rSWFTf%2Ff4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-143-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=J8XDawIqNr71wCArvjPi8c326BA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Now You See Me • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin16-mp4/AF3A02FA-2248-AAA3-298A-A167EFF375F0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795986160&Signature=O0VSiwifB%2FNWSLTliLUbhb6PxHU%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-143-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=iThgWG7WYPg6EzuJJ3rSWFTf%2Ff4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-143-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/DE62C382-B96F-1640-C751-B8C4502EFF15_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798393258&Signature=J8XDawIqNr71wCArvjPi8c326BA%3D",
+          "lang": "ar"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

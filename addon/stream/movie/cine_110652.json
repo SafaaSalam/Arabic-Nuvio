@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "الإرهاب والكباب • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/9FA72080-8033-66E9-C535-D6E20B697750_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796248637&Signature=QR%2BwFodfJdkmY%2BmhUlcYnnxVa1E%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "الإرهاب والكباب • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/5F989BF4-6B43-B9D7-6C47-547FF2B414C3_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796248637&Signature=9ogNyd7Qbap7ZF0myNGiNClgTMA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "الإرهاب والكباب • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/CBA17DC0-7013-310A-AF04-C141B5A14094_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796248637&Signature=p4EYLVV20iCVSes%2BINgLLb42fy0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "الإرهاب والكباب • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/F6CE060C-093F-2F6D-68A6-0F3E13E7A9C9_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796248637&Signature=ySfreMaKTarwQxgqj1%2BtKJlR1zA%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "الإرهاب والكباب • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin20-mp4/20412F62-DB9A-B01E-F2F9-E8AE0320CD8A_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796248637&Signature=yUVQSGYNrXcTREASn2vpGtq2fYQ%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

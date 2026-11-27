@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Sora wa Akai Kawa no Hotori S01E09 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3F51C763-A420-056C-F069-7EB07318D34D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163346&Signature=oOqL8aZxki0Fxeyl%2FKmLu1fm3OM%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112859-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=XjipEJXeTXiGiwv8BNrNRWrE2bA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=MsR5vbQJdhk2EpNbfQYf2Jaw3OI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301F2F02-4BE2-B49B-89F2-0DDCF146B51C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=4dd4FFP%2BMpAwZNovpo9vDEhrjyQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Sora wa Akai Kawa no Hotori S01E09 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/15B17D26-5122-8FE0-38E2-57121A7E6ACD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163346&Signature=qa0BY2WzAsphoBMk6HVfx4qufSo%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112859-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=XjipEJXeTXiGiwv8BNrNRWrE2bA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=MsR5vbQJdhk2EpNbfQYf2Jaw3OI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301F2F02-4BE2-B49B-89F2-0DDCF146B51C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=4dd4FFP%2BMpAwZNovpo9vDEhrjyQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Sora wa Akai Kawa no Hotori S01E09 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/8D719078-5877-A6A4-90BD-C04FF614AB69_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163346&Signature=6HQcrWG8goBYzJoJTF0qzcCsYYE%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112859-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=XjipEJXeTXiGiwv8BNrNRWrE2bA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=MsR5vbQJdhk2EpNbfQYf2Jaw3OI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301F2F02-4BE2-B49B-89F2-0DDCF146B51C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=4dd4FFP%2BMpAwZNovpo9vDEhrjyQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Sora wa Akai Kawa no Hotori S01E09 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/58CC3D10-4D63-D083-316E-472A435FA01D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163346&Signature=GHzhlQo%2F8ltc5nHyiChBFDat%2Fk4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112859-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=XjipEJXeTXiGiwv8BNrNRWrE2bA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=MsR5vbQJdhk2EpNbfQYf2Jaw3OI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301F2F02-4BE2-B49B-89F2-0DDCF146B51C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=4dd4FFP%2BMpAwZNovpo9vDEhrjyQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Sora wa Akai Kawa no Hotori S01E09 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A5519FEB-2A36-2FBC-2428-7840B174D313_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796163346&Signature=VZLsuC8DYRDlETpNA5mjOrCZRJg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-3112859-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=XjipEJXeTXiGiwv8BNrNRWrE2bA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/812FA047-5839-C53F-C1A2-8D50A37501B8_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=MsR5vbQJdhk2EpNbfQYf2Jaw3OI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-3112859-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/301F2F02-4BE2-B49B-89F2-0DDCF146B51C_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798388915&Signature=4dd4FFP%2BMpAwZNovpo9vDEhrjyQ%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

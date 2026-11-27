@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Violet Evergarden the Movie • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/7773AFB2-CEAE-DAD6-18FC-AFD45BF9F373_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796245538&Signature=kwqwhJd0aJMfeQ9Wag61IyL442I%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-562610-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=F5ul0KK5qPmz7VQtBib%2FATTTvHI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=CCHumUoKEnlRICQU8tTJPaLeCKw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FA0DA035-F2FE-71D8-4CFD-5A2368026932_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=jFjAIWY86d%2BB1spIVtskawnyMZI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Violet Evergarden the Movie • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/FC3FC725-FBDA-0801-02D3-990C11F247EC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795901956&Signature=7xLzs9F2NbJw6V%2FSXhOf0ekZajc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-562610-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=F5ul0KK5qPmz7VQtBib%2FATTTvHI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=CCHumUoKEnlRICQU8tTJPaLeCKw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FA0DA035-F2FE-71D8-4CFD-5A2368026932_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=jFjAIWY86d%2BB1spIVtskawnyMZI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Violet Evergarden the Movie • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/DB29273F-3141-E5B9-5F4D-0430AAA16859_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796072652&Signature=o0314Vb9PoNr0aExka0L9No%2Fwvg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-562610-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=F5ul0KK5qPmz7VQtBib%2FATTTvHI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=CCHumUoKEnlRICQU8tTJPaLeCKw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FA0DA035-F2FE-71D8-4CFD-5A2368026932_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=jFjAIWY86d%2BB1spIVtskawnyMZI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Violet Evergarden the Movie • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/E80A657E-9196-4FF1-DE87-A232ADBC323D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989594&Signature=lGrTYh09Ktai3fvZFYGjIzdHDPc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-562610-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=F5ul0KK5qPmz7VQtBib%2FATTTvHI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=CCHumUoKEnlRICQU8tTJPaLeCKw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FA0DA035-F2FE-71D8-4CFD-5A2368026932_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=jFjAIWY86d%2BB1spIVtskawnyMZI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Violet Evergarden the Movie • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/B4B5B5D6-D6F6-6DF0-C78E-144D0EDBE442_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989594&Signature=pxWOFwaYpmn3mzltbK2w2LaRnK4%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-562610-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=F5ul0KK5qPmz7VQtBib%2FATTTvHI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/067C5037-55CA-AF19-5329-2428280F0010_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=CCHumUoKEnlRICQU8tTJPaLeCKw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-562610-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/FA0DA035-F2FE-71D8-4CFD-5A2368026932_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379877&Signature=jFjAIWY86d%2BB1spIVtskawnyMZI%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

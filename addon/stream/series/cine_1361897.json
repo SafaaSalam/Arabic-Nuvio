@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "A Vow in the Dark S01E15 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/99EF0875-BFD9-1A63-6CBB-6E6438400CFC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818019&Signature=eNfLUjM%2FI%2FLk1dHqhvfS9lASYsY%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1361897-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=V9BGRMriq%2FB357Bne4M75%2FM0rrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=Df8RIhzsplZ6NpJ8m%2BcMGgWa%2FVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=faBnhY3tYFOgWi1muJ44D8qDfqk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1361897-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=%2F%2BC3K5d%2FBLG6DkVAuplk5tvQ8Rg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "A Vow in the Dark S01E15 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/31FDB602-6F2F-AB3A-B1AC-059C038F1CC8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818019&Signature=lUCohqXEQGvFQMdjlt30QKK8Kdc%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1361897-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=V9BGRMriq%2FB357Bne4M75%2FM0rrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=Df8RIhzsplZ6NpJ8m%2BcMGgWa%2FVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=faBnhY3tYFOgWi1muJ44D8qDfqk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1361897-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=%2F%2BC3K5d%2FBLG6DkVAuplk5tvQ8Rg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "A Vow in the Dark S01E15 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/303DB8A0-B33C-C016-7DE8-F259FF8A2AD4_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818019&Signature=%2Bj3UHe3MusVgjpX07UX7iRP%2FMrg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1361897-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=V9BGRMriq%2FB357Bne4M75%2FM0rrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=Df8RIhzsplZ6NpJ8m%2BcMGgWa%2FVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=faBnhY3tYFOgWi1muJ44D8qDfqk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1361897-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=%2F%2BC3K5d%2FBLG6DkVAuplk5tvQ8Rg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "A Vow in the Dark S01E15 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/78ECF514-67A3-D797-A281-1E69A37C72BC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818019&Signature=oeTf6CqO9qz%2FzRuKVAAwEYhMbjI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1361897-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=V9BGRMriq%2FB357Bne4M75%2FM0rrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=Df8RIhzsplZ6NpJ8m%2BcMGgWa%2FVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=faBnhY3tYFOgWi1muJ44D8qDfqk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1361897-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=%2F%2BC3K5d%2FBLG6DkVAuplk5tvQ8Rg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "A Vow in the Dark S01E15 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B39008EF-5D1C-811F-B335-D023B6CAE875_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795818019&Signature=JFYQXtfgh5scsv0t%2FbFo04EqOZg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1361897-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=V9BGRMriq%2FB357Bne4M75%2FM0rrQ%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A4D859EC-0148-FABB-6B1E-8CEDE7A41D01_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=Df8RIhzsplZ6NpJ8m%2BcMGgWa%2FVw%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1361897-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=faBnhY3tYFOgWi1muJ44D8qDfqk%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1361897-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/7464C247-57B9-4BBA-534E-B0FBCCACB807_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798394482&Signature=%2F%2BC3K5d%2FBLG6DkVAuplk5tvQ8Rg%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

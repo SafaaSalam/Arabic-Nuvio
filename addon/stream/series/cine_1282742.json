@@ -1,0 +1,129 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Tougen Anki S01E11 • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/5BD66840-4D84-9A5F-C095-DCFC4CA56A6D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899833&Signature=HBQCE%2FOQa9GpNVeJDPwK4ImBd80%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282742-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=KyFx9R5I1F6tnxVdZjovPTLD6ZA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=401LTK6lMSG2cvDsupfhdXVIu%2Bg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F915EBC2-B33F-50A1-9FED-F2C8FA2ED159_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=mR3VAf7rXb0muzfanTW4zfHo%2FXo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Tougen Anki S01E11 • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/1ABFB5F1-EC86-CE6E-BAE4-559661DB574D_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899833&Signature=%2BOdr0uzRGl3ofQQVn%2F7LGnzFJm8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282742-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=KyFx9R5I1F6tnxVdZjovPTLD6ZA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=401LTK6lMSG2cvDsupfhdXVIu%2Bg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F915EBC2-B33F-50A1-9FED-F2C8FA2ED159_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=mR3VAf7rXb0muzfanTW4zfHo%2FXo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Tougen Anki S01E11 • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9D20F85E-72EC-1CF0-33BD-FA4C40DDE0AC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899833&Signature=yY5U4xd5jEhSDdakGB5BYfq2Qrs%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282742-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=KyFx9R5I1F6tnxVdZjovPTLD6ZA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=401LTK6lMSG2cvDsupfhdXVIu%2Bg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F915EBC2-B33F-50A1-9FED-F2C8FA2ED159_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=mR3VAf7rXb0muzfanTW4zfHo%2FXo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Tougen Anki S01E11 • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/3BA6B50F-0398-C6BC-B251-A9C8544DCEB8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899833&Signature=IbbhR8SuVhZEFbmDiaOWRXG5Znk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282742-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=KyFx9R5I1F6tnxVdZjovPTLD6ZA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=401LTK6lMSG2cvDsupfhdXVIu%2Bg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F915EBC2-B33F-50A1-9FED-F2C8FA2ED159_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=mR3VAf7rXb0muzfanTW4zfHo%2FXo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Tougen Anki S01E11 • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/B8E31DD5-4C57-2D89-E055-A1C70DA259A1_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899833&Signature=u5mT6WXvFTHcciW9eB2gghK%2FsGk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1282742-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=KyFx9R5I1F6tnxVdZjovPTLD6ZA%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/A7AD44C4-4BAB-5061-3302-2593071D9983_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=401LTK6lMSG2cvDsupfhdXVIu%2Bg%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1282742-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/F915EBC2-B33F-50A1-9FED-F2C8FA2ED159_sp_transfile.ass?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798382749&Signature=mR3VAf7rXb0muzfanTW4zfHo%2FXo%3D",
+          "lang": "sp"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

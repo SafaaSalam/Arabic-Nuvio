@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Dawn Sniper • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/12642DB8-4D47-99C4-036D-36B7F52D6290_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332367&Signature=ncpCSd4y0hHEnXC2JH%2B0W%2FtQcSI%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1329698-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=Qd4C4BwLVhLX8hEHWvpz20gK%2BiM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=t1UBnaU%2BIYcrHeV30GuuGLtavsY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=PfzDFg%2BZthMjDsFN1HmuPq7XZHQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1329698-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=u4zLf7Bsul7KY0XuYKpXs14wi%2Bo%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Dawn Sniper • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/7D6498DE-F254-275F-F14A-B7166735922E_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332367&Signature=CF0bv7Tp8CuJOqeWQCW6nUh2Ge0%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1329698-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=Qd4C4BwLVhLX8hEHWvpz20gK%2BiM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=t1UBnaU%2BIYcrHeV30GuuGLtavsY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=PfzDFg%2BZthMjDsFN1HmuPq7XZHQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1329698-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=u4zLf7Bsul7KY0XuYKpXs14wi%2Bo%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Dawn Sniper • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/A07C77DF-7B35-541B-24BA-9D7FB034FBE0_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332367&Signature=m4CpGeD0uu9nnJepRiDhXdGSFDk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1329698-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=Qd4C4BwLVhLX8hEHWvpz20gK%2BiM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=t1UBnaU%2BIYcrHeV30GuuGLtavsY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=PfzDFg%2BZthMjDsFN1HmuPq7XZHQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1329698-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=u4zLf7Bsul7KY0XuYKpXs14wi%2Bo%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Dawn Sniper • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/F7378D96-12E1-92A5-8943-DC44482B6574_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332367&Signature=CsC2taW8dAtj7ZE6E7CNGou0J5A%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1329698-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=Qd4C4BwLVhLX8hEHWvpz20gK%2BiM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=t1UBnaU%2BIYcrHeV30GuuGLtavsY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=PfzDFg%2BZthMjDsFN1HmuPq7XZHQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1329698-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=u4zLf7Bsul7KY0XuYKpXs14wi%2Bo%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Dawn Sniper • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/4921E6D5-59C2-B2A5-E89B-7050473C88EE_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1796332367&Signature=Y73v32UbwN8fTk08ot0swpHwii8%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1329698-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=Qd4C4BwLVhLX8hEHWvpz20gK%2BiM%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/EACAEA01-687C-FB9E-31EC-1500339FA8DE_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=t1UBnaU%2BIYcrHeV30GuuGLtavsY%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1329698-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=PfzDFg%2BZthMjDsFN1HmuPq7XZHQ%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1329698-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/E1653768-4831-94A1-0DC2-E6785AE6B149_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798379126&Signature=u4zLf7Bsul7KY0XuYKpXs14wi%2Bo%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

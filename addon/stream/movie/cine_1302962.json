@@ -1,0 +1,154 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "Red Land • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/490A7B85-3CF4-B75F-BFF9-0D7A9B4B9A74_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989958&Signature=UOSQgeazpyDbyRUIfHmt6%2BsoV9w%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302962-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=b93eJVJqpH0vyGiceoNSxcpNpt4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=%2BmfrjAIGrQEBsyuHkkKhakCSplI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=mfKAUXds%2BBElUAq72ORpHDnulRM%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302962-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=I00ZBiJjlZQ5EVSIJNv2BXpWfXw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "Red Land • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/0CEF5EB4-2D93-EE68-E26C-4A350F862F61_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989958&Signature=0Qr5atdKRU%2B3cBJ6rfmHka1vDaw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302962-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=b93eJVJqpH0vyGiceoNSxcpNpt4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=%2BmfrjAIGrQEBsyuHkkKhakCSplI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=mfKAUXds%2BBElUAq72ORpHDnulRM%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302962-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=I00ZBiJjlZQ5EVSIJNv2BXpWfXw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "Red Land • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/850406BC-DBD3-42B2-1B50-029C2124C2D8_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989958&Signature=R2BvCG3jGADqUq0fRLAysVLKwiw%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302962-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=b93eJVJqpH0vyGiceoNSxcpNpt4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=%2BmfrjAIGrQEBsyuHkkKhakCSplI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=mfKAUXds%2BBElUAq72ORpHDnulRM%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302962-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=I00ZBiJjlZQ5EVSIJNv2BXpWfXw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "Red Land • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/6CB98B60-4A5C-1580-54EC-554FE654CF66_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989958&Signature=N2z0Ol6rJQX%2BS7THsMBm0OWnzKk%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302962-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=b93eJVJqpH0vyGiceoNSxcpNpt4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=%2BmfrjAIGrQEBsyuHkkKhakCSplI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=mfKAUXds%2BBElUAq72ORpHDnulRM%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302962-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=I00ZBiJjlZQ5EVSIJNv2BXpWfXw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "Red Land • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin24-mp4/9A3BF5E9-C938-98D2-A719-E75BEA676ADC_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795989958&Signature=uYMoH7tTVTKCBLBcjXu4wIvqUtg%3D",
+      "subtitles": [
+        {
+          "id": "cine-sub-1302962-0",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=b93eJVJqpH0vyGiceoNSxcpNpt4%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-1",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/5A37B121-51A2-FCA4-CBFB-645741F8331F_ar_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=%2BmfrjAIGrQEBsyuHkkKhakCSplI%3D",
+          "lang": "ar"
+        },
+        {
+          "id": "cine-sub-1302962-2",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.srt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=mfKAUXds%2BBElUAq72ORpHDnulRM%3D",
+          "lang": "en"
+        },
+        {
+          "id": "cine-sub-1302962-3",
+          "url": "https://cnth2.shabakaty.cc/vascin-translation-files/58576EB0-79CE-F070-9BB8-53FC4259CB7D_en_transfile.vtt?response-cache-control=max-age%3D86400&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1798392886&Signature=I00ZBiJjlZQ5EVSIJNv2BXpWfXw%3D",
+          "lang": "en"
+        }
+      ],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

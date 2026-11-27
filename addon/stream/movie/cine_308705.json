@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 1080p",
+      "title": "نادي الرجال السري • 1080p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/0119CDD9-9042-1CED-B0BF-7560E1159D00_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899670&Signature=JhLL8VgVcxGknkcbAXOfpA9dMn0%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-1080p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 720p",
+      "title": "نادي الرجال السري • 720p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/253A6F84-FBD4-BF4E-08B0-B51380C030DB_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899670&Signature=gAG6Ej9dOknkHrdMVjp5ymvjMuk%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-720p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 480p",
+      "title": "نادي الرجال السري • 480p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/F402DF81-74D2-1F4D-B528-9CF6BA8D1DB2_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899670&Signature=uPrlkEeunQgA108gKQdiCN1ki6w%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-480p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 360p",
+      "title": "نادي الرجال السري • 360p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/BE5F0DEC-2519-77B3-0CCD-DBF2421B552B_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899670&Signature=syUOk9zbpsVEmo%2BvYzXYmfCEczs%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-360p"
+      }
+    },
+    {
+      "name": "Shabakaty Cinemana (🇮🇶) - 240p",
+      "title": "نادي الرجال السري • 240p (MP4)",
+      "url": "https://cdn.shabakaty.cc/vascin21-mp4/15063FA5-67ED-39B7-43E0-84A882A29726_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1795899670&Signature=lc2mXOAY8zYn6RgowFDNAcjIN4Q%3D",
+      "subtitles": [],
+      "behaviorHints": {
+        "bingeGroup": "cinemana-240p"
+      }
+    }
+  ]
+}

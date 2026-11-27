@@ -1,7 +1,7 @@
 # Arabic Nuvio — Providers, Catalog Addon & Collections
 
 <p align="center">
-  <img src="assets/icons/arabic-nuvio-logo.jpg" alt="Arabic Nuvio Logo" width="180" />
+  <img src="assets/icons/Arabic-Nuvio.png" alt="Arabic Nuvio Logo" width="180" />
 </p>
 
 Official **Arabic Streaming Providers**, **IMDb-Linked Catalog Addon**, and **Collections** for **[Nuvio](https://nuvio.tv)** (`NuvioTV` & `NuvioMobile`).

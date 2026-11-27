@@ -3,7 +3,7 @@
   "description": "Comprehensive Arabic Nuvio Providers & Collections — Sequenced starting with Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Movie, Series, Anime & Live TV sources.",
   "version": "2.0.0",
   "author": "SafaaSalam",
-  "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/arabic-nuvio-logo.jpg",
+  "logo": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
   "scrapers": [
     {
       "id": "cinemana",

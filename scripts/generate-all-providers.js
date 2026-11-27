@@ -1124,7 +1124,7 @@ const manifest = {
   description: "Comprehensive Arabic Nuvio Providers & Collections — Sequenced starting with Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Movie, Series, Anime & Live TV sources.",
   version: "2.0.0",
   author: "SafaaSalam",
-  logo: `${RAW_BASE}/assets/icons/arabic-nuvio-logo.jpg`,
+  logo: `${RAW_BASE}/assets/icons/Arabic-Nuvio.png`,
   scrapers: PROVIDERS_CATALOG.map((p) => ({
     id: p.id,
     name: p.name,

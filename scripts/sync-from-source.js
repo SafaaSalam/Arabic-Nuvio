@@ -404,7 +404,7 @@ async function main() {
   require("./generate-all-providers.js");
   console.log("✅ Wrote root manifest.json and plugins.json (42 sequenced Nuvio JS Providers)");
 
-  const ADDON_LOGO_URL = "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/arabic-nuvio-logo.jpg";
+  const ADDON_LOGO_URL = "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png";
 
   // 3. Write CloudStream External Repo bridge (repo.json)
   writeJson(path.join(ROOT_DIR, "repo.json"), {

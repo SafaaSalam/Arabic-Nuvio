@@ -1,6 +1,12 @@
 # Arabic Nuvio — Providers, Catalog Addon & Collections
 
-Official **Arabic Streaming Providers**, **Catalogs**, and **Collections** for **[Nuvio](https://nuvio.tv)** (`NuvioTV` & `NuvioMobile`).
+<p align="center">
+  <img src="assets/icons/arabic-nuvio-logo.jpg" alt="Arabic Nuvio Logo" width="180" />
+</p>
+
+Official **Arabic Streaming Providers**, **IMDb-Linked Catalog Addon**, and **Collections** for **[Nuvio](https://nuvio.tv)** (`NuvioTV` & `NuvioMobile`).
+
+The architecture separates **content discovery** (Catalog Add-on with standardized `tt...` IMDb IDs and Cinemeta metadata/posters) from **stream playback** (56 JS Stream Providers matched by `imdbId` and `imdbId:season:episode`).
 
 ---
 
@@ -8,8 +14,8 @@ Official **Arabic Streaming Providers**, **Catalogs**, and **Collections** for *
 
 Copy and paste the following URLs directly into the **Nuvio** app:
 
-### 1. Streaming Providers (Nuvio JS Plugins — 42 Sequenced Providers)
-Provides direct multi-quality MP4 and HLS streams (`240p` up to `4K 2160p`) with Arabic and English subtitles across 42 prioritized Arabic movies, series, Turkish drama, anime, and live sports providers.
+### 1. Streaming Providers (Nuvio JS Plugins — 56 Sequenced Providers)
+Provides direct multi-quality MP4 and HLS streams (`240p` up to `4K 2160p`) with Arabic and English subtitles across 56 prioritized Arabic, Turkish, Asian, Hindi/English, anime, and live sports providers (including **Shabakaty Cinemana**, **CEE**, and 13 additional **Arabic Cinema Hub** providers).
 
 - **In Nuvio:** Go to **Settings → Plugins → Add Repository**
 - **Repository URL:**
@@ -19,8 +25,10 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/manifest.json
 
 ---
 
-### 2. Catalog & Metadata Addon
-Adds 50+ bilingual (Arabic & English) catalogs to your Nuvio home screen and search across **Shabakaty Cinemana**, **CEE**, **3isk**, **AlooyTv**, **Akwam**, **Arabic Drama & Movies**, **Arabic Anime**, and **Sports Replays**.
+### 2. Catalog & Metadata Addon (IMDb-Linked)
+Adds **30 catalogs** to your Nuvio home screen with standardized **IMDb IDs (`tt...`)**, high-resolution Cinemeta posters/backdrops, and `imdbId:season:episode` matching:
+- **6 Global Discovery Rows:** *Latest Additions (All Sources)*, *Trending Now / Popular Today*, *Latest Movies*, *Latest Series*, *New Episodes Today / Recently Updated*, and *Top 10 This Week*.
+- **Per-Source Rows:** Dedicated *Latest Movies* and *Latest Series* rows for integrated sources (**Cee** and **Cinemana** are hidden from the home page and kept strictly as playback providers in the Stream Plugin).
 
 - **In Nuvio:** Go to **Addons → Add Addon**
 - **Addon URL:**
@@ -50,7 +58,7 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/repo.json
 
 ---
 
-## 🏆 Priority-Sequenced Providers (`42` Providers)
+## 🏆 Priority-Sequenced Providers (`56` Providers)
 
 ### Top 5 Priority Providers
 | Priority | Provider | ID | Supported Types | Quality / Features |
@@ -107,21 +115,32 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/repo.json
 | 40 | **FullMatchShows** | `replaymatch` | Full Football Match Replays & Shows |
 | 42 | **YouTube** | `youtube` | YouTube Streams & Trailers |
 
+### Hindi, English & Arabic Cinema Hub Providers (`40–56`)
+| Provider | ID | Category |
+| :--- | :--- | :--- |
+| **Moviesmod** | `moviesmod` | Hindi & English Movies & Series |
+| **VegaMovies** | `vegamovies` | Hindi & English Movies & Series |
+| **Bollyflix** | `bollyflix` | Bollywood & Hollywood Movies & Series |
+| **MoviesDrive** | `moviesdrive` | High Quality Movies & TV Shows |
+| **CVN-CimaNow** | `cimanow` | Arabic Movies & Series |
+| **CVN-AflamStream** | `aflamstream` | Translated Movies |
+| **CVN-QFilm** | `qfilm` | Movies & Series |
+| **CVN-EGYBET** | `egybet` | Movies & Series |
+| **CVN-TukCima** | `tukcima` | Movies & Series |
+| **CVN-FasselHD** | `fasselhd` | Movies & Series |
+| **CVN-FaselHD** | `faselhd2` | Alternative FaselHD Source |
+| **CVN-EgyDead CA** | `egydeadca` | Alternative EgyDead Domain |
+| **CVN-QDrama** | `qdrama` | Drama Series |
+| **CVN-MySeed** | `myseed` | Movies & Series |
+| **CVN-AhwakTV** | `ahwaktv` | TV Series |
+| **CVN-Starzplay** | `starzplay` | Movies & Series |
+| **CVN-FlixMomo** | `flixmomo` | Movies & Series |
+
 ---
 
 ## 🗂️ Curated Collections (`nuvio-collections.json`)
 
-0. **Latest — All Sources** (pinned to top: newest movies and series from every source, no duplicates)
-1. **Shabakaty Cinemana — Featured & 4K**
-2. **Shabakaty Cinemana — Movies Library**
-3. **Shabakaty Cinemana — TV Series Library**
-4. **CEE — Movies & TV Series**
-5. **3isk — Turkish Drama & Series**
-6. **AlooyTv — Gulf, Arabic & Turkish Series**
-7. **Akwam — Movies & TV Series**
-8. **Arabic Cinema, Turkish & Asian Drama**
-9. **Arabic Anime — Subtitled & Dubbed**
-10. **Football Replays & Live Sports**
+20 prioritized collections (30 folders) pinned with **Latest — All Sources** (Global Discovery Rows: *Latest Additions*, *Trending Now*, *Latest Movies*, *Latest Series*, *New Episodes Today*, and *Top 10 This Week*), followed by per-source *Latest Movies* / *Latest Series* collections. (**Cinemana** and **CEE** are omitted from home catalogs/collections and operate as stream-only providers.)
 
 ---
 

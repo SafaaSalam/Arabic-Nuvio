@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_902",
+    "type": "series",
+    "name": "عدنان ولينا | Future Boy Conan",
+    "mal_id": "302",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/CB930B36-300B-9991-5599-A5E56227F0FD_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/CB930B36-300B-9991-5599-A5E56227F0FD_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/CB930B36-300B-9991-5599-A5E56227F0FD_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور أحداث المسلسل حول وضع العالم بعد الحرب العالمية الثالثة، وعن الحروب والدمار الذي حل بالأرض، بعد أن استخدمت فيها الشعوب المتحالفة أسلحة مغناطيسية تفوق في قدرتها الأسلحة التقليدية. ونتيجة لذلك، حل الدمار في البر والبحر.\n\nAn exploration of how the world would fare in the aftermath of a third world war, and the destruction wrought by magnetic weapons that are more deadly than traditional weapons.",
+    "releaseInfo": "1978",
+    "imdbRating": "8.0",
+    "genres": [
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "دراما | Drama",
+      "خيال علمي | Sci-Fi"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_902",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CB930B36-300B-9991-5599-A5E56227F0FD_poster.jpg",
+        "overview": "عدنان ولينا | Future Boy Conan",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_454220",
+    "type": "series",
+    "name": "2020",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/4728D22F-915B-7879-851F-69FCAA9723E1_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/4728D22F-915B-7879-851F-69FCAA9723E1_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/4728D22F-915B-7879-851F-69FCAA9723E1_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تحاول نقيب في الجيش تدعى سما البحث عن أدلة قوية من أجل الإيقاع رجل عصابات يدعى صافي يقوم بالعديد من الجرائم في الخفاء.",
+    "releaseInfo": "2021",
+    "imdbRating": "8.5",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_454220",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/4728D22F-915B-7879-851F-69FCAA9723E1_poster.jpg",
+        "overview": "2020",
+        "streams": []
+      }
+    ]
+  }
+}

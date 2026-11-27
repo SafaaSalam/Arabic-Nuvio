@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_456386",
+    "type": "series",
+    "name": "نسل الأغراب",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/6DCD6FA3-7411-29CD-E4D0-C3A6501C1F6F_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/6DCD6FA3-7411-29CD-E4D0-C3A6501C1F6F_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/6DCD6FA3-7411-29CD-E4D0-C3A6501C1F6F_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يتناول العمل في إطار درامي اجتماعي قصة من قصص المجتمع الصعيدي المصري، فبعد اتهامه بالقتل وقضاء فترة عقوبة طويلة بالسجن، يخرج فيجد صديقه قد تزوج من امرأته ونسب ابنه إليه، فيقرر الانتقام منه.",
+    "releaseInfo": "2021",
+    "imdbRating": "7.0",
+    "genres": [
+      "دراما | Drama",
+      "اثارة | Thriller"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_456386",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/6DCD6FA3-7411-29CD-E4D0-C3A6501C1F6F_poster.jpg",
+        "overview": "نسل الأغراب",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_3111275",
+    "type": "series",
+    "name": "Tetsunabe no Jan!",
+    "mal_id": "63100",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/F6A187E3-BD31-48EB-9189-4A5ABC6095AB_poster.png",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/F6A187E3-BD31-48EB-9189-4A5ABC6095AB_poster.png",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/F6A187E3-BD31-48EB-9189-4A5ABC6095AB_poster.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يسعى جان أكياما، الشاب الموهوب في الطهي الصيني، إلى إثبات تفوقه في عالم الطبخ من خلال خوض منافسات شرسة ضد نخبة الطهاة، معتمدًا على مهارته الفريدة وأساليبه غير التقليدية لتحقيق النصر\n\nYoung, arrogant Jan, determined to be named the best cook, competes in local and nationwide competitions and does not lose his focus, even when his cooking makes some sick and other chefs sabotage him.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "genres": [
+      "اكشن | Action",
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy",
+      "Shounen"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_3111275",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/F6A187E3-BD31-48EB-9189-4A5ABC6095AB_poster.png",
+        "overview": "Tetsunabe no Jan!",
+        "streams": []
+      }
+    ]
+  }
+}

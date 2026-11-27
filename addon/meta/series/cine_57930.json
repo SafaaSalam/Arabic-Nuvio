@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_57930",
+    "type": "series",
+    "name": "Dragon Ball Super",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/8556CABC-6176-1111-87FD-06B022A667DA_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/8556CABC-6176-1111-87FD-06B022A667DA_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/8556CABC-6176-1111-87FD-06B022A667DA_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "Dragon Ball Super (2015) • اكشن | Action، كوميدي | Comedy، خارق | Supernatural",
+    "releaseInfo": "2015",
+    "imdbRating": "7.3",
+    "genres": [
+      "اكشن | Action",
+      "كوميدي | Comedy",
+      "خارق | Supernatural"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_57930",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/8556CABC-6176-1111-87FD-06B022A667DA_poster.jpg",
+        "overview": "Dragon Ball Super",
+        "streams": []
+      }
+    ]
+  }
+}

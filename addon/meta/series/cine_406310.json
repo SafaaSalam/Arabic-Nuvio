@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_406310",
+    "type": "series",
+    "name": "لؤلؤ",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/7B8740CA-C6A7-D3B1-27CF-5A3EB1182309_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/7B8740CA-C6A7-D3B1-27CF-5A3EB1182309_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/7B8740CA-C6A7-D3B1-27CF-5A3EB1182309_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "لؤلؤة مطربة صاعدة تبحث عن الشهرة وسط العديد من المشاكل والصعاب التي تواجهها خاصة بعد معرفة أخيها بعملها ومعارضته الشديدة لها.",
+    "releaseInfo": "2020",
+    "imdbRating": "6.0",
+    "genres": [
+      "دراما | Drama",
+      "اثارة | Thriller"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_406310",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/7B8740CA-C6A7-D3B1-27CF-5A3EB1182309_poster.jpg",
+        "overview": "لؤلؤ",
+        "streams": []
+      }
+    ]
+  }
+}

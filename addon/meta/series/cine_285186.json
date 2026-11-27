@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_285186",
+    "type": "series",
+    "name": "حامض حلو",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/5396F656-99EC-5198-8E54-B9CD395004D8_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/5396F656-99EC-5198-8E54-B9CD395004D8_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/5396F656-99EC-5198-8E54-B9CD395004D8_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يسلط الضوء على المشاكل الاجتماعية في العراق, ليحاكي بذلك جميع أفراد المجتمع ويعالج هذه القضايا بشكل كوميدي",
+    "releaseInfo": "2019",
+    "imdbRating": "7.0",
+    "genres": [
+      "كوميدي | Comedy",
+      "بالعراقي | Iraqi"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_285186",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/5396F656-99EC-5198-8E54-B9CD395004D8_poster.jpg",
+        "overview": "حامض حلو",
+        "streams": []
+      }
+    ]
+  }
+}

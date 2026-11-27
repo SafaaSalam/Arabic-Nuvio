@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_536422",
+    "type": "series",
+    "name": "صالون زهرة",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/CEAC1509-B2DA-569C-DB2D-3C72754BA1B9_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/CEAC1509-B2DA-569C-DB2D-3C72754BA1B9_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/CEAC1509-B2DA-569C-DB2D-3C72754BA1B9_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يعتبر صالون زهرة للتجميل ملاذا للنساء الراغبات في تدليل أنفسهن، أو الهروب من متاعب الحياة، ولكن حدثا غير متوقع يربط مالكة الصالون بشاب يدعى أنس.",
+    "releaseInfo": "2021",
+    "imdbRating": "7.2",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_536422",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/CEAC1509-B2DA-569C-DB2D-3C72754BA1B9_poster.jpg",
+        "overview": "صالون زهرة",
+        "streams": []
+      }
+    ]
+  }
+}

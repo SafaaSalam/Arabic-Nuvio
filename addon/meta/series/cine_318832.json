@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_318832",
+    "type": "series",
+    "name": "توم و جيري",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/68F5CB1A-6AC1-D6BE-43E0-A23A6691D754_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/68F5CB1A-6AC1-D6BE-43E0-A23A6691D754_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/68F5CB1A-6AC1-D6BE-43E0-A23A6691D754_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "توم و جيري (2018) • رسوم متحركة | Animation، كوميدي | Comedy، مدبلج عربي | Arabic dubbed",
+    "releaseInfo": "2018",
+    "imdbRating": "6.5",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "كوميدي | Comedy",
+      "مدبلج عربي | Arabic dubbed"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_318832",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/68F5CB1A-6AC1-D6BE-43E0-A23A6691D754_poster.jpg",
+        "overview": "توم و جيري",
+        "streams": []
+      }
+    ]
+  }
+}

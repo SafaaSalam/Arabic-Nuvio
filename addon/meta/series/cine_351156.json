@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_351156",
+    "type": "series",
+    "name": "الإختيار",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/B404DE55-2DBB-427E-CCAE-AAE880C37347_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/B404DE55-2DBB-427E-CCAE-AAE880C37347_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/B404DE55-2DBB-427E-CCAE-AAE880C37347_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يتناول المسلسل حياة أحمد صابر المنسي قائد الكتيبة 103 صاعقة، الذي استشهد في كمين مربع البرث بمدينة رفح المصرية عام 2017 أثناء التصدي لهجوم إرهابي في سيناء.",
+    "releaseInfo": "2020",
+    "imdbRating": "7.0",
+    "genres": [
+      "سيرة ذاتية | Biography"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_351156",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/B404DE55-2DBB-427E-CCAE-AAE880C37347_poster.jpg",
+        "overview": "الإختيار",
+        "streams": []
+      }
+    ]
+  }
+}

@@ -15,7 +15,7 @@ The architecture separates **content discovery** (Catalog Add-on with standardiz
 Copy and paste the following URLs directly into the **Nuvio** app:
 
 ### 1. Streaming Providers (Nuvio JS Plugins — 56 Sequenced Providers)
-Provides direct multi-quality MP4 and HLS streams (`240p` up to `4K 2160p`) with Arabic and English subtitles across 56 prioritized Arabic, Turkish, Asian, Hindi/English, anime, and live sports providers (including **Shabakaty Cinemana**, **CEE**, and 13 additional **Arabic Cinema Hub** providers).
+Provides direct multi-quality MP4 and HLS streams (`240p` up to `4K 2160p`) with Arabic and English subtitles across 56 prioritized Arabic, Turkish, Asian, Hindi/English, anime, and live sports providers (including **Shabakaty Cinemana**, **CEE**, and 13 additional **Arabic Nuvio** providers).
 
 - **In Nuvio:** Go to **Settings → Plugins → Add Repository**
 - **Repository URL:**
@@ -115,7 +115,7 @@ https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/repo.json
 | 40 | **FullMatchShows** | `replaymatch` | Full Football Match Replays & Shows |
 | 42 | **YouTube** | `youtube` | YouTube Streams & Trailers |
 
-### Hindi, English & Arabic Cinema Hub Providers (`40–56`)
+### Hindi, English & Arabic Nuvio Providers (`40–56`)
 | Provider | ID | Category |
 | :--- | :--- | :--- |
 | **Moviesmod** | `moviesmod` | Hindi & English Movies & Series |

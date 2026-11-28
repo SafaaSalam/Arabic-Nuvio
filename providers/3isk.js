@@ -119,6 +119,7 @@ async function resolveTmdbTitles(rawId, mediaType) {
   var idStr = String(rawId || "").trim();
   if (idStr.indexOf("3isk_") === 0) {
     var slug = decodeIdSlug(idStr.slice(5).split(":")[0].replace(/__/g, "/"));
+    if (slug.indexOf("/episodes/") === -1) slug = "watch/episodes/serie-" + slug.replace(/^\/+/, "");
     return { customSlug: slug, titles: [] };
   }
   var normalizedType = (String(mediaType || "movie").toLowerCase() === "movie") ? "movie" : "tv";
@@ -172,7 +173,13 @@ async function resolveEpisodeUrl(baseUrl, targetInfo, season, episode) {
       ? targetInfo.customSlug
       : (baseUrl + "/" + targetInfo.customSlug.replace(/^\/+/, "") + "/");
     if (slugUrl.indexOf("/episodes/") !== -1 && episode != null) {
-      slugUrl = slugUrl.replace(/-episode-\d+\/?$/i, "-episode-" + epNum + "/");
+      if (/-season-\d+-episode-\d+\/?$/i.test(slugUrl)) {
+        slugUrl = slugUrl.replace(/-season-\d+-episode-\d+\/?$/i, "-season-" + sNum + "-episode-" + epNum + "/");
+      } else if (/-episode-\d+\/?$/i.test(slugUrl)) {
+        slugUrl = slugUrl.replace(/-episode-\d+\/?$/i, "-episode-" + epNum + "/");
+      } else {
+        slugUrl = slugUrl.replace(/\/+$/, "") + "-season-" + sNum + "-episode-" + epNum + "/";
+      }
     }
     return slugUrl;
   }
@@ -274,6 +281,12 @@ async function extractMediaFromEmbed(embedUrl, referer) {
 
 async function getStreams(tmdbId, mediaType, season, episode) {
   try {
+    var idParts = String(tmdbId || "").split(":");
+    if (idParts.length >= 3) {
+      if (season == null && /^\d+$/.test(idParts[1])) season = parseInt(idParts[1], 10);
+      if (episode == null && /^\d+$/.test(idParts[2])) episode = parseInt(idParts[2], 10);
+      tmdbId = idParts[0];
+    }
     var baseUrl = getMainUrl();
     var targetInfo = await resolveTmdbTitles(tmdbId, mediaType);
     var epUrl = await resolveEpisodeUrl(baseUrl, targetInfo, season, episode);

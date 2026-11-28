@@ -125,6 +125,12 @@ async function resolveTargetInfo(rawId, mediaType) {
 
 async function getStreams(tmdbId, mediaType, season, episode) {
   try {
+    var idParts = String(tmdbId || "").split(":");
+    if (idParts.length >= 3) {
+      if (season == null && /^\d+$/.test(idParts[1])) season = parseInt(idParts[1], 10);
+      if (episode == null && /^\d+$/.test(idParts[2])) episode = parseInt(idParts[2], 10);
+      tmdbId = idParts[0];
+    }
     var domain = await resolveActiveDomain();
     var targetInfo = await resolveTargetInfo(tmdbId, mediaType);
     var watchUrl = null;

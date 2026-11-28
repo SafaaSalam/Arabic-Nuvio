@@ -147,6 +147,7 @@ function normalizeCanonicalSlug(rawSlug) {
     // 1. Remove site path prefixes like "watch__episodes__serie-" or "movie__11321__"
     .replace(/^(watch__episodes__)?(serie|series|movie)__?\d*__?/i, '')
     // 2. Strip season/episode tails so all episodes map to the parent show
+    .replace(/[-_][a-z](?=[-_](?:season|s)[-_]?\d+)/i, '')
     .replace(/[-_](season|s)[-_]?\d+([_-](episode|ep|e)[-_]?\d+.*)?$/i, '')
     .replace(/[-_](episode|ep|e)[-_]?\d+.*$/i, '')
     // 3. Strip 3isk date tags (e.g., -10jul5, -22oct6, -18ja5)
@@ -160,6 +161,135 @@ function normalizeCanonicalSlug(rawSlug) {
     // 6. Clean up repeated hyphens
     .replace(/[-_]+/g, '-')
     .replace(/^-|-$/g, '');
+}
+
+function extractEpisodeMetadata(rawTitleOrSlug) {
+  const value = String(rawTitleOrSlug || "");
+  const seMatch = value.match(/(?:season|s)[-_ ]?(\d+)[-_ ]?(?:episode|ep|e)[-_ ]?(\d+)/i);
+  if (seMatch) {
+    return { isEpisode: true, season: parseInt(seMatch[1], 10), episode: parseInt(seMatch[2], 10) };
+  }
+  const epOnlyMatch = value.match(/(?:^|[-_\s])(?:episode|ep|e)[-_ ]?(\d+)(?:[-_\s]|$)/i);
+  if (epOnlyMatch) {
+    return { isEpisode: true, season: 1, episode: parseInt(epOnlyMatch[1], 10) };
+  }
+  return { isEpisode: false, season: null, episode: null };
+}
+
+function cleanEpisodeTitle(title) {
+  return String(title || "")
+    .replace(/\s*[-–—:]?\s*(?:season|s)[-_ ]?\d+\s*[-_ ]*(?:episode|ep|e)[-_ ]?\d+.*$/i, '')
+    .replace(/\s*[-–—:]?\s*(?:episode|ep|e)[-_ ]?\d+.*$/i, '')
+    .replace(/\s*(?:الحلقة|الحلقه|حلقة|حلقه)\s*\d+.*$/i, '')
+    .replace(/[\s\-–—_:]+$/, '')
+    .trim();
+}
+
+function upsertSeriesEpisode(seriesStore, sourcePrefix, item, episodeUrl) {
+  const epInfo = extractEpisodeMetadata(item.slug || item.name);
+  const slug = item.slug || cleanEpisodeTitle(String(item.name)).replace(/\s+/g, "-");
+  const canonicalSlug = normalizeCanonicalSlug(slug);
+  if (!canonicalSlug) return null;
+  const parentId = store.asciiId(`${sourcePrefix}_${canonicalSlug}`);
+
+  if (!seriesStore[parentId]) {
+    seriesStore[parentId] = {
+      id: parentId,
+      type: "series",
+      name: item.cleanTitle || cleanEpisodeTitle(item.name) || item.name,
+      poster: item.poster,
+      background: item.background || item.poster,
+      description: item.description || "",
+      videos: []
+    };
+  }
+
+  const parent = seriesStore[parentId];
+  if (epInfo.isEpisode) {
+    const videoId = `${parentId}:${epInfo.season}:${epInfo.episode}`;
+    if (!parent.videos.some(video => video.id === videoId)) {
+      parent.videos.push({
+        id: videoId,
+        title: `Season ${epInfo.season} Episode ${epInfo.episode}`,
+        season: epInfo.season,
+        episode: epInfo.episode,
+        thumbnail: item.poster,
+        episodeUrl,
+        released: item.released
+      });
+      parent.videos.sort((a, b) => (a.season - b.season) || (a.episode - b.episode));
+    }
+  }
+  return parentId;
+}
+
+function sourceEpisodeUrl(cat, slug, website) {
+  if (website) return website;
+  const base = (cat.bases || []).find(value => value && value !== "@alooy");
+  if (!base) return null;
+  const pathSlug = store.decodeIdSlug(slug).replace(/__/g, "/").replace(/^\/+|\/+$/g, "");
+  if (!pathSlug) return null;
+  if (cat.idPrefix === "alooy") {
+    return `${base.replace(/\/+$/, "")}/watch/${pathSlug.replace(/\.html$/i, "")}.html`;
+  }
+  return `${base.replace(/\/+$/, "")}/${pathSlug}/`;
+}
+
+function groupEpisodeItems(cat) {
+  const prefix = `${cat.idPrefix}_`;
+  const itemsById = new Map();
+  const seriesStore = Object.create(null);
+
+  for (const original of cat.metas) {
+    if (!original || typeof original.id !== "string" || !original.id.startsWith(prefix)) {
+      if (original && original.id) itemsById.set(original.id, original);
+      continue;
+    }
+
+    const rawSlug = original.id.slice(prefix.length);
+    const slug = store.decodeIdSlug(rawSlug);
+    const episodeInfo = extractEpisodeMetadata(slug);
+    const titleEpisodeInfo = extractEpisodeMetadata(original.name);
+    const isEpisode = episodeInfo.isEpisode || titleEpisodeInfo.isEpisode;
+    const normalizedSlug = cat.providerKey === "3isk" ? normalizeCanonicalSlug(slug) : slug;
+    if (!normalizedSlug) {
+      itemsById.set(original.id, isEpisode ? Object.assign({}, original, { type: "series" }) : original);
+      continue;
+    }
+    const id = store.asciiId(`${cat.idPrefix}_${normalizedSlug}`);
+    const item = Object.assign({}, original, { id });
+
+    if (!isEpisode) {
+      const current = itemsById.get(id);
+      itemsById.set(id, current && current.videos && current.videos.length
+        ? Object.assign({}, item, { type: "series", videos: current.videos })
+        : item);
+      continue;
+    }
+
+    const episodeSlug = episodeInfo.isEpisode ? slug : cleanEpisodeTitle(String(original.name)).replace(/\s+/g, "-");
+    const canonicalSlug = normalizeCanonicalSlug(episodeSlug);
+    if (!canonicalSlug) {
+      itemsById.set(original.id, Object.assign({}, original, { type: "series" }));
+      continue;
+    }
+    const parentId = store.asciiId(`${cat.idPrefix}_${canonicalSlug}`);
+    const existing = itemsById.get(parentId);
+    seriesStore[parentId] = existing
+      ? Object.assign({}, existing, { type: "series", videos: Array.isArray(existing.videos) ? existing.videos : [] })
+      : undefined;
+    if (!seriesStore[parentId]) delete seriesStore[parentId];
+
+    const episodeItem = Object.assign({}, item, {
+      type: "series",
+      slug: episodeSlug,
+      cleanTitle: cleanEpisodeTitle(original.name)
+    });
+    const groupedId = upsertSeriesEpisode(seriesStore, cat.idPrefix, episodeItem, sourceEpisodeUrl(cat, rawSlug, original.website));
+    if (groupedId) itemsById.set(groupedId, seriesStore[groupedId]);
+  }
+
+  return [...itemsById.values()];
 }
 
 function formatItemTitle(item) {
@@ -768,13 +898,7 @@ async function main() {
   ];
 
   for (const cat of allExtraCatalogs) {
-    if (cat.providerKey !== "3isk" || !cat.idPrefix) continue;
-    const idPrefix = `${cat.idPrefix}_`;
-    cat.metas = store.dedupe(cat.metas.map((item) => {
-      if (!item || typeof item.id !== "string" || !item.id.startsWith(idPrefix)) return item;
-      const slug = normalizeCanonicalSlug(item.id.slice(idPrefix.length));
-      return slug ? Object.assign({}, item, { id: `${idPrefix}${slug}` }) : item;
-    }));
+    if (cat.idPrefix) cat.metas = store.dedupe(groupEpisodeItems(cat));
   }
 
   const expectedMetaFiles = new Set();
@@ -830,9 +954,15 @@ async function main() {
       };
       const scraped = existing && existing.episodesScraped && Array.isArray(existing.videos) && existing.videos.length > 0;
       if (m.type === "series") {
-        metaObj.videos = scraped ? existing.videos : [{ id: `${m.id}_s1e1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
+        const hasListedEpisodes = Array.isArray(m.videos) && m.videos.length > 0;
+        const videos = new Map((Array.isArray(m.videos) ? m.videos : []).map(video => [video.id, video]));
+        if (scraped) for (const video of existing.videos) videos.set(video.id, video);
+        metaObj.videos = videos.size
+          ? [...videos.values()].sort((a, b) => (a.season - b.season) || (a.episode - b.episode))
+          : [{ id: `${m.id}_s1e1`, title: "Episode 1", season: 1, episode: 1, thumbnail: m.poster }];
         if (scraped) { metaObj.episodesScraped = true; metaObj.website = existing.website; }
-        if (cat.idPrefix && !cat.noResolve && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
+        if (hasListedEpisodes) metaObj.episodesScraped = true;
+        if (cat.idPrefix && !cat.noResolve && !hasListedEpisodes && (!scraped || idx < PAGE_SIZE)) epJobs.push({ m, cat, metaPath, metaObj, scraped });
       }
       writeJson(metaPath, { meta: metaObj }, false);
     });

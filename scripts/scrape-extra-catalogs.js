@@ -105,7 +105,7 @@ function extractImdbId(str) {
   return m ? m[1].toLowerCase() : null;
 }
 
-function makeMetaItem({ id, type, name, poster, description, releaseInfo, imdbRating, logo }) {
+function makeMetaItem({ id, type, name, poster, description, releaseInfo, imdbRating, logo, website }) {
   if (!id || !name || !poster) return null;
   return {
     id: asciiId(id),
@@ -119,6 +119,7 @@ function makeMetaItem({ id, type, name, poster, description, releaseInfo, imdbRa
     description: description || name,
     releaseInfo: releaseInfo ? String(releaseInfo) : undefined,
     imdbRating: imdbRating ? String(imdbRating) : undefined,
+    website: website || undefined,
   };
 }
 
@@ -145,7 +146,7 @@ function parse3isk(html, base, logo) {
     const title = cleanHtmlText(titleDiv ? titleDiv[1] : aM[2]);
     const poster = fixUrl(imgM[1], base);
     if (!title || !poster) continue;
-    const meta = makeMetaItem({ id: `3isk_${slugOf(aM[1])}`, type: "series", name: title, poster, description: `${title} — 3isk (قصة عشق)`, logo });
+    const meta = makeMetaItem({ id: `3isk_${slugOf(aM[1])}`, type: "series", name: title, poster, description: `${title} — 3isk (قصة عشق)`, logo, website: fixUrl(aM[1], base) });
     if (meta) list.push(meta);
   }
   return list;
@@ -162,7 +163,7 @@ function parseAlooy(html, domain, logo) {
     const titleM = block.match(/<h3>\s*<a[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/i);
     if (!imgM || !titleM) continue;
     const slug = titleM[1].replace(/^https?:\/\/[^/]+\/watch\//i, "").replace(/\.html$/i, "");
-    const meta = makeMetaItem({ id: `alooy_${slug}`, type: "series", name: cleanHtmlText(titleM[2]), poster: fixUrl(imgM[1], domain), description: `${cleanHtmlText(titleM[2])} — AlooyTv`, logo });
+    const meta = makeMetaItem({ id: `alooy_${slug}`, type: "series", name: cleanHtmlText(titleM[2]), poster: fixUrl(imgM[1], domain), description: `${cleanHtmlText(titleM[2])} — AlooyTv`, logo, website: fixUrl(titleM[1], domain) });
     if (meta) list.push(meta);
   }
   return list;
@@ -181,7 +182,7 @@ function parseAkwam(html, type, baseFallback, logo) {
     if (!aM || !imgM) continue;
     const title = cleanHtmlText(h3M ? h3M[1] : altM ? altM[1] : "");
     const rating = ratingM ? (cleanHtmlText(ratingM[1]).match(/(\d+(?:\.\d+)?)/) || [])[1] : undefined;
-    const meta = makeMetaItem({ id: `akwam_${slugOf(aM[1])}`, type, name: title, poster: fixUrl(imgM[1], baseFallback), imdbRating: rating, description: `${title} — Akwam (أكوام)`, logo });
+    const meta = makeMetaItem({ id: `akwam_${slugOf(aM[1])}`, type, name: title, poster: fixUrl(imgM[1], baseFallback), imdbRating: rating, description: `${title} — Akwam (أكوام)`, logo, website: aM[1] });
     if (meta) list.push(meta);
   }
   return list;
@@ -208,7 +209,7 @@ function parseGeneric(html, base, cfg) {
     const title = cleanHtmlText(titleM[1] || titleM[2]).replace(/^Download\s+/i, "");
     if (!href || !title || title.length < 2) continue;
     if (cfg.keep && !cfg.keep(title)) continue;
-    const meta = makeMetaItem({ id: `${cfg.prefix}_${slugOf(href)}`, type: cfg.type, name: title, poster, description: `${title} — ${cfg.enTitle}`, logo: cfg.logo });
+    const meta = makeMetaItem({ id: `${cfg.prefix}_${slugOf(href)}`, type: cfg.type, name: title, poster, description: `${title} — ${cfg.enTitle}`, logo: cfg.logo, website: href });
     if (meta) list.push(meta);
   }
   return list;

@@ -38,6 +38,7 @@ function syncDirectory(srcDir, destDir) {
 
 function mirrorToGitHubRepo() {
   // Only run when on local Windows environment where the parent Documents\GitHub path exists
+  if (process.platform !== "win32") return 0; // the target is a Windows path; elsewhere it would create a junk folder
   const parentDir = path.dirname(TARGET_DIR);
   if (!fs.existsSync(parentDir)) {
     return 0;

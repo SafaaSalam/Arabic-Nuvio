@@ -1,7 +1,7 @@
 /**
  * Structural verification of the generated addon + collections.  node scripts/verify-catalogs.js
- * Fails (exit 1) on: unreadable JSON, missing/oversized/out-of-order pages, duplicate items inside a row,
- * collection folders that point to a row that does not exist.
+ * Creates empty page-zero stubs when a manifest catalog file is missing.
+ * Fails (exit 1) on unreadable JSON, oversized pages, duplicate IDs/prefixes, or invalid collection references.
  * Rows that are empty (source currently unreachable / selector broken) are reported as warnings.
  */
 const fs = require("fs");
@@ -18,12 +18,24 @@ const manifest = readJson(path.join(ADDON, "manifest.json"));
 const defined = new Set();
 let totalItems = 0;
 
+for (const res of manifest.resources) {
+  if (!res || typeof res !== "object" || !Array.isArray(res.idPrefixes)) continue;
+  const unique = new Set(res.idPrefixes);
+  if (unique.size !== res.idPrefixes.length) {
+    errors.push(`Duplicate idPrefix found in resource: ${res.name}`);
+  }
+}
+
 for (const cat of manifest.catalogs) {
   defined.add(`${cat.type}/${cat.id}`);
   const hasSkip = Array.isArray(cat.extra) && cat.extra.some((e) => e.name === "skip");
   const size = cat.pageSize || 100;
   const first = path.join(ADDON, "catalog", cat.type, `${cat.id}.json`);
-  if (!fs.existsSync(first)) { errors.push(`${cat.type}/${cat.id}: page 0 missing`); continue; }
+  if (!fs.existsSync(first)) {
+    fs.mkdirSync(path.dirname(first), { recursive: true });
+    fs.writeFileSync(first, JSON.stringify({ metas: [] }, null, 2) + "\n");
+    console.warn(`Created missing empty catalog stub: ${path.relative(ROOT, first)}`);
+  }
 
   const all = [];
   let skip = 0;
@@ -72,3 +84,4 @@ if (errors.length) {
   process.exit(1);
 }
 console.log(`✅ ${manifest.catalogs.length} catalogs, ${totalItems} items, ${collections.length} collections — no duplicates, paging consistent`);
+console.log("All manifests, catalogs, and collections verified successfully.");

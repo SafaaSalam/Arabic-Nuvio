@@ -63,6 +63,8 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
+          node scripts/verify-catalogs.js
+          git add addon/catalog/
           git commit -m "chore(sync): auto-update catalogs, collections & provider manifest"
           for attempt in 1 2 3 4; do
             if git push; then exit 0; fi

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "id": "cine_115580",
+    "type": "series",
+    "name": "Legend of the Galactic Heroes | Ginga Eiyuu Densetsu",
+    "mal_id": "820",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/E56053C5-14B5-E340-1594-AF21A83AF4C9_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/E56053C5-14B5-E340-1594-AF21A83AF4C9_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/E56053C5-14B5-E340-1594-AF21A83AF4C9_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور في الفضاء الخارجي و ترتكز بالدرجة الأولى على الإمبراطورية و حربها طويلة الأمد مع حكومة اتحاد الكواكب الحرة، كل من الجهتين المتصارعتين تمتلك من العتاد و الأموال و الرجال الشيء الكثير، إلا أن قواعد اللعبة تتغير رأسا على عقب بظهور رجلان في أحد الحقب التاريخية لهذا الصراع.",
+    "releaseInfo": "1988",
+    "imdbRating": "9.1",
+    "genres": [
+      "دراما | Drama",
+      "خيال علمي | Sci-Fi",
+      "رسوم متحركة | Animation"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_115580",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/E56053C5-14B5-E340-1594-AF21A83AF4C9_poster.jpg",
+        "overview": "Legend of the Galactic Heroes | Ginga Eiyuu Densetsu",
+        "streams": []
+      }
+    ]
+  }
+}

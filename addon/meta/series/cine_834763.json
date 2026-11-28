@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": "cine_834763",
+    "type": "series",
+    "name": "صنع في الهاوية",
+    "mal_id": "34599",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/C007D756-9757-5CDB-B13A-16BF988E2B45_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/C007D756-9757-5CDB-B13A-16BF988E2B45_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/C007D756-9757-5CDB-B13A-16BF988E2B45_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "الهاوية، فجوة عميقة تمتد إلى أعماق الأرض، مليئة بالمخلوقات الغامضة والآثار الغريبة. لكن كيف نشئت؟ ماذا يكمن في قاعها؟\n\nThe Abyss—a gaping chasm stretching down into the depths of the earth, filled with mysterious creatures and relics from a time long past. How did it come to be? What lies at the bottom? Countless brave individuals, known as Divers, have sought to solve these mysteries of the Abyss, fearlessly descending into its darkest realms. The best and bravest of the Divers, the White Whistles, are hailed as legends by those who remain on the surface.",
+    "releaseInfo": "2017",
+    "imdbRating": "9.0",
+    "genres": [
+      "مغامرة | Adventure",
+      "رسوم متحركة | Animation",
+      "مدبلج عربي | Arabic dubbed",
+      "دراما | Drama",
+      "خيالي | Fantasy",
+      "غموض | Mystery",
+      "خيال علمي | Sci-Fi"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_834763",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/C007D756-9757-5CDB-B13A-16BF988E2B45_poster.jpg",
+        "overview": "صنع في الهاوية",
+        "streams": []
+      }
+    ]
+  }
+}

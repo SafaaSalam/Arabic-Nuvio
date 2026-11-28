@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_748456",
+    "type": "series",
+    "name": "اخفيتك في قلبي | Seni Kalbime Sakladım",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/9D1DB06E-3D3E-510D-DD5E-5B08C6E6F2D0_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/9D1DB06E-3D3E-510D-DD5E-5B08C6E6F2D0_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/9D1DB06E-3D3E-510D-DD5E-5B08C6E6F2D0_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "هو مسلسل تلفزيوني رومانسي كوميدي تركي من صنع سيف يابيم",
+    "releaseInfo": "2022",
+    "imdbRating": "6.1",
+    "genres": [
+      "دراما | Drama",
+      "رومانسي | Romance"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_748456",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/9D1DB06E-3D3E-510D-DD5E-5B08C6E6F2D0_poster.jpg",
+        "overview": "اخفيتك في قلبي | Seni Kalbime Sakladım",
+        "streams": []
+      }
+    ]
+  }
+}

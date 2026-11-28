@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_394145",
+    "type": "series",
+    "name": "ما وراء الطبيعة",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/3564941A-0AFA-E8E5-C956-DABBE11C4E90_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/3564941A-0AFA-E8E5-C956-DABBE11C4E90_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/3564941A-0AFA-E8E5-C956-DABBE11C4E90_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "في حقبة الستينيات من القرن الماضي, يعيش طبيب متقاعد رفعت إسماعيل وسط عالم مليء بالقصص الخارقة للطبيعة والاحداث الغامضة التي خاضها بنفسه او سردت له.",
+    "releaseInfo": "2020",
+    "imdbRating": "8.8",
+    "genres": [
+      "دراما | Drama",
+      "خيالي | Fantasy",
+      "رعب | Horror"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_394145",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/3564941A-0AFA-E8E5-C956-DABBE11C4E90_poster.jpg",
+        "overview": "ما وراء الطبيعة",
+        "streams": []
+      }
+    ]
+  }
+}

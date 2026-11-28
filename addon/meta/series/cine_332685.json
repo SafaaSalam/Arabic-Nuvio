@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "cine_332685",
+    "type": "series",
+    "name": "أبطال الكرة",
+    "mal_id": "5231",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/793F2E99-8714-0539-CDB9-D9D3618ADF22_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/793F2E99-8714-0539-CDB9-D9D3618ADF22_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/793F2E99-8714-0539-CDB9-D9D3618ADF22_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "أنمي مقتبس من سلسلة ألعاب إينازوما إليفن من إنتاج ليفل-5. يحكي الأنمي عن قصة فريق يحلم بأن يصبح الأول في البلاد في كرة القدم، يواجه الفريق بعض المشاكل، ولكنهم يتغلبون عليها. الشخصيات مستوحاة من منتخب اليابان لكرة القدم، باستثناء عدة شخصيات عالمية معروفة في عالم كرة القدم",
+    "releaseInfo": "2008",
+    "imdbRating": "7.6",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "Sports",
+      "Super Power",
+      "Shounen",
+      "مدبلج عربي | Arabic dubbed"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_332685",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/793F2E99-8714-0539-CDB9-D9D3618ADF22_poster.jpg",
+        "overview": "أبطال الكرة",
+        "streams": []
+      }
+    ]
+  }
+}

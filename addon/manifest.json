@@ -538,6 +538,32 @@
         }
       ],
       "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_flixmomo_movies",
+      "name": "FlixMomo — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_flixmomo_series",
+      "name": "FlixMomo — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
     }
   ],
   "behaviorHints": {

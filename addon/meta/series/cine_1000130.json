@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "cine_1000130",
+    "type": "series",
+    "name": "يوميات جميل وهناء",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/3DC38251-1DDA-E9CB-D5FD-E0D40D7C1D6C_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/3DC38251-1DDA-E9CB-D5FD-E0D40D7C1D6C_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/3DC38251-1DDA-E9CB-D5FD-E0D40D7C1D6C_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "يروي العمل قصة جميل الحمصي الذي يخجل من النساء وهذا ما يجعل زوجته هناء تطمئن إليه فلا تغار عليه مثل بقية الزوجات، مما يدعوه لإبتكار أساليب كثيرة لإثارة غيرتها وإرغامها على الإهتمام به أكثر، حيث يدعي أن له علاقات نسائية كثيرة لجذب إهتمام زوجته، مما يوقعه في العديد من المشاكل والمواقف الكوميدية.",
+    "releaseInfo": "1997",
+    "imdbRating": "8.8",
+    "genres": [
+      "كوميدي | Comedy",
+      "رومانسي | Romance"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_1000130",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/3DC38251-1DDA-E9CB-D5FD-E0D40D7C1D6C_poster.jpg",
+        "overview": "يوميات جميل وهناء",
+        "streams": []
+      }
+    ]
+  }
+}

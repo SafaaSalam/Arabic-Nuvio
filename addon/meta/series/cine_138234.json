@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "id": "cine_138234",
+    "type": "series",
+    "name": "خمس بنات",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/34AFC394-BBBC-AB79-2AD4-AEDA80BC6FD3_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/34AFC394-BBBC-AB79-2AD4-AEDA80BC6FD3_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/34AFC394-BBBC-AB79-2AD4-AEDA80BC6FD3_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تتناول أحداث المسلسل حياة الأخوات وكيفية مواجهتهن للمشاكل اليومية والإجتماعية والعاطفية",
+    "releaseInfo": "2016",
+    "imdbRating": "5.0",
+    "genres": [
+      "دراما | Drama"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_138234",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/34AFC394-BBBC-AB79-2AD4-AEDA80BC6FD3_poster.jpg",
+        "overview": "خمس بنات",
+        "streams": []
+      }
+    ]
+  }
+}

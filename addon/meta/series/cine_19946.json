@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "id": "cine_19946",
+    "type": "series",
+    "name": "علاء الدين | Aladdin",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/F00BA685-4EB0-4D3D-FD36-C86957D113F7_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/F00BA685-4EB0-4D3D-FD36-C86957D113F7_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/F00BA685-4EB0-4D3D-FD36-C86957D113F7_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور القصة حول البطل علاء الدين الذى ينقذ مدينة {اغربه} في كل حلقة بقصة جديدة وحوار جديد هو والجني والقرد (عبو)\nوالبساط السحري ويكون علاء الدين مغرم بياسمين إبنة السلطان فيحاول كثيرا ان يبعد عنها الأشرار ويبعد عن مدينته\nالأذى فهو شخص يحب ان يساعد الناس عرض باللغة الإنجليزية وعرض باللغة العربية بلهجة المصرية .",
+    "releaseInfo": "1995",
+    "imdbRating": "8.9",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "اكشن | Action",
+      "مغامرة | Adventure"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_19946",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/F00BA685-4EB0-4D3D-FD36-C86957D113F7_poster.jpg",
+        "overview": "علاء الدين | Aladdin",
+        "streams": []
+      }
+    ]
+  }
+}

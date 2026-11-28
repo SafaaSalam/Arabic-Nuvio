@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "cine_339451",
+    "type": "series",
+    "name": "حرب الكواكب",
+    "mal_id": "820",
+    "poster": "https://cnth2.shabakaty.cc/vascin-poster-images/B2681096-94F4-3FAC-3DC7-251B5A640369_poster.jpg",
+    "posterShape": "poster",
+    "background": "https://cnth2.shabakaty.cc/vascin-poster-images/B2681096-94F4-3FAC-3DC7-251B5A640369_poster.jpg",
+    "landscapePoster": "https://cnth2.shabakaty.cc/vascin-poster-images/B2681096-94F4-3FAC-3DC7-251B5A640369_poster.jpg",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s",
+    "description": "تدور في الفضاء الخارجي و ترتكز بالدرجة الأولى على الإمبراطورية و حربها طويلة الأمد مع حكومة اتحاد الكواكب الحرة، كل من الجهتين المتصارعتين تمتلك من العتاد و الأموال و الرجال الشيء الكثير، إلا أن قواعد اللعبة تتغير رأسا على عقب بظهور رجلان في أحد الحقب التاريخية لهذا الصراع",
+    "releaseInfo": "1988",
+    "imdbRating": "9.0",
+    "genres": [
+      "رسوم متحركة | Animation",
+      "خيال علمي | Sci-Fi",
+      "دراما | Drama",
+      "مدبلج عربي | Arabic dubbed"
+    ],
+    "cast": [],
+    "director": [],
+    "videos": [
+      {
+        "id": "cine_339451",
+        "title": "الموسم 1 - الحلقة 1 | Season 1 Episode 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cnth2.shabakaty.cc/vascin-poster-images/B2681096-94F4-3FAC-3DC7-251B5A640369_poster.jpg",
+        "overview": "حرب الكواكب",
+        "streams": []
+      }
+    ]
+  }
+}

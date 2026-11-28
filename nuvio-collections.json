@@ -181,7 +181,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_3isk_series",
@@ -209,6 +209,33 @@
             "catalogId": "src_3isk_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_3isk_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "titleLogoUrl": "https://3esk.onl/wp-content/uploads/2021/01/3isk-logo.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_3isk_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_3isk_movies"
+          }
+        ]
       }
     ]
   },
@@ -220,7 +247,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_alooytv_series",
@@ -246,6 +273,33 @@
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
             "catalogId": "src_alooytv_series"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_alooytv_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+        "titleLogoUrl": "https://fitnur.com/uploads/avatars/c5ae8dadf88bcea9549657ec451a1563.jpg",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_alooytv_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_alooytv_movies"
           }
         ]
       }
@@ -325,7 +379,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_tuktukcima_movies",
@@ -353,6 +407,33 @@
             "catalogId": "src_tuktukcima_movies"
           }
         ]
+      },
+      {
+        "id": "folder-src_tuktukcima_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10TEG3tTtkEF9_g3IslEP3xs0wx9EVhBs7b_H5M1gpg&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10TEG3tTtkEF9_g3IslEP3xs0wx9EVhBs7b_H5M1gpg&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10TEG3tTtkEF9_g3IslEP3xs0wx9EVhBs7b_H5M1gpg&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_tuktukcima_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_tuktukcima_series"
+          }
+        ]
       }
     ]
   },
@@ -364,7 +445,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_lodynet_series",
@@ -392,6 +473,33 @@
             "catalogId": "src_lodynet_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_lodynet_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
+        "titleLogoUrl": "https://lodynet.watch/wp-content/themes/Lodynet2020/Img/Logo.webp",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_lodynet_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_lodynet_movies"
+          }
+        ]
       }
     ]
   },
@@ -403,7 +511,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_krmzy_series",
@@ -431,6 +539,33 @@
             "catalogId": "src_krmzy_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_krmzy_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwTnAJOvyri3uHzHxjkEdlaBBKs8MAvIuJtFmCoo9u5qYiuFpHZjcl6tDi&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_krmzy_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_krmzy_movies"
+          }
+        ]
       }
     ]
   },
@@ -442,7 +577,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_aia2tv_series",
@@ -470,6 +605,33 @@
             "catalogId": "src_aia2tv_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_aia2tv_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "titleLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_aia2tv_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_aia2tv_movies"
+          }
+        ]
       }
     ]
   },
@@ -481,7 +643,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_5tv_series",
@@ -509,6 +671,33 @@
             "catalogId": "src_5tv_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_5tv_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/5tv.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_5tv_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_5tv_movies"
+          }
+        ]
       }
     ]
   },
@@ -520,7 +709,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_aflaam_movies",
@@ -548,6 +737,33 @@
             "catalogId": "src_aflaam_movies"
           }
         ]
+      },
+      {
+        "id": "folder-src_aflaam_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://aflaam.com/style/assets/images/logo.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://aflaam.com/style/assets/images/logo.png",
+        "titleLogoUrl": "https://aflaam.com/style/assets/images/logo.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_aflaam_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_aflaam_series"
+          }
+        ]
       }
     ]
   },
@@ -559,7 +775,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_shahidwbas_series",
@@ -587,6 +803,33 @@
             "catalogId": "src_shahidwbas_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_shahidwbas_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://cdn.wccftech.com/wp-content/uploads/2018/01/Youtube-music.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://cdn.wccftech.com/wp-content/uploads/2018/01/Youtube-music.png",
+        "titleLogoUrl": "https://cdn.wccftech.com/wp-content/uploads/2018/01/Youtube-music.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_shahidwbas_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_shahidwbas_movies"
+          }
+        ]
       }
     ]
   },
@@ -598,7 +841,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_tuniflix_movies",
@@ -626,6 +869,33 @@
             "catalogId": "src_tuniflix_movies"
           }
         ]
+      },
+      {
+        "id": "folder-src_tuniflix_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe95deIIAAbyR9ArSievPWdM2QwiVG9bbQ6Y1uDIbRBpathzSs45b8uQ4&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_tuniflix_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_tuniflix_series"
+          }
+        ]
       }
     ]
   },
@@ -637,7 +907,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_replaymatch_movies",
@@ -663,6 +933,33 @@
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
             "catalogId": "src_replaymatch_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_replaymatch_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+        "titleLogoUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_replaymatch_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_replaymatch_series"
           }
         ]
       }
@@ -874,7 +1171,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_myseed_movies",
@@ -900,6 +1197,33 @@
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
             "catalogId": "src_myseed_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_myseed_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=m.myseed.tv&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_myseed_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_myseed_series"
           }
         ]
       }
@@ -979,7 +1303,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_qdrama_series",
@@ -1007,6 +1331,33 @@
             "catalogId": "src_qdrama_series"
           }
         ]
+      },
+      {
+        "id": "folder-src_qdrama_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=w3.q-drama.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_qdrama_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_qdrama_movies"
+          }
+        ]
       }
     ]
   },
@@ -1018,7 +1369,7 @@
     "pinToTop": false,
     "focusGlowEnabled": true,
     "viewMode": "TABBED_GRID",
-    "showAllTab": false,
+    "showAllTab": true,
     "folders": [
       {
         "id": "folder-src_aflamstream_movies",
@@ -1044,6 +1395,33 @@
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "movie",
             "catalogId": "src_aflamstream_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_aflamstream_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=aflamstream.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_aflamstream_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_aflamstream_series"
           }
         ]
       }
@@ -1110,6 +1488,1128 @@
             "addonId": "org.nuvio.arabic.cinemana",
             "type": "series",
             "catalogId": "src_flixmomo_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cinemana-collection",
+    "title": "Cinemana — Movies & Series (🇮🇶)",
+    "name": "Cinemana — Movies & Series (🇮🇶)",
+    "backdropImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_cinemana_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_cinemana_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_cinemana_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_cinemana_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_cinemana_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_cinemana_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cee-collection",
+    "title": "CEE — Movies & Series (🇮🇶)",
+    "name": "CEE — Movies & Series (🇮🇶)",
+    "backdropImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_cee_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_cee_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_cee_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_cee_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEnHalnMz2EfG48BZUI6iC86seq09uafFngG8gz1OWQ&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_cee_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_cee_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eseek-collection",
+    "title": "Eseek — Turkish Series",
+    "name": "Eseek — Turkish Series",
+    "backdropImageUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_eseek_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+        "titleLogoUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_eseek_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_eseek_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_eseek_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+        "titleLogoUrl": "https://gesseh.net/wp-content/uploads/2024/10/keesatlogo.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_eseek_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_eseek_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anim3rb-collection",
+    "title": "Anime3rb — Anime",
+    "name": "Anime3rb — Anime",
+    "backdropImageUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_anim3rb_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+        "titleLogoUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_anim3rb_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_anim3rb_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_anim3rb_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+        "titleLogoUrl": "https://images.anime3rb.com/favicon/apple-touch-icon.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_anim3rb_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_anim3rb_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime4up-collection",
+    "title": "Anime4Up — Anime",
+    "name": "Anime4Up — Anime",
+    "backdropImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_anime4up_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_anime4up_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_anime4up_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_anime4up_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkVDfHjqUpRyrWJjW8wUHH87BhSO6B9uxI-B80sAy_AQ&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_anime4up_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_anime4up_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "animerco-collection",
+    "title": "Animerco — Anime",
+    "name": "Animerco — Anime",
+    "backdropImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_animerco_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_animerco_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_animerco_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_animerco_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/animerco.png",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_animerco_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_animerco_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "witanime-collection",
+    "title": "WitAnime — Anime",
+    "name": "WitAnime — Anime",
+    "backdropImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_witanime_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_witanime_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_witanime_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_witanime_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+        "titleLogoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AH2oC7LwumXRpHM8_WLpIFvDIfmS67jkjlhsCKpPaZdqcneigzUQX4g&s=10",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_witanime_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_witanime_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anime-phoenix-collection",
+    "title": "Anime Phoenix — Anime",
+    "name": "Anime Phoenix — Anime",
+    "backdropImageUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_animephoenix_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+        "titleLogoUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_animephoenix_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_animephoenix_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_animephoenix_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+        "titleLogoUrl": "https://yt3.googleusercontent.com/mBIIR5cqQC4Y-o7HaxbkJfs305X6tbHLSNPk6MRMCDJsH8xP0SfGhK-CBDpSmH95wSff9z99sg=s900-c-k-c0x00ffffff-no-rj",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_animephoenix_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_animephoenix_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vegamovies-collection",
+    "title": "VegaMovies — Hindi & English Movies",
+    "name": "VegaMovies — Hindi & English Movies",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_vegamovies_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_vegamovies_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_vegamovies_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_vegamovies_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=1vegamovies.shop&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_vegamovies_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_vegamovies_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cimanow-collection",
+    "title": "CimaNow — Arabic Movies & Series",
+    "name": "CimaNow — Arabic Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_cimanow_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_cimanow_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_cimanow_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_cimanow_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_cimanow_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_cimanow_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "qfilm-collection",
+    "title": "QFilm — Movies & Series",
+    "name": "QFilm — Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_qfilm_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_qfilm_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_qfilm_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_qfilm_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=a.qfilm.tv&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_qfilm_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_qfilm_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tukcima-collection",
+    "title": "TukCima — Movies & Series",
+    "name": "TukCima — Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_tukcima_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_tukcima_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_tukcima_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_tukcima_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=tukcima.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_tukcima_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_tukcima_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fasselhd-collection",
+    "title": "FasselHD — Movies & Series",
+    "name": "FasselHD — Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_fasselhd_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_fasselhd_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_fasselhd_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_fasselhd_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=fasselhd.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_fasselhd_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_fasselhd_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "faselhd2-collection",
+    "title": "FaselHD2 — Movies & Series",
+    "name": "FaselHD2 — Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_faselhd2_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_faselhd2_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_faselhd2_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_faselhd2_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=fasel-hd.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_faselhd2_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_faselhd2_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "egydeadca-collection",
+    "title": "EgyDead CA — Movies & Series",
+    "name": "EgyDead CA — Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_egydeadca_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_egydeadca_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_egydeadca_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_egydeadca_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=egydead.ca&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_egydeadca_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_egydeadca_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ahwaktv-collection",
+    "title": "AhwakTV — TV Series",
+    "name": "AhwakTV — TV Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_ahwaktv_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_ahwaktv_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_ahwaktv_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_ahwaktv_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=yam.ahwaktv.net&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_ahwaktv_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_ahwaktv_series"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "starzplay-collection",
+    "title": "Starzplay — Movies & Series",
+    "name": "Starzplay — Movies & Series",
+    "backdropImageUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+    "pinToTop": false,
+    "focusGlowEnabled": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "folders": [
+      {
+        "id": "folder-src_starzplay_movies",
+        "title": "Latest Movies",
+        "name": "Latest Movies",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "🎬",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_starzplay_movies"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "movie",
+            "catalogId": "src_starzplay_movies"
+          }
+        ]
+      },
+      {
+        "id": "folder-src_starzplay_series",
+        "title": "Latest Series",
+        "name": "Latest Series",
+        "coverImageUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+        "focusGifEnabled": true,
+        "coverEmoji": "📺",
+        "tileShape": "POSTER",
+        "hideTitle": false,
+        "heroBackdropUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+        "titleLogoUrl": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+        "sources": [
+          {
+            "provider": "addon",
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_starzplay_series"
+          }
+        ],
+        "catalogSources": [
+          {
+            "addonId": "org.nuvio.arabic.cinemana",
+            "type": "series",
+            "catalogId": "src_starzplay_series"
           }
         ]
       }

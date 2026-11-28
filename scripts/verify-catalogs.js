@@ -1,7 +1,7 @@
 /**
  * Structural verification of the generated addon + collections.  node scripts/verify-catalogs.js
  * Creates empty page-zero stubs when a manifest catalog file is missing.
- * Fails (exit 1) on unreadable JSON, oversized pages, duplicate IDs/prefixes, or invalid collection references.
+ * Fails (exit 1) on unreadable JSON, oversized pages, duplicate IDs/prefixes, or invalid collection references/pairs.
  * Rows that are empty (source currently unreachable / selector broken) are reported as warnings.
  */
 const fs = require("fs");
@@ -74,6 +74,26 @@ for (const col of collections) {
     folderIds.add(f.id);
     for (const s of f.catalogSources || f.sources || []) {
       if (s.catalogId && !defined.has(`${s.type}/${s.catalogId}`)) errors.push(`collection ${col.id}/${f.id}: unknown catalog ${s.type}/${s.catalogId}`);
+    }
+  }
+}
+
+for (const prefix of manifest.idPrefixes || []) {
+  if (typeof prefix !== "string" || !prefix.endsWith("_")) continue;
+  const provider = prefix === "cine_"
+    ? "cinemana"
+    : prefix.slice(0, -1).replace(/[^a-z0-9]/gi, "").toLowerCase();
+  const collection = collections.find(col => col.id === `${provider}-collection`);
+  const collectionCatalogs = new Set(
+    (collection && collection.folders || []).flatMap(folder =>
+      (folder.catalogSources || []).map(source => `${source.type}:${source.catalogId}`)
+    )
+  );
+  for (const type of ["movie", "series"]) {
+    const catalogId = `src_${provider}_${type === "movie" ? "movies" : "series"}`;
+    if (!defined.has(`${type}/${catalogId}`)) errors.push(`Missing ${type} catalog for idPrefix ${prefix}: ${catalogId}`);
+    if (!collectionCatalogs.has(`${type}:${catalogId}`)) {
+      errors.push(`Collection ${provider}-collection is missing ${type} catalog tab: ${catalogId}`);
     }
   }
 }

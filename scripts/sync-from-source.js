@@ -885,7 +885,7 @@ async function main() {
   }
 
   // 4.6 Scrape Priority #2..#42 Providers (CEE, 3isk, AlooyTv, Akwam, and the rest)
-  const { scrapeAllExtraCatalogs } = require("./scrape-extra-catalogs.js");
+  const { scrapeAllExtraCatalogs, LOGOS } = require("./scrape-extra-catalogs.js");
   const extraData = await scrapeAllExtraCatalogs();
   Object.assign(healthReport, extraData.health);
 
@@ -911,7 +911,6 @@ async function main() {
 
   for (const cat of allExtraCatalogs) {
     if (!cat || !Array.isArray(cat.metas) || cat.metas.length === 0) continue;
-    if (cat.group === "anime") continue; // anime sources are not offered in the catalogs / collections
     const englishName = cat.enTitle || cat.arTitle;
     const firstRowOfProvider = !homeProviders.has(cat.providerKey);
     homeProviders.add(cat.providerKey);
@@ -1350,18 +1349,26 @@ async function main() {
     }
   }
 
-  // 4.8 One pair of rows per source: latest movies + latest series (excluding Cee & Cinemana, which are playback-only).
+  // 4.8 One pair of rows per source: latest movies + latest series.
   // Every row holds PAGE_SIZE (50) posters per page and older pages load as the user scrolls back (skip=N).
   {
-    const HIDDEN_HOME_PROVIDERS = new Set(["cinemana", "cee"]);
     const groups = new Map();
     for (const [rid, r] of rowItems.entries()) {
       const rm = rowMeta.get(rid);
-      if (!rm || HIDDEN_HOME_PROVIDERS.has(rm.provider)) continue;
+      if (!rm) continue;
       const k = `${rm.provider}|${r.type}`;
       if (!groups.has(k)) groups.set(k, { provider: rm.provider, type: r.type, logo: rm.logo, rows: [] });
       groups.get(k).rows.push(r.metas);
     }
+
+    for (const provider of Object.keys(PROVIDER_NAMES)) {
+      const logo = provider === "cinemana" ? cinemanaLogoUrl : (LOGOS[provider] || cinemanaLogoUrl);
+      for (const type of ["movie", "series"]) {
+        const k = `${provider}|${type}`;
+        if (!groups.has(k)) groups.set(k, { provider, type, logo, rows: [] });
+      }
+    }
+
     const provOrder = [];
     for (const g of groups.values()) if (!provOrder.includes(g.provider)) provOrder.push(g.provider);
     const ordered = [...groups.values()].sort((a, b) => provOrder.indexOf(a.provider) - provOrder.indexOf(b.provider) || (a.type === "movie" ? -1 : 1) - (b.type === "movie" ? -1 : 1));
@@ -1373,11 +1380,10 @@ async function main() {
     providerFolders.clear();
     const newIds = new Set();
     for (const g of ordered) {
-      const longest = Math.max(...g.rows.map(r => r.length));
+      const longest = g.rows.length ? Math.max(...g.rows.map(r => r.length)) : 0;
       const mixed = [];
       for (let rank = 0; rank < longest; rank++) for (const metas of g.rows) if (metas[rank]) mixed.push(metas[rank]);
       const metas = store.dedupe(mixed);
-      if (metas.length === 0) continue;
       const isMovie = g.type === "movie";
       const id = `src_${g.provider.replace(/[^a-z0-9]/gi, "").toLowerCase()}_${isMovie ? "movies" : "series"}`;
       const pName = PROVIDER_NAMES[g.provider] || g.provider;
@@ -1441,7 +1447,7 @@ async function main() {
       {
         name: "stream",
         types: ["movie", "series"],
-        idPrefixes: [...supportedPrefixes, "tt"]
+        idPrefixes: supportedPrefixes
       }
     ],
     catalogs: catalogDefinitions,

@@ -227,9 +227,87 @@
       "showInHome": true
     },
     {
+      "type": "movie",
+      "id": "src_cinemana_movies",
+      "name": "Cinemana — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_cinemana_series",
+      "name": "Cinemana — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_cee_movies",
+      "name": "CEE — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_cee_series",
+      "name": "CEE — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_3isk_movies",
+      "name": "3isk — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
       "type": "series",
       "id": "src_3isk_series",
       "name": "3isk — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_alooytv_movies",
+      "name": "AlooyTv — Latest Movies",
       "pageSize": 50,
       "extra": [
         {
@@ -293,8 +371,47 @@
     },
     {
       "type": "series",
+      "id": "src_tuktukcima_series",
+      "name": "TukTukcima — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_lodynet_movies",
+      "name": "LodyNet — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
       "id": "src_lodynet_series",
       "name": "LodyNet — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_krmzy_movies",
+      "name": "Krmzy — Latest Movies",
       "pageSize": 50,
       "extra": [
         {
@@ -318,9 +435,61 @@
       "showInHome": true
     },
     {
+      "type": "movie",
+      "id": "src_eseek_movies",
+      "name": "Eseek — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_eseek_series",
+      "name": "Eseek — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_aia2tv_movies",
+      "name": "Asia2TV — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
       "type": "series",
       "id": "src_aia2tv_series",
       "name": "Asia2TV — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_5tv_movies",
+      "name": "5TV — Latest Movies",
       "pageSize": 50,
       "extra": [
         {
@@ -358,6 +527,32 @@
     },
     {
       "type": "series",
+      "id": "src_aflaam_series",
+      "name": "Aflaam — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_shahidwbas_movies",
+      "name": "ShahidWBas — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
       "id": "src_shahidwbas_series",
       "name": "ShahidWBas — Latest Series",
       "pageSize": 50,
@@ -383,9 +578,165 @@
       "showInHome": true
     },
     {
+      "type": "series",
+      "id": "src_tuniflix_series",
+      "name": "TuniFlix — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_anim3rb_movies",
+      "name": "Anime3rb — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_anim3rb_series",
+      "name": "Anime3rb — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_anime4up_movies",
+      "name": "Anime4Up — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_anime4up_series",
+      "name": "Anime4Up — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_animerco_movies",
+      "name": "Animerco — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_animerco_series",
+      "name": "Animerco — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_witanime_movies",
+      "name": "WitAnime — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_witanime_series",
+      "name": "WitAnime — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_animephoenix_movies",
+      "name": "Anime Phoenix — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_animephoenix_series",
+      "name": "Anime Phoenix — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
       "type": "movie",
       "id": "src_replaymatch_movies",
       "name": "FullMatchShows — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_replaymatch_series",
+      "name": "FullMatchShows — Latest Series",
       "pageSize": 50,
       "extra": [
         {
@@ -412,6 +763,32 @@
       "type": "series",
       "id": "src_moviesmod_series",
       "name": "Moviesmod — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_vegamovies_movies",
+      "name": "VegaMovies — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_vegamovies_series",
+      "name": "VegaMovies — Latest Series",
       "pageSize": 50,
       "extra": [
         {
@@ -475,8 +852,73 @@
     },
     {
       "type": "movie",
-      "id": "src_myseed_movies",
-      "name": "MySeed — Latest Movies",
+      "id": "src_cimanow_movies",
+      "name": "CimaNow — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_cimanow_series",
+      "name": "CimaNow — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_aflamstream_movies",
+      "name": "AflamStream — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_aflamstream_series",
+      "name": "AflamStream — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_qfilm_movies",
+      "name": "QFilm — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_qfilm_series",
+      "name": "QFilm — Latest Series",
       "pageSize": 50,
       "extra": [
         {
@@ -513,6 +955,123 @@
       "showInHome": true
     },
     {
+      "type": "movie",
+      "id": "src_tukcima_movies",
+      "name": "TukCima — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_tukcima_series",
+      "name": "TukCima — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_fasselhd_movies",
+      "name": "FasselHD — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_fasselhd_series",
+      "name": "FasselHD — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_faselhd2_movies",
+      "name": "FaselHD2 — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_faselhd2_series",
+      "name": "FaselHD2 — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_egydeadca_movies",
+      "name": "EgyDead CA — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_egydeadca_series",
+      "name": "EgyDead CA — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_qdrama_movies",
+      "name": "QDrama — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
       "type": "series",
       "id": "src_qdrama_series",
       "name": "QDrama — Latest Series",
@@ -527,8 +1086,73 @@
     },
     {
       "type": "movie",
-      "id": "src_aflamstream_movies",
-      "name": "AflamStream — Latest Movies",
+      "id": "src_myseed_movies",
+      "name": "MySeed — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_myseed_series",
+      "name": "MySeed — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_ahwaktv_movies",
+      "name": "AhwakTV — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_ahwaktv_series",
+      "name": "AhwakTV — Latest Series",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "movie",
+      "id": "src_starzplay_movies",
+      "name": "Starzplay — Latest Movies",
+      "pageSize": 50,
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ],
+      "showInHome": true
+    },
+    {
+      "type": "series",
+      "id": "src_starzplay_series",
+      "name": "Starzplay — Latest Series",
       "pageSize": 50,
       "extra": [
         {

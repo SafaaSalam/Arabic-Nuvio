@@ -143,6 +143,20 @@ async function lookupTmdbImdb(query, type, year) {
   return null;
 }
 
+// Items whose source already gives a TMDB id (e.g. FlixMomo "flixmomo_<tmdbId>") map to IMDb with
+// one exact lookup instead of a fuzzy title search.
+function tmdbIdOf(item) {
+  if (item.tmdb_id && /^\d+$/.test(String(item.tmdb_id))) return String(item.tmdb_id);
+  const m = String(item.id || "").match(/^flixmomo_(\d+)$/);
+  return m ? m[1] : null;
+}
+
+async function lookupImdbByTmdbId(tmdbId, type) {
+  const tType = type === "series" ? "tv" : "movie";
+  const ext = await fetchJson(`https://api.themoviedb.org/3/${tType}/${tmdbId}/external_ids?api_key=${TMDB_API_KEY}`, 4500);
+  return ext && /^tt\d+$/i.test(ext.imdb_id || "") ? ext.imdb_id.toLowerCase() : null;
+}
+
 async function fetchCinemeta(imdbId, type) {
   const cache = loadCache();
   const cType = type === "series" ? "series" : "movie";
@@ -208,10 +222,12 @@ function applyEnrichment(item, imdbId, cm) {
  * Uses data/imdb-cache.json for instant cached lookups and performs up to
  * `budget.remaining` live lookups.
  */
-async function enrichItems(items, budget = { remaining: 100 }) {
+async function enrichItems(items, budget = { remaining: 100 }, idMap = null) {
   const cache = loadCache();
   const out = [];
   const MISS_TTL_MS = 7 * 24 * 3600 * 1000;
+  // Exact TMDB-id lookups are cheap and never wrong, so they get their own allowance (also used for tail pages).
+  if (typeof budget.tmdbRemaining !== "number") budget.tmdbRemaining = 0;
 
   for (const item of items) {
     if (!item || !item.id || !item.name) continue;
@@ -224,6 +240,7 @@ async function enrichItems(items, budget = { remaining: 100 }) {
         budget.remaining--;
         cm = await fetchCinemeta(existingImdb, type);
       }
+      if (idMap && item.id !== existingImdb) idMap.set(item.id, existingImdb);
       out.push(applyEnrichment(item, existingImdb, cm));
       continue;
     }
@@ -232,7 +249,20 @@ async function enrichItems(items, budget = { remaining: 100 }) {
     const year = item.releaseInfo ? extractYear(item.releaseInfo) : extractYear(item.name);
     let resolvedId = null;
 
-    for (const q of candidates) {
+    const tmdbId = tmdbIdOf(item);
+    if (tmdbId) {
+      const tKey = `tmdb|${type}|${tmdbId}`;
+      const cached = cache.titleMap[tKey];
+      if (typeof cached === "string") resolvedId = cached;
+      else if (!(cached && cached.ts && Date.now() - cached.ts < MISS_TTL_MS) && budget.tmdbRemaining > 0) {
+        budget.tmdbRemaining--;
+        const found = await lookupImdbByTmdbId(tmdbId, type);
+        cache.titleMap[tKey] = found || { ts: Date.now() };
+        resolvedId = found;
+      }
+    }
+
+    for (const q of resolvedId ? [] : candidates) {
       const cacheKey = `${type}|${norm(q)}|${year || ""}`;
       const cached = cache.titleMap[cacheKey];
       if (cached !== undefined) {
@@ -260,6 +290,7 @@ async function enrichItems(items, budget = { remaining: 100 }) {
     }
 
     if (resolvedId) {
+      if (idMap) idMap.set(item.id, resolvedId);
       const cm = await fetchCinemeta(resolvedId, type);
       out.push(applyEnrichment(item, resolvedId, cm));
     } else {

@@ -150,28 +150,33 @@ function extractMalId(str) {
 }
 
 function normalizeCanonicalSlug(rawSlug) {
-  return String(rawSlug || "")
+  let slug = String(rawSlug || "")
     .toLowerCase()
     // Remove route prefixes before canonicalizing IDs, regardless of URL separator style.
     .replace(/^\/?watch(?:__|[-/]+)episodes(?:__|[-/]+)(?:serie|series|movie)(?:(?:__|[-/]+)\d+)?(?:__|[-/]+)?/i, "")
     .replace(/^(?:serie|series)__/i, "")
     .replace(/^movie__(?:\d+__)?/i, "")
-    .replace(/^\/?movie\/\d+\//i, "")
-    // 2. Strip season/episode tails so all episodes map to the parent show
+    .replace(/^\/?movie\/\d+\//i, "");
+  // 2. Strip season/episode tails so all episodes map to the parent show
+  const beforeTail = slug;
+  slug = slug
     .replace(/[-_][a-z](?=[-_](?:season|s)[-_]?\d+)/i, '')
     .replace(/[-_](season|s)[-_]?\d+([_-](episode|ep|e)[-_]?\d+.*)?$/i, '')
-    .replace(/[-_](episode|ep|e)[-_]?\d+.*$/i, '')
+    .replace(/[-_](episode|ep|e)[-_]?\d+.*$/i, '');
+  const hadEpisodeTail = slug !== beforeTail;
+  slug = slug
     // 3. Strip 3isk date tags (e.g., -10jul5, -22oct6, -18ja5)
     .replace(/[-_]\d{1,2}[a-z]{2,3}\d{1,2}(?=[-_]|$)/g, '')
     // 4. Strip random 5-char alphanumeric hash suffixes (e.g., -k997m, -a740i)
     .replace(/[-_][a-z]\d{3}[a-z](?=[-_]|$)/g, '')
     // 5. Strip dubbing/subbing/part variants & trailing copy numbers (-2, -3, -last)
     .replace(/[-_](mudblij|mudbalij|mudblj|mudbij|mtrjm|final|last)(?=[-_]|$)/g, '')
-    .replace(/[-_][a-z](?=[-_]\d+$)/g, '') // single-letter split slugs like -a-, -b-
-    .replace(/[-_]\d+$/, '')
-    // 6. Clean up repeated hyphens
-    .replace(/[-_]+/g, '-')
-    .replace(/^-|-$/g, '');
+    .replace(/[-_][a-z](?=[-_]\d+$)/g, ''); // single-letter split slugs like -a-, -b-
+  // A number right before a stripped episode tail belongs to the title ("series-12-12-12-s01-e04"),
+  // otherwise it is a copy number ("show-mudblij-2").
+  if (!hadEpisodeTail) slug = slug.replace(/[-_]\d+$/, '');
+  // 6. Clean up repeated hyphens
+  return slug.replace(/[-_]+/g, '-').replace(/^-|-$/g, '');
 }
 
 function canonicalSourceId(rawId) {
@@ -185,6 +190,34 @@ function isEpisodeLevelMetaId(id) {
 
 function isLocalOnlySourceId(id) {
   return /^(?:cine|cee|cimanow|egydeadca)_/i.test(String(id || ""));
+}
+
+// Index of every custom id that has at least one playable (http) link in its stream file(s).
+// Movies: "<id>"; series: "<id>" when any of its "<id>:S:E" episode files has a link.
+function buildPlayableIndex() {
+  const out = { movie: new Set(), series: new Set() };
+  for (const type of ["movie", "series"]) {
+    const dir = path.join(ADDON_DIR, "stream", type);
+    if (!fs.existsSync(dir)) continue;
+    for (const f of fs.readdirSync(dir)) {
+      if (!f.endsWith(".json")) continue;
+      let streams = [];
+      try { streams = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")).streams || []; } catch (_) { continue; }
+      if (!streams.some(x => x && typeof x.url === "string" && /^https?:\/\//.test(x.url))) continue;
+      const id = f.slice(0, -5);
+      out[type].add(type === "series" ? id.replace(/(?::\d+:\d+|_s\d+e\d+)$/i, "") : id);
+    }
+  }
+  return out;
+}
+
+const HIDE_UNPLAYABLE = process.env.HIDE_UNPLAYABLE !== "0"; // set HIDE_UNPLAYABLE=0 to list every scraped title again
+
+function isPlayableItem(m, playable) {
+  if (!m || !m.id) return false;
+  if (!HIDE_UNPLAYABLE) return true;
+  if (/^tt\d+$/i.test(m.id)) return true; // every plugin / addon in Nuvio can answer for IMDb ids
+  return (m.type === "series" ? playable.series : playable.movie).has(m.id);
 }
 
 function readPagedCatalog(type, id) {
@@ -1188,6 +1221,7 @@ async function main() {
           if (!fs.existsSync(dir)) continue;
           for (const f of fs.readdirSync(dir)) {
             if (isLocalOnlySourceId(f) && isCiSync) continue;
+            if (/^tt\d+/.test(f)) continue; // IMDb stream files are managed after IMDb enrichment (4.6e)
             const full = path.join(dir, f);
             if (!streamExpected.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
           }
@@ -1311,15 +1345,17 @@ async function main() {
   }
 
   // 4.6d IMDb ID Resolution & Cinemeta Metadata Enrichment across all rows
+  const sourceToImdb = new Map(); // custom source id -> IMDb id it was linked to
   {
-    const imdbBudget = { remaining: parseInt(process.env.MAX_IMDB_LOOKUPS || "120", 10) };
+    const imdbBudget = { remaining: parseInt(process.env.MAX_IMDB_LOOKUPS || "120", 10), tmdbRemaining: parseInt(process.env.MAX_TMDB_ID_LOOKUPS || "400", 10) };
+    const tailBudget = { remaining: 0, get tmdbRemaining() { return imdbBudget.tmdbRemaining; }, set tmdbRemaining(v) { imdbBudget.tmdbRemaining = v; } };
     let totalEnriched = 0;
     for (const [rid, r] of rowItems.entries()) {
       if (preservedOnlyRows.has(rid)) continue;
       const head = r.metas.slice(0, PAGE_SIZE);
       const tail = r.metas.slice(PAGE_SIZE);
-      const enrichedHead = await imdb.enrichItems(head, imdbBudget);
-      const enrichedTail = tail.length > 0 ? await imdb.enrichItems(tail, { remaining: 0 }) : [];
+      const enrichedHead = await imdb.enrichItems(head, imdbBudget, sourceToImdb);
+      const enrichedTail = tail.length > 0 ? await imdb.enrichItems(tail, tailBudget, sourceToImdb) : [];
       r.metas = store.dedupe([...enrichedHead, ...enrichedTail]);
       for (const m of r.metas) {
         if (/^tt\d+$/i.test(m.id)) {
@@ -1334,6 +1370,62 @@ async function main() {
     }
     imdb.saveCache();
     console.log(`   🎬 IMDb enrichment: ${totalEnriched} IMDb-linked items across ${rowItems.size} rows (lookups left in budget: ${imdbBudget.remaining})`);
+  }
+
+  // 4.6e Serve the source's own playable links under the IMDb id too, so an IMDb-linked movie gets the
+  //      Arabic source links from this addon *and* the results of every other plugin/addon in Nuvio.
+  {
+    const movieDir = path.join(ADDON_DIR, "stream", "movie");
+    const readDirect = (file) => {
+      try { return (JSON.parse(fs.readFileSync(file, "utf8")).streams || []).filter(x => x && typeof x.url === "string" && /^https?:\/\//.test(x.url)); } catch (_) { return []; }
+    };
+    const merged = new Map(); // tt -> streams
+    for (const [srcId, tt] of sourceToImdb.entries()) {
+      if (/^tt\d+/.test(srcId)) continue;
+      const direct = readDirect(path.join(movieDir, `${srcId}.json`));
+      if (!direct.length) continue;
+      const list = merged.get(tt) || [];
+      for (const s of direct) if (!list.some(x => x.url === s.url)) list.push(s);
+      merged.set(tt, list);
+    }
+    const written = new Set();
+    for (const [tt, list] of merged.entries()) {
+      const f = path.join(movieDir, `${tt}.json`);
+      written.add(f);
+      writeJson(f, { streams: list.slice(0, 16) }, false);
+    }
+    // drop IMDb stream files that are neither refreshed this run nor used by any catalog any more
+    if (!isLocalOnly && fs.existsSync(movieDir)) {
+      const inCatalogs = new Set();
+      for (const r of rowItems.values()) for (const m of r.metas) if (m && /^tt\d+$/.test(m.id)) inCatalogs.add(m.id);
+      for (const f of fs.readdirSync(movieDir)) {
+        const mm = f.match(/^(tt\d+)\.json$/);
+        if (!mm) continue;
+        const full = path.join(movieDir, f);
+        if (!written.has(full) && !inCatalogs.has(mm[1])) { try { fs.unlinkSync(full); } catch (_) {} }
+      }
+    }
+    console.log(`   🔗 IMDb stream files with source links: ${merged.size}`);
+  }
+
+  // 4.6f Never list a title that cannot play. Custom-id items (only this addon answers for them) are kept only
+  //      when a stream file with at least one playable link exists; IMDb-linked items stay (every plugin and
+  //      addon in Nuvio can answer for them). This removes "None of them returned streams" for catalog items.
+  const playable = buildPlayableIndex();
+  {
+    let hidden = 0;
+    const perSource = {};
+    for (const r of rowItems.values()) {
+      const before = r.metas.length;
+      r.metas = r.metas.filter((m) => {
+        const ok = isPlayableItem(m, playable);
+        if (!ok && m && m.id) { const p = String(m.id).split("_")[0]; perSource[p] = (perSource[p] || 0) + 1; }
+        return ok;
+      });
+      hidden += before - r.metas.length;
+    }
+    console.log(`   🚫 Hidden ${hidden} catalog items without playable streams ${JSON.stringify(perSource)}`);
+    healthReport._unplayableHidden = perSource;
   }
 
   // 4.7 Global Discovery Rows (all sources combined, de-duplicated across sources)
@@ -1465,6 +1557,8 @@ async function main() {
       const isMovie = g.type === "movie";
       const id = `src_${g.provider.replace(/[^a-z0-9]/gi, "").toLowerCase()}_${isMovie ? "movies" : "series"}`;
       if (metas.length === 0) metas = readPagedCatalog(g.type, id);
+      metas = metas.filter(m => isPlayableItem(m, playable));
+      if (metas.length === 0) continue; // no playable titles: no row and no empty folder in the collections
       const pName = PROVIDER_NAMES[g.provider] || g.provider;
       const tabTitle = isMovie ? "Latest Movies" : "Latest Series";
       const emoji = isMovie ? "🎬" : "📺";

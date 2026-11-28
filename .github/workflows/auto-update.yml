@@ -43,9 +43,10 @@ jobs:
           node scripts/test-episode-streams.js
           node scripts/test-direct-streams.js
           node scripts/test-embeds.js
+          node scripts/test-canonical-slugs.js
 
-      - name: Sync latest providers, catalogs & collections from every source
-        run: node scripts/sync-from-source.js
+      - name: Sync reachable sources and preserve locally synced catalogs
+        run: node scripts/sync-from-source.js --ci
 
       - name: Verify catalogs (no duplicates, paging consistent, collections valid)
         run: node scripts/verify-catalogs.js

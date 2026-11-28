@@ -421,12 +421,12 @@ const GENERIC_SOURCES = [
     itemRegex: /<article\b[\s\S]*?<\/article>/gi },
 ];
 
-function buildSources() {
+function buildSources(options = {}) {
   const S = [];
   // ---- Priority 2: CEE
   // CEE rows are turned off: cee.buzz only answers from Iraq, so they never updated from GitHub.
   // CEE is served live by the CNCVerse Bridge addon instead. Set SYNC_CEE=1 to bring these rows back.
-  if (process.env.SYNC_CEE === "1") {
+  if (process.env.SYNC_CEE === "1" || options.includeCee) {
     S.push(ceeSource("cee_newly_movies", "movie", "أحدث أفلام CEE", "CEE Newly Added Movies", "🎬", ceeNewly, 1));
     S.push(ceeSource("cee_newly_series", "series", "أحدث مسلسلات CEE", "CEE Newly Added Series", "📺", ceeNewly, 2));
     S.push(ceeSource("cee_popular_movies", "movie", "الأكثر مشاهدة - أفلام CEE", "CEE Most Viewed Movies", "🔥", ceeVideo(1, "views_desc"), 1));
@@ -605,10 +605,17 @@ async function refreshCsxDomains() {
  * item lists plus a per-source health report.
  */
 async function scrapeAllExtraCatalogs(options = {}) {
-  const csx = await refreshCsxDomains();
-  const sources = buildSources();
+  const csx = options.skipCsxRefresh
+    ? null
+    : await refreshCsxDomains();
+  const providerKeys = options.providerKeys ? new Set(options.providerKeys) : null;
+  const excludedProviderKeys = new Set(options.excludedProviderKeys || []);
+  const sources = buildSources({ includeCee: options.includeCee })
+    .filter((source) => (!providerKeys || providerKeys.has(source.providerKey)) && !excludedProviderKeys.has(source.providerKey));
   const health = {};
-  health._csx = { domainsFromGitHub: csx.live, domainsChanged: csx.changed, newExtensions: csx.newExtensions, extensions: csx.plugins.map((x) => `${x.name}@${x.version}`) };
+  if (csx) {
+    health._csx = { domainsFromGitHub: csx.live, domainsChanged: csx.changed, newExtensions: csx.newExtensions, extensions: csx.plugins.map((x) => `${x.name}@${x.version}`) };
+  }
   const catalogs = await runPool(sources.map((src) => async () => {
     const store = loadStore(src.id, src.type);
     const forwardPages = src.paginated === false ? 1 : 2;

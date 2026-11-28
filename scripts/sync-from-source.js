@@ -28,6 +28,7 @@ const RE3ARABI_RAW_BUILDS = "https://raw.githubusercontent.com/Abodabodd/re-3ara
 const CINEMANA_BASE_URL = "https://cinemana.shabakaty.cc";
 const CINEMANA_API = `${CINEMANA_BASE_URL}/api/android`;
 const ADDON_ID = "org.nuvio.arabic.cinemana";
+const LOCAL_ONLY_SOURCES = new Set(["cinemana", "cee", "cimanow", "egydeadca"]);
 
 const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
@@ -112,6 +113,13 @@ function ensureDir(dirPath) {
 
 // Only touches the file when content really changed -> no pointless commits every 15 minutes.
 function writeJson(filePath, data, pretty = true) {
+  const metaDir = path.join(ADDON_DIR, "meta");
+  const relativePath = path.relative(metaDir, path.resolve(filePath));
+  const isMetaFile = relativePath && relativePath !== ".." &&
+    !relativePath.startsWith(`..${path.sep}`) && !path.isAbsolute(relativePath);
+  if (isMetaFile && data && data.meta && isEpisodeLevelMetaId(data.meta.id || path.basename(filePath, ".json"))) {
+    throw new Error(`Refusing to write episode-level metadata: ${data.meta.id || filePath}`);
+  }
   return store.writeJsonIfChanged(filePath, data, pretty);
 }
 
@@ -142,10 +150,13 @@ function extractMalId(str) {
 }
 
 function normalizeCanonicalSlug(rawSlug) {
-  return rawSlug
+  return String(rawSlug || "")
     .toLowerCase()
-    // 1. Remove site path prefixes like "watch__episodes__serie-" or "movie__11321__"
-    .replace(/^(watch__episodes__)?(serie|series|movie)__?\d*__?/i, '')
+    // Remove route prefixes before canonicalizing IDs, regardless of URL separator style.
+    .replace(/^\/?watch(?:__|[-/]+)episodes(?:__|[-/]+)(?:serie|series|movie)(?:(?:__|[-/]+)\d+)?(?:__|[-/]+)?/i, "")
+    .replace(/^(?:serie|series)__/i, "")
+    .replace(/^movie__(?:\d+__)?/i, "")
+    .replace(/^\/?movie\/\d+\//i, "")
     // 2. Strip season/episode tails so all episodes map to the parent show
     .replace(/[-_][a-z](?=[-_](?:season|s)[-_]?\d+)/i, '')
     .replace(/[-_](season|s)[-_]?\d+([_-](episode|ep|e)[-_]?\d+.*)?$/i, '')
@@ -155,12 +166,40 @@ function normalizeCanonicalSlug(rawSlug) {
     // 4. Strip random 5-char alphanumeric hash suffixes (e.g., -k997m, -a740i)
     .replace(/[-_][a-z]\d{3}[a-z](?=[-_]|$)/g, '')
     // 5. Strip dubbing/subbing/part variants & trailing copy numbers (-2, -3, -last)
-    .replace(/[-_](mudblij|mudbalij|mtrjm|final|last)(?=[-_]|$)/g, '')
+    .replace(/[-_](mudblij|mudbalij|mudblj|mudbij|mtrjm|final|last)(?=[-_]|$)/g, '')
     .replace(/[-_][a-z](?=[-_]\d+$)/g, '') // single-letter split slugs like -a-, -b-
     .replace(/[-_]\d+$/, '')
     // 6. Clean up repeated hyphens
     .replace(/[-_]+/g, '-')
     .replace(/^-|-$/g, '');
+}
+
+function canonicalSourceId(rawId) {
+  const clean = String(rawId || "").toLowerCase().trim();
+  return clean === "faselhd2" ? "fasselhd" : clean;
+}
+
+function isEpisodeLevelMetaId(id) {
+  return /(?:^|[-_/])(?:episode|ep)[-_]?\d+(?:[-_/]|$)|__episodes__|s\d+[-_]?e\d+|(?:^|[-_/])watch[-_/]+episodes(?:[-_/]|$)/i.test(String(id || ""));
+}
+
+function isLocalOnlySourceId(id) {
+  return /^(?:cine|cee|cimanow|egydeadca)_/i.test(String(id || ""));
+}
+
+function readPagedCatalog(type, id) {
+  const metas = [];
+  for (let skip = 0; ; skip += store.PAGE_SIZE) {
+    const filePath = store.pageFileFor(type, id, skip);
+    if (!fs.existsSync(filePath)) break;
+    const page = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    if (!page || !Array.isArray(page.metas)) {
+      throw new Error(`Invalid catalog page: ${filePath}`);
+    }
+    metas.push(...page.metas);
+    if (page.metas.length < store.PAGE_SIZE) break;
+  }
+  return metas;
 }
 
 function extractEpisodeMetadata(rawTitleOrSlug) {
@@ -514,64 +553,57 @@ async function buildCustomItemMetaAndStreams(nb, defaultType, cinemanaLogo, isCi
 }
 
 async function main() {
+  const isLocalOnly = process.argv.includes("--local-only");
+  const isCiSync = (process.argv.includes("--ci") || process.env.GITHUB_ACTIONS === "true") && !isLocalOnly;
+  const existingAddonManifest = fs.existsSync(path.join(ADDON_DIR, "manifest.json"))
+    ? JSON.parse(fs.readFileSync(path.join(ADDON_DIR, "manifest.json"), "utf8"))
+    : { catalogs: [] };
+  const existingCollections = fs.existsSync(path.join(ROOT_DIR, "nuvio-collections.json"))
+    ? JSON.parse(fs.readFileSync(path.join(ROOT_DIR, "nuvio-collections.json"), "utf8"))
+    : [];
+  const existingHealth = isLocalOnly && fs.existsSync(path.join(ROOT_DIR, "data", "health.json"))
+    ? JSON.parse(fs.readFileSync(path.join(ROOT_DIR, "data", "health.json"), "utf8")).sources || {}
+    : {};
+  const ADDON_LOGO_URL = "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png";
   console.log("🔄 Syncing from https://github.com/Abodabodd/re-3arabi (cinemana) and https://cinemana.shabakaty.cc ...");
 
   const seedData = loadSeedData();
 
-  // 1. Fetch source metadata from Abodabodd/re-3arabi
-  const sourceRepoJson = await fetchJson(`${RE3ARABI_RAW_MAIN}/repo.json`, 6000);
-  const sourcePluginsJson = await fetchJson(`${RE3ARABI_RAW_BUILDS}/plugins.json`, 6000);
-  const sourceBuildGradle = await fetchText(`${RE3ARABI_RAW_MAIN}/cinemana/build.gradle.kts`, 6000);
+  let cinemanaLogoUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s";
+  if (!isLocalOnly) {
+    // Refresh provider metadata only during a full sync.
+    const sourceRepoJson = await fetchJson(`${RE3ARABI_RAW_MAIN}/repo.json`, 6000);
+    const sourcePluginsJson = await fetchJson(`${RE3ARABI_RAW_BUILDS}/plugins.json`, 6000);
+    const sourceBuildGradle = await fetchText(`${RE3ARABI_RAW_MAIN}/cinemana/build.gradle.kts`, 6000);
+    const cinemanaPluginEntry = Array.isArray(sourcePluginsJson)
+      ? sourcePluginsJson.find(p => p && String(p.internalName).toLowerCase() === "cinemana")
+      : null;
+    if (cinemanaPluginEntry && cinemanaPluginEntry.iconUrl) cinemanaLogoUrl = cinemanaPluginEntry.iconUrl;
+    if (sourceBuildGradle) {
+      const iconMatch = sourceBuildGradle.match(/iconUrl\s*=\s*"([^"]+)"/);
+      if (iconMatch) cinemanaLogoUrl = iconMatch[1];
+    }
 
-  const cinemanaPluginEntry = Array.isArray(sourcePluginsJson)
-    ? sourcePluginsJson.find(p => p && String(p.internalName).toLowerCase() === "cinemana")
-    : null;
+    // Generate all 42 sequenced Nuvio JS Providers, manifest.json, and plugins.json.
+    require("./generate-all-providers.js");
+    console.log("✅ Wrote root manifest.json and plugins.json (42 sequenced Nuvio JS Providers)");
 
-  // Extract official logos and metadata strictly from the main source (Abodabodd/re-3arabi)
-  const repoIconUrl = (sourceRepoJson && sourceRepoJson.iconUrl)
-    ? sourceRepoJson.iconUrl
-    : `${RE3ARABI_RAW_MAIN}/icon.png`;
-
-  let cinemanaLogoUrl = cinemanaPluginEntry && cinemanaPluginEntry.iconUrl
-    ? cinemanaPluginEntry.iconUrl
-    : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlAGH56cEnNEL93W3QqZWpUe8XR8i90olTA&s";
-
-  let sourceVersion = cinemanaPluginEntry && cinemanaPluginEntry.version ? cinemanaPluginEntry.version : 4;
-  let sourceDescriptionAr = "لا يعمل خارج العراق او اي شبكة غير ايرثلنك";
-
-  if (sourceBuildGradle) {
-    const verMatch = sourceBuildGradle.match(/version\s*=\s*(\d+)/);
-    if (verMatch) sourceVersion = parseInt(verMatch[1], 10);
-    const descMatch = sourceBuildGradle.match(/description\s*=\s*"([^"]+)"/);
-    if (descMatch) sourceDescriptionAr = descMatch[1];
-    const iconMatch = sourceBuildGradle.match(/iconUrl\s*=\s*"([^"]+)"/);
-    if (iconMatch) cinemanaLogoUrl = iconMatch[1];
+    writeJson(path.join(ROOT_DIR, "repo.json"), {
+      name: "Arabic Nuvio | الإضافات العربية الشاملة",
+      description: "Comprehensive Arabic Nuvio Providers & Collections — Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Sources",
+      iconUrl: ADDON_LOGO_URL,
+      manifestVersion: 1,
+      pluginLists: [
+        "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/plugins.json"
+      ]
+    });
+    console.log("✅ Wrote repo.json");
   }
 
-  const providerVersion = `1.0.${sourceVersion}`;
-  const bilingualDescription = `${sourceDescriptionAr} | Shabakaty Cinemana Iraq (Movies, Series & Anime up to 4K with Arabic Subtitles)`;
-
-  // 2. Generate all 42 sequenced Nuvio JS Providers, manifest.json, and plugins.json
-  require("./generate-all-providers.js");
-  console.log("✅ Wrote root manifest.json and plugins.json (42 sequenced Nuvio JS Providers)");
-
-  const ADDON_LOGO_URL = "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/assets/icons/Arabic-Nuvio.png";
-
-  // 3. Write CloudStream External Repo bridge (repo.json)
-  writeJson(path.join(ROOT_DIR, "repo.json"), {
-    name: "Arabic Nuvio | الإضافات العربية الشاملة",
-    description: "Comprehensive Arabic Nuvio Providers & Collections — Shabakaty Cinemana, CEE, 3isk, AlooyTv, Akwam, and 36+ Arabic Sources",
-    iconUrl: ADDON_LOGO_URL,
-    manifestVersion: 1,
-    pluginLists: [
-      "https://raw.githubusercontent.com/SafaaSalam/Arabic-Nuvio/main/plugins.json"
-    ]
-  });
-  console.log("✅ Wrote repo.json");
-
   // 4. Probe Cinemana API reachability (fast 3.5s check)
-  console.log("📡 Checking Cinemana API connectivity (https://cinemana.shabakaty.cc)...");
-  const liveGroupsProbe = await fetchJson(`${CINEMANA_API}/videoGroups/lang/ar/level/0`, 3500);
+  const liveGroupsProbe = isCiSync
+    ? null
+    : await fetchJson(`${CINEMANA_API}/videoGroups/lang/ar/level/0`, 3500);
   const isCinemanaOnline = Boolean(liveGroupsProbe && Array.isArray(liveGroupsProbe.groups) && liveGroupsProbe.groups.length > 0);
 
   if (isCinemanaOnline) {
@@ -579,7 +611,7 @@ async function main() {
     seedData.videoGroups = liveGroupsProbe;
     seedData.updatedAt = new Date().toISOString().slice(0, 10);
   } else {
-    console.log("🟡 Cinemana API unreachable or rate-limited from current network; using real captured Cinemana data from data/cinemana-seed.json...");
+    console.log("🟡 Cinemana API unavailable or skipped; using captured data from data/cinemana-seed.json...");
   }
 
   const catalogDefinitions = [];
@@ -588,8 +620,10 @@ async function main() {
 
   const PAGE_SIZE = store.PAGE_SIZE;
   const healthReport = {};
+  Object.assign(healthReport, existingHealth);
   const rowMeta = new Map(); // catalogId -> { provider, logo }
   const rowItems = new Map(); // catalogId -> { type, metas }  (used to build the cross-source 'Latest' rows)
+  const preservedOnlyRows = new Set();
   const latestCineNbs = new Set(); // cine_ items on the first page of any row (their meta/streams get refreshed)
 
   /**
@@ -886,7 +920,11 @@ async function main() {
 
   // 4.6 Scrape Priority #2..#42 Providers (CEE, 3isk, AlooyTv, Akwam, and the rest)
   const { scrapeAllExtraCatalogs, LOGOS } = require("./scrape-extra-catalogs.js");
-  const extraData = await scrapeAllExtraCatalogs();
+  const extraData = await scrapeAllExtraCatalogs(isLocalOnly
+    ? { providerKeys: [...LOCAL_ONLY_SOURCES].filter((source) => source !== "cinemana"), includeCee: true, skipCsxRefresh: true }
+    : isCiSync
+      ? { excludedProviderKeys: [...LOCAL_ONLY_SOURCES].filter((source) => source !== "cinemana") }
+      : {});
   Object.assign(healthReport, extraData.health);
 
   const allExtraCatalogs = [
@@ -899,6 +937,29 @@ async function main() {
 
   for (const cat of allExtraCatalogs) {
     if (cat.idPrefix) cat.metas = store.dedupe(groupEpisodeItems(cat));
+  }
+
+  const restoreProviders = isLocalOnly
+    ? [...new Set(Object.keys(PROVIDER_NAMES).map(canonicalSourceId))]
+    : isCiSync
+      ? ["cee", "cimanow", "egydeadca"]
+      : [];
+  for (const provider of restoreProviders) {
+    for (const type of ["movie", "series"]) {
+      const hasFreshRows = [...rowMeta.entries()].some(([catalogId, meta]) => {
+        const row = rowItems.get(catalogId);
+        return canonicalSourceId(meta.provider) === provider && row && row.type === type && row.metas.length > 0;
+      });
+      if (hasFreshRows) continue;
+      const isMovie = type === "movie";
+      const id = `src_${provider.replace(/[^a-z0-9]/gi, "").toLowerCase()}_${isMovie ? "movies" : "series"}`;
+      if (rowItems.has(id)) continue;
+      const metas = readPagedCatalog(type, id);
+      if (!metas.length) continue;
+      rowItems.set(id, { type, metas });
+      rowMeta.set(id, { provider, logo: LOGOS[provider] || cinemanaLogoUrl });
+      preservedOnlyRows.add(id);
+    }
   }
 
   const expectedMetaFiles = new Set();
@@ -1121,13 +1182,15 @@ async function main() {
           if (changed) writeJson(metaPath, { meta }, false);
         }
       }
-      for (const type of ["movie", "series"]) {
-        const dir = path.join(ADDON_DIR, "stream", type);
-        if (!fs.existsSync(dir)) continue;
-        for (const f of fs.readdirSync(dir)) {
-          if (f.startsWith("cine_")) continue;
-          const full = path.join(dir, f);
-          if (!streamExpected.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
+      if (!isLocalOnly) {
+        for (const type of ["movie", "series"]) {
+          const dir = path.join(ADDON_DIR, "stream", type);
+          if (!fs.existsSync(dir)) continue;
+          for (const f of fs.readdirSync(dir)) {
+            if (isLocalOnlySourceId(f) && isCiSync) continue;
+            const full = path.join(dir, f);
+            if (!streamExpected.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
+          }
         }
       }
       console.log(`▶️  Stream files for custom sources: ${streamExpected.size} (${streamFiles} written)`);
@@ -1137,7 +1200,11 @@ async function main() {
       const STREAM_STATE_FILE = path.join(ROOT_DIR, "data", "stream-state.json");
       let sState = {};
       try { sState = JSON.parse(fs.readFileSync(STREAM_STATE_FILE, "utf8")); } catch (_) {}
-      for (const k of Object.keys(sState)) { const nk = k.replace(/_s(\d+)e(\d+)\.json$/, ":$1:$2.json"); if (nk !== k) { sState[nk] = sState[k]; delete sState[k]; } }
+      for (const k of Object.keys(sState)) {
+        if (isLocalOnly && !isLocalOnlySourceId(path.basename(k))) continue;
+        const nk = k.replace(/_s(\d+)e(\d+)\.json$/, ":$1:$2.json");
+        if (nk !== k) { sState[nk] = sState[k]; delete sState[k]; }
+      }
       const MAX_RES = parseInt(process.env.MAX_STREAM_RESOLVES || "700", 10);
       const DEADLINE = Date.now() + parseInt(process.env.STREAM_RESOLVE_MS || "480000", 10);
       const PROVIDER_FILE = { alooy: "alooytv", animephoenix: "anime-phoenix" };
@@ -1211,25 +1278,34 @@ async function main() {
         }
       }
       await Promise.all(Array.from({ length: 14 }, resWorker));
-      for (const k of Object.keys(sState)) if (!streamExpected.has(path.join(ADDON_DIR, k))) delete sState[k];
+      for (const k of Object.keys(sState)) {
+        if (isLocalOnly || (isCiSync && isLocalOnlySourceId(path.basename(k)))) continue;
+        if (!streamExpected.has(path.join(ADDON_DIR, k))) delete sState[k];
+      }
       try { fs.writeFileSync(STREAM_STATE_FILE, JSON.stringify(sState)); } catch (_) {}
       console.log(`🎬 Direct streams: ${rc} resolved via provider plugins (${resolvedOk} playable, ${resolvedNone} without links), ${queue.length} queued`);
       healthReport._streams = { attempted: rc, playable: resolvedOk, none: resolvedNone, failures: failWhy };
     }
 
-    for (const k of Object.keys(epState)) if (nowMs - epState[k] > 7 * 86400000) delete epState[k];
+    for (const k of Object.keys(epState)) {
+      if (isLocalOnly && !isLocalOnlySourceId(k)) continue;
+      if (nowMs - epState[k] > 7 * 86400000) delete epState[k];
+    }
     try { fs.writeFileSync(EP_STATE_FILE, JSON.stringify(epState)); } catch (_) {}
     console.log(`🎞️  Episodes: ${jobs.length} series checked (${scrapedNow} updated, ${noEpisodes} without episode links, ${unreachable} unreachable)`);
     healthReport._episodes = { checked: jobs.length, updated: scrapedNow, noEpisodes, unreachable };
 
     // drop meta files left over from the old (broken) file naming
-    for (const type of ["movie", "series"]) {
-      const dir = path.join(ADDON_DIR, "meta", type);
-      if (!fs.existsSync(dir)) continue;
-      for (const f of fs.readdirSync(dir)) {
-        if (f.startsWith("cine_") || !/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch|moviesmod|vegamovies|bollyflix|moviesdrive)_/.test(f)) continue;
-        const full = path.join(dir, f);
-        if (!expectedMetaFiles.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
+    if (!isLocalOnly) {
+      for (const type of ["movie", "series"]) {
+        const dir = path.join(ADDON_DIR, "meta", type);
+        if (!fs.existsSync(dir)) continue;
+        for (const f of fs.readdirSync(dir)) {
+          if (isLocalOnlySourceId(f) && isCiSync) continue;
+          if (!/^(?:3isk|alooy|akwam|tuktukcima|lodynet|krmzy|eseek|aia2tv|5tv|aflaam|shahidwbas|tuniflix|anim3rb|anime4up|animerco|witanime|animephoenix|replaymatch|moviesmod|vegamovies|bollyflix|moviesdrive)_/.test(f)) continue;
+          const full = path.join(dir, f);
+          if (!expectedMetaFiles.has(full)) { try { fs.unlinkSync(full); } catch (_) {} }
+        }
       }
     }
   }
@@ -1239,6 +1315,7 @@ async function main() {
     const imdbBudget = { remaining: parseInt(process.env.MAX_IMDB_LOOKUPS || "120", 10) };
     let totalEnriched = 0;
     for (const [rid, r] of rowItems.entries()) {
+      if (preservedOnlyRows.has(rid)) continue;
       const head = r.metas.slice(0, PAGE_SIZE);
       const tail = r.metas.slice(PAGE_SIZE);
       const enrichedHead = await imdb.enrichItems(head, imdbBudget);
@@ -1356,12 +1433,13 @@ async function main() {
     for (const [rid, r] of rowItems.entries()) {
       const rm = rowMeta.get(rid);
       if (!rm) continue;
-      const k = `${rm.provider}|${r.type}`;
-      if (!groups.has(k)) groups.set(k, { provider: rm.provider, type: r.type, logo: rm.logo, rows: [] });
+      const provider = canonicalSourceId(rm.provider);
+      const k = `${provider}|${r.type}`;
+      if (!groups.has(k)) groups.set(k, { provider, type: r.type, logo: rm.logo, rows: [] });
       groups.get(k).rows.push(r.metas);
     }
 
-    for (const provider of Object.keys(PROVIDER_NAMES)) {
+    for (const provider of new Set(Object.keys(PROVIDER_NAMES).map(canonicalSourceId))) {
       const logo = provider === "cinemana" ? cinemanaLogoUrl : (LOGOS[provider] || cinemanaLogoUrl);
       for (const type of ["movie", "series"]) {
         const k = `${provider}|${type}`;
@@ -1383,9 +1461,10 @@ async function main() {
       const longest = g.rows.length ? Math.max(...g.rows.map(r => r.length)) : 0;
       const mixed = [];
       for (let rank = 0; rank < longest; rank++) for (const metas of g.rows) if (metas[rank]) mixed.push(metas[rank]);
-      const metas = store.dedupe(mixed);
+      let metas = store.dedupe(mixed);
       const isMovie = g.type === "movie";
       const id = `src_${g.provider.replace(/[^a-z0-9]/gi, "").toLowerCase()}_${isMovie ? "movies" : "series"}`;
+      if (metas.length === 0) metas = readPagedCatalog(g.type, id);
       const pName = PROVIDER_NAMES[g.provider] || g.provider;
       const tabTitle = isMovie ? "Latest Movies" : "Latest Series";
       const emoji = isMovie ? "🎬" : "📺";
@@ -1405,17 +1484,39 @@ async function main() {
     }
     // drop the old per-category catalog files (they are no longer listed in the manifest)
     const keepAll = new Set([...keepIds, ...newIds]);
-    for (const type of ["movie", "series"]) {
-      const dir = path.join(ADDON_DIR, "catalog", type);
-      if (!fs.existsSync(dir)) continue;
-      for (const f of fs.readdirSync(dir)) {
-        if (keepAll.has(f.replace(/\.json$/, ""))) continue;
-        try { fs.rmSync(path.join(dir, f), { recursive: true, force: true }); } catch (_) {}
+    if (!isLocalOnly) {
+      for (const type of ["movie", "series"]) {
+        const dir = path.join(ADDON_DIR, "catalog", type);
+        if (!fs.existsSync(dir)) continue;
+        for (const f of fs.readdirSync(dir)) {
+          if (keepAll.has(f.replace(/\.json$/, ""))) continue;
+          try { fs.rmSync(path.join(dir, f), { recursive: true, force: true }); } catch (_) {}
+        }
       }
     }
   }
 
   // 5. Write addon/manifest.json
+  if (isLocalOnly) {
+    const generatedDefinitionIds = new Set(catalogDefinitions.map(def => `${def.type}/${def.id}`));
+    const priorDefinitions = (existingAddonManifest.catalogs || []).filter(def =>
+      !generatedDefinitionIds.has(`${def.type}/${def.id}`) &&
+      !def.id.startsWith("src_") &&
+      !def.id.startsWith("arabic_")
+    );
+    const priorGlobalDefinitions = (existingAddonManifest.catalogs || []).filter(def =>
+      def.id.startsWith("arabic_") && !generatedDefinitionIds.has(`${def.type}/${def.id}`)
+    );
+    catalogDefinitions.push(...priorDefinitions, ...priorGlobalDefinitions);
+  }
+  for (let i = catalogDefinitions.length - 1; i >= 0; i--) {
+    const def = catalogDefinitions[i];
+    const filePath = path.join(ADDON_DIR, "catalog", def.type, `${def.id}.json`);
+    if (!fs.existsSync(filePath)) store.writePagedCatalog(def.type, def.id, []);
+    const page = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    if (!Array.isArray(page.metas) || page.metas.length === 0) catalogDefinitions.splice(i, 1);
+  }
+
   const firstBannerPoster = (catalogDataMap.get("movie/cinemana_banner_movies") || {}).heroBackdrop || cinemanaLogoUrl;
   const supportedPrefixes = [
     "tt", "cine_", "cee_", "3isk_", "alooy_", "akwam_",
@@ -1492,7 +1593,7 @@ async function main() {
     };
   }
 
-  const nuvioCollections = [
+  let nuvioCollections = [
     {
       id: "arabic-latest-all-collection",
       title: "Latest — All Sources",
@@ -1517,6 +1618,23 @@ async function main() {
     }))
   ].filter(c => c.folders.length > 0);
 
+  if (isLocalOnly) {
+    const affectedCollectionIds = new Set([
+      "arabic-latest-all-collection",
+      ...[...LOCAL_ONLY_SOURCES].map(provider => `${provider}-collection`)
+    ]);
+    const generatedById = new Map(nuvioCollections.map(collection => [collection.id, collection]));
+    const merged = existingCollections.map(collection => {
+      if (!affectedCollectionIds.has(collection.id)) return collection;
+      return generatedById.get(collection.id) || collection;
+    });
+    const existingIds = new Set(merged.map(collection => collection.id));
+    for (const collection of nuvioCollections) {
+      if (affectedCollectionIds.has(collection.id) && !existingIds.has(collection.id)) merged.push(collection);
+    }
+    nuvioCollections = merged;
+  }
+
   writeJson(path.join(ROOT_DIR, "nuvio-collections.json"), nuvioCollections);
   console.log(`✅ Wrote nuvio-collections.json with ${nuvioCollections.length} collections and ${nuvioCollections.reduce((s, c) => s + c.folders.length, 0)} folders`);
 
@@ -1529,7 +1647,16 @@ async function main() {
   }
 }
 
-main().catch(err => {
-  console.error("❌ Sync failed:", err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(err => {
+    console.error("❌ Sync failed:", err);
+    process.exit(1);
+  });
+}
+
+module.exports = {
+  normalizeCanonicalSlug,
+  extractEpisodeMetadata,
+  canonicalSourceId,
+  isEpisodeLevelMetaId,
+};

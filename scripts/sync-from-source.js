@@ -185,7 +185,7 @@ function canonicalSourceId(rawId) {
 }
 
 function isEpisodeLevelMetaId(id) {
-  return /(?:^|[-_/])(?:episode|ep)[-_]?\d+(?:[-_/]|$)|__episodes__|s\d+[-_]?e\d+|(?:^|[-_/])watch[-_/]+episodes(?:[-_/]|$)/i.test(String(id || ""));
+  return /(?:^|[-_/])(?:episode|ep)[-_]?\d+(?:[-_/]|$)|__episodes__|(?:^|[-_/])s\d+[-_]?e\d+(?:[-_/]|$)|(?:^|[-_/])watch[-_/]+episodes(?:[-_/]|$)/i.test(String(id || ""));
 }
 
 function isLocalOnlySourceId(id) {

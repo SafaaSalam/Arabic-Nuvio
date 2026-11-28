@@ -362,15 +362,37 @@ const GENERIC_SOURCES = [
   { id: "myseed_movies", providerKey: "myseed", prefix: "myseed", group: "drama", type: "movie", base: "https://m.myseed.tv", pageUrl: (n) => (n > 1 ? `/movies/page/${n}/` : "/movies/"),
     arTitle: "ماي سيد - أحدث الأفلام", enTitle: "MySeed Latest Movies", emoji: "🎬", logo: LOGOS.myseed,
     itemRegex: /<a\b[^>]*class=["'][^"']*movie__block[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i },
-  { id: "myseed_series", providerKey: "myseed", prefix: "myseed", group: "drama", type: "series", base: "https://m.myseed.tv", pageUrl: (n) => (n > 1 ? `/series/page/${n}/` : "/series/"),
+  { id: "myseed_series", providerKey: "myseed", prefix: "myseed", group: "drama", type: "series", base: "https://m.myseed.tv", pageUrl: () => "/series/", paginated: false,
     arTitle: "ماي سيد - أحدث المسلسلات", enTitle: "MySeed Latest Series", emoji: "📺", logo: LOGOS.myseed,
-    itemRegex: /<a\b[^>]*class=["'][^"']*movie__block[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i },
+    itemRegex: /<div[^>]*class=["']innov-series-card["'][^>]*>[\s\S]*?<\/a>/gi },
   { id: "egybet_movies", providerKey: "egybet", prefix: "egybet", group: "drama", type: "movie", base: "https://egibest.info", pageUrl: (n) => (n > 1 ? `/movies/page/${n}/` : "/movies/"),
     arTitle: "ايجي بت - أحدث الأفلام", enTitle: "EGYBET Latest Movies", emoji: "🎬", logo: LOGOS.egybet,
     itemRegex: /<a\b[^>]*class=["'][^"']*postBlockCol[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i },
   { id: "egybet_series", providerKey: "egybet", prefix: "egybet", group: "drama", type: "series", base: "https://egibest.info", pageUrl: (n) => (n > 1 ? `/series/page/${n}/` : "/series/"),
     arTitle: "ايجي بت - أحدث المسلسلات", enTitle: "EGYBET Latest Series", emoji: "📺", logo: LOGOS.egybet,
     itemRegex: /<a\b[^>]*class=["'][^"']*postBlockCol[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i },
+  // ---- Counterparts so every source offers both Latest Movies and Latest Series
+  { id: "aflaam_series", providerKey: "aflaam", prefix: "aflaam", group: "drama", type: "series", base: "https://aflaam.com", pageUrl: (n) => `/series${n > 1 ? `?page=${n}` : ""}`,
+    arTitle: "أفلام - أحدث المسلسلات", enTitle: "Aflaam Latest Series", emoji: "📺", logo: LOGOS.aflaam,
+    itemRegex: /<div[^>]*class=["'][^"']*item[^"']*["'][^>]*>[\s\S]*?<\/h3>\s*<\/div>\s*<\/a>\s*<\/div>/gi,
+    linkRegex: /href=["'](https:\/\/aflaam\.com\/series\/\d+[^"']*)["']/i,
+    titleRegex: /<h3[^>]*class=["'][^"']*entry-title[^"']*["'][^>]*>([\s\S]*?)<\/h3>/i },
+  { id: "shahidwbas_movies", providerKey: "shahidwbas", prefix: "shahidwbas", group: "drama", type: "movie", base: "https://w30.shahidwbas.tv", pageUrl: (n) => `/category.php?cat=2025-movies${n > 1 ? `&page=${n}` : ""}`,
+    arTitle: "شاهد وبس - أحدث الأفلام", enTitle: "ShahidWBas Latest Movies", emoji: "🎬", logo: LOGOS.shahidwbas,
+    itemRegex: /<li[^>]*class=["'][^"']*col-xs-6[^"']*["'][^>]*>[\s\S]*?<\/li>/gi,
+    linkRegex: /<a(?=[^>]*class=["'][^"']*ellipsis)[^>]*href=["']([^"']+)["']/i,
+    titleRegex: /<a(?=[^>]*class=["'][^"']*ellipsis)[^>]*>([\s\S]*?)<\/a>/i },
+  { id: "aflamstream_series", providerKey: "aflamstream", prefix: "aflamstream", group: "drama", type: "series", base: "https://aflamstream.com",
+    pageUrl: (n) => `/category/%d8%a7%d8%ad%d8%af%d8%ab-%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/${n > 1 ? `page/${n}/` : ""}`,
+    arTitle: "أفلام ستريم - أحدث المسلسلات", enTitle: "AflamStream Latest Series", emoji: "📺", logo: LOGOS.aflamstream,
+    itemRegex: /<div id="post-\d+"[\s\S]*?<\/h2>/gi,
+    linkRegex: /<a[^>]*class=["']thumbnail-link["'][^>]*href=["']([^"']+)["']/i,
+    titleRegex: /<h2[^>]*class=["']entry-title["'][^>]*>\s*<a[^>]*>([\s\S]*?)<\/a>/i },
+  // Not reachable from CI/this network (Cloudflare 403) - markup follows the site's existing movies listing.
+  { id: "tuniflix_series", providerKey: "tuniflix", prefix: "tuniflix", group: "drama", type: "series", base: "https://tuniflix.site", pageUrl: (n) => `/series/page/${n}`,
+    arTitle: "توني فليكس - أحدث المسلسلات", enTitle: "TuniFlix Latest Series", emoji: "🇹🇳", logo: LOGOS.tuniflix,
+    itemRegex: /<article[^>]*class=["'][^"']*TPost[^"']*["'][^>]*>[\s\S]*?<\/article>/gi,
+    titleRegex: /<h2[^>]*class=["'][^"']*Title[^"']*["'][^>]*>([\s\S]*?)<\/h2>/i },
   { id: "qdrama_series", providerKey: "qdrama", prefix: "qdrama", group: "drama", type: "series", base: "https://w3.q-drama.com", pageUrl: () => "/", paginated: false,
     arTitle: "كيو دراما - أحدث المسلسلات", enTitle: "QDrama Latest Series", emoji: "📺", logo: LOGOS.qdrama,
     itemRegex: /<a\b[^>]*class=["'][^"']*header-featured-item[^"']*["'][^>]*>[\s\S]*?<\/a>/gi, linkRegex: /^<a[^>]*href=["']([^"']+)["']/i },
@@ -485,7 +507,10 @@ function buildSources(options = {}) {
     fetchPage: async (n) => {
       const r = await fetchJson(`https://e.danbooru.top/v1/${endpoint}/page-${n}.json`, 8000);
       if (!r.ok) return { ok: false };
-      const arr = Array.isArray(r.data && r.data.results) ? r.data.results : [];
+      const arr = Array.isArray(r.data && r.data.results) ? r.data.results.slice() : [];
+      // Newest first inside each page (the API has no "latest" feed for TV, only popularity).
+      const dateOf = (x) => (x && (x.release_date || x.first_air_date)) || "";
+      arr.sort((a, b) => dateOf(b).localeCompare(dateOf(a)));
       const items = arr.map((x) => {
         if (!x || !x.id || !x.poster_path) return null;
         const title = x.title || x.name || x.original_title || x.original_name;
@@ -508,7 +533,7 @@ function buildSources(options = {}) {
       return { ok: true, items, end: arr.length === 0 };
     },
   });
-  S.push(flixmomoSource("flixmomo_movies", "movie", "movie/popular", "فليكس مومو - أحدث الأفلام", "FlixMomo Latest Movies", "🎬"));
+  S.push(flixmomoSource("flixmomo_movies", "movie", "movie/now_playing", "فليكس مومو - أحدث الأفلام", "FlixMomo Latest Movies", "🎬"));
   S.push(flixmomoSource("flixmomo_series", "series", "tv/popular", "فليكس مومو - أحدث المسلسلات", "FlixMomo Latest Series", "📺"));
 
   return S;

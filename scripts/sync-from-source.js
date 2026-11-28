@@ -141,6 +141,27 @@ function extractMalId(str) {
   return m ? m[1] : null;
 }
 
+function normalizeCanonicalSlug(rawSlug) {
+  return rawSlug
+    .toLowerCase()
+    // 1. Remove site path prefixes like "watch__episodes__serie-" or "movie__11321__"
+    .replace(/^(watch__episodes__)?(serie|series|movie)__?\d*__?/i, '')
+    // 2. Strip season/episode tails so all episodes map to the parent show
+    .replace(/[-_](season|s)[-_]?\d+([_-](episode|ep|e)[-_]?\d+.*)?$/i, '')
+    .replace(/[-_](episode|ep|e)[-_]?\d+.*$/i, '')
+    // 3. Strip 3isk date tags (e.g., -10jul5, -22oct6, -18ja5)
+    .replace(/[-_]\d{1,2}[a-z]{2,3}\d{1,2}(?=[-_]|$)/g, '')
+    // 4. Strip random 5-char alphanumeric hash suffixes (e.g., -k997m, -a740i)
+    .replace(/[-_][a-z]\d{3}[a-z](?=[-_]|$)/g, '')
+    // 5. Strip dubbing/subbing/part variants & trailing copy numbers (-2, -3, -last)
+    .replace(/[-_](mudblij|mudbalij|mtrjm|final|last)(?=[-_]|$)/g, '')
+    .replace(/[-_][a-z](?=[-_]\d+$)/g, '') // single-letter split slugs like -a-, -b-
+    .replace(/[-_]\d+$/, '')
+    // 6. Clean up repeated hyphens
+    .replace(/[-_]+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 function formatItemTitle(item) {
   const ar = item.ar_title ? String(item.ar_title).trim() : "";
   const en = item.en_title ? String(item.en_title).trim() : "";
@@ -746,6 +767,15 @@ async function main() {
     ...extraData.remainingCatalogs
   ];
 
+  for (const cat of allExtraCatalogs) {
+    if (cat.providerKey !== "3isk" || !cat.idPrefix) continue;
+    const idPrefix = `${cat.idPrefix}_`;
+    cat.metas = store.dedupe(cat.metas.map((item) => {
+      if (!item || typeof item.id !== "string" || !item.id.startsWith(idPrefix)) return item;
+      const slug = normalizeCanonicalSlug(item.id.slice(idPrefix.length));
+      return slug ? Object.assign({}, item, { id: `${idPrefix}${slug}` }) : item;
+    }));
+  }
 
   const expectedMetaFiles = new Set();
   const homeProviders = new Set();

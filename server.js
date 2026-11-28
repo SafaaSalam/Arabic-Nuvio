@@ -30,11 +30,18 @@ const server = http.createServer((req, res) => {
     return;
   }
 
-  const cleanUrl = decodeURIComponent((req.url || "/").split("?")[0]);
+  let cleanUrl;
+  try {
+    cleanUrl = decodeURIComponent((req.url || "/").split("?")[0]);
+  } catch (_) {
+    res.writeHead(400, { "Content-Type": "application/json; charset=utf-8" });
+    res.end(JSON.stringify({ error: "Bad Request" }));
+    return;
+  }
   const relPath = cleanUrl === "/" ? "/manifest.json" : cleanUrl;
   const filePath = path.join(ROOT_DIR, relPath);
 
-  if (!filePath.startsWith(ROOT_DIR)) {
+  if (!filePath.startsWith(ROOT_DIR + path.sep) || /(^|[\\/])\.(?!well-known)/.test(path.relative(ROOT_DIR, filePath))) {
     res.writeHead(403);
     res.end("Forbidden");
     return;
@@ -61,7 +68,9 @@ const server = http.createServer((req, res) => {
       return;
     }
 
-    fs.createReadStream(filePath).pipe(res);
+    fs.createReadStream(filePath)
+      .on("error", () => res.destroy())
+      .pipe(res);
   });
 });
 
